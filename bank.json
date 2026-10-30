@@ -1,0 +1,5504 @@
+[
+ {
+  "topic": "מברגה · סוללות וחשמל (Batteries & Power)",
+  "type": "mcq",
+  "qh": "מה המשמעות של 18 וולט (Volt) על סוללת מברגה?",
+  "qe": "What does 18 V on a drill battery mean?",
+  "ah": "זה \"הלחץ\" של החשמל. יותר וולט בדרך כלל אומר מנוע חזק יותר.",
+  "ae": "It is the electrical \"pressure\". More volts usually means a stronger motor.",
+  "oh": [
+   "הלחץ החשמלי שהסוללה נותנת",
+   "כמה זמן הסוללה מחזיקה בשעות",
+   "כמה סיבובים בדקה עושה המנוע"
+  ],
+  "oe": [
+   "The electrical pressure it supplies",
+   "How many hours the battery lasts",
+   "How many turns a minute the motor does"
+  ],
+  "id": 1
+ },
+ {
+  "topic": "מברגה · סוללות וחשמל (Batteries & Power)",
+  "type": "mcq",
+  "qh": "מה אומר 2 אמפר-שעה (Ah) על הסוללה?",
+  "qe": "What does 2 Ah on a battery mean?",
+  "ah": "כמה חשמל נכנס בה. 4Ah תחזיק בערך פי 2 זמן מ-2Ah באותה עבודה.",
+  "ae": "How much charge it holds. 4 Ah lasts about twice as long as 2 Ah for the same job.",
+  "oh": [
+   "כמה חשמל הסוללה מחזיקה",
+   "כמה חזק המנוע יכול לסובב",
+   "כמה מהר הסוללה נטענת"
+  ],
+  "oe": [
+   "How much charge it stores",
+   "How hard the motor can twist",
+   "How fast the battery charges"
+  ],
+  "id": 2
+ },
+ {
+  "topic": "מברגה · סוללות וחשמל (Batteries & Power)",
+  "type": "mcq",
+  "qh": "למה כמעט כל המברגות היום עם סוללת ליתיום (Li-ion)?",
+  "qe": "Why do almost all drills use Li-ion batteries now?",
+  "ah": "קלה, מחזיקה הרבה חשמל, ולא מאבדת טעינה מהר כשהיא על המדף.",
+  "ae": "Light, stores a lot, and does not lose charge quickly on the shelf.",
+  "oh": [
+   "קלה ומחזיקה הרבה חשמל",
+   "זולה בהרבה מכל סוג סוללה אחר",
+   "אפשר לטעון אותה גם בלי מטען"
+  ],
+  "oe": [
+   "Light and stores a lot of energy",
+   "Much cheaper than any other battery",
+   "Can be charged without a charger"
+  ],
+  "id": 3
+ },
+ {
+  "topic": "מברגה · סוללות וחשמל (Batteries & Power)",
+  "type": "mcq",
+  "qh": "מה קורה למהירות המנוע כשהסוללה כמעט ריקה?",
+  "qe": "What happens to motor speed when the battery is almost empty?",
+  "ah": "הוולט יורד, אז המנוע מסתובב לאט יותר ונותן פחות כוח.",
+  "ae": "The voltage drops, so the motor turns slower and gives less force.",
+  "oh": [
+   "יורדת, כי הוולט יורד",
+   "עולה, כי יש פחות עומס בסוללה",
+   "נשארת בדיוק אותו דבר עד הסוף"
+  ],
+  "oe": [
+   "Drops, because voltage drops",
+   "Rises, since the battery has less load",
+   "Stays exactly the same until the end"
+  ],
+  "id": 4
+ },
+ {
+  "topic": "מברגה · סוללות וחשמל (Batteries & Power)",
+  "type": "mcq",
+  "qh": "מה תפקיד ההדק (Trigger) במברגה מודרנית?",
+  "qe": "What does the trigger do in a modern drill?",
+  "ah": "לוחצים חלש – מהירות נמוכה, לוחצים חזק – מהירות מלאה. בקר קטן מווסת את החשמל.",
+  "ae": "Light press – slow, full press – full speed. A small controller meters the power.",
+  "oh": [
+   "משנה מהירות לפי כמה לוחצים",
+   "רק מדליק ומכבה, בלי שום ביניים",
+   "מחליף בין שני הילוכים של התמסורת"
+  ],
+  "oe": [
+   "Changes speed by how far you press",
+   "Only on and off, nothing between",
+   "Switches between the two gear ranges"
+  ],
+  "id": 5
+ },
+ {
+  "topic": "מברגה · סוללות וחשמל (Batteries & Power)",
+  "type": "mcq",
+  "qh": "למה לא כדאי להשאיר סוללת ליתיום ריקה לגמרי חודשים?",
+  "qe": "Why not leave a Li-ion battery fully empty for months?",
+  "ah": "היא יכולה להתרוקן מתחת לגבול הבטוח ולהיפגע. עדיף לשמור אותה חצי טעונה.",
+  "ae": "It can drain below the safe limit and get damaged. Store it about half full.",
+  "oh": [
+   "היא עלולה להיפגע לצמיתות",
+   "היא תתפוצץ מיד אחרי יום אחד",
+   "זה בכלל לא משנה לסוללה"
+  ],
+  "oe": [
+   "It may be permanently damaged",
+   "It will explode after one day",
+   "It makes no difference at all"
+  ],
+  "id": 6
+ },
+ {
+  "topic": "מברגה · סוללות וחשמל (Batteries & Power)",
+  "type": "mcq",
+  "qh": "הספק (Power) של מנוע הוא בעצם…",
+  "qe": "Motor power is really…",
+  "ah": "כוח הסיבוב כפול המהירות. אותו הספק יכול להיות מהיר וחלש או איטי וחזק.",
+  "ae": "Twisting force times speed. The same power can be fast-and-weak or slow-and-strong.",
+  "oh": [
+   "כוח סיבוב כפול מהירות",
+   "רק כמה מהר המנוע מסתובב",
+   "רק כמה חזק המנוע מסובב"
+  ],
+  "oe": [
+   "Twisting force times speed",
+   "Only how fast the motor turns",
+   "Only how hard the motor twists"
+  ],
+  "id": 7
+ },
+ {
+  "topic": "מברגה · סוללות וחשמל (Batteries & Power)",
+  "type": "mcq",
+  "qh": "מנוע 500 ואט (Watt) ונצילות 80%. כמה ואט יוצאים לבורג?",
+  "qe": "500 W motor at 80% efficiency – how many watts reach the screw?",
+  "ah": "80% מ-500 זה 400 ואט. 100 ואט הולכים לחום.",
+  "ae": "80% of 500 is 400 W. 100 W turns into heat.",
+  "oh": [
+   "400 ואט",
+   "580 ואט",
+   "420 ואט"
+  ],
+  "oe": [
+   "400 W",
+   "580 W",
+   "420 W"
+  ],
+  "id": 8
+ },
+ {
+  "topic": "מברגה · סוללות וחשמל (Batteries & Power)",
+  "type": "mcq",
+  "qh": "לאן הולכת האנרגיה שלא מגיעה לבורג?",
+  "qe": "Where does the energy that misses the screw go?",
+  "ah": "בעיקר לחום: בסלילים של המנוע, בחיכוך בגלגלי השיניים ובמסבים, וקצת לרעש.",
+  "ae": "Mostly heat: in the motor windings, gear friction and bearings, plus a little noise.",
+  "oh": [
+   "בעיקר לחום ורעש",
+   "חוזרת לטעון את הסוללה",
+   "נעלמת בלי להשאיר שום סימן"
+  ],
+  "oe": [
+   "Mostly heat and noise",
+   "It recharges the battery",
+   "It vanishes without a trace"
+  ],
+  "id": 9
+ },
+ {
+  "topic": "מברגה · סוללות וחשמל (Batteries & Power)",
+  "type": "mcq",
+  "qh": "למה מברגה נעשית חמה בעבודה כבדה וארוכה?",
+  "qe": "Why does a drill get hot during long heavy work?",
+  "ah": "בעומס גבוה המנוע מושך הרבה חשמל, וחלק גדול ממנו הופך לחום בסלילים.",
+  "ae": "Under high load the motor draws lots of current, and much of it becomes heat in the windings.",
+  "oh": [
+   "זרם גבוה מחמם את הסלילים",
+   "הסוללה מחממת את הגוף בכוונה",
+   "המאוורר מכניס אוויר חם מבחוץ"
+  ],
+  "oe": [
+   "High current heats the windings",
+   "The battery heats the body on purpose",
+   "The fan blows in hot outside air"
+  ],
+  "id": 10
+ },
+ {
+  "topic": "מברגה · חומרים וטיפול בחום (Materials & Heat Treatment)",
+  "type": "mcq",
+  "qh": "ממה עושים בדרך כלל את גלגלי השיניים האחרונים, החזקים?",
+  "qe": "What are the last, strongest gears usually made of?",
+  "ah": "פלדה (Steel), לפעמים מוקשחת. הם סוחבים את הכוח הכי גדול.",
+  "ae": "Steel, often hardened. They carry the biggest force.",
+  "oh": [
+   "פלדה, לעיתים מוקשחת",
+   "פלסטיק רך כדי להוריד רעש",
+   "אלומיניום רך כדי לחסוך משקל"
+  ],
+  "oe": [
+   "Steel, often hardened",
+   "Soft plastic to cut noise",
+   "Soft aluminium to save weight"
+  ],
+  "id": 11
+ },
+ {
+  "topic": "מברגה · חומרים וטיפול בחום (Materials & Heat Treatment)",
+  "type": "mcq",
+  "qh": "מה זה הקשחה (Hardening) של פלדה?",
+  "qe": "What is hardening of steel?",
+  "ah": "מחממים מאוד ומקררים מהר. הפלדה נעשית קשה ועמידה לשחיקה, אבל גם שבירה יותר.",
+  "ae": "Heat it very hot and cool it fast. It gets hard and wear-resistant, but more brittle.",
+  "oh": [
+   "חימום וקירור מהיר שמקשים",
+   "צביעה בשכבה של צבע קשה במיוחד",
+   "הוספת פלסטיק לתוך הפלדה"
+  ],
+  "oe": [
+   "Heating then fast cooling to harden",
+   "Painting with an extra-hard paint",
+   "Mixing plastic into the steel"
+  ],
+  "id": 12
+ },
+ {
+  "topic": "מברגה · חומרים וטיפול בחום (Materials & Heat Treatment)",
+  "type": "mcq",
+  "qh": "מה זה הקשחת שטח (Case Hardening)?",
+  "qe": "What is case hardening?",
+  "ah": "רק השכבה החיצונית נעשית קשה, והפנים נשאר גמיש. השן לא נשחקת וגם לא נשברת.",
+  "ae": "Only the outer skin gets hard; the core stays tough. The tooth resists wear and does not snap.",
+  "oh": [
+   "רק השכבה החיצונית מוקשחת",
+   "כל החלק נעשה קשה מבפנים ומבחוץ",
+   "מצפים את החלק בגומי עבה"
+  ],
+  "oe": [
+   "Only the outer layer is hardened",
+   "The whole part is hard inside and out",
+   "The part is coated in thick rubber"
+  ],
+  "id": 13
+ },
+ {
+  "topic": "מברגה · חומרים וטיפול בחום (Materials & Heat Treatment)",
+  "type": "mcq",
+  "qh": "למה גוף המברגה עשוי פלסטיק (Plastic) ולא מתכת?",
+  "qe": "Why is the drill body plastic, not metal?",
+  "ah": "קל, זול ליצור בתבנית, ומבודד חשמל ביד.",
+  "ae": "Light, cheap to mould, and insulates electricity from the hand.",
+  "oh": [
+   "קל, זול ומבודד חשמל",
+   "חזק יותר מכל מתכת שקיימת",
+   "מעביר חום טוב יותר ממתכת"
+  ],
+  "oe": [
+   "Light, cheap and insulating",
+   "Stronger than any metal there is",
+   "Moves heat better than metal"
+  ],
+  "id": 14
+ },
+ {
+  "topic": "מברגה · חומרים וטיפול בחום (Materials & Heat Treatment)",
+  "type": "mcq",
+  "qh": "למה תיבת ההילוכים במברגות חזקות עשויה לפעמים ממתכת?",
+  "qe": "Why is the gearbox housing sometimes metal in strong drills?",
+  "ah": "מתכת קשיחה יותר, שומרת על הגלגלים במקום תחת עומס, ומוציאה חום טוב יותר.",
+  "ae": "Metal is stiffer, keeps gears aligned under load, and sheds heat better.",
+  "oh": [
+   "קשיחה יותר ומוציאה חום",
+   "זולה יותר מפלסטיק בכל כמות",
+   "שקטה יותר כי היא רכה"
+  ],
+  "oe": [
+   "Stiffer and sheds heat",
+   "Cheaper than plastic at any volume",
+   "Quieter because it is soft"
+  ],
+  "id": 15
+ },
+ {
+  "topic": "מברגה · חומרים וטיפול בחום (Materials & Heat Treatment)",
+  "type": "mcq",
+  "qh": "למה המקדחים (Drill Bits) עשויים פלדה מהירה (HSS)?",
+  "qe": "Why are drill bits made of high-speed steel (HSS)?",
+  "ah": "היא נשארת קשה גם כשהיא מתחממת מאוד בחיתוך.",
+  "ae": "It stays hard even when cutting makes it very hot.",
+  "oh": [
+   "נשארת קשה גם כשהיא חמה",
+   "היא הכי קלה מכל המתכות",
+   "היא לא מחלידה אף פעם בכלל"
+  ],
+  "oe": [
+   "Stays hard even when hot",
+   "It is the lightest metal",
+   "It never rusts at all"
+  ],
+  "id": 16
+ },
+ {
+  "topic": "מברגה · חומרים וטיפול בחום (Materials & Heat Treatment)",
+  "type": "mcq",
+  "qh": "מה החיסרון של חומר מאוד קשה?",
+  "qe": "What is the downside of a very hard material?",
+  "ah": "הוא שביר יותר. מכה חזקה יכולה לסדוק אותו במקום לכופף.",
+  "ae": "It is more brittle. A sharp hit can crack it instead of bending it.",
+  "oh": [
+   "שביר יותר במכה",
+   "נשחק מהר יותר מחומר רך",
+   "אי אפשר בכלל לייצר ממנו"
+  ],
+  "oe": [
+   "More brittle under impact",
+   "Wears faster than a soft one",
+   "Cannot be manufactured at all"
+  ],
+  "id": 17
+ },
+ {
+  "topic": "מברגה · חומרים וטיפול בחום (Materials & Heat Treatment)",
+  "type": "mcq",
+  "qh": "למה שמים גריז (Grease) בתוך תיבת ההילוכים?",
+  "qe": "Why put grease inside the gearbox?",
+  "ah": "מוריד חיכוך ושחיקה, מקרר קצת, ומשקיט את הרעש.",
+  "ae": "Cuts friction and wear, cools a bit, and quietens noise.",
+  "oh": [
+   "מוריד חיכוך, שחיקה ורעש",
+   "מדביק את הגלגלים כדי שלא יזוזו",
+   "מבודד את המנוע מהחשמל"
+  ],
+  "oe": [
+   "Cuts friction, wear and noise",
+   "Glues the gears so they stay put",
+   "Insulates the motor electrically"
+  ],
+  "id": 18
+ },
+ {
+  "topic": "מברגה · חומרים וטיפול בחום (Materials & Heat Treatment)",
+  "type": "mcq",
+  "qh": "מה זה מגנט ניאודימיום (Neodymium) במנועים ללא מברשות?",
+  "qe": "What is a neodymium magnet in brushless motors?",
+  "ah": "מגנט קבוע חזק מאוד. מאפשר מנוע קטן וחזק.",
+  "ae": "A very strong permanent magnet. It allows a small, strong motor.",
+  "oh": [
+   "מגנט קבוע חזק מאוד",
+   "סליל נחושת שמחליף מברשות",
+   "חיישן שמודד את החום"
+  ],
+  "oe": [
+   "A very strong permanent magnet",
+   "A copper coil that replaces brushes",
+   "A sensor that measures heat"
+  ],
+  "id": 19
+ },
+ {
+  "topic": "מברגה · חומרים וטיפול בחום (Materials & Heat Treatment)",
+  "type": "mcq",
+  "qh": "למה הסלילים במנוע עשויים נחושת (Copper)?",
+  "qe": "Why are motor windings copper?",
+  "ah": "נחושת מעבירה חשמל טוב מאוד, אז פחות אנרגיה הולכת לחום.",
+  "ae": "Copper conducts very well, so less energy is lost as heat.",
+  "oh": [
+   "מעבירה חשמל טוב מאוד",
+   "היא המתכת הכי חזקה שיש",
+   "היא מגנטית יותר מברזל"
+  ],
+  "oe": [
+   "Conducts electricity very well",
+   "It is the strongest metal there is",
+   "It is more magnetic than iron"
+  ],
+  "id": 20
+ },
+ {
+  "topic": "מברגה · כשלים ובדיקות (Failures & Testing)",
+  "type": "mcq",
+  "qh": "מה הסימן הנפוץ לשן שבורה בתמסורת?",
+  "qe": "Common sign of a broken gear tooth?",
+  "ah": "נקישה קבועה פעם בסיבוב, ולפעמים קפיצה או החלקה.",
+  "ae": "A regular click once per turn, sometimes a jump or slip.",
+  "oh": [
+   "נקישה קבועה פעם בסיבוב",
+   "המנוע מסתובב מהר יותר מהרגיל",
+   "הסוללה נטענת לאט יותר"
+  ],
+  "oe": [
+   "A regular click once per turn",
+   "The motor spins faster than usual",
+   "The battery charges more slowly"
+  ],
+  "id": 21
+ },
+ {
+  "topic": "מברגה · כשלים ובדיקות (Failures & Testing)",
+  "type": "mcq",
+  "qh": "מה זה עייפות חומר (Fatigue)?",
+  "qe": "What is material fatigue?",
+  "ah": "סדק קטן שגדל אחרי הרבה מאוד מחזורים של עומס, גם אם כל עומס לבד קטן.",
+  "ae": "A small crack that grows after very many load cycles, even if each load is small.",
+  "oh": [
+   "סדק שגדל מעומס חוזר",
+   "חלק שנמס מחום גבוה מאוד",
+   "חלודה שנוצרת ממים"
+  ],
+  "oe": [
+   "A crack growing from repeated load",
+   "A part melting from great heat",
+   "Rust that forms from water"
+  ],
+  "id": 22
+ },
+ {
+  "topic": "מברגה · כשלים ובדיקות (Failures & Testing)",
+  "type": "mcq",
+  "qh": "ריח שרוף מהמברגה – מה הסיבה הסבירה?",
+  "qe": "Burning smell from the drill – likely cause?",
+  "ah": "המנוע התחמם מעומס יתר והבידוד בסלילים או המברשות נשרפים.",
+  "ae": "The motor overheated from overload; winding insulation or brushes are burning.",
+  "oh": [
+   "המנוע התחמם מעומס יתר",
+   "הגריז בתיבה פשוט ישן מדי",
+   "הצ׳אק סגור חזק מדי על המקדח"
+  ],
+  "oe": [
+   "The motor overheated from overload",
+   "The gearbox grease is simply old",
+   "The chuck is gripping the bit too hard"
+  ],
+  "id": 23
+ },
+ {
+  "topic": "מברגה · כשלים ובדיקות (Failures & Testing)",
+  "type": "mcq",
+  "qh": "איך בודקים שהמצמד (Clutch) מכויל נכון?",
+  "qe": "How do you check the clutch is calibrated?",
+  "ah": "מחברים מד מומנט (Torque Meter) ובודקים שבכל מספר המצמד מחליק בכוח הנכון.",
+  "ae": "Use a torque meter and check each setting slips at the right force.",
+  "oh": [
+   "במד מומנט, לכל מספר",
+   "שוקלים את המברגה על משקל",
+   "סופרים כמה בורגים נכנסו בשעה"
+  ],
+  "oe": [
+   "With a torque meter, per setting",
+   "Weigh the drill on a scale",
+   "Count screws driven per hour"
+  ],
+  "id": 24
+ },
+ {
+  "topic": "מברגה · כשלים ובדיקות (Failures & Testing)",
+  "type": "mcq",
+  "qh": "מה זה בדיקת חיים (Life Test)?",
+  "qe": "What is a life test?",
+  "ah": "מפעילים את המוצר שוב ושוב, הרבה פעמים, כדי לראות מתי ומה נשבר.",
+  "ae": "Run the product again and again, many times, to see what fails and when.",
+  "oh": [
+   "הפעלה חוזרת עד שמשהו נשבר",
+   "בדיקה של הצבע והמראה בלבד",
+   "מדידה של המשקל הכולל בלבד"
+  ],
+  "oe": [
+   "Repeated running until something fails",
+   "Checking only paint and looks",
+   "Measuring only the total weight"
+  ],
+  "id": 25
+ },
+ {
+  "topic": "מברגה · כשלים ובדיקות (Failures & Testing)",
+  "type": "mcq",
+  "qh": "למה המברשות במנוע עם מברשות נשחקות?",
+  "qe": "Why do brushes wear in a brushed motor?",
+  "ah": "הן משתפשפות כל הזמן על חלק מסתובב ומעבירות חשמל עם ניצוצות קטנים.",
+  "ae": "They rub on a spinning part all the time and pass current with small sparks.",
+  "oh": [
+   "שפשוף קבוע וניצוצות",
+   "הן נמסות מהחום של הסוללה",
+   "הן מחלידות מלחות באוויר"
+  ],
+  "oe": [
+   "Constant rubbing and sparks",
+   "They melt from battery heat",
+   "They rust from air humidity"
+  ],
+  "id": 26
+ },
+ {
+  "topic": "מברגה · כשלים ובדיקות (Failures & Testing)",
+  "type": "mcq",
+  "qh": "המברגה רועדת כשהמקדח מסתובב. מה לבדוק קודם?",
+  "qe": "The drill wobbles as the bit turns. What to check first?",
+  "ah": "שהמקדח ישר ויושב עמוק ומרכזי בצ׳אק. מקדח עקום הוא הסיבה הכי נפוצה.",
+  "ae": "That the bit is straight and seated deep and centred in the chuck. A bent bit is the most common cause.",
+  "oh": [
+   "שהמקדח ישר ויושב טוב בצ׳אק",
+   "את מספר הוולטים של הסוללה",
+   "את צבע הגוף של המברגה"
+  ],
+  "oe": [
+   "That the bit is straight and seated",
+   "The battery voltage rating",
+   "The colour of the drill body"
+  ],
+  "id": 27
+ },
+ {
+  "topic": "מברגה · כשלים ובדיקות (Failures & Testing)",
+  "type": "mcq",
+  "qh": "מה קורה לשן שמקבלת מכה חזקה פעם אחת?",
+  "qe": "What happens to a tooth hit hard once?",
+  "ah": "אם המכה גבוהה מהחוזק, השן יכולה להישבר מיד. זה שונה מעייפות.",
+  "ae": "If the hit is above its strength, it can snap at once. That is different from fatigue.",
+  "oh": [
+   "יכולה להישבר מיד",
+   "תמיד רק נשחקת לאט",
+   "שום דבר, שיניים לא נשברות"
+  ],
+  "oe": [
+   "It can snap at once",
+   "It always just wears slowly",
+   "Nothing, teeth never break"
+  ],
+  "id": 28
+ },
+ {
+  "topic": "מברגה · כשלים ובדיקות (Failures & Testing)",
+  "type": "mcq",
+  "qh": "מה ההבדל בין שחיקה (Wear) לשבר (Fracture)?",
+  "qe": "Wear vs fracture?",
+  "ah": "שחיקה: חומר יורד לאט מהשטח. שבר: החלק נסדק ונפרד.",
+  "ae": "Wear: material slowly rubs off the surface. Fracture: the part cracks apart.",
+  "oh": [
+   "שחיקה איטית מול סדק ופירוק",
+   "שתי מילים לאותו דבר בדיוק",
+   "שחיקה קורית רק בפלסטיק"
+  ],
+  "oe": [
+   "Slow rub-off vs cracking apart",
+   "Two words for exactly the same",
+   "Wear only happens in plastic"
+  ],
+  "id": 29
+ },
+ {
+  "topic": "מברגה · כשלים ובדיקות (Failures & Testing)",
+  "type": "mcq",
+  "qh": "למה בודקים מברגה גם בקור וגם בחום?",
+  "qe": "Why test a drill in both cold and heat?",
+  "ah": "בקור הגריז סמיך והסוללה חלשה. בחום המנוע והסוללה מתחממים מהר.",
+  "ae": "In cold the grease thickens and the battery weakens; in heat the motor and battery overheat fast.",
+  "oh": [
+   "גריז, סוללה ומנוע משתנים בטמפרטורה",
+   "כדי לבדוק אם הצבע משנה צבע",
+   "זה דרישה של חנויות בלבד"
+  ],
+  "oe": [
+   "Grease, battery and motor change with temperature",
+   "To see if the paint changes colour",
+   "It is only a shop requirement"
+  ],
+  "id": 30
+ },
+ {
+  "topic": "מברגה · ייצור והרכבה (Manufacturing & Assembly)",
+  "type": "mcq",
+  "qh": "איך מייצרים בכמות גדולה גלגלי שיניים מפלסטיק?",
+  "qe": "How are plastic gears mass-produced?",
+  "ah": "בהזרקה (Injection Moulding): פלסטיק חם נדחף לתבנית. כל גלגל לוקח שניות.",
+  "ae": "Injection moulding: hot plastic is pushed into a mould. Each gear takes seconds.",
+  "oh": [
+   "הזרקה לתבנית",
+   "חיתוך ידני בסכין",
+   "הדפסה בתלת מימד"
+  ],
+  "oe": [
+   "Injection moulding",
+   "Cutting by hand with a knife",
+   "3D printing"
+  ],
+  "id": 31
+ },
+ {
+  "topic": "מברגה · ייצור והרכבה (Manufacturing & Assembly)",
+  "type": "mcq",
+  "qh": "איך מייצרים גלגלי שיניים מפלדה?",
+  "qe": "How are steel gears made?",
+  "ah": "בדרך כלל חותכים את השיניים במכונה מיוחדת (Hobbing), או מכבישים אבקת מתכת (Sintering).",
+  "ae": "Usually the teeth are cut on a special machine (hobbing), or metal powder is pressed and baked (sintering).",
+  "oh": [
+   "חיתוך במכונה או אבקת מתכת",
+   "יציקה בתבנית של פלסטיק רך",
+   "כיפוף של פח דק עד שנוצרות שיניים"
+  ],
+  "oe": [
+   "Machine cutting or powder metal",
+   "Casting in a soft plastic mould",
+   "Bending thin sheet into teeth"
+  ],
+  "id": 32
+ },
+ {
+  "topic": "מברגה · ייצור והרכבה (Manufacturing & Assembly)",
+  "type": "mcq",
+  "qh": "מה זה טולרנס (Tolerance)?",
+  "qe": "What is a tolerance?",
+  "ah": "כמה מותר למידה לסטות. למשל 10 מ\"מ, פלוס מינוס 0.05 מ\"מ.",
+  "ae": "How much a size may vary. E.g. 10 mm, plus or minus 0.05 mm.",
+  "oh": [
+   "כמה מותר למידה לסטות",
+   "כמה כוח החלק יכול לשאת",
+   "כמה זמן לוקח לייצר חלק"
+  ],
+  "oe": [
+   "How much a size may vary",
+   "How much force a part can carry",
+   "How long a part takes to make"
+  ],
+  "id": 33
+ },
+ {
+  "topic": "מברגה · ייצור והרכבה (Manufacturing & Assembly)",
+  "type": "mcq",
+  "qh": "למה לא מבקשים טולרנס קטן מאוד בכל החלקים?",
+  "qe": "Why not ask for very tight tolerance on every part?",
+  "ah": "זה מייקר מאוד את הייצור. נותנים טולרנס צר רק איפה שהוא באמת חשוב.",
+  "ae": "It makes manufacturing very expensive. Tight tolerance only where it really matters.",
+  "oh": [
+   "זה מייקר מאוד את הייצור",
+   "החלקים יהיו חלשים יותר ככה",
+   "אי אפשר למדוד חלקים קטנים"
+  ],
+  "oe": [
+   "It makes production very expensive",
+   "The parts would be weaker that way",
+   "Small parts cannot be measured"
+  ],
+  "id": 34
+ },
+ {
+  "topic": "מברגה · ייצור והרכבה (Manufacturing & Assembly)",
+  "type": "mcq",
+  "qh": "מה זה התאמת לחץ (Press Fit)?",
+  "qe": "What is a press fit?",
+  "ah": "חור קצת קטן מהציר. דוחפים בכוח, והחלקים נתפסים בלי בורג.",
+  "ae": "The hole is slightly smaller than the shaft. Push in hard and they hold with no screw.",
+  "oh": [
+   "חור קטן מעט מהציר",
+   "בורג שמהדק שני חלקים",
+   "דבק שמחזיק את הציר"
+  ],
+  "oe": [
+   "A hole slightly smaller than the shaft",
+   "A screw clamping two parts",
+   "Glue holding the shaft"
+  ],
+  "id": 35
+ },
+ {
+  "topic": "מברגה · ייצור והרכבה (Manufacturing & Assembly)",
+  "type": "mcq",
+  "qh": "למה שמים שני חצאי גוף (Clamshell) עם ברגים?",
+  "qe": "Why a two-half body (clamshell) with screws?",
+  "ah": "קל להרכיב: מניחים את כל החלקים בחצי אחד וסוגרים. גם קל לפתוח לתיקון.",
+  "ae": "Easy to assemble: drop parts into one half and close it. Also easy to open for repair.",
+  "oh": [
+   "קל להרכיב ולפתוח לתיקון",
+   "זה הכי חזק מכל צורה אחרת",
+   "אין צורך בכלל בברגים אחר כך"
+  ],
+  "oe": [
+   "Easy to assemble and open for repair",
+   "It is stronger than any other shape",
+   "No screws are needed afterwards"
+  ],
+  "id": 36
+ },
+ {
+  "topic": "מברגה · ייצור והרכבה (Manufacturing & Assembly)",
+  "type": "mcq",
+  "qh": "מה זה תכנון להרכבה (Design for Assembly)?",
+  "qe": "What is design for assembly?",
+  "ah": "מתכננים כך שיהיו מעט חלקים, שנכנסים רק בדרך אחת, ובקלות.",
+  "ae": "Design so there are few parts that fit only one way, easily.",
+  "oh": [
+   "מעט חלקים שנכנסים רק בדרך אחת",
+   "הרבה חלקים קטנים כדי לחסוך חומר",
+   "חלקים שמתאימים בכל כיוון שהוא"
+  ],
+  "oe": [
+   "Few parts that fit only one way",
+   "Many small parts to save material",
+   "Parts that fit in any direction"
+  ],
+  "id": 37
+ },
+ {
+  "topic": "מברגה · ייצור והרכבה (Manufacturing & Assembly)",
+  "type": "mcq",
+  "qh": "למה הגלגלים בשלב הראשון מפלסטיק ובאחרון מפלדה?",
+  "qe": "Why plastic gears in the first stage and steel in the last?",
+  "ah": "בשלב הראשון הכוח קטן והמהירות גבוהה – פלסטיק שקט מספיק. בסוף הכוח גדול.",
+  "ae": "First stage: small force, high speed – quiet plastic is enough. The end carries big force.",
+  "oh": [
+   "הכוח קטן בהתחלה וגדול בסוף",
+   "הפלסטיק עמיד יותר בחום גבוה",
+   "הפלדה שקטה יותר מפלסטיק"
+  ],
+  "oe": [
+   "Force is small at start, big at end",
+   "Plastic resists heat better",
+   "Steel is quieter than plastic"
+  ],
+  "id": 38
+ },
+ {
+  "topic": "מברגה · ייצור והרכבה (Manufacturing & Assembly)",
+  "type": "mcq",
+  "qh": "מה זה פוקה-יוקה (Poka-Yoke)?",
+  "qe": "What is poka-yoke?",
+  "ah": "עיצוב שמונע טעות בהרכבה. למשל חלק עם בליטה שלא נכנס הפוך.",
+  "ae": "Design that prevents assembly mistakes, e.g. a tab so a part cannot go in backwards.",
+  "oh": [
+   "עיצוב שמונע טעות בהרכבה",
+   "שם של סוג מיוחד של פלדה",
+   "שיטה לצבוע חלקים מהר"
+  ],
+  "oe": [
+   "Design that prevents assembly errors",
+   "Name of a special steel type",
+   "A way to paint parts fast"
+  ],
+  "id": 39
+ },
+ {
+  "topic": "מברגה · ייצור והרכבה (Manufacturing & Assembly)",
+  "type": "mcq",
+  "qh": "מה זה עלות לחלק (Unit Cost) ולמה תבנית יקרה עדיין משתלמת?",
+  "qe": "What is unit cost, and why can an expensive mould still pay off?",
+  "ah": "תבנית יכולה לעלות 50,000 ש״ח, אבל אם מייצרים 500,000 חלקים, זה 10 אגורות לחלק.",
+  "ae": "A mould may cost 50,000, but over 500,000 parts that is 0.1 per part.",
+  "oh": [
+   "מחלקים את המחיר על הרבה חלקים",
+   "התבנית מחזירה כסף ממכירה שלה",
+   "כי פלסטיק תמיד חינם לגמרי"
+  ],
+  "oe": [
+   "Its price is shared over many parts",
+   "The mould pays back by selling it",
+   "Because plastic is always free"
+  ],
+  "id": 40
+ },
+ {
+  "topic": "מברגה · שאלות ראיון כלליות (General Interview)",
+  "type": "mcq",
+  "qh": "מה ההבדל בין כוח (Force) למומנט (Torque)?",
+  "qe": "Force vs torque?",
+  "ah": "כוח דוחף בקו ישר. מומנט הוא כוח סיבוב: כוח כפול המרחק מהציר.",
+  "ae": "Force pushes in a line. Torque is twisting force: force times distance from the axis.",
+  "oh": [
+   "מומנט הוא כוח כפול מרחק מהציר",
+   "מומנט הוא כוח כפול מהירות",
+   "אין שום הבדל בין השניים"
+  ],
+  "oe": [
+   "Torque is force times distance from axis",
+   "Torque is force times speed",
+   "There is no difference"
+  ],
+  "id": 41
+ },
+ {
+  "topic": "מברגה · שאלות ראיון כלליות (General Interview)",
+  "type": "mcq",
+  "qh": "ידית באורך כפול, אותו כוח ביד – מה קורה למומנט?",
+  "qe": "Handle twice as long, same hand force – torque?",
+  "ah": "המומנט גדל פי 2.",
+  "ae": "Torque doubles.",
+  "oh": [
+   "גדל פי 2",
+   "קטן פי 2",
+   "גדל פי 4"
+  ],
+  "oe": [
+   "Doubles",
+   "Halves",
+   "Grows 4×"
+  ],
+  "id": 42
+ },
+ {
+  "topic": "מברגה · שאלות ראיון כלליות (General Interview)",
+  "type": "mcq",
+  "qh": "יחידה של מומנט היא…",
+  "qe": "Unit of torque is…",
+  "ah": "ניוטון-מטר (Nm). 10 ניוטון על ידית של מטר אחד = 10 Nm.",
+  "ae": "Newton-metre (Nm). 10 N on a 1 m handle = 10 Nm.",
+  "oh": [
+   "ניוטון-מטר (Nm)",
+   "ואט (W)",
+   "סיבובים לדקה"
+  ],
+  "oe": [
+   "Newton-metre (Nm)",
+   "Watt (W)",
+   "Turns per minute"
+  ],
+  "id": 43
+ },
+ {
+  "topic": "מברגה · שאלות ראיון כלליות (General Interview)",
+  "type": "mcq",
+  "qh": "מה זה מקדם ביטחון (Safety Factor)?",
+  "qe": "What is a safety factor?",
+  "ah": "מתכננים חלק חזק יותר ממה שצריך. מקדם 2 אומר שהוא יחזיק פי 2 מהעומס הצפוי.",
+  "ae": "Design stronger than needed. Factor 2 means it holds twice the expected load.",
+  "oh": [
+   "כמה פעמים חזק יותר מהנדרש",
+   "כמה פעמים זול יותר מהמתוכנן",
+   "אחוז החלקים שעוברים בדיקה"
+  ],
+  "oe": [
+   "How many times stronger than needed",
+   "How many times cheaper than planned",
+   "Share of parts passing inspection"
+  ],
+  "id": 44
+ },
+ {
+  "topic": "מברגה · שאלות ראיון כלליות (General Interview)",
+  "type": "mcq",
+  "qh": "איך היית בוחר בין מנוע עם מברשות לבלי מברשות למוצר זול?",
+  "qe": "Brushed or brushless for a cheap product?",
+  "ah": "לרוב עם מברשות: זול ופשוט. בלי מברשות שווה כשצריך חיים ארוכים ויעילות.",
+  "ae": "Usually brushed: cheap and simple. Brushless pays off when long life and efficiency matter.",
+  "oh": [
+   "לרוב עם מברשות, כי זה זול",
+   "תמיד בלי מברשות, בכל מחיר",
+   "אין הבדל, אז מטילים מטבע"
+  ],
+  "oe": [
+   "Usually brushed, as it is cheap",
+   "Always brushless, at any price",
+   "No difference, so flip a coin"
+  ],
+  "id": 45
+ },
+ {
+  "topic": "מברגה · שאלות ראיון כלליות (General Interview)",
+  "type": "mcq",
+  "qh": "מה זה עומס יתר (Overload) ואיך מגנים מפניו?",
+  "qe": "What is overload and how to protect against it?",
+  "ah": "יותר כוח ממה שהמערכת בנויה לו. מגנים עם מצמד מחליק, נתיך, או בקר שמנתק זרם.",
+  "ae": "More force than the system is built for. Protect with a slipping clutch, fuse, or a controller that cuts current.",
+  "oh": [
+   "מצמד מחליק, נתיך או ניתוק זרם",
+   "מגדילים את הסוללה פי שתיים",
+   "מוסיפים עוד גריז לתיבה"
+  ],
+  "oe": [
+   "Slipping clutch, fuse or current cut-off",
+   "Double the battery size",
+   "Add more grease to the gearbox"
+  ],
+  "id": 46
+ },
+ {
+  "topic": "מברגה · שאלות ראיון כלליות (General Interview)",
+  "type": "mcq",
+  "qh": "למה עדיף שהמצמד יחליק לפני שהשיניים נשברות?",
+  "qe": "Why should the clutch slip before teeth break?",
+  "ah": "מצמד שמחליק לא נהרס וחוזר לעבוד. שן שבורה דורשת תיקון.",
+  "ae": "A slipping clutch is not damaged and keeps working. A broken tooth needs repair.",
+  "oh": [
+   "החלקה לא הורסת כלום",
+   "כך המברגה מהירה יותר",
+   "כך הסוללה נטענת בזמן"
+  ],
+  "oe": [
+   "Slipping destroys nothing",
+   "The drill gets faster that way",
+   "The battery charges meanwhile"
+  ],
+  "id": 47
+ },
+ {
+  "topic": "מברגה · שאלות ראיון כלליות (General Interview)",
+  "type": "mcq",
+  "qh": "מה זה FMEA?",
+  "qe": "What is FMEA?",
+  "ah": "רשימה של כל מה שיכול להישבר, כמה זה חמור, ואיך מונעים את זה מראש.",
+  "ae": "A list of everything that can fail, how bad it is, and how to prevent it upfront.",
+  "oh": [
+   "ניתוח מה יכול להיכשל ואיך מונעים",
+   "שיטה לצייר שרטוטים מהר",
+   "בדיקה של מחיר החלקים בשוק"
+  ],
+  "oe": [
+   "Analysing what can fail and how to prevent it",
+   "A way to draw drawings fast",
+   "A check of parts prices on the market"
+  ],
+  "id": 48
+ },
+ {
+  "topic": "מברגה · שאלות ראיון כלליות (General Interview)",
+  "type": "mcq",
+  "qh": "מנוע 20,000 סל\"ד, יחס 50:1. כמה סל\"ד בצ׳אק?",
+  "qe": "Motor 20,000 rpm, ratio 50:1. Chuck rpm?",
+  "ah": "20,000 חלקי 50 = 400 סיבובים בדקה.",
+  "ae": "20,000 divided by 50 = 400 rpm.",
+  "oh": [
+   "400 סל\"ד",
+   "4,000 סל\"ד",
+   "1,000 סל\"ד"
+  ],
+  "oe": [
+   "400 rpm",
+   "4,000 rpm",
+   "1,000 rpm"
+  ],
+  "id": 49
+ },
+ {
+  "topic": "מברגה · שאלות ראיון כלליות (General Interview)",
+  "type": "mcq",
+  "qh": "איך היית מסביר למישהו לא טכני מה עושה תמסורת?",
+  "qe": "How would you explain a gearbox to a non-technical person?",
+  "ah": "כמו הילוכים באופניים: הילוך קל – מסובבים הרבה ולאט מתקדמים, אבל קל לדווש.",
+  "ae": "Like bike gears: a low gear – pedal a lot and move slowly, but it is easy to push.",
+  "oh": [
+   "כמו הילוכים באופניים",
+   "כמו מתג של אור בבית",
+   "כמו ברז של מים חמים"
+  ],
+  "oe": [
+   "Like bicycle gears",
+   "Like a light switch at home",
+   "Like a hot-water tap"
+  ],
+  "id": 50
+ },
+ {
+  "topic": "דיפרנציאל · נעילה ודיפרנציאל מוגבל החלקה (Lockers & LSD)",
+  "type": "mcq",
+  "qh": "מה הבעיה של דיפרנציאל פתוח (Open Differential) כשגלגל אחד על בוץ?",
+  "qe": "Problem of an open diff with one wheel in mud?",
+  "ah": "הכוח הולך לגלגל שהכי קל לסובב. הגלגל בבוץ מסתובב סתם והרכב לא זז.",
+  "ae": "Power goes to the wheel that is easiest to turn. The mud wheel spins and the car stays put.",
+  "oh": [
+   "הגלגל בבוץ מסתובב והרכב תקוע",
+   "שני הגלגלים נעצרים מיד",
+   "הגלגל על הכביש מסתובב מהר יותר"
+  ],
+  "oe": [
+   "The mud wheel spins, the car is stuck",
+   "Both wheels stop at once",
+   "The wheel on the road spins faster"
+  ],
+  "id": 51
+ },
+ {
+  "topic": "דיפרנציאל · נעילה ודיפרנציאל מוגבל החלקה (Lockers & LSD)",
+  "type": "mcq",
+  "qh": "מה עושה נעילת דיפרנציאל (Diff Lock)?",
+  "qe": "What does a diff lock do?",
+  "ah": "מחברת את שני הגלגלים כך שיסתובבו יחד באותה מהירות, כמו ציר אחד.",
+  "ae": "Ties both wheels so they turn together at the same speed, like one axle.",
+  "oh": [
+   "שני הגלגלים מסתובבים יחד",
+   "מנתקת את המנוע מהגלגלים",
+   "עוצרת את הרכב כמו בלם יד"
+  ],
+  "oe": [
+   "Both wheels turn together",
+   "Disconnects the engine from the wheels",
+   "Stops the car like a handbrake"
+  ],
+  "id": 52
+ },
+ {
+  "topic": "דיפרנציאל · נעילה ודיפרנציאל מוגבל החלקה (Lockers & LSD)",
+  "type": "mcq",
+  "qh": "למה לא נוסעים עם נעילה על כביש יבש בסיבובים?",
+  "qe": "Why not drive locked on dry road in turns?",
+  "ah": "בסיבוב הגלגלים צריכים מהירות שונה. נעול – הם נגררים, נשחקים, וההיגוי קשה.",
+  "ae": "In a turn the wheels need different speeds. Locked, they scrub, wear and steering fights you.",
+  "oh": [
+   "הגלגלים נגררים וההיגוי קשה",
+   "המנוע יכבה מיד בכל סיבוב",
+   "הבלמים מפסיקים לעבוד"
+  ],
+  "oe": [
+   "The tyres scrub and steering fights",
+   "The engine stalls in every turn",
+   "The brakes stop working"
+  ],
+  "id": 53
+ },
+ {
+  "topic": "דיפרנציאל · נעילה ודיפרנציאל מוגבל החלקה (Lockers & LSD)",
+  "type": "mcq",
+  "qh": "מה זה דיפרנציאל מוגבל החלקה (LSD – Limited Slip)?",
+  "qe": "What is a limited-slip differential?",
+  "ah": "מאפשר הבדל מהירות, אבל כשגלגל אחד מחליק הוא מעביר יותר כוח לגלגל השני.",
+  "ae": "Allows speed difference, but when one wheel slips it sends more force to the other.",
+  "oh": [
+   "מעביר כוח לגלגל שאוחז",
+   "נועל את שני הגלגלים תמיד",
+   "מוריד כוח משני הגלגלים"
+  ],
+  "oe": [
+   "Sends force to the gripping wheel",
+   "Locks both wheels all the time",
+   "Cuts force to both wheels"
+  ],
+  "id": 54
+ },
+ {
+  "topic": "דיפרנציאל · נעילה ודיפרנציאל מוגבל החלקה (Lockers & LSD)",
+  "type": "mcq",
+  "qh": "איך עובד LSD עם דסקיות (Clutch-type)?",
+  "qe": "How does a clutch-type LSD work?",
+  "ah": "דסקיות חיכוך נלחצות בין הצד לבית. כשיש הבדל מהירות, החיכוך מעביר כוח לגלגל האיטי.",
+  "ae": "Friction discs press between side gear and case. When speeds differ, friction sends force to the slower wheel.",
+  "oh": [
+   "דסקיות חיכוך בין הצד לבית",
+   "מגנט חשמלי שמחבר את הגלגלים",
+   "משאבת שמן שדוחפת את הגלגל"
+  ],
+  "oe": [
+   "Friction discs between side and case",
+   "An electromagnet joining the wheels",
+   "An oil pump that pushes the wheel"
+  ],
+  "id": 55
+ },
+ {
+  "topic": "דיפרנציאל · נעילה ודיפרנציאל מוגבל החלקה (Lockers & LSD)",
+  "type": "mcq",
+  "qh": "מה זה דיפרנציאל טורסן (Torsen)?",
+  "qe": "What is a Torsen differential?",
+  "ah": "משתמש בגלגלי שיניים מסוג תולעת שקשה לסובב מהצד, ולכן מעביר כוח לגלגל שאוחז. בלי דסקיות.",
+  "ae": "Uses worm-type gears that are hard to back-drive, so it shifts force to the gripping wheel. No discs.",
+  "oh": [
+   "גלגלי תולעת שמעבירים כוח",
+   "דסקיות גומי שנשחקות מהר",
+   "חיישן ומחשב בלבד"
+  ],
+  "oe": [
+   "Worm gears that shift force",
+   "Rubber discs that wear fast",
+   "Only a sensor and computer"
+  ],
+  "id": 56
+ },
+ {
+  "topic": "דיפרנציאל · נעילה ודיפרנציאל מוגבל החלקה (Lockers & LSD)",
+  "type": "mcq",
+  "qh": "איזה חיסרון יש לטורסן כשגלגל אחד ממש באוויר?",
+  "qe": "Torsen weakness when one wheel is in the air?",
+  "ah": "הוא מכפיל את הכוח של הגלגל החלש. אם לגלגל באוויר אין התנגדות, כמעט אין כוח לשני.",
+  "ae": "It multiplies the weak wheel's force. If the airborne wheel has no resistance, the other gets almost nothing.",
+  "oh": [
+   "גלגל באוויר – כמעט אין כוח לשני",
+   "הוא נשבר מיד כשגלגל באוויר",
+   "הוא נועל ולא נותן לנסוע"
+  ],
+  "oe": [
+   "Wheel in air – little force to the other",
+   "It breaks as soon as a wheel lifts",
+   "It locks and will not let you drive"
+  ],
+  "id": 57
+ },
+ {
+  "topic": "דיפרנציאל · נעילה ודיפרנציאל מוגבל החלקה (Lockers & LSD)",
+  "type": "mcq",
+  "qh": "איך רכבים מודרניים \"מחקים\" נעילה בלי חלקים נוספים?",
+  "qe": "How do modern cars mimic a locker without extra parts?",
+  "ah": "בלמים על הגלגל שמחליק (Brake-based Traction Control). הבלימה גורמת לכוח לעבור לגלגל השני.",
+  "ae": "They brake the slipping wheel (brake-based traction control), so force goes to the other wheel.",
+  "oh": [
+   "בולמים את הגלגל שמחליק",
+   "מגדילים את כוח המנוע מאוד",
+   "מנפחים את הצמיג אוטומטית"
+  ],
+  "oe": [
+   "Brake the slipping wheel",
+   "Raise engine power a lot",
+   "Inflate the tyre automatically"
+  ],
+  "id": 58
+ },
+ {
+  "topic": "דיפרנציאל · נעילה ודיפרנציאל מוגבל החלקה (Lockers & LSD)",
+  "type": "mcq",
+  "qh": "למה LSD פופולרי במכוניות ספורט?",
+  "qe": "Why is LSD popular in sports cars?",
+  "ah": "ביציאה חזקה מסיבוב הגלגל הפנימי מתרומם קצת ומחליק. LSD שולח כוח לגלגל החיצוני.",
+  "ae": "Accelerating hard out of a turn, the inner wheel lightens and slips. LSD sends force to the outer wheel.",
+  "oh": [
+   "שולח כוח לגלגל החיצוני ביציאה",
+   "מקטין את משקל הרכב בהרבה",
+   "מאפשר להחליף הילוך בלי מצמד"
+  ],
+  "oe": [
+   "Sends force to the outer wheel on exit",
+   "Cuts the car's weight a lot",
+   "Lets you shift without a clutch"
+  ],
+  "id": 59
+ },
+ {
+  "topic": "דיפרנציאל · נעילה ודיפרנציאל מוגבל החלקה (Lockers & LSD)",
+  "type": "mcq",
+  "qh": "למה צריך שמן מיוחד ל-LSD עם דסקיות?",
+  "qe": "Why does a clutch-type LSD need special oil?",
+  "ah": "צריך תוסף חיכוך (Friction Modifier) כדי שהדסקיות יחליקו חלק ולא ירעדו ויקרקשו.",
+  "ae": "It needs a friction modifier so the discs slip smoothly instead of chattering.",
+  "oh": [
+   "כדי שהדסקיות לא ירעדו ויקרקשו",
+   "כדי שהשמן לא יתאדה בקיץ",
+   "כדי שיהיה צבע שונה בבדיקה"
+  ],
+  "oe": [
+   "So the discs do not chatter",
+   "So the oil does not evaporate",
+   "So it has a different colour"
+  ],
+  "id": 60
+ },
+ {
+  "topic": "דיפרנציאל · שמן ואיטום (Oil & Sealing)",
+  "type": "mcq",
+  "qh": "למה שמן הדיפרנציאל סמיך יותר משמן מנוע?",
+  "qe": "Why is diff oil thicker than engine oil?",
+  "ah": "בגלגלים הקוניים יש לחץ והחלקה גבוהים מאוד בין השיניים. שמן סמיך עם תוספים מחזיק שכבה.",
+  "ae": "The bevel gears have very high pressure and sliding between teeth. Thick oil with additives keeps a film.",
+  "oh": [
+   "לחץ והחלקה גבוהים בין השיניים",
+   "כי אין צורך לקרר את הדיפרנציאל",
+   "כדי שיעלה פחות כסף לייצר"
+  ],
+  "oe": [
+   "High pressure and sliding between teeth",
+   "Because the diff needs no cooling",
+   "So it is cheaper to make"
+  ],
+  "id": 61
+ },
+ {
+  "topic": "דיפרנציאל · שמן ואיטום (Oil & Sealing)",
+  "type": "mcq",
+  "qh": "מה זה שמן היפואיד (Hypoid Oil / GL-5)?",
+  "qe": "What is hypoid (GL-5) oil?",
+  "ah": "שמן עם תוספי לחץ גבוה (EP) לגלגלי היפואיד, שבהם השיניים מחליקות הרבה.",
+  "ae": "Oil with extreme-pressure (EP) additives for hypoid gears, where teeth slide a lot.",
+  "oh": [
+   "שמן עם תוספי לחץ גבוה",
+   "שמן מנוע רגיל וזול",
+   "מים עם מעט סבון"
+  ],
+  "oe": [
+   "Oil with extreme-pressure additives",
+   "Plain cheap engine oil",
+   "Water with a little soap"
+  ],
+  "id": 62
+ },
+ {
+  "topic": "דיפרנציאל · שמן ואיטום (Oil & Sealing)",
+  "type": "mcq",
+  "qh": "איך השמן מגיע לגלגלים בדיפרנציאל בלי משאבה?",
+  "qe": "How does oil reach the diff gears with no pump?",
+  "ah": "גלגל הכתר טובל בשמן בתחתית ומתיז אותו על כל השאר (Splash Lubrication).",
+  "ae": "The ring gear dips into oil at the bottom and splashes it everywhere (splash lubrication).",
+  "oh": [
+   "גלגל הכתר טובל ומתיז",
+   "מאוורר מפזר אותו באוויר",
+   "הנהג מוסיף שמן בכל נסיעה"
+  ],
+  "oe": [
+   "The ring gear dips and splashes",
+   "A fan spreads it in the air",
+   "The driver adds oil every trip"
+  ],
+  "id": 63
+ },
+ {
+  "topic": "דיפרנציאל · שמן ואיטום (Oil & Sealing)",
+  "type": "mcq",
+  "qh": "מה תפקיד אטם השמן (Oil Seal) בכניסה ובצירים?",
+  "qe": "What does the oil seal at input and axles do?",
+  "ah": "שפת גומי שלוחצת על הציר המסתובב. שומרת שמן בפנים ולכלוך בחוץ.",
+  "ae": "A rubber lip pressing on the spinning shaft. Keeps oil in and dirt out.",
+  "oh": [
+   "שומר שמן בפנים ולכלוך בחוץ",
+   "מחזיק את הציר שלא יזוז הצידה",
+   "מודד את כמות השמן בבית"
+  ],
+  "oe": [
+   "Keeps oil in and dirt out",
+   "Holds the shaft from moving sideways",
+   "Measures the oil level in the case"
+  ],
+  "id": 64
+ },
+ {
+  "topic": "דיפרנציאל · שמן ואיטום (Oil & Sealing)",
+  "type": "mcq",
+  "qh": "למה יש פתח נשימה (Breather) בבית הדיפרנציאל?",
+  "qe": "Why does the diff case have a breather?",
+  "ah": "השמן והאוויר מתחממים ומתרחבים. בלי פתח, הלחץ דוחף שמן החוצה דרך האטמים.",
+  "ae": "Oil and air heat up and expand. Without a vent, pressure pushes oil out past the seals.",
+  "oh": [
+   "לחץ מחום ידחוף שמן דרך האטמים",
+   "כדי שהנהג ישמע את הגלגלים",
+   "כדי להכניס מים לקירור"
+  ],
+  "oe": [
+   "Heat pressure would push oil past seals",
+   "So the driver can hear the gears",
+   "To let water in for cooling"
+  ],
+  "id": 65
+ },
+ {
+  "topic": "דיפרנציאל · שמן ואיטום (Oil & Sealing)",
+  "type": "mcq",
+  "qh": "למה פתח הנשימה בג׳יפים מוארך עד גבוה?",
+  "qe": "Why is the breather on off-roaders extended up high?",
+  "ah": "כדי שבחציית מים לא ייכנסו מים לבית. מים בשמן הורסים את המסבים.",
+  "ae": "So crossing water does not let water in. Water in oil ruins bearings.",
+  "oh": [
+   "כדי שמים לא ייכנסו בחציית נחל",
+   "כדי שהשמן יתקרר מהר יותר",
+   "זה רק קישוט שנראה טוב"
+  ],
+  "oe": [
+   "So water stays out when wading",
+   "So the oil cools faster",
+   "It is only for looks"
+  ],
+  "id": 66
+ },
+ {
+  "topic": "דיפרנציאל · שמן ואיטום (Oil & Sealing)",
+  "type": "mcq",
+  "qh": "איך יודעים שיש מספיק שמן בדיפרנציאל?",
+  "qe": "How do you know the diff has enough oil?",
+  "ah": "פותחים את פקק המילוי בצד. השמן צריך להגיע בדיוק לשפת החור.",
+  "ae": "Open the side fill plug. The oil should reach the lip of the hole.",
+  "oh": [
+   "השמן מגיע לשפת פתח המילוי",
+   "מסתכלים על נורה בלוח השעונים",
+   "שוקלים את כל הרכב"
+  ],
+  "oe": [
+   "Oil reaches the fill hole lip",
+   "Look for a dashboard light",
+   "Weigh the whole car"
+  ],
+  "id": 67
+ },
+ {
+  "topic": "דיפרנציאל · שמן ואיטום (Oil & Sealing)",
+  "type": "mcq",
+  "qh": "למה פותחים קודם את פקק המילוי ורק אחר כך את פקק הריקון?",
+  "qe": "Why open the fill plug before the drain plug?",
+  "ah": "אם פקק המילוי תקוע, לפחות הרכב לא נשאר בלי שמן ובלי דרך למלא.",
+  "ae": "If the fill plug is stuck, at least the car is not left empty with no way to refill.",
+  "oh": [
+   "כדי לא להישאר ריק בלי דרך למלא",
+   "כי ככה השמן יוצא חם יותר",
+   "אין סיבה, זה סתם הרגל"
+  ],
+  "oe": [
+   "So you are not left empty with no way to refill",
+   "Because the oil drains hotter that way",
+   "No reason, it is just habit"
+  ],
+  "id": 68
+ },
+ {
+  "topic": "דיפרנציאל · שמן ואיטום (Oil & Sealing)",
+  "type": "mcq",
+  "qh": "למה יש מגנט על פקק הריקון?",
+  "qe": "Why is there a magnet on the drain plug?",
+  "ah": "הוא אוסף שבבי ברזל קטנים מהשחיקה, כדי שלא יסתובבו בשמן.",
+  "ae": "It collects tiny iron wear particles so they do not circulate in the oil.",
+  "oh": [
+   "אוסף שבבי ברזל מהשחיקה",
+   "מסובב את גלגל הכתר",
+   "מודד את מהירות הגלגל"
+  ],
+  "oe": [
+   "Collects iron wear particles",
+   "Turns the ring gear",
+   "Measures wheel speed"
+  ],
+  "id": 69
+ },
+ {
+  "topic": "דיפרנציאל · שמן ואיטום (Oil & Sealing)",
+  "type": "mcq",
+  "qh": "שמן כהה עם ברק מתכתי חזק בהחלפה. מה זה אומר?",
+  "qe": "Dark oil with heavy metallic glitter at change. Meaning?",
+  "ah": "כנראה שחיקה חזקה של גלגלים או מסבים. כדאי לבדוק לפני שמשהו נשבר.",
+  "ae": "Probably heavy gear or bearing wear. Check before something fails.",
+  "oh": [
+   "כנראה שחיקה של גלגלים או מסבים",
+   "זה סימן שהשמן חדש ואיכותי",
+   "זה צבע רגיל שאין מה לבדוק"
+  ],
+  "oe": [
+   "Likely gear or bearing wear",
+   "A sign the oil is new and good",
+   "Normal colour, nothing to check"
+  ],
+  "id": 70
+ },
+ {
+  "topic": "דיפרנציאל · מסבים ועומסים (Bearings & Loads)",
+  "type": "mcq",
+  "qh": "איזה מסב מחזיק את גלגל הפיניון (Pinion) בדרך כלל?",
+  "qe": "Which bearing usually supports the pinion?",
+  "ah": "זוג מסבי חרוט (Tapered Roller Bearings). הם מחזיקים גם עומס צדדי וגם עומס לאורך.",
+  "ae": "A pair of tapered roller bearings. They carry both side load and end load.",
+  "oh": [
+   "זוג מסבי חרוט",
+   "תותב פלסטיק פשוט",
+   "מסב כדורים קטן אחד"
+  ],
+  "oe": [
+   "A pair of tapered roller bearings",
+   "A simple plastic bushing",
+   "One small ball bearing"
+  ],
+  "id": 71
+ },
+ {
+  "topic": "דיפרנציאל · מסבים ועומסים (Bearings & Loads)",
+  "type": "mcq",
+  "qh": "למה הפיניון נדחף לאורך הציר כשמעביר כוח?",
+  "qe": "Why is the pinion pushed along its axis under load?",
+  "ah": "השיניים הקוניות לוחצות באלכסון, אז חלק מהכוח דוחף את הפיניון קדימה או אחורה.",
+  "ae": "Bevel teeth press at a slant, so part of the force pushes the pinion fore or aft.",
+  "oh": [
+   "השיניים הקוניות לוחצות באלכסון",
+   "כי השמן דוחף אותו קדימה",
+   "כי הוא כבד יותר מגלגל הכתר"
+  ],
+  "oe": [
+   "Bevel teeth press at a slant",
+   "Because oil pushes it forward",
+   "Because it is heavier than the ring"
+  ],
+  "id": 72
+ },
+ {
+  "topic": "דיפרנציאל · מסבים ועומסים (Bearings & Loads)",
+  "type": "mcq",
+  "qh": "מה זה עומס מוקדם (Preload) במסבים?",
+  "qe": "What is bearing preload?",
+  "ah": "מהדקים את המסבים קצת מראש כדי שלא יהיה רווח. הפיניון לא זז ולא רועש.",
+  "ae": "Squeeze the bearings slightly in advance so there is no play. The pinion stays put and quiet.",
+  "oh": [
+   "לחץ קטן מראש שמבטל רווח",
+   "שמן שמכניסים לפני ההרכבה",
+   "משקל שמוסיפים לגלגל הכתר"
+  ],
+  "oe": [
+   "A small pre-squeeze that removes play",
+   "Oil added before assembly",
+   "Weight added to the ring gear"
+  ],
+  "id": 73
+ },
+ {
+  "topic": "דיפרנציאל · מסבים ועומסים (Bearings & Loads)",
+  "type": "mcq",
+  "qh": "מה קורה אם ה-Preload חזק מדי?",
+  "qe": "What if the preload is too high?",
+  "ah": "המסבים מתחממים ונשחקים מהר. אם חלש מדי – רעש ושחיקה של השיניים.",
+  "ae": "The bearings run hot and wear fast. Too low – noise and tooth wear.",
+  "oh": [
+   "המסבים מתחממים ונשחקים",
+   "הרכב ייסע מהר יותר",
+   "השמן יהיה נקי יותר"
+  ],
+  "oe": [
+   "Bearings run hot and wear",
+   "The car goes faster",
+   "The oil stays cleaner"
+  ],
+  "id": 74
+ },
+ {
+  "topic": "דיפרנציאל · מסבים ועומסים (Bearings & Loads)",
+  "type": "mcq",
+  "qh": "מה זה מבנה שמחזיק את הפיניון משני הצדדים (Straddle Mount)?",
+  "qe": "What is a straddle-mounted pinion?",
+  "ah": "יש מסב גם לפני השיניים וגם אחריהן. הפיניון מתכופף פחות בעומס כבד.",
+  "ae": "A bearing both before and after the teeth. The pinion bends less under heavy load.",
+  "oh": [
+   "מסבים משני צידי השיניים",
+   "פיניון בלי מסבים בכלל",
+   "שני פיניונים זה לצד זה"
+  ],
+  "oe": [
+   "Bearings on both sides of the teeth",
+   "A pinion with no bearings",
+   "Two pinions side by side"
+  ],
+  "id": 75
+ },
+ {
+  "topic": "דיפרנציאל · מסבים ועומסים (Bearings & Loads)",
+  "type": "mcq",
+  "qh": "למה הגלגלים הקטנים בתוך הבית (Spider Gears) לא צריכים מסבים מיוחדים?",
+  "qe": "Why do spider gears need no special bearings?",
+  "ah": "בנסיעה ישרה הם כמעט לא מסתובבים על הציר שלהם, רק בסיבובים ובמהירות נמוכה יחסית.",
+  "ae": "Driving straight they barely turn on their pin – only in turns, and fairly slowly.",
+  "oh": [
+   "כמעט לא מסתובבים בנסיעה ישרה",
+   "הם עשויים מפלסטיק קל מאוד",
+   "הם לא נושאים שום כוח"
+  ],
+  "oe": [
+   "They barely spin when driving straight",
+   "They are made of very light plastic",
+   "They carry no force at all"
+  ],
+  "id": 76
+ },
+ {
+  "topic": "דיפרנציאל · מסבים ועומסים (Bearings & Loads)",
+  "type": "mcq",
+  "qh": "מה נושא את משקל הרכב בציר אחורי חצי-צף (Semi-floating)?",
+  "qe": "In a semi-floating axle, what carries the car weight?",
+  "ah": "ציר הגלגל עצמו. הוא גם מסובב וגם נושא משקל, אז הוא צריך להיות עבה.",
+  "ae": "The axle shaft itself. It both drives and carries weight, so it must be thick.",
+  "oh": [
+   "ציר הגלגל עצמו",
+   "רק הבית של הדיפרנציאל",
+   "רק הקפיצים של הרכב"
+  ],
+  "oe": [
+   "The axle shaft itself",
+   "Only the differential case",
+   "Only the car springs"
+  ],
+  "id": 77
+ },
+ {
+  "topic": "דיפרנציאל · מסבים ועומסים (Bearings & Loads)",
+  "type": "mcq",
+  "qh": "מה היתרון של ציר צף מלא (Full-floating) במשאיות?",
+  "qe": "Advantage of a full-floating axle in trucks?",
+  "ah": "המשקל עובר דרך מסבים על הבית. הציר רק מסובב, ואפשר להוציא אותו בלי להוריד את הגלגל.",
+  "ae": "Weight goes through bearings on the housing. The shaft only drives and can be removed without taking off the wheel.",
+  "oh": [
+   "הציר רק מסובב ולא נושא משקל",
+   "הוא קל יותר בכל מקרה",
+   "הוא לא צריך שמן בכלל"
+  ],
+  "oe": [
+   "The shaft only drives, carries no weight",
+   "It is always lighter",
+   "It needs no oil at all"
+  ],
+  "id": 78
+ },
+ {
+  "topic": "דיפרנציאל · מסבים ועומסים (Bearings & Loads)",
+  "type": "mcq",
+  "qh": "מה זה \"זמזום\" (Whine) שמשתנה עם המהירות?",
+  "qe": "What is a whine that changes with speed?",
+  "ah": "בדרך כלל מגע לא נכון בין הפיניון לכתר, או מסב פיניון שחוק.",
+  "ae": "Usually wrong pinion-to-ring contact, or a worn pinion bearing.",
+  "oh": [
+   "מגע לא נכון או מסב שחוק",
+   "רוח שנכנסת דרך החלון",
+   "צמיג עם לחץ אוויר גבוה"
+  ],
+  "oe": [
+   "Wrong contact or a worn bearing",
+   "Wind coming through the window",
+   "A tyre with high pressure"
+  ],
+  "id": 79
+ },
+ {
+  "topic": "דיפרנציאל · מסבים ועומסים (Bearings & Loads)",
+  "type": "mcq",
+  "qh": "למה הבית של הדיפרנציאל עשוי ברזל יצוק או פלדה?",
+  "qe": "Why is the diff housing cast iron or steel?",
+  "ah": "צריך להיות קשיח מאוד, כדי שהגלגלים יישארו במקום המדויק תחת כוח גדול.",
+  "ae": "It must be very stiff so gears stay exactly aligned under big force.",
+  "oh": [
+   "קשיח מאוד ושומר על יישור",
+   "הכי קל מכל החומרים",
+   "מבודד רעש לגמרי"
+  ],
+  "oe": [
+   "Very stiff and keeps alignment",
+   "Lightest of all materials",
+   "Fully blocks noise"
+  ],
+  "id": 80
+ },
+ {
+  "topic": "דיפרנציאל · רעשים, כשלים ואבחון (Noise, Failure & Diagnosis)",
+  "type": "mcq",
+  "qh": "נקישה (Clunk) כשעוברים מנסיעה לבלימה. מה הסיבה הנפוצה?",
+  "qe": "Clunk when switching from gas to brake – common cause?",
+  "ah": "רווח גדול מדי (Backlash) בין הפיניון לכתר, או בגלגלים הקטנים בבית.",
+  "ae": "Too much backlash between pinion and ring, or in the spider gears.",
+  "oh": [
+   "רווח גדול מדי בין השיניים",
+   "שמן חדש מדי בבית",
+   "צמיגים חדשים מדי"
+  ],
+  "oe": [
+   "Too much gap between teeth",
+   "Oil that is too new",
+   "Tyres that are too new"
+  ],
+  "id": 81
+ },
+ {
+  "topic": "דיפרנציאל · רעשים, כשלים ואבחון (Noise, Failure & Diagnosis)",
+  "type": "mcq",
+  "qh": "רעש רק בסיבובים ולא בנסיעה ישרה. מה חשוד?",
+  "qe": "Noise only in turns, not straight – suspect?",
+  "ah": "הגלגלים הקטנים בתוך הבית, כי הם עובדים רק כשיש הבדל מהירות.",
+  "ae": "The spider gears, since they only work when wheel speeds differ.",
+  "oh": [
+   "הגלגלים הקטנים בתוך הבית",
+   "הפיניון בכניסה לבית",
+   "המנוע של הרכב"
+  ],
+  "oe": [
+   "The spider gears inside the case",
+   "The pinion at the input",
+   "The car engine"
+  ],
+  "id": 82
+ },
+ {
+  "topic": "דיפרנציאל · רעשים, כשלים ואבחון (Noise, Failure & Diagnosis)",
+  "type": "mcq",
+  "qh": "מה זה \"סימון מגע\" (Contact Pattern) בבדיקה?",
+  "qe": "What is a contact-pattern check?",
+  "ah": "מורחים צבע על שיני הכתר, מסובבים, ורואים איפה השיניים נוגעות. המגע צריך להיות במרכז.",
+  "ae": "Paint the ring teeth, turn it, and see where the teeth touch. Contact should be centred.",
+  "oh": [
+   "צבע שמראה איפה השיניים נוגעות",
+   "מספר שמוטבע על גלגל הכתר",
+   "מדבקה עם תאריך ההחלפה"
+  ],
+  "oe": [
+   "Paint showing where teeth touch",
+   "A number stamped on the ring gear",
+   "A sticker with the change date"
+  ],
+  "id": 83
+ },
+ {
+  "topic": "דיפרנציאל · רעשים, כשלים ואבחון (Noise, Failure & Diagnosis)",
+  "type": "mcq",
+  "qh": "למה מחליפים פיניון וכתר תמיד כזוג?",
+  "qe": "Why are pinion and ring always replaced as a pair?",
+  "ah": "הם מעובדים ונבדקים יחד במפעל כדי לעבוד בשקט. זוג מעורבב יהיה רועש.",
+  "ae": "They are finished and tested together at the factory to run quietly. A mixed pair is noisy.",
+  "oh": [
+   "הם מותאמים יחד במפעל",
+   "כי הם תמיד באותו צבע",
+   "החוק דורש את זה בכל מדינה"
+  ],
+  "oe": [
+   "They are matched together at the factory",
+   "Because they are always the same colour",
+   "The law requires it everywhere"
+  ],
+  "id": 84
+ },
+ {
+  "topic": "דיפרנציאל · רעשים, כשלים ואבחון (Noise, Failure & Diagnosis)",
+  "type": "mcq",
+  "qh": "צמיגים בגדלים שונים מאוד על אותו ציר – מה הסכנה?",
+  "qe": "Very different tyre sizes on one axle – danger?",
+  "ah": "הדיפרנציאל עובד כל הזמן כאילו בסיבוב. הגלגלים הקטנים בבית מתחממים ונשחקים.",
+  "ae": "The diff works constantly as if turning. The spider gears overheat and wear.",
+  "oh": [
+   "הדיפרנציאל עובד כל הזמן ומתחמם",
+   "הרכב יהיה חסכוני יותר",
+   "שום דבר, זה לא משנה"
+  ],
+  "oe": [
+   "The diff works constantly and overheats",
+   "The car becomes more economical",
+   "Nothing, it does not matter"
+  ],
+  "id": 85
+ },
+ {
+  "topic": "דיפרנציאל · רעשים, כשלים ואבחון (Noise, Failure & Diagnosis)",
+  "type": "mcq",
+  "qh": "מה גורם לשבירת שן בגלגל הכתר בדרך כלל?",
+  "qe": "What usually breaks a ring gear tooth?",
+  "ah": "מכה חזקה פתאומית – למשל גלגל מסתובב בלי אחיזה ואז תופס בבת אחת.",
+  "ae": "A sudden shock – e.g. a wheel spinning freely then gripping all at once.",
+  "oh": [
+   "מכה פתאומית כשגלגל תופס",
+   "נסיעה איטית בעיר",
+   "שטיפת רכב במים"
+  ],
+  "oe": [
+   "A sudden shock when a wheel grips",
+   "Slow city driving",
+   "Washing the car with water"
+  ],
+  "id": 86
+ },
+ {
+  "topic": "דיפרנציאל · רעשים, כשלים ואבחון (Noise, Failure & Diagnosis)",
+  "type": "mcq",
+  "qh": "רעידה שעולה עם מהירות הרכב (לא המנוע). מה לבדוק?",
+  "qe": "Vibration rising with road speed (not engine) – check what?",
+  "ah": "איזון גלגלים, גל ההינע ומפרקים, ומסבי הגלגלים.",
+  "ae": "Wheel balance, driveshaft and joints, and wheel bearings.",
+  "oh": [
+   "איזון, גל הינע ומסבי גלגל",
+   "רק את המצבר של הרכב",
+   "רק את המזגן והמאוורר"
+  ],
+  "oe": [
+   "Balance, driveshaft and wheel bearings",
+   "Only the car battery",
+   "Only the AC and fan"
+  ],
+  "id": 87
+ },
+ {
+  "topic": "דיפרנציאל · רעשים, כשלים ואבחון (Noise, Failure & Diagnosis)",
+  "type": "mcq",
+  "qh": "דליפת שמן ליד הגלגל האחורי. מה הסיבה הסבירה?",
+  "qe": "Oil leak near a rear wheel – likely cause?",
+  "ah": "אטם הציר (Axle Seal) נשחק, והשמן מהדיפרנציאל זולג לאורך הציר.",
+  "ae": "A worn axle seal lets diff oil run out along the axle.",
+  "oh": [
+   "אטם הציר נשחק",
+   "הצמיג מחורר",
+   "מיכל הדלק מלא מדי"
+  ],
+  "oe": [
+   "A worn axle seal",
+   "A punctured tyre",
+   "An overfull fuel tank"
+  ],
+  "id": 88
+ },
+ {
+  "topic": "דיפרנציאל · רעשים, כשלים ואבחון (Noise, Failure & Diagnosis)",
+  "type": "mcq",
+  "qh": "למה נהיגה ארוכה עם גלגל רזרבי קטן (Space Saver) מזיקה?",
+  "qe": "Why is long driving on a small spare harmful?",
+  "ah": "הגלגל קטן ומסתובב מהר יותר, אז הדיפרנציאל עובד כל הזמן ומתחמם.",
+  "ae": "The small wheel spins faster, so the diff works constantly and heats up.",
+  "oh": [
+   "הדיפרנציאל עובד כל הזמן",
+   "הרכב הופך לכבד יותר",
+   "המנוע מסתובב לאט יותר"
+  ],
+  "oe": [
+   "The diff works all the time",
+   "The car becomes heavier",
+   "The engine spins slower"
+  ],
+  "id": 89
+ },
+ {
+  "topic": "דיפרנציאל · רעשים, כשלים ואבחון (Noise, Failure & Diagnosis)",
+  "type": "mcq",
+  "qh": "בראיון: \"הרכב משמיע זמזום רק בתאוצה\". מה תענה?",
+  "qe": "Interview: \"whine only under acceleration\" – answer?",
+  "ah": "המגע בין הפיניון לכתר בצד ה\"נסיעה\" לא תקין, או Preload של המסב חלש.",
+  "ae": "The pinion-to-ring contact on the drive side is off, or the bearing preload is low.",
+  "oh": [
+   "מגע בצד הנסיעה או Preload חלש",
+   "הצמיגים מנופחים יותר מדי",
+   "אין קשר לדיפרנציאל בכלל"
+  ],
+  "oe": [
+   "Drive-side contact or low preload",
+   "The tyres are overinflated",
+   "It has nothing to do with the diff"
+  ],
+  "id": 90
+ },
+ {
+  "topic": "דיפרנציאל · הנעה כפולה ו-4x4 (AWD & 4x4)",
+  "type": "mcq",
+  "qh": "כמה דיפרנציאלים יש ברכב עם הנעה קבועה לכל הגלגלים (AWD)?",
+  "qe": "How many differentials in a full-time AWD car?",
+  "ah": "שלושה: קדמי, אחורי, ומרכזי בין הצירים.",
+  "ae": "Three: front, rear, and a centre one between the axles.",
+  "oh": [
+   "שלושה",
+   "אחד",
+   "ארבעה"
+  ],
+  "oe": [
+   "Three",
+   "One",
+   "Four"
+  ],
+  "id": 91
+ },
+ {
+  "topic": "דיפרנציאל · הנעה כפולה ו-4x4 (AWD & 4x4)",
+  "type": "mcq",
+  "qh": "למה צריך דיפרנציאל מרכזי (Center Diff)?",
+  "qe": "Why is a centre differential needed?",
+  "ah": "בסיבוב הגלגלים הקדמיים עוברים מרחק קצת שונה מהאחוריים. בלי דיפרנציאל מרכזי משהו נגרר.",
+  "ae": "In a turn the front wheels travel a bit differently from the rears. Without it, something scrubs.",
+  "oh": [
+   "קדמי ואחורי עוברים מרחק שונה",
+   "כדי להוסיף כוח למנוע",
+   "כדי לחסוך דלק בנסיעה ישרה"
+  ],
+  "oe": [
+   "Front and rear travel different distances",
+   "To add engine power",
+   "To save fuel when straight"
+  ],
+  "id": 92
+ },
+ {
+  "topic": "דיפרנציאל · הנעה כפולה ו-4x4 (AWD & 4x4)",
+  "type": "mcq",
+  "qh": "מה זה תיבת העברה (Transfer Case) בג׳יפ?",
+  "qe": "What is a transfer case in a 4x4?",
+  "ah": "מחלקת כוח בין הציר הקדמי לאחורי, ולרוב יש בה גם הילוך נמוך (Low Range).",
+  "ae": "Splits power between front and rear axles, and often has a low range.",
+  "oh": [
+   "מחלקת כוח קדימה ואחורה",
+   "מחליפה בין דלק לחשמל",
+   "מקררת את המנוע בשטח"
+  ],
+  "oe": [
+   "Splits power front and rear",
+   "Switches between fuel and electric",
+   "Cools the engine off-road"
+  ],
+  "id": 93
+ },
+ {
+  "topic": "דיפרנציאל · הנעה כפולה ו-4x4 (AWD & 4x4)",
+  "type": "mcq",
+  "qh": "למה לא נוסעים ב-4x4 \"חלקי\" (Part-time) על אספלט יבש?",
+  "qe": "Why not use part-time 4x4 on dry asphalt?",
+  "ah": "אין בו דיפרנציאל מרכזי. בסיבובים הצירים \"נלחמים\" והמערכת נמתחת ונשחקת (Wind-up).",
+  "ae": "It has no centre diff. In turns the axles fight and the drivetrain winds up and wears.",
+  "oh": [
+   "אין דיפרנציאל מרכזי והמערכת נמתחת",
+   "הוא יותר מדי מהיר לכביש",
+   "הצמיגים יתנפחו מהחום"
+  ],
+  "oe": [
+   "No centre diff, so it winds up",
+   "It is too fast for the road",
+   "The tyres will swell from heat"
+  ],
+  "id": 94
+ },
+ {
+  "topic": "דיפרנציאל · הנעה כפולה ו-4x4 (AWD & 4x4)",
+  "type": "mcq",
+  "qh": "מה עושה הילוך נמוך (Low Range)?",
+  "qe": "What does low range do?",
+  "ah": "מאט עוד פי 2 עד 3 בערך. הרכב איטי מאוד אבל חזק מאוד – לטיפוס ולירידה תלולה.",
+  "ae": "Slows about 2 to 3 times more. Very slow but very strong – for steep climbs and descents.",
+  "oh": [
+   "מאט ומחזק פי 2–3 בערך",
+   "מאיץ את הרכב פי 2",
+   "מנתק את ההנעה לגמרי"
+  ],
+  "oe": [
+   "Slows and strengthens about 2–3×",
+   "Speeds the car up 2×",
+   "Disconnects drive completely"
+  ],
+  "id": 95
+ },
+ {
+  "topic": "דיפרנציאל · הנעה כפולה ו-4x4 (AWD & 4x4)",
+  "type": "mcq",
+  "qh": "מה זה מצמד ויסקוזי (Viscous Coupling)?",
+  "qe": "What is a viscous coupling?",
+  "ah": "דסקיות בתוך נוזל סמיך. כשציר אחד מסתובב הרבה יותר מהר, הנוזל מתחמם, מתעבה ומעביר כוח.",
+  "ae": "Discs in thick fluid. When one shaft spins much faster, the fluid heats, thickens and passes force.",
+  "oh": [
+   "דסקיות בנוזל שמעביר כוח בהחלקה",
+   "מגנט קבוע שנועל את הצירים",
+   "רצועה שמחברת את הצירים"
+  ],
+  "oe": [
+   "Discs in fluid that pass force when slipping",
+   "A magnet that locks the shafts",
+   "A belt joining the shafts"
+  ],
+  "id": 96
+ },
+ {
+  "topic": "דיפרנציאל · הנעה כפולה ו-4x4 (AWD & 4x4)",
+  "type": "mcq",
+  "qh": "מה ההבדל בין AWD ל-4x4 \"אמיתי\" בשטח?",
+  "qe": "AWD vs \"real\" 4x4 off-road?",
+  "ah": "AWD נוח לכביש וגשם. 4x4 יש לו בדרך כלל הילוך נמוך ונעילות לשטח קשה.",
+  "ae": "AWD suits roads and rain. 4x4 usually has low range and lockers for hard terrain.",
+  "oh": [
+   "ל-4x4 יש הילוך נמוך ונעילות",
+   "ל-AWD יש תמיד יותר כוח",
+   "אין שום הבדל בכלל"
+  ],
+  "oe": [
+   "4x4 has low range and lockers",
+   "AWD always has more power",
+   "There is no difference"
+  ],
+  "id": 97
+ },
+ {
+  "topic": "דיפרנציאל · הנעה כפולה ו-4x4 (AWD & 4x4)",
+  "type": "mcq",
+  "qh": "מה זה הנעה לפי דרישה (On-demand AWD)?",
+  "qe": "What is on-demand AWD?",
+  "ah": "רוב הזמן רק ציר אחד מניע. כשהוא מחליק, מצמד נסגר ושולח כוח גם לציר השני.",
+  "ae": "Most of the time one axle drives. When it slips, a clutch closes and sends force to the other.",
+  "oh": [
+   "מצמד שולח כוח כשציר מחליק",
+   "כל הגלגלים תמיד נעולים יחד",
+   "הנהג מחליף ידנית בכל פעם"
+  ],
+  "oe": [
+   "A clutch sends force when an axle slips",
+   "All wheels always locked together",
+   "The driver switches by hand each time"
+  ],
+  "id": 98
+ },
+ {
+  "topic": "דיפרנציאל · הנעה כפולה ו-4x4 (AWD & 4x4)",
+  "type": "mcq",
+  "qh": "למה במכוניות חשמליות לפעמים אין דיפרנציאל מרכזי?",
+  "qe": "Why do some EVs have no centre diff?",
+  "ah": "יש מנוע נפרד לכל ציר, והמחשב שולט בכוח של כל אחד.",
+  "ae": "There is a separate motor per axle, and the computer controls each one's force.",
+  "oh": [
+   "מנוע נפרד לכל ציר",
+   "כי הן תמיד נוסעות ישר",
+   "כי אין להן גלגלים אחוריים"
+  ],
+  "oe": [
+   "A separate motor per axle",
+   "Because they always drive straight",
+   "Because they have no rear wheels"
+  ],
+  "id": 99
+ },
+ {
+  "topic": "דיפרנציאל · הנעה כפולה ו-4x4 (AWD & 4x4)",
+  "type": "mcq",
+  "qh": "מה זה וקטור מומנט (Torque Vectoring)?",
+  "qe": "What is torque vectoring?",
+  "ah": "שולחים יותר כוח לגלגל החיצוני בסיבוב כדי לעזור לרכב להסתובב.",
+  "ae": "Sending more force to the outer wheel in a turn to help the car rotate.",
+  "oh": [
+   "יותר כוח לגלגל החיצוני בסיבוב",
+   "אותו כוח בדיוק לכל גלגל תמיד",
+   "ניתוק המנוע בכל סיבוב"
+  ],
+  "oe": [
+   "More force to the outer wheel in a turn",
+   "Exactly equal force to each wheel always",
+   "Cutting the engine in every turn"
+  ],
+  "id": 100
+ },
+ {
+  "topic": "ראצ׳ט · גלגל חופשי וחד-כיווני (Freewheel & One-Way Clutch)",
+  "type": "mcq",
+  "qh": "למה אפשר להפסיק לדווש באופניים והגלגל ממשיך להסתובב?",
+  "qe": "Why can you stop pedalling while the bike wheel keeps turning?",
+  "ah": "בגלגל האחורי יש מנגנון גלגל חופשי (Freewheel) – ראצ׳ט עם לשוניות שנותן לגלגל לעקוף את הדוושות.",
+  "ae": "The rear hub has a freewheel – a ratchet with pawls that lets the wheel overrun the pedals.",
+  "oh": [
+   "ראצ׳ט בגלגל האחורי",
+   "השרשרת נקרעת לרגע",
+   "הבלם משחרר את הגלגל"
+  ],
+  "oe": [
+   "A ratchet in the rear hub",
+   "The chain briefly comes off",
+   "The brake releases the wheel"
+  ],
+  "id": 101
+ },
+ {
+  "topic": "ראצ׳ט · גלגל חופשי וחד-כיווני (Freewheel & One-Way Clutch)",
+  "type": "mcq",
+  "qh": "מה הרעש \"טיק-טיק-טיק\" כשאופניים נוסעים בלי דיווש?",
+  "qe": "What is the tick-tick sound when coasting a bike?",
+  "ah": "הלשוניות קופצות מעל השיניים של הראצ׳ט בגלגל האחורי.",
+  "ae": "The pawls clicking over the ratchet teeth in the rear hub.",
+  "oh": [
+   "לשוניות קופצות על שיניים",
+   "השרשרת משתפשפת במסגרת",
+   "אוויר יוצא מהצמיג"
+  ],
+  "oe": [
+   "Pawls clicking over teeth",
+   "The chain rubbing the frame",
+   "Air leaking from the tyre"
+  ],
+  "id": 102
+ },
+ {
+  "topic": "ראצ׳ט · גלגל חופשי וחד-כיווני (Freewheel & One-Way Clutch)",
+  "type": "mcq",
+  "qh": "מה זה מצמד גלילים חד-כיווני (Roller Clutch)?",
+  "qe": "What is a roller one-way clutch?",
+  "ah": "גלילים קטנים בתוך חריצים משופעים. בכיוון אחד הם נתקעים ונועלים, בשני מתגלגלים חופשי.",
+  "ae": "Small rollers in sloped pockets. One way they wedge and lock, the other they roll free.",
+  "oh": [
+   "גלילים שנתקעים בכיוון אחד",
+   "שני גלגלי שיניים שמחליפים כיוון",
+   "קפיץ ענק שנמתח בסיבוב"
+  ],
+  "oe": [
+   "Rollers that wedge one way",
+   "Two gears that swap direction",
+   "A huge spring wound by turning"
+  ],
+  "id": 103
+ },
+ {
+  "topic": "ראצ׳ט · גלגל חופשי וחד-כיווני (Freewheel & One-Way Clutch)",
+  "type": "mcq",
+  "qh": "מה היתרון של מצמד גלילים על פני ראצ׳ט עם לשונית?",
+  "qe": "Advantage of a roller clutch over a pawl ratchet?",
+  "ah": "נועל מיד בכל זווית, בלי \"קפיצה\" לשן הבאה, ובשקט.",
+  "ae": "It locks instantly at any angle, with no jump to the next tooth, and silently.",
+  "oh": [
+   "נועל מיד בכל זווית ובשקט",
+   "זול יותר בכל מקרה ובכל גודל",
+   "עובד גם בשני הכיוונים יחד"
+  ],
+  "oe": [
+   "Locks instantly at any angle, quietly",
+   "Always cheaper at any size",
+   "Works both ways at once"
+  ],
+  "id": 104
+ },
+ {
+  "topic": "ראצ׳ט · גלגל חופשי וחד-כיווני (Freewheel & One-Way Clutch)",
+  "type": "mcq",
+  "qh": "מה זה מצמד ספראג (Sprag Clutch)?",
+  "qe": "What is a sprag clutch?",
+  "ah": "חלקים קטנים מעוצבים (Sprags) שמתהפכים ונתקעים בין שתי טבעות בכיוון אחד.",
+  "ae": "Small shaped pieces (sprags) that tilt and jam between two rings in one direction.",
+  "oh": [
+   "חלקים שמתהפכים ונתקעים בין טבעות",
+   "סוג של בורג שננעל בדבק",
+   "מצמד חשמלי עם סליל נחושת"
+  ],
+  "oe": [
+   "Pieces that tilt and jam between rings",
+   "A screw locked with glue",
+   "An electric clutch with a copper coil"
+  ],
+  "id": 105
+ },
+ {
+  "topic": "ראצ׳ט · גלגל חופשי וחד-כיווני (Freewheel & One-Way Clutch)",
+  "type": "mcq",
+  "qh": "איפה יש מצמד חד-כיווני במנוע רכב?",
+  "qe": "Where is a one-way clutch in a car engine?",
+  "ah": "במתנע (Starter): הוא מסובב את המנוע, וכשהמנוע מתניע ומסתובב מהר – המצמד משתחרר כדי לא לסובב את המתנע.",
+  "ae": "In the starter: it cranks the engine, and once the engine runs faster it lets go so the starter is not spun.",
+  "oh": [
+   "במתנע, כדי שהמנוע לא יסובב אותו",
+   "בהגה, כדי שלא יסתובב לבד",
+   "בדלת, כדי שלא תיפתח"
+  ],
+  "oe": [
+   "In the starter, so the engine does not spin it",
+   "In the steering, so it does not turn alone",
+   "In the door, so it does not open"
+  ],
+  "id": 106
+ },
+ {
+  "topic": "ראצ׳ט · גלגל חופשי וחד-כיווני (Freewheel & One-Way Clutch)",
+  "type": "mcq",
+  "qh": "איפה עוד משתמשים בראצ׳ט בחיים?",
+  "qe": "Where else are ratchets used?",
+  "ah": "רצועת קשירה (Ratchet Strap), מנוף ידני, אזיקון, וגלגל של חגורת בטיחות.",
+  "ae": "Ratchet straps, hand winches, cable ties, and seat-belt reels.",
+  "oh": [
+   "רצועת קשירה, אזיקון, חגורת בטיחות",
+   "רק במפתחות של מכונאים",
+   "רק במכוניות מירוץ"
+  ],
+  "oe": [
+   "Ratchet straps, cable ties, seat belts",
+   "Only in mechanics' wrenches",
+   "Only in race cars"
+  ],
+  "id": 107
+ },
+ {
+  "topic": "ראצ׳ט · גלגל חופשי וחד-כיווני (Freewheel & One-Way Clutch)",
+  "type": "mcq",
+  "qh": "איך אזיקון (Cable Tie) הוא ראצ׳ט?",
+  "qe": "How is a cable tie a ratchet?",
+  "ah": "יש לו שיניים לאורך, ולשונית קטנה בראש שנותנת להדק אבל לא לשחרר.",
+  "ae": "It has teeth along it and a small pawl in the head that lets it tighten but not loosen.",
+  "oh": [
+   "שיניים ולשונית שנותנת רק להדק",
+   "דבק שמתייבש אחרי שסוגרים",
+   "מגנט קטן שמחזיק את הקצה"
+  ],
+  "oe": [
+   "Teeth and a pawl that only let it tighten",
+   "Glue that dries after closing",
+   "A small magnet holding the end"
+  ],
+  "id": 108
+ },
+ {
+  "topic": "ראצ׳ט · גלגל חופשי וחד-כיווני (Freewheel & One-Way Clutch)",
+  "type": "mcq",
+  "qh": "מה הסכנה אם ראצ׳ט של מנוף נשבר תחת משקל?",
+  "qe": "Danger if a winch ratchet fails under load?",
+  "ah": "המשקל נופל והידית יכולה להסתובב אחורה בכוח. לכן יש גם בלם נוסף.",
+  "ae": "The load drops and the handle can spin back violently. So a second brake is added.",
+  "oh": [
+   "המשקל נופל והידית מסתובבת בכוח",
+   "המנוף פשוט נעצר במקום",
+   "שום סכנה, הכבל יחזיק"
+  ],
+  "oe": [
+   "The load drops and the handle spins back",
+   "The winch simply stops in place",
+   "No danger, the cable holds"
+  ],
+  "id": 109
+ },
+ {
+  "topic": "ראצ׳ט · גלגל חופשי וחד-כיווני (Freewheel & One-Way Clutch)",
+  "type": "mcq",
+  "qh": "כמה לשוניות יש בדרך כלל בגלגל אופניים איכותי ולמה?",
+  "qe": "How many pawls in a quality bike hub, and why?",
+  "ah": "לרוב 3 עד 6. יותר לשוניות מחלקות את הכוח וגם תופסות מהר יותר.",
+  "ae": "Often 3 to 6. More pawls share the force and engage sooner.",
+  "oh": [
+   "3–6, לחלק את הכוח",
+   "אחת, כדי לחסוך משקל",
+   "מאה, כדי שיהיה שקט"
+  ],
+  "oe": [
+   "3–6, to share the load",
+   "One, to save weight",
+   "A hundred, for silence"
+  ],
+  "id": 110
+ },
+ {
+  "topic": "ראצ׳ט · קפיצים (Springs)",
+  "type": "mcq",
+  "qh": "מה תפקיד הקפיץ שלוחץ על הלשונית?",
+  "qe": "What does the spring on the pawl do?",
+  "ah": "דוחף את הלשונית תמיד אל השיניים, כדי שתתפוס מיד כשמסובבים אחורה.",
+  "ae": "Keeps pushing the pawl into the teeth so it catches at once when turned backward.",
+  "oh": [
+   "דוחף את הלשונית אל השיניים",
+   "מסובב את הגלגל קדימה לבד",
+   "מוריד את הרעש של הראצ׳ט"
+  ],
+  "oe": [
+   "Pushes the pawl into the teeth",
+   "Turns the wheel forward by itself",
+   "Lowers the ratchet noise"
+  ],
+  "id": 111
+ },
+ {
+  "topic": "ראצ׳ט · קפיצים (Springs)",
+  "type": "mcq",
+  "qh": "קפיץ שנלחץ 2 מ\"מ ב-10 ניוטון. כמה ניוטון ב-4 מ\"מ?",
+  "qe": "A spring compresses 2 mm at 10 N. Force at 4 mm?",
+  "ah": "קפיץ רגיל: פי 2 לחיצה – פי 2 כוח. 20 ניוטון.",
+  "ae": "A normal spring: twice the squeeze, twice the force. 20 N.",
+  "oh": [
+   "20 ניוטון",
+   "40 ניוטון",
+   "10 ניוטון"
+  ],
+  "oe": [
+   "20 N",
+   "40 N",
+   "10 N"
+  ],
+  "id": 112
+ },
+ {
+  "topic": "ראצ׳ט · קפיצים (Springs)",
+  "type": "mcq",
+  "qh": "מה זה קשיחות קפיץ (Spring Rate)?",
+  "qe": "What is spring rate?",
+  "ah": "כמה כוח צריך כדי ללחוץ אותו מ\"מ אחד. קפיץ קשיח – צריך יותר כוח.",
+  "ae": "How much force it takes to compress it 1 mm. A stiff spring needs more.",
+  "oh": [
+   "כמה כוח ללחוץ מ\"מ אחד",
+   "כמה פעמים הקפיץ מסתובב",
+   "מה האורך המלא של הקפיץ"
+  ],
+  "oe": [
+   "Force to compress 1 mm",
+   "How many coils it has",
+   "Its full length"
+  ],
+  "id": 113
+ },
+ {
+  "topic": "ראצ׳ט · קפיצים (Springs)",
+  "type": "mcq",
+  "qh": "מה קורה לקפיץ שנלחץ יותר מדי (מעבר לגבול)?",
+  "qe": "What happens to a spring squeezed past its limit?",
+  "ah": "הוא מתעוות לצמיתות ולא חוזר לאורך שלו. אומרים שהוא \"התיישב\" (Set).",
+  "ae": "It permanently deforms and does not return to length – it \"takes a set\".",
+  "oh": [
+   "מתעוות ולא חוזר לאורך",
+   "נעשה קשיח יותר לתמיד",
+   "שום דבר, תמיד חוזר"
+  ],
+  "oe": [
+   "Deforms and does not return",
+   "Becomes stiffer forever",
+   "Nothing, it always returns"
+  ],
+  "id": 114
+ },
+ {
+  "topic": "ראצ׳ט · קפיצים (Springs)",
+  "type": "mcq",
+  "qh": "במצמד מומנט, מה משנה הסיבוב של הטבעת עם המספרים?",
+  "qe": "In a torque clutch, what does turning the numbered ring change?",
+  "ah": "כמה הקפיץ לחוץ. יותר לחיצה – צריך יותר כוח כדי שהכדורים יקפצו.",
+  "ae": "How much the spring is squeezed. More squeeze – more force before the balls jump.",
+  "oh": [
+   "כמה הקפיץ לחוץ",
+   "את מהירות המנוע",
+   "את כיוון הסיבוב"
+  ],
+  "oe": [
+   "How much the spring is squeezed",
+   "The motor speed",
+   "The turning direction"
+  ],
+  "id": 115
+ },
+ {
+  "topic": "ראצ׳ט · קפיצים (Springs)",
+  "type": "mcq",
+  "qh": "ממה עשויים קפיצים חזקים בדרך כלל?",
+  "qe": "What are strong springs usually made of?",
+  "ah": "פלדת קפיצים (Spring Steel) – פלדה שמוקשחת כך שתתכופף הרבה ותחזור.",
+  "ae": "Spring steel – steel heat-treated to bend a lot and come back.",
+  "oh": [
+   "פלדת קפיצים",
+   "אלומיניום רך",
+   "נחושת טהורה"
+  ],
+  "oe": [
+   "Spring steel",
+   "Soft aluminium",
+   "Pure copper"
+  ],
+  "id": 116
+ },
+ {
+  "topic": "ראצ׳ט · קפיצים (Springs)",
+  "type": "mcq",
+  "qh": "למה קפיץ יכול להישבר אחרי מיליון לחיצות?",
+  "qe": "Why can a spring break after a million cycles?",
+  "ah": "עייפות (Fatigue): סדק זעיר גדל בכל לחיצה עד שהקפיץ נשבר.",
+  "ae": "Fatigue: a tiny crack grows with each cycle until it snaps.",
+  "oh": [
+   "עייפות – סדק שגדל בכל לחיצה",
+   "הוא נמס מהחום של הידיים",
+   "הוא מתכווץ מקור בלילה"
+  ],
+  "oe": [
+   "Fatigue – a crack grows each cycle",
+   "It melts from hand heat",
+   "It shrinks from cold at night"
+  ],
+  "id": 117
+ },
+ {
+  "topic": "ראצ׳ט · קפיצים (Springs)",
+  "type": "mcq",
+  "qh": "מה זה קפיץ פיתול (Torsion Spring)?",
+  "qe": "What is a torsion spring?",
+  "ah": "קפיץ שעובד בסיבוב, לא בלחיצה. למשל בקפיץ של אטב כביסה.",
+  "ae": "A spring that works by twisting, not squeezing – like in a clothes peg.",
+  "oh": [
+   "קפיץ שעובד בסיבוב",
+   "קפיץ שעובד רק במתיחה",
+   "קפיץ עשוי מגומי"
+  ],
+  "oe": [
+   "A spring that works by twisting",
+   "A spring working only in tension",
+   "A spring made of rubber"
+  ],
+  "id": 118
+ },
+ {
+  "topic": "ראצ׳ט · קפיצים (Springs)",
+  "type": "mcq",
+  "qh": "למה לא שמים קפיץ חזק מאוד על הלשונית?",
+  "qe": "Why not use a very strong pawl spring?",
+  "ah": "הלשונית תשתפשף חזק על השיניים בכל סיבוב קדימה – יותר שחיקה ויותר כוח מהיד.",
+  "ae": "The pawl would rub hard over the teeth on every forward turn – more wear and more hand effort.",
+  "oh": [
+   "שחיקה ומאמץ גדולים בסיבוב קדימה",
+   "הראצ׳ט יסתובב בשני הכיוונים",
+   "הקפיץ יחליד מהר יותר"
+  ],
+  "oe": [
+   "More wear and effort turning forward",
+   "It would turn both ways",
+   "The spring would rust faster"
+  ],
+  "id": 119
+ },
+ {
+  "topic": "ראצ׳ט · קפיצים (Springs)",
+  "type": "mcq",
+  "qh": "מה זה דיסקית קפיץ (Belleville Washer)?",
+  "qe": "What is a Belleville washer?",
+  "ah": "דיסקית בצורת צלחת הפוכה שעובדת כקפיץ חזק וקצר מאוד. נפוצה במצמדים.",
+  "ae": "A dished washer that acts as a very short, strong spring. Common in clutches.",
+  "oh": [
+   "דיסקית בצורת צלחת שהיא קפיץ",
+   "דיסקית שטוחה לגמרי מפלסטיק",
+   "אטם גומי לשמן"
+  ],
+  "oe": [
+   "A dished washer that is a spring",
+   "A flat plastic washer",
+   "A rubber oil seal"
+  ],
+  "id": 120
+ },
+ {
+  "topic": "ראצ׳ט · חומרים ושחיקה (Materials & Wear)",
+  "type": "mcq",
+  "qh": "למה הלשונית והשיניים בראצ׳ט עשויות פלדה מוקשחת?",
+  "qe": "Why are the pawl and teeth hardened steel?",
+  "ah": "כל הכוח עובר דרך נקודת מגע קטנה. בלי הקשחה הקצוות יתעגלו מהר.",
+  "ae": "All the force goes through a tiny contact. Without hardening the edges round off fast.",
+  "oh": [
+   "כל הכוח בנקודה קטנה",
+   "כדי שהראצ׳ט יהיה קל",
+   "כדי שיהיה צבע כסוף"
+  ],
+  "oe": [
+   "All force goes through a small spot",
+   "To make the ratchet light",
+   "To give a silver colour"
+  ],
+  "id": 121
+ },
+ {
+  "topic": "ראצ׳ט · חומרים ושחיקה (Materials & Wear)",
+  "type": "mcq",
+  "qh": "מה קורה כשקצה הלשונית מתעגל משחיקה?",
+  "qe": "What if the pawl tip rounds off from wear?",
+  "ah": "היא יכולה להחליק מעל השן בכוח גבוה – הראצ׳ט \"קופץ\" אחורה.",
+  "ae": "It can slip over the tooth under high force – the ratchet \"skips\" back.",
+  "oh": [
+   "הראצ׳ט עלול לקפוץ אחורה",
+   "הראצ׳ט נהיה שקט יותר",
+   "הראצ׳ט מסתובב מהר יותר"
+  ],
+  "oe": [
+   "The ratchet may skip back",
+   "The ratchet gets quieter",
+   "The ratchet spins faster"
+  ],
+  "id": 122
+ },
+ {
+  "topic": "ראצ׳ט · חומרים ושחיקה (Materials & Wear)",
+  "type": "mcq",
+  "qh": "למה מפתחות טובים מצופים כרום (Chrome)?",
+  "qe": "Why are good wrenches chrome-plated?",
+  "ah": "מגן מחלודה וקל לנקות. החוזק בא מהפלדה שמתחת, לא מהכרום.",
+  "ae": "Protects from rust and is easy to clean. Strength comes from the steel below.",
+  "oh": [
+   "מגן מחלודה וקל לניקוי",
+   "מכפיל את חוזק הפלדה",
+   "מוריד את משקל המפתח"
+  ],
+  "oe": [
+   "Protects from rust, easy to clean",
+   "Doubles the steel strength",
+   "Cuts wrench weight"
+  ],
+  "id": 123
+ },
+ {
+  "topic": "ראצ׳ט · חומרים ושחיקה (Materials & Wear)",
+  "type": "mcq",
+  "qh": "מה זה כרום-ונדיום (Cr-V) על ידית מפתח?",
+  "qe": "What is Cr-V on a wrench handle?",
+  "ah": "סוג פלדה עם כרום וונדיום, חזקה וקשוחה – לא נשברת בקלות במכה.",
+  "ae": "A steel alloy with chromium and vanadium – strong and tough, not easily snapped.",
+  "oh": [
+   "פלדה חזקה וקשוחה",
+   "סוג של פלסטיק קשה",
+   "שם של חברה"
+  ],
+  "oe": [
+   "A strong, tough steel",
+   "A type of hard plastic",
+   "A company name"
+  ],
+  "id": 124
+ },
+ {
+  "topic": "ראצ׳ט · חומרים ושחיקה (Materials & Wear)",
+  "type": "mcq",
+  "qh": "למה במצמד מומנט הכדורים מפלדה ולא מפלסטיק?",
+  "qe": "Why are clutch balls steel, not plastic?",
+  "ah": "הם נלחצים בכוח לתוך גומות. פלסטיק היה נמעך ונשחק, והכוח היה משתנה.",
+  "ae": "They are pressed hard into dimples. Plastic would squash and wear, changing the setting.",
+  "oh": [
+   "פלסטיק היה נמעך ונשחק",
+   "פלדה זולה יותר מפלסטיק",
+   "פלסטיק כבד מדי לזה"
+  ],
+  "oe": [
+   "Plastic would squash and wear",
+   "Steel is cheaper than plastic",
+   "Plastic is too heavy"
+  ],
+  "id": 125
+ },
+ {
+  "topic": "ראצ׳ט · חומרים ושחיקה (Materials & Wear)",
+  "type": "mcq",
+  "qh": "למה הכוח שבו המצמד מחליק משתנה אחרי שנים?",
+  "qe": "Why does the clutch slip force change over years?",
+  "ah": "הגומות נשחקות והקפיץ מאבד קצת כוח. לכן מכיילים מפתחות מומנט מחדש.",
+  "ae": "The dimples wear and the spring loses some force. That is why torque wrenches are recalibrated.",
+  "oh": [
+   "שחיקה וקפיץ שמאבד כוח",
+   "הסוללה מתיישנת",
+   "הצבע מתקלף"
+  ],
+  "oe": [
+   "Wear and a weakening spring",
+   "The battery ages",
+   "The paint peels"
+  ],
+  "id": 126
+ },
+ {
+  "topic": "ראצ׳ט · חומרים ושחיקה (Materials & Wear)",
+  "type": "mcq",
+  "qh": "איך שמן קל עוזר לראצ׳ט?",
+  "qe": "How does light oil help a ratchet?",
+  "ah": "מוריד חיכוך ושחיקה ושומר מחלודה. לא שמים יותר מדי – זה מושך לכלוך.",
+  "ae": "Cuts friction and wear and prevents rust. Not too much – it attracts dirt.",
+  "oh": [
+   "מוריד חיכוך ומונע חלודה",
+   "נועל את הלשונית במקום",
+   "מגדיל את כוח הקפיץ"
+  ],
+  "oe": [
+   "Cuts friction and prevents rust",
+   "Locks the pawl in place",
+   "Increases spring force"
+  ],
+  "id": 127
+ },
+ {
+  "topic": "ראצ׳ט · חומרים ושחיקה (Materials & Wear)",
+  "type": "mcq",
+  "qh": "מה הבעיה עם גריז סמיך מאוד בראצ׳ט קר?",
+  "qe": "Problem with very thick grease in a cold ratchet?",
+  "ah": "הלשונית יכולה להידבק ולא לקפוץ מהר לשן – הראצ׳ט לא תופס.",
+  "ae": "The pawl can stick and not snap into the tooth – the ratchet fails to catch.",
+  "oh": [
+   "הלשונית נדבקת ולא תופסת",
+   "הראצ׳ט מסתובב מהר מדי",
+   "אין שום בעיה עם זה"
+  ],
+  "oe": [
+   "The pawl sticks and does not catch",
+   "The ratchet spins too fast",
+   "There is no problem"
+  ],
+  "id": 128
+ },
+ {
+  "topic": "ראצ׳ט · חומרים ושחיקה (Materials & Wear)",
+  "type": "mcq",
+  "qh": "למה שן רחבה יותר עמידה יותר?",
+  "qe": "Why is a wider tooth more durable?",
+  "ah": "אותו כוח מתחלק על שטח גדול יותר, אז הלחץ בכל נקודה קטן יותר.",
+  "ae": "The same force spreads over more area, so the pressure at each point is lower.",
+  "oh": [
+   "אותו כוח על שטח גדול יותר",
+   "שן רחבה עשויה מחומר אחר",
+   "שן רחבה תמיד קצרה יותר"
+  ],
+  "oe": [
+   "Same force over more area",
+   "A wide tooth is a different material",
+   "A wide tooth is always shorter"
+  ],
+  "id": 129
+ },
+ {
+  "topic": "ראצ׳ט · חומרים ושחיקה (Materials & Wear)",
+  "type": "mcq",
+  "qh": "מה ההבדל בין חוזק (Strength) לקשיות (Hardness)?",
+  "qe": "Strength vs hardness?",
+  "ah": "חוזק: כמה כוח החומר מחזיק לפני שנשבר. קשיות: כמה קשה לשרוט או לשקע אותו.",
+  "ae": "Strength: how much force before it breaks. Hardness: how hard it is to scratch or dent.",
+  "oh": [
+   "כוח עד שבר מול עמידות לשריטה",
+   "שתי מילים לאותו דבר בדיוק",
+   "חוזק רק לפלסטיק, קשיות רק למתכת"
+  ],
+  "oe": [
+   "Force to break vs scratch resistance",
+   "Two words for exactly the same",
+   "Strength for plastic, hardness for metal"
+  ],
+  "id": 130
+ },
+ {
+  "topic": "ראצ׳ט · מפתח מומנט ומדידה (Torque Wrench & Measuring)",
+  "type": "mcq",
+  "qh": "מה עושה מפתח מומנט (Torque Wrench) עם קליק?",
+  "qe": "What does a click torque wrench do?",
+  "ah": "כשמגיעים לכוח שנבחר, מנגנון קפיץ \"קופץ\" ומשמיע קליק. ככה יודעים לעצור.",
+  "ae": "At the set force a spring mechanism trips and clicks, so you know to stop.",
+  "oh": [
+   "מקליק כשמגיעים לכוח שנבחר",
+   "מסובב את הבורג לבד",
+   "מונע סיבוב לאחור בלבד"
+  ],
+  "oe": [
+   "Clicks at the set force",
+   "Turns the bolt by itself",
+   "Only prevents backward turning"
+  ],
+  "id": 131
+ },
+ {
+  "topic": "ראצ׳ט · מפתח מומנט ומדידה (Torque Wrench & Measuring)",
+  "type": "mcq",
+  "qh": "למה חשוב להדק ברגי גלגל במומנט הנכון?",
+  "qe": "Why tighten wheel nuts to the right torque?",
+  "ah": "חלש מדי – הגלגל יכול להשתחרר. חזק מדי – הבורג נמתח, ודיסק הבלם יכול להתעקם.",
+  "ae": "Too loose – the wheel can come off. Too tight – the stud stretches and the brake disc can warp.",
+  "oh": [
+   "חלש משתחרר, חזק מדי מזיק",
+   "כדי שיהיה קל לפתוח אחר כך",
+   "רק בגלל דרישה של היצרן"
+  ],
+  "oe": [
+   "Too loose comes off, too tight damages",
+   "So it is easy to open later",
+   "Only because the maker says so"
+  ],
+  "id": 132
+ },
+ {
+  "topic": "ראצ׳ט · מפתח מומנט ומדידה (Torque Wrench & Measuring)",
+  "type": "mcq",
+  "qh": "מומנט 100 Nm, ידית באורך 0.5 מטר. כמה כוח ביד?",
+  "qe": "100 Nm on a 0.5 m handle – how much hand force?",
+  "ah": "100 חלקי 0.5 = 200 ניוטון (בערך 20 ק\"ג).",
+  "ae": "100 divided by 0.5 = 200 N (about 20 kg).",
+  "oh": [
+   "200 ניוטון",
+   "50 ניוטון",
+   "100 ניוטון"
+  ],
+  "oe": [
+   "200 N",
+   "50 N",
+   "100 N"
+  ],
+  "id": 133
+ },
+ {
+  "topic": "ראצ׳ט · מפתח מומנט ומדידה (Torque Wrench & Measuring)",
+  "type": "mcq",
+  "qh": "למה מחזירים מפתח מומנט עם קליק ל\"אפס\" אחרי שימוש?",
+  "qe": "Why set a click torque wrench back to zero after use?",
+  "ah": "כדי שהקפיץ לא יישאר לחוץ שבועות ויאבד כוח – אחרת המדידה תהיה שגויה.",
+  "ae": "So the spring is not left squeezed for weeks and lose force – otherwise readings drift.",
+  "oh": [
+   "כדי שהקפיץ לא יאבד כוח",
+   "כדי שלא יסתובב בארגז",
+   "כדי לחסוך בסוללה"
+  ],
+  "oe": [
+   "So the spring does not weaken",
+   "So it does not turn in the box",
+   "To save the battery"
+  ],
+  "id": 134
+ },
+ {
+  "topic": "ראצ׳ט · מפתח מומנט ומדידה (Torque Wrench & Measuring)",
+  "type": "mcq",
+  "qh": "למה לא משתמשים במפתח מומנט כדי לפתוח בורג תקוע?",
+  "qe": "Why not use a torque wrench to break loose a stuck bolt?",
+  "ah": "הכוח הגדול יכול לפגוע במנגנון המדידה ולהרוס את הדיוק.",
+  "ae": "The big force can damage the measuring mechanism and ruin accuracy.",
+  "oh": [
+   "זה הורס את הדיוק שלו",
+   "הוא לא מסתובב לכיוון הזה",
+   "הוא קצר מדי לזה"
+  ],
+  "oe": [
+   "It ruins its accuracy",
+   "It cannot turn that way",
+   "It is too short for that"
+  ],
+  "id": 135
+ },
+ {
+  "topic": "ראצ׳ט · מפתח מומנט ומדידה (Torque Wrench & Measuring)",
+  "type": "mcq",
+  "qh": "כמה פעמים כדאי לכייל מפתח מומנט?",
+  "qe": "How often should a torque wrench be calibrated?",
+  "ah": "בערך פעם בשנה או אחרי 5,000 שימושים, ומיד אם הוא נפל.",
+  "ae": "About once a year or after about 5,000 uses, and right away if dropped.",
+  "oh": [
+   "פעם בשנה או אחרי נפילה",
+   "אף פעם, הוא תמיד מדויק",
+   "בכל פעם לפני בורג"
+  ],
+  "oe": [
+   "Yearly or after a drop",
+   "Never, it is always accurate",
+   "Before every single bolt"
+  ],
+  "id": 136
+ },
+ {
+  "topic": "ראצ׳ט · מפתח מומנט ומדידה (Torque Wrench & Measuring)",
+  "type": "mcq",
+  "qh": "מה ההבדל בין מפתח מומנט קליק לדיגיטלי?",
+  "qe": "Click vs digital torque wrench?",
+  "ah": "קליק – קפיץ ומנגנון. דיגיטלי – חיישן שמראה מספר על מסך, לפעמים גם זווית.",
+  "ae": "Click – spring mechanism. Digital – a sensor showing a number, sometimes the angle too.",
+  "oh": [
+   "קפיץ מול חיישן עם מסך",
+   "דיגיטלי עובד רק בשמאל",
+   "אין שום הבדל בכלל"
+  ],
+  "oe": [
+   "Spring vs sensor with a screen",
+   "Digital only works left-hand",
+   "No difference at all"
+  ],
+  "id": 137
+ },
+ {
+  "topic": "ראצ׳ט · מפתח מומנט ומדידה (Torque Wrench & Measuring)",
+  "type": "mcq",
+  "qh": "מה זה הידוק בזווית (Torque-to-Angle)?",
+  "qe": "What is torque-to-angle tightening?",
+  "ah": "מהדקים למומנט קטן, ואז מסובבים עוד זווית קבועה, למשל 90 מעלות. מדויק יותר במתיחת הבורג.",
+  "ae": "Tighten to a small torque, then turn a set extra angle, e.g. 90°. It controls bolt stretch better.",
+  "oh": [
+   "מומנט קטן ועוד זווית קבועה",
+   "מהדקים עד שהבורג נשבר",
+   "מהדקים ביד בלי כלי"
+  ],
+  "oe": [
+   "Small torque then a set angle",
+   "Tighten until the bolt breaks",
+   "Hand-tight with no tool"
+  ],
+  "id": 138
+ },
+ {
+  "topic": "ראצ׳ט · מפתח מומנט ומדידה (Torque Wrench & Measuring)",
+  "type": "mcq",
+  "qh": "למה שמן על התבריג משנה את המומנט הנכון?",
+  "qe": "Why does oil on the threads change the right torque?",
+  "ah": "פחות חיכוך – אותו מומנט מותח את הבורג הרבה יותר. אפשר למתוח יותר מדי.",
+  "ae": "Less friction – the same torque stretches the bolt much more. You can over-stretch it.",
+  "oh": [
+   "פחות חיכוך – הבורג נמתח יותר",
+   "השמן עושה את הבורג חלש",
+   "אין לזה שום השפעה"
+  ],
+  "oe": [
+   "Less friction – more bolt stretch",
+   "Oil weakens the bolt",
+   "It has no effect"
+  ],
+  "id": 139
+ },
+ {
+  "topic": "ראצ׳ט · מפתח מומנט ומדידה (Torque Wrench & Measuring)",
+  "type": "mcq",
+  "qh": "מה בעצם \"מחזיק\" חיבור בורג?",
+  "qe": "What actually holds a bolted joint?",
+  "ah": "הבורג נמתח קצת כמו קפיץ ולוחץ את החלקים יחד. המומנט הוא רק דרך למדוד את זה.",
+  "ae": "The bolt stretches a little like a spring and clamps the parts. Torque is just a way to estimate that.",
+  "oh": [
+   "מתיחת הבורג שלוחצת את החלקים",
+   "רק החיכוך של הראש",
+   "דבק שנמצא בתוך התבריג"
+  ],
+  "oe": [
+   "Bolt stretch clamping the parts",
+   "Only the head friction",
+   "Glue in the threads"
+  ],
+  "id": 140
+ },
+ {
+  "topic": "ראצ׳ט · כשלים ובטיחות (Failures & Safety)",
+  "type": "mcq",
+  "qh": "ראצ׳ט שמחליק אחורה מדי פעם. מה כנראה הבעיה?",
+  "qe": "A ratchet that occasionally slips back – likely problem?",
+  "ah": "לשונית שחוקה, קפיץ חלש, או לכלוך שמונע מהלשונית להיכנס עד הסוף.",
+  "ae": "A worn pawl, weak spring, or dirt stopping the pawl seating fully.",
+  "oh": [
+   "לשונית שחוקה, קפיץ חלש או לכלוך",
+   "ידית ארוכה מדי",
+   "בורג קטן מדי"
+  ],
+  "oe": [
+   "Worn pawl, weak spring or dirt",
+   "A handle that is too long",
+   "A bolt that is too small"
+  ],
+  "id": 141
+ },
+ {
+  "topic": "ראצ׳ט · כשלים ובטיחות (Failures & Safety)",
+  "type": "mcq",
+  "qh": "למה אסור להאריך ידית ראצ׳ט עם צינור?",
+  "qe": "Why not extend a ratchet handle with a pipe?",
+  "ah": "המומנט גדל פי כמה והלשונית או השיניים יכולים להישבר. הידית תטוס והיד תיפגע.",
+  "ae": "Torque multiplies and the pawl or teeth can break. The handle flies and hurts your hand.",
+  "oh": [
+   "השיניים עלולות להישבר ולפגוע",
+   "הצינור יעשה את המפתח קל",
+   "זה מותר תמיד בלי בעיה"
+  ],
+  "oe": [
+   "Teeth may break and cause injury",
+   "The pipe makes it lighter",
+   "Always fine, no problem"
+  ],
+  "id": 142
+ },
+ {
+  "topic": "ראצ׳ט · כשלים ובטיחות (Failures & Safety)",
+  "type": "mcq",
+  "qh": "מה כדאי להשתמש בו לברגים תקועים במקום ראצ׳ט?",
+  "qe": "What to use on stuck bolts instead of a ratchet?",
+  "ah": "ידית שבירה (Breaker Bar) בלי מנגנון ראצ׳ט – חזקה יותר כי אין לשונית שיכולה להישבר.",
+  "ae": "A breaker bar with no ratchet mechanism – stronger, as there is no pawl to break.",
+  "oh": [
+   "ידית שבירה בלי לשונית",
+   "מברג קטן מפלסטיק",
+   "פטיש על הראצ׳ט"
+  ],
+  "oe": [
+   "A breaker bar with no pawl",
+   "A small plastic screwdriver",
+   "Hammer on the ratchet"
+  ],
+  "id": 143
+ },
+ {
+  "topic": "ראצ׳ט · כשלים ובטיחות (Failures & Safety)",
+  "type": "mcq",
+  "qh": "מצמד של מברגה שלא מחליק בכלל, גם במספר נמוך. מה הסכנה?",
+  "qe": "Drill clutch never slips, even on low. Danger?",
+  "ah": "הבורג יכול להיכנס עמוק מדי או להישבר, והמברגה יכולה לסובב את היד.",
+  "ae": "The screw can sink too deep or snap, and the drill can twist your wrist.",
+  "oh": [
+   "בורג שבור ויד שמסתובבת",
+   "הסוללה תיטען מהר מדי",
+   "אין סכנה בכלל"
+  ],
+  "oe": [
+   "Snapped screw and twisted wrist",
+   "The battery charges too fast",
+   "No danger at all"
+  ],
+  "id": 144
+ },
+ {
+  "topic": "ראצ׳ט · כשלים ובטיחות (Failures & Safety)",
+  "type": "mcq",
+  "qh": "למה במנופים יש גם ראצ׳ט וגם בלם?",
+  "qe": "Why do winches have both a ratchet and a brake?",
+  "ah": "כפילות (Redundancy): אם חלק אחד נכשל, השני מחזיק את המשקל.",
+  "ae": "Redundancy: if one fails, the other still holds the load.",
+  "oh": [
+   "אם אחד נכשל השני מחזיק",
+   "כדי שיהיה מהיר יותר",
+   "כדי שיהיה שקט יותר"
+  ],
+  "oe": [
+   "If one fails the other holds",
+   "To make it faster",
+   "To make it quieter"
+  ],
+  "id": 145
+ },
+ {
+  "topic": "ראצ׳ט · כשלים ובטיחות (Failures & Safety)",
+  "type": "mcq",
+  "qh": "מה זה כשל בטוח (Fail-safe)?",
+  "qe": "What is fail-safe design?",
+  "ah": "כשמשהו נשבר, המערכת עוברת למצב בטוח. למשל בלם שנסגר כשאין חשמל.",
+  "ae": "When something breaks, the system goes to a safe state – e.g. a brake that closes on power loss.",
+  "oh": [
+   "כשל מוביל למצב בטוח",
+   "מוצר שאף פעם לא נשבר",
+   "ביטוח שמכסה תקלות"
+  ],
+  "oe": [
+   "Failure leads to a safe state",
+   "A product that never breaks",
+   "Insurance that covers faults"
+  ],
+  "id": 146
+ },
+ {
+  "topic": "ראצ׳ט · כשלים ובטיחות (Failures & Safety)",
+  "type": "mcq",
+  "qh": "למה חגורת בטיחות ננעלת רק במשיכה חזקה ולא איטית?",
+  "qe": "Why does a seat belt lock only on a sharp pull?",
+  "ah": "משקולת או גלגל קטן \"נזרק\" החוצה במשיכה מהירה ותופס את הראצ׳ט. משיכה איטית לא מפעילה אותו.",
+  "ae": "A small weight or wheel flies out on a fast pull and catches the ratchet. A slow pull does not trigger it.",
+  "oh": [
+   "משיכה מהירה מפעילה תפס",
+   "החגורה תמיד נעולה",
+   "חיישן חשמלי בלבד"
+  ],
+  "oe": [
+   "A fast pull triggers a catch",
+   "The belt is always locked",
+   "Only an electric sensor"
+  ],
+  "id": 147
+ },
+ {
+  "topic": "ראצ׳ט · כשלים ובטיחות (Failures & Safety)",
+  "type": "mcq",
+  "qh": "המברגה מחליקה מוקדם מדי גם במספר גבוה. מה לבדוק?",
+  "qe": "Drill slips too early even on a high setting. Check what?",
+  "ah": "קפיץ המצמד חלש או גומות שחוקות. אפשר גם שהמצב הוא \"מקדחה\" לא מוגדר נכון.",
+  "ae": "A weak clutch spring or worn dimples. Also check the setting is not mis-set.",
+  "oh": [
+   "קפיץ חלש או גומות שחוקות",
+   "ידית ארוכה מדי",
+   "מקדח חדש מדי"
+  ],
+  "oe": [
+   "Weak spring or worn dimples",
+   "Handle too long",
+   "Bit too new"
+  ],
+  "id": 148
+ },
+ {
+  "topic": "ראצ׳ט · כשלים ובטיחות (Failures & Safety)",
+  "type": "mcq",
+  "qh": "למה משקפי מגן כשמשחררים קפיץ חזק?",
+  "qe": "Why safety glasses when releasing a strong spring?",
+  "ah": "קפיץ לחוץ אוגר אנרגיה. אם הוא בורח, הוא או חלקים קטנים יכולים לעוף לעיניים.",
+  "ae": "A compressed spring stores energy. If it escapes, it or small parts can fly into the eyes.",
+  "oh": [
+   "קפיץ אוגר אנרגיה ויכול לעוף",
+   "האור בסדנה חזק מדי",
+   "זה רק נוהל של חברות"
+  ],
+  "oe": [
+   "Springs store energy and can fly",
+   "The workshop light is too bright",
+   "Just a company rule"
+  ],
+  "id": 149
+ },
+ {
+  "topic": "ראצ׳ט · כשלים ובטיחות (Failures & Safety)",
+  "type": "mcq",
+  "qh": "בראיון: \"איך תתכנן ראצ׳ט שלא ייכשל?\" – מה תגיד?",
+  "qe": "Interview: \"How would you design a ratchet not to fail?\"",
+  "ah": "פלדה מוקשחת, כמה לשוניות שחולקות כוח, מקדם ביטחון, ובדיקות חיים עם עומס יתר.",
+  "ae": "Hardened steel, several pawls sharing load, a safety factor, and life tests with overload.",
+  "oh": [
+   "מוקשחת, כמה לשוניות ובדיקות",
+   "רק לבחור צבע בולט",
+   "להקטין אותו כמה שאפשר"
+  ],
+  "oe": [
+   "Hardened, multiple pawls and testing",
+   "Just pick a bright colour",
+   "Make it as small as possible"
+  ],
+  "id": 150
+ },
+ {
+  "topic": "קרדן · מפרק הומוקינטי (CV Joint)",
+  "type": "mcq",
+  "qh": "מה זה מפרק הומוקינטי (CV Joint – Constant Velocity)?",
+  "qe": "What is a CV joint?",
+  "ah": "מפרק שמעביר סיבוב בזווית במהירות אחידה לגמרי – בלי ההאצה וההאטה של קרדן.",
+  "ae": "A joint that passes rotation at an angle at perfectly even speed – no speed-up and slow-down like a U-joint.",
+  "oh": [
+   "מעביר סיבוב בזווית במהירות אחידה",
+   "מפרק קרדן עם צלב גדול יותר",
+   "מפרק שעובד רק בקו ישר"
+  ],
+  "oe": [
+   "Passes rotation at an angle at even speed",
+   "A U-joint with a bigger cross",
+   "A joint that only works straight"
+  ],
+  "id": 151
+ },
+ {
+  "topic": "קרדן · מפרק הומוקינטי (CV Joint)",
+  "type": "mcq",
+  "qh": "איפה יש מפרקים הומוקינטיים ברכב עם הנעה קדמית?",
+  "qe": "Where are CV joints in a front-wheel-drive car?",
+  "ah": "בשני הקצוות של כל גל הנעה קדמי – ליד תיבת ההילוכים וליד הגלגל.",
+  "ae": "At both ends of each front driveshaft – by the gearbox and by the wheel.",
+  "oh": [
+   "בשני קצוות של כל גל קדמי",
+   "רק בהגה של הרכב",
+   "רק בגל האחורי הארוך"
+  ],
+  "oe": [
+   "At both ends of each front shaft",
+   "Only in the steering column",
+   "Only on the long rear shaft"
+  ],
+  "id": 152
+ },
+ {
+  "topic": "קרדן · מפרק הומוקינטי (CV Joint)",
+  "type": "mcq",
+  "qh": "למה בגלגל קדמי מניע לא מספיק קרדן רגיל?",
+  "qe": "Why is a plain U-joint not enough at a driven front wheel?",
+  "ah": "הגלגל מסתובב בהגה בזווית גדולה, עד 45 מעלות. קרדן בזווית כזאת רועד מאוד.",
+  "ae": "The wheel steers at big angles, up to about 45°. A U-joint at that angle shakes badly.",
+  "oh": [
+   "זווית ההגה גדולה מדי לקרדן",
+   "קרדן כבד מדי לרכב קטן",
+   "קרדן לא יכול להסתובב מהר"
+  ],
+  "oe": [
+   "Steering angle is too big for a U-joint",
+   "A U-joint is too heavy for small cars",
+   "A U-joint cannot spin fast"
+  ],
+  "id": 153
+ },
+ {
+  "topic": "קרדן · מפרק הומוקינטי (CV Joint)",
+  "type": "mcq",
+  "qh": "מה זה מפרק רצפה (Rzeppa)?",
+  "qe": "What is a Rzeppa joint?",
+  "ah": "מפרק הומוקינטי עם 6 כדורים בתוך מסלולים, שמחזיקים את שני הצדדים באותה זווית.",
+  "ae": "A CV joint with 6 balls in grooves that keep both halves at matching angles.",
+  "oh": [
+   "מפרק עם 6 כדורים במסלולים",
+   "מפרק עם צלב ו-4 מסבים",
+   "מפרק גומי פשוט"
+  ],
+  "oe": [
+   "A joint with 6 balls in grooves",
+   "A joint with a cross and 4 bearings",
+   "A simple rubber joint"
+  ],
+  "id": 154
+ },
+ {
+  "topic": "קרדן · מפרק הומוקינטי (CV Joint)",
+  "type": "mcq",
+  "qh": "מה זה מפרק טריפוד (Tripod Joint)?",
+  "qe": "What is a tripod joint?",
+  "ah": "מפרק עם 3 גלילים על זרועות שנעים בתוך תעלות. מאפשר גם לגל להתארך ולהתקצר.",
+  "ae": "A joint with 3 rollers on arms sliding in channels. It also lets the shaft lengthen and shorten.",
+  "oh": [
+   "3 גלילים שנעים בתעלות",
+   "שני גלגלי שיניים קוניים",
+   "קפיץ גדול בתוך צינור"
+  ],
+  "oe": [
+   "3 rollers sliding in channels",
+   "Two bevel gears",
+   "A big spring inside a tube"
+  ],
+  "id": 155
+ },
+ {
+  "topic": "קרדן · מפרק הומוקינטי (CV Joint)",
+  "type": "mcq",
+  "qh": "למה גל ההנעה הקדמי צריך להתארך ולהתקצר?",
+  "qe": "Why must the front driveshaft change length?",
+  "ah": "כשהמתלה עולה ויורד, המרחק בין תיבת ההילוכים לגלגל משתנה קצת.",
+  "ae": "As the suspension moves up and down, the gearbox-to-wheel distance changes a little.",
+  "oh": [
+   "המתלה משנה את המרחק",
+   "הגל מתחמם ומתארך הרבה",
+   "הנהג מכוון אותו בנסיעה"
+  ],
+  "oe": [
+   "Suspension changes the distance",
+   "The shaft heats and grows a lot",
+   "The driver adjusts it while driving"
+  ],
+  "id": 156
+ },
+ {
+  "topic": "קרדן · מפרק הומוקינטי (CV Joint)",
+  "type": "mcq",
+  "qh": "מה הסימן הקלאסי למפרק הומוקינטי חיצוני שחוק?",
+  "qe": "Classic sign of a worn outer CV joint?",
+  "ah": "טקטוק מהיר כשמסובבים הגה עד הסוף ונוסעים לאט, למשל בחניה.",
+  "ae": "Fast clicking when turning at full lock at low speed, e.g. parking.",
+  "oh": [
+   "טקטוק בסיבוב חד ואיטי",
+   "רעש רק בנסיעה ישרה מהירה",
+   "ריח של דלק ליד הגלגל"
+  ],
+  "oe": [
+   "Clicking in slow, tight turns",
+   "Noise only straight at speed",
+   "Fuel smell near the wheel"
+  ],
+  "id": 157
+ },
+ {
+  "topic": "קרדן · מפרק הומוקינטי (CV Joint)",
+  "type": "mcq",
+  "qh": "מה תפקיד כיסוי הגומי (CV Boot)?",
+  "qe": "What does the rubber CV boot do?",
+  "ah": "שומר את הגריז בפנים ואבק ומים בחוץ. כיסוי קרוע = המפרק נהרס בקרוב.",
+  "ae": "Keeps grease in and dust and water out. A torn boot means the joint will soon fail.",
+  "oh": [
+   "שומר גריז בפנים ולכלוך בחוץ",
+   "מחזיק את המפרק שלא יזוז",
+   "מבודד את הרעש מהמנוע"
+  ],
+  "oe": [
+   "Keeps grease in and dirt out",
+   "Holds the joint from moving",
+   "Blocks engine noise"
+  ],
+  "id": 158
+ },
+ {
+  "topic": "קרדן · מפרק הומוקינטי (CV Joint)",
+  "type": "mcq",
+  "qh": "למה הכיסוי בצורת אקורדיון?",
+  "qe": "Why is the boot shaped like an accordion?",
+  "ah": "כדי להתכופף ולהימתח עם הזווית והאורך של הגל בלי להיקרע.",
+  "ae": "So it can bend and stretch with the shaft angle and length without tearing.",
+  "oh": [
+   "להתכופף ולהימתח בלי להיקרע",
+   "כדי להיראות יפה יותר",
+   "כדי להחזיק יותר גריז"
+  ],
+  "oe": [
+   "To bend and stretch without tearing",
+   "To look nicer",
+   "To hold more grease"
+  ],
+  "id": 159
+ },
+ {
+  "topic": "קרדן · מפרק הומוקינטי (CV Joint)",
+  "type": "mcq",
+  "qh": "למה במכוניות רבות עם הנעה אחורית עדיין יש קרדן?",
+  "qe": "Why do many rear-drive cars still use U-joints?",
+  "ah": "בגל הארוך הזוויות קטנות (פחות מ-3 מעלות), אז קרדן זול וחזק מספיק.",
+  "ae": "On the long shaft the angles are small (under about 3°), so a cheap, strong U-joint is enough.",
+  "oh": [
+   "זוויות קטנות – קרדן מספיק",
+   "הומוקינטי לא מסתובב אחורה",
+   "החוק מחייב קרדן באחור"
+  ],
+  "oe": [
+   "Small angles – a U-joint is enough",
+   "CV joints cannot turn backwards",
+   "The law requires U-joints at the rear"
+  ],
+  "id": 160
+ },
+ {
+  "topic": "קרדן · גלי הינע ואיזון (Driveshafts & Balance)",
+  "type": "mcq",
+  "qh": "למה גל ההינע (Driveshaft) הוא צינור חלול ולא מוט מלא?",
+  "qe": "Why is a driveshaft a hollow tube, not a solid bar?",
+  "ah": "צינור חלול כמעט חזק כמו מוט מלא בפיתול, אבל קל בהרבה.",
+  "ae": "A hollow tube is nearly as strong in twisting as a solid bar, but much lighter.",
+  "oh": [
+   "כמעט חזק כמו מלא וקל בהרבה",
+   "כי קל יותר לצבוע אותו",
+   "כדי שיעבור שמן בפנים"
+  ],
+  "oe": [
+   "Nearly as strong and much lighter",
+   "Because it is easier to paint",
+   "So oil can flow inside"
+  ],
+  "id": 161
+ },
+ {
+  "topic": "קרדן · גלי הינע ואיזון (Driveshafts & Balance)",
+  "type": "mcq",
+  "qh": "מה זה איזון (Balancing) של גל הינע?",
+  "qe": "What is driveshaft balancing?",
+  "ah": "מוסיפים משקולות קטנות כדי שהמשקל יהיה שווה סביב הציר, ולא תהיה רעידה.",
+  "ae": "Small weights are added so mass is even around the axis, with no vibration.",
+  "oh": [
+   "משקולות שמשווים את המשקל",
+   "בדיקה שהגל ישר לגמרי",
+   "הוספת שמן לגל"
+  ],
+  "oe": [
+   "Weights that even out the mass",
+   "Checking the shaft is straight",
+   "Adding oil to the shaft"
+  ],
+  "id": 162
+ },
+ {
+  "topic": "קרדן · גלי הינע ואיזון (Driveshafts & Balance)",
+  "type": "mcq",
+  "qh": "מה זה מהירות קריטית (Critical Speed) של גל?",
+  "qe": "What is the critical speed of a shaft?",
+  "ah": "מהירות שבה הגל מתחיל \"לקפוץ\" ולהתכופף כמו חבל קפיצה. חייבים להישאר רחוק ממנה.",
+  "ae": "A speed where the shaft starts to whirl and bow like a skipping rope. You must stay well away from it.",
+  "oh": [
+   "מהירות שבה הגל מתכופף ורועד",
+   "המהירות המרבית של המנוע",
+   "המהירות שבה השמן רותח"
+  ],
+  "oe": [
+   "Speed where the shaft bows and whirls",
+   "The engine's top speed",
+   "Speed where the oil boils"
+  ],
+  "id": 163
+ },
+ {
+  "topic": "קרדן · גלי הינע ואיזון (Driveshafts & Balance)",
+  "type": "mcq",
+  "qh": "למה גל ארוך מאוד מחולק לשניים עם מסב באמצע?",
+  "qe": "Why split a very long shaft in two with a centre bearing?",
+  "ah": "גל ארוך ודק מגיע למהירות קריטית מוקדם. שני גלים קצרים בטוחים יותר.",
+  "ae": "A long, thin shaft hits critical speed early. Two short shafts are safer.",
+  "oh": [
+   "גל ארוך מגיע למהירות קריטית",
+   "כדי שיהיה קל לייצר צבע",
+   "כדי להוסיף עוד כוח"
+  ],
+  "oe": [
+   "A long shaft hits critical speed",
+   "To make painting easier",
+   "To add more power"
+  ],
+  "id": 164
+ },
+ {
+  "topic": "קרדן · גלי הינע ואיזון (Driveshafts & Balance)",
+  "type": "mcq",
+  "qh": "למה יש גלי הינע מסיבי פחמן (Carbon Fibre)?",
+  "qe": "Why are there carbon-fibre driveshafts?",
+  "ah": "קלים וקשיחים מאוד, אז אפשר גל אחד ארוך בלי מסב אמצעי.",
+  "ae": "Very light and stiff, so one long shaft works without a centre bearing.",
+  "oh": [
+   "קלים וקשיחים – גל אחד ארוך",
+   "זולים יותר מפלדה תמיד",
+   "מעבירים חשמל טוב"
+  ],
+  "oe": [
+   "Light and stiff – one long shaft",
+   "Always cheaper than steel",
+   "They conduct electricity well"
+  ],
+  "id": 165
+ },
+ {
+  "topic": "קרדן · גלי הינע ואיזון (Driveshafts & Balance)",
+  "type": "mcq",
+  "qh": "מה תפקיד החלק המשונן המחליק (Slip Yoke) בגל ההינע?",
+  "qe": "What does the splined slip yoke do?",
+  "ah": "מאפשר לגל להתארך ולהתקצר כשהציר האחורי קופץ על הקפיצים.",
+  "ae": "Lets the shaft lengthen and shorten as the rear axle moves on its springs.",
+  "oh": [
+   "מאפשר שינוי אורך",
+   "נועל את הגל במקום",
+   "מקרר את תיבת ההילוכים"
+  ],
+  "oe": [
+   "Allows length change",
+   "Locks the shaft in place",
+   "Cools the gearbox"
+  ],
+  "id": 166
+ },
+ {
+  "topic": "קרדן · גלי הינע ואיזון (Driveshafts & Balance)",
+  "type": "mcq",
+  "qh": "מה קורה אם משקולת איזון נופלת מהגל?",
+  "qe": "What if a balance weight falls off the shaft?",
+  "ah": "רעידה שמורגשת ברצפה, ובעיקר במהירות גבוהה.",
+  "ae": "Vibration felt through the floor, mostly at high speed.",
+  "oh": [
+   "רעידה ברצפה במהירות גבוהה",
+   "הרכב לא יזוז בכלל",
+   "רעש רק בסיבובים"
+  ],
+  "oe": [
+   "Floor vibration at high speed",
+   "The car will not move",
+   "Noise only in turns"
+  ],
+  "id": 167
+ },
+ {
+  "topic": "קרדן · גלי הינע ואיזון (Driveshafts & Balance)",
+  "type": "mcq",
+  "qh": "למה מסמנים את הגל לפני שמפרקים אותו מהרכב?",
+  "qe": "Why mark the shaft before removing it?",
+  "ah": "כדי להחזיר אותו באותו מיקום בדיוק – שהאיזון והיישור של המפרקים יישמרו.",
+  "ae": "To refit it in exactly the same position so balance and joint phasing are kept.",
+  "oh": [
+   "לשמור על איזון ויישור",
+   "כדי לדעת מאיזה רכב הוא",
+   "זה דרישה של המשטרה"
+  ],
+  "oe": [
+   "To keep balance and phasing",
+   "To know which car it came from",
+   "The police require it"
+  ],
+  "id": 168
+ },
+ {
+  "topic": "קרדן · גלי הינע ואיזון (Driveshafts & Balance)",
+  "type": "mcq",
+  "qh": "גל מסתובב 3,000 סל\"ד. כמה סיבובים בשנייה?",
+  "qe": "A shaft at 3,000 rpm – turns per second?",
+  "ah": "3,000 חלקי 60 = 50 סיבובים בשנייה.",
+  "ae": "3,000 divided by 60 = 50 per second.",
+  "oh": [
+   "50",
+   "300",
+   "5"
+  ],
+  "oe": [
+   "50",
+   "300",
+   "5"
+  ],
+  "id": 169
+ },
+ {
+  "topic": "קרדן · גלי הינע ואיזון (Driveshafts & Balance)",
+  "type": "mcq",
+  "qh": "מה זה מסב תלוי (Center Support Bearing)?",
+  "qe": "What is a centre support bearing?",
+  "ah": "מסב בגומי שמחובר לרצפת הרכב ומחזיק את אמצע גל ארוך.",
+  "ae": "A rubber-mounted bearing bolted to the car floor that holds the middle of a long shaft.",
+  "oh": [
+   "מסב בגומי שמחזיק את אמצע הגל",
+   "מסב בתוך הגלגל הקדמי",
+   "מסב בתוך המנוע"
+  ],
+  "oe": [
+   "A rubber-mounted bearing at mid-shaft",
+   "A bearing inside the front wheel",
+   "A bearing inside the engine"
+  ],
+  "id": 170
+ },
+ {
+  "topic": "קרדן · מסבים ושימון (Bearings & Lubrication)",
+  "type": "mcq",
+  "qh": "איזה מסבים יש בתוך הכוסות של הקרדן?",
+  "qe": "What bearings are inside the U-joint caps?",
+  "ah": "מסבי מחטים (Needle Bearings) – גלילים דקים וארוכים שתופסים מעט מקום ונושאים הרבה.",
+  "ae": "Needle bearings – long thin rollers that take little space and carry a lot.",
+  "oh": [
+   "מסבי מחטים",
+   "מסבי כדורים גדולים",
+   "תותבי פלסטיק"
+  ],
+  "oe": [
+   "Needle bearings",
+   "Big ball bearings",
+   "Plastic bushings"
+  ],
+  "id": 171
+ },
+ {
+  "topic": "קרדן · מסבים ושימון (Bearings & Lubrication)",
+  "type": "mcq",
+  "qh": "למה מסבי המחטים בקרדן נשחקים בצורה מיוחדת?",
+  "qe": "Why do U-joint needle bearings wear in a special way?",
+  "ah": "הם רק מתנדנדים הלוך ושוב ולא מסתובבים סיבוב שלם, אז הגריז נדחק החוצה ונוצרים שקעים (Brinelling).",
+  "ae": "They only rock back and forth, never a full turn, so grease gets squeezed out and dents form (brinelling).",
+  "oh": [
+   "רק מתנדנדים – הגריז נדחק ונוצרים שקעים",
+   "הם מסתובבים מהר מדי ונשרפים",
+   "הם עשויים מפלסטיק רך"
+  ],
+  "oe": [
+   "They only rock – grease squeezes out, dents form",
+   "They spin too fast and burn",
+   "They are made of soft plastic"
+  ],
+  "id": 172
+ },
+ {
+  "topic": "קרדן · מסבים ושימון (Bearings & Lubrication)",
+  "type": "mcq",
+  "qh": "מה זה פטמת גריז (Grease Nipple / Zerk)?",
+  "qe": "What is a grease nipple?",
+  "ah": "פתח קטן עם שסתום, שדרכו דוחפים גריז עם משאבה ידנית.",
+  "ae": "A small fitting with a valve through which grease is pumped by a hand gun.",
+  "oh": [
+   "פתח לדחיפת גריז",
+   "בורג שמחזיק את הצלב",
+   "חיישן שמודד חום"
+  ],
+  "oe": [
+   "A fitting to pump in grease",
+   "A bolt holding the cross",
+   "A sensor measuring heat"
+  ],
+  "id": 173
+ },
+ {
+  "topic": "קרדן · מסבים ושימון (Bearings & Lubrication)",
+  "type": "mcq",
+  "qh": "למה במכוניות חדשות אין פטמת גריז בקרדן?",
+  "qe": "Why do new cars have no grease nipple on U-joints?",
+  "ah": "המפרקים אטומים וממולאים בגריז לכל החיים. פחות תחזוקה, אבל אי אפשר להוסיף.",
+  "ae": "They are sealed and filled for life. Less maintenance, but you cannot add more.",
+  "oh": [
+   "אטומים עם גריז לכל החיים",
+   "הם לא צריכים גריז בכלל",
+   "כדי שיהיו זולים לתיקון"
+  ],
+  "oe": [
+   "Sealed with lifetime grease",
+   "They need no grease at all",
+   "So they are cheap to repair"
+  ],
+  "id": 174
+ },
+ {
+  "topic": "קרדן · מסבים ושימון (Bearings & Lubrication)",
+  "type": "mcq",
+  "qh": "כמה גריז לדחוף לקרדן עם פטמה?",
+  "qe": "How much grease into a U-joint with a nipple?",
+  "ah": "עד שרואים גריז נקי יוצא מכל ארבע הכוסות.",
+  "ae": "Until clean grease appears from all four caps.",
+  "oh": [
+   "עד שגריז נקי יוצא מכל הכוסות",
+   "כמה שיותר, עד שהוא מתפוצץ",
+   "טיפה אחת בלבד"
+  ],
+  "oe": [
+   "Until clean grease shows at all caps",
+   "As much as possible until it bursts",
+   "Just one drop"
+  ],
+  "id": 175
+ },
+ {
+  "topic": "קרדן · מסבים ושימון (Bearings & Lubrication)",
+  "type": "mcq",
+  "qh": "למה מים בגריז הורסים מסבים?",
+  "qe": "Why does water in grease ruin bearings?",
+  "ah": "מים גורמים לחלודה ומחלישים את שכבת הגריז, אז המתכת נוגעת במתכת.",
+  "ae": "Water causes rust and weakens the grease film, so metal touches metal.",
+  "oh": [
+   "חלודה ומתכת שנוגעת במתכת",
+   "הגריז נהיה סמיך מדי",
+   "מים מקררים יותר מדי"
+  ],
+  "oe": [
+   "Rust and metal-on-metal",
+   "The grease gets too thick",
+   "Water cools too much"
+  ],
+  "id": 176
+ },
+ {
+  "topic": "קרדן · מסבים ושימון (Bearings & Lubrication)",
+  "type": "mcq",
+  "qh": "מה ההבדל בין גריז לשמן?",
+  "qe": "Grease vs oil?",
+  "ah": "גריז הוא שמן עם חומר מעבה, אז הוא נשאר במקום ולא זורם החוצה.",
+  "ae": "Grease is oil with a thickener, so it stays put instead of running out.",
+  "oh": [
+   "גריז הוא שמן מעובה שנשאר במקום",
+   "גריז הוא מים עם סבון",
+   "אין שום הבדל"
+  ],
+  "oe": [
+   "Grease is thickened oil that stays put",
+   "Grease is soapy water",
+   "No difference at all"
+  ],
+  "id": 177
+ },
+ {
+  "topic": "קרדן · מסבים ושימון (Bearings & Lubrication)",
+  "type": "mcq",
+  "qh": "למה אסור לערבב סוגי גריז שונים?",
+  "qe": "Why not mix different grease types?",
+  "ah": "המעבים יכולים לא להתאים, והגריז נעשה נוזלי או מתפרק ומפסיק להגן.",
+  "ae": "The thickeners may clash, so the grease turns runny or breaks down and stops protecting.",
+  "oh": [
+   "המעבים לא מתאימים והגריז מתפרק",
+   "הצבע ייראה מוזר",
+   "זה עולה יותר כסף"
+  ],
+  "oe": [
+   "Thickeners clash and grease breaks down",
+   "The colour looks odd",
+   "It costs more"
+  ],
+  "id": 178
+ },
+ {
+  "topic": "קרדן · מסבים ושימון (Bearings & Lubrication)",
+  "type": "mcq",
+  "qh": "מה זה טבעת נעילה (Circlip) בקרדן?",
+  "qe": "What is a circlip on a U-joint?",
+  "ah": "טבעת קפיצית שנכנסת לחריץ ומחזיקה את הכוסות שלא ייצאו החוצה.",
+  "ae": "A springy ring that snaps into a groove and keeps the caps from coming out.",
+  "oh": [
+   "טבעת שמחזיקה את הכוסות",
+   "אטם שומר שמן",
+   "משקולת לאיזון"
+  ],
+  "oe": [
+   "A ring that holds the caps in",
+   "An oil seal",
+   "A balance weight"
+  ],
+  "id": 179
+ },
+ {
+  "topic": "קרדן · מסבים ושימון (Bearings & Lubrication)",
+  "type": "mcq",
+  "qh": "קרדן חורק ומקיש בהתחלת נסיעה. מה הסיבה הסבירה?",
+  "qe": "U-joint squeaks and clunks when pulling away – likely cause?",
+  "ah": "מסבי המחטים יבשים ושחוקים, ויש רווח בצלב.",
+  "ae": "The needle bearings are dry and worn, and the cross has play.",
+  "oh": [
+   "מסבים יבשים ורווח בצלב",
+   "גל חדש מדי",
+   "צמיגים מנופחים מדי"
+  ],
+  "oe": [
+   "Dry bearings and play in the cross",
+   "A shaft that is too new",
+   "Overinflated tyres"
+  ],
+  "id": 180
+ },
+ {
+  "topic": "קרדן · רעידות ותקלות (Vibration & Faults)",
+  "type": "mcq",
+  "qh": "רעידה שמופיעה בתאוצה ונעלמת בשיוט. מה חשוד?",
+  "qe": "Vibration on acceleration that goes away when cruising – suspect?",
+  "ah": "זווית מפרקים שגויה או מפרק שחוק – הבעיה גדלה כשיש כוח גדול.",
+  "ae": "Wrong joint angles or a worn joint – it grows when force is high.",
+  "oh": [
+   "זוויות מפרקים או מפרק שחוק",
+   "צמיג שחוק בצד אחד",
+   "מראה שזזה ברוח"
+  ],
+  "oe": [
+   "Joint angles or a worn joint",
+   "A tyre worn on one side",
+   "A mirror moving in the wind"
+  ],
+  "id": 181
+ },
+ {
+  "topic": "קרדן · רעידות ותקלות (Vibration & Faults)",
+  "type": "mcq",
+  "qh": "הורידו את הרכב (Lowering) ועכשיו יש רעידה. למה?",
+  "qe": "Car was lowered, now it vibrates. Why?",
+  "ah": "זוויות הגל והמפרקים השתנו. אולי כבר לא שוות בשני הצדדים, או גדולות מדי.",
+  "ae": "Shaft and joint angles changed. They may no longer be equal at both ends, or are too big.",
+  "oh": [
+   "זוויות המפרקים השתנו",
+   "הרכב קל יותר עכשיו",
+   "השמן התקרר"
+  ],
+  "oe": [
+   "The joint angles changed",
+   "The car is lighter now",
+   "The oil cooled"
+  ],
+  "id": 182
+ },
+ {
+  "topic": "קרדן · רעידות ותקלות (Vibration & Faults)",
+  "type": "mcq",
+  "qh": "מה זה ספקטרום רעידות (Vibration Analysis) בתעשייה?",
+  "qe": "What is vibration analysis in industry?",
+  "ah": "מודדים רעידות בחיישן ומוצאים מאיזה חלק הן באות לפי התדר – לפני שמשהו נשבר.",
+  "ae": "Measure vibration with a sensor and find the source by frequency – before something breaks.",
+  "oh": [
+   "מוצאים מקור לפי תדר הרעידה",
+   "בודקים רק את הצבע",
+   "שוקלים את המכונה"
+  ],
+  "oe": [
+   "Find the source by vibration frequency",
+   "Check only the paint",
+   "Weigh the machine"
+  ],
+  "id": 183
+ },
+ {
+  "topic": "קרדן · רעידות ותקלות (Vibration & Faults)",
+  "type": "mcq",
+  "qh": "רעידה שחוזרת פעמיים בכל סיבוב של הגל. מה זה רומז?",
+  "qe": "Vibration twice per shaft turn – what does it hint?",
+  "ah": "זה סימן קלאסי לקרדן בזווית: המהירות עולה ויורדת פעמיים בסיבוב.",
+  "ae": "Classic U-joint-at-an-angle sign: speed rises and falls twice per turn.",
+  "oh": [
+   "קרדן בזווית",
+   "צמיג תקר",
+   "מנוע חלש"
+  ],
+  "oe": [
+   "A U-joint at an angle",
+   "A flat tyre",
+   "A weak engine"
+  ],
+  "id": 184
+ },
+ {
+  "topic": "קרדן · רעידות ותקלות (Vibration & Faults)",
+  "type": "mcq",
+  "qh": "רעידה פעם אחת בכל סיבוב של הגל. מה זה רומז?",
+  "qe": "Vibration once per shaft turn – what does it hint?",
+  "ah": "בדרך כלל חוסר איזון או גל עקום.",
+  "ae": "Usually imbalance or a bent shaft.",
+  "oh": [
+   "חוסר איזון או גל עקום",
+   "קרדן שעובד ישר",
+   "שמן חדש בדיפרנציאל"
+  ],
+  "oe": [
+   "Imbalance or a bent shaft",
+   "A U-joint running straight",
+   "New oil in the diff"
+  ],
+  "id": 185
+ },
+ {
+  "topic": "קרדן · רעידות ותקלות (Vibration & Faults)",
+  "type": "mcq",
+  "qh": "למה קרדן נשבר בדרך כלל בהתחלת נסיעה ולא בשיוט?",
+  "qe": "Why do U-joints usually break when pulling away, not cruising?",
+  "ah": "בהתחלה ובהילוך נמוך המומנט הכי גדול, ועוד מכה מהמצמד.",
+  "ae": "Pulling away in low gear has the most torque, plus a jolt from the clutch.",
+  "oh": [
+   "המומנט הגדול ביותר במהירות נמוכה",
+   "כי האוויר קר בבוקר",
+   "כי הגל ארוך יותר אז"
+  ],
+  "oe": [
+   "Highest torque at low speed",
+   "Because morning air is cold",
+   "Because the shaft is longer then"
+  ],
+  "id": 186
+ },
+ {
+  "topic": "קרדן · רעידות ותקלות (Vibration & Faults)",
+  "type": "mcq",
+  "qh": "מה הסכנה בגל הינע שנשבר בנסיעה?",
+  "qe": "Danger of a driveshaft breaking while driving?",
+  "ah": "הקצה יכול לפגוע בכביש ולהקפיץ את הרכב או לפגוע בצנרת. לכן יש לפעמים לולאת ביטחון.",
+  "ae": "The end can dig into the road, vault the car, or hit lines. So some have a safety loop.",
+  "oh": [
+   "פגיעה בכביש ובצנרת",
+   "שום סכנה, הרכב ממשיך",
+   "רק רעש קטן"
+  ],
+  "oe": [
+   "Hitting the road and pipes",
+   "No danger, the car continues",
+   "Just a little noise"
+  ],
+  "id": 187
+ },
+ {
+  "topic": "קרדן · רעידות ותקלות (Vibration & Faults)",
+  "type": "mcq",
+  "qh": "איך בודקים קרדן שחוק ברכב מורם?",
+  "qe": "How do you check a worn U-joint on a lifted car?",
+  "ah": "מחזיקים את הגל ומנסים לסובב ולהזיז הצידה. כל תזוזה או נקישה בצלב = שחוק.",
+  "ae": "Grip the shaft and try to twist and rock it. Any movement or clunk at the cross means worn.",
+  "oh": [
+   "מזיזים ובודקים רווח בצלב",
+   "מסתכלים על הצבע",
+   "מקשיבים למנוע"
+  ],
+  "oe": [
+   "Rock it and check for play",
+   "Look at the paint",
+   "Listen to the engine"
+  ],
+  "id": 188
+ },
+ {
+  "topic": "קרדן · רעידות ותקלות (Vibration & Faults)",
+  "type": "mcq",
+  "qh": "למה רעש של מפרק נשמע לפעמים כמו מסב גלגל?",
+  "qe": "Why can joint noise sound like a wheel bearing?",
+  "ah": "שניהם מסתובבים עם מהירות הרכב. בודקים בסיבובים, ובהרמה של הרכב.",
+  "ae": "Both turn with road speed. Test in turns and with the car lifted.",
+  "oh": [
+   "שניהם תלויים במהירות הרכב",
+   "הם עשויים מאותו חומר",
+   "הם תמיד באותו מקום"
+  ],
+  "oe": [
+   "Both depend on road speed",
+   "They are the same material",
+   "They are always in the same place"
+  ],
+  "id": 189
+ },
+ {
+  "topic": "קרדן · רעידות ותקלות (Vibration & Faults)",
+  "type": "mcq",
+  "qh": "בראיון: \"רעידה ב-100 קמ\"ש בלבד\". מה סדר הבדיקה?",
+  "qe": "Interview: \"vibration only at 100 km/h\" – check order?",
+  "ah": "קודם איזון גלגלים (הכי נפוץ וזול), אחר כך גל הינע ומפרקים, ואז מסבים.",
+  "ae": "First wheel balance (most common and cheap), then driveshaft and joints, then bearings.",
+  "oh": [
+   "איזון, גל ומפרקים, ואז מסבים",
+   "קודם להחליף מנוע",
+   "קודם להחליף תיבת הילוכים"
+  ],
+  "oe": [
+   "Balance, shaft and joints, then bearings",
+   "Replace the engine first",
+   "Replace the gearbox first"
+  ],
+  "id": 190
+ },
+ {
+  "topic": "קרדן · חלופות ומצמדים (Alternatives & Couplings)",
+  "type": "mcq",
+  "qh": "מה זה מצמד גמיש (Flexible Coupling)?",
+  "qe": "What is a flexible coupling?",
+  "ah": "חיבור בין שני צירים עם חלק גמיש, שסולח על סטייה קטנה ובולע רעידות.",
+  "ae": "A shaft connector with a flexible element that tolerates small misalignment and absorbs vibration.",
+  "oh": [
+   "חיבור שסולח על סטייה קטנה",
+   "מפרק לזוויות של 45 מעלות",
+   "בלם בין שני צירים"
+  ],
+  "oe": [
+   "A connector that tolerates small misalignment",
+   "A joint for 45° angles",
+   "A brake between two shafts"
+  ],
+  "id": 191
+ },
+ {
+  "topic": "קרדן · חלופות ומצמדים (Alternatives & Couplings)",
+  "type": "mcq",
+  "qh": "מה זה מצמד לסתות (Jaw Coupling)?",
+  "qe": "What is a jaw coupling?",
+  "ah": "שני חצאים עם \"שיניים\" ובאמצע כוכב גומי. זול ונפוץ מאוד בין מנוע למשאבה.",
+  "ae": "Two halves with jaws and a rubber spider between. Cheap and very common between motor and pump.",
+  "oh": [
+   "שני חצאים עם כוכב גומי",
+   "קרדן עם שני צלבים",
+   "רצועה עם גלגלים"
+  ],
+  "oe": [
+   "Two halves with a rubber spider",
+   "A U-joint with two crosses",
+   "A belt and pulleys"
+  ],
+  "id": 192
+ },
+ {
+  "topic": "קרדן · חלופות ומצמדים (Alternatives & Couplings)",
+  "type": "mcq",
+  "qh": "מה זה מצמד אולדהם (Oldham Coupling)?",
+  "qe": "What is an Oldham coupling?",
+  "ah": "דיסקית באמצע עם שני פסים בניצב. מחברת צירים מקבילים שזזים קצת הצידה.",
+  "ae": "A centre disc with two slots at right angles. Joins parallel shafts that are slightly offset.",
+  "oh": [
+   "מחבר צירים מקבילים עם הזזה",
+   "מחבר צירים ב-90 מעלות",
+   "מחבר צירים רק בקו ישר מושלם"
+  ],
+  "oe": [
+   "Joins parallel offset shafts",
+   "Joins shafts at 90°",
+   "Joins only perfectly aligned shafts"
+  ],
+  "id": 193
+ },
+ {
+  "topic": "קרדן · חלופות ומצמדים (Alternatives & Couplings)",
+  "type": "mcq",
+  "qh": "מתי עדיף גלגלי שיניים קוניים על פני קרדן?",
+  "qe": "When are bevel gears better than a U-joint?",
+  "ah": "כשצריך זווית קבועה של 90 מעלות, וגם אולי להאט או להאיץ.",
+  "ae": "When you need a fixed 90° turn, and maybe also a speed change.",
+  "oh": [
+   "זווית קבועה של 90 מעלות",
+   "זווית שמשתנה כל הזמן",
+   "כשאין בכלל מקום"
+  ],
+  "oe": [
+   "A fixed 90° angle",
+   "An angle that keeps changing",
+   "When there is no space at all"
+  ],
+  "id": 194
+ },
+ {
+  "topic": "קרדן · חלופות ומצמדים (Alternatives & Couplings)",
+  "type": "mcq",
+  "qh": "למה במגוון מכונות משתמשים במצמד גמיש ולא בחיבור קשיח?",
+  "qe": "Why use a flexible coupling instead of a rigid one in machines?",
+  "ah": "אי אפשר ליישר שני צירים בדיוק מושלם. חיבור קשיח יעמיס על המסבים וישבור אותם.",
+  "ae": "Two shafts can never be perfectly aligned. A rigid one loads the bearings and wrecks them.",
+  "oh": [
+   "יישור מושלם לא אפשרי",
+   "מצמד גמיש תמיד חזק יותר",
+   "מצמד קשיח רועש מדי"
+  ],
+  "oe": [
+   "Perfect alignment is not possible",
+   "A flexible one is always stronger",
+   "A rigid one is too noisy"
+  ],
+  "id": 195
+ },
+ {
+  "topic": "קרדן · חלופות ומצמדים (Alternatives & Couplings)",
+  "type": "mcq",
+  "qh": "מה זה מצמד מפוחית (Bellows Coupling)?",
+  "qe": "What is a bellows coupling?",
+  "ah": "צינור מתכת דק בצורת אקורדיון. גמיש לזווית, אבל קשיח מאוד בסיבוב – טוב לרובוטים ומדפסות.",
+  "ae": "A thin metal accordion tube. Flexible to angle but very stiff in twist – good for robots and printers.",
+  "oh": [
+   "אקורדיון מתכת קשיח בסיבוב",
+   "אקורדיון גומי לשמן",
+   "קפיץ שנמתח בסיבוב"
+  ],
+  "oe": [
+   "Metal accordion, stiff in twist",
+   "Rubber accordion for oil",
+   "A spring stretched by turning"
+  ],
+  "id": 196
+ },
+ {
+  "topic": "קרדן · חלופות ומצמדים (Alternatives & Couplings)",
+  "type": "mcq",
+  "qh": "למה במנגנונים מדויקים לא אוהבים מצמד גומי רך?",
+  "qe": "Why avoid a soft rubber coupling in precise mechanisms?",
+  "ah": "הגומי מתפתל קצת בעומס, אז המיקום בצד השני לא מדויק.",
+  "ae": "The rubber twists a bit under load, so the output position is not exact.",
+  "oh": [
+   "הגומי מתפתל והמיקום לא מדויק",
+   "הגומי כבד מדי",
+   "הגומי מעביר חשמל"
+  ],
+  "oe": [
+   "Rubber twists, position is off",
+   "Rubber is too heavy",
+   "Rubber conducts electricity"
+  ],
+  "id": 197
+ },
+ {
+  "topic": "קרדן · חלופות ומצמדים (Alternatives & Couplings)",
+  "type": "mcq",
+  "qh": "איפה עוד יש קרדן חוץ מרכבים?",
+  "qe": "Where else are U-joints used besides cars?",
+  "ah": "בעמוד ההגה, במכונות חקלאיות (PTO), בכלי עבודה עם מאריך, ובמפרקי רובוטים.",
+  "ae": "In steering columns, farm PTO shafts, tool extensions, and robot joints.",
+  "oh": [
+   "עמוד הגה, טרקטורים וכלי עבודה",
+   "רק בשעונים מכניים",
+   "רק בספינות גדולות"
+  ],
+  "oe": [
+   "Steering columns, tractors and tools",
+   "Only in mechanical clocks",
+   "Only in big ships"
+  ],
+  "id": 198
+ },
+ {
+  "topic": "קרדן · חלופות ומצמדים (Alternatives & Couplings)",
+  "type": "mcq",
+  "qh": "מה הסכנה בגל PTO של טרקטור?",
+  "qe": "Danger of a tractor PTO shaft?",
+  "ah": "גל מסתובב חשוף יכול לתפוס בגדים ולמשוך אדם. חייבים כיסוי מגן.",
+  "ae": "An exposed spinning shaft can catch clothing and pull a person in. A guard is a must.",
+  "oh": [
+   "תופס בגדים ומושך – חובה כיסוי",
+   "רק רעש חזק",
+   "הוא מתחמם מאוד"
+  ],
+  "oe": [
+   "Catches clothing – a guard is a must",
+   "Just loud noise",
+   "It gets very hot"
+  ],
+  "id": 199
+ },
+ {
+  "topic": "קרדן · חלופות ומצמדים (Alternatives & Couplings)",
+  "type": "mcq",
+  "qh": "בראיון: \"חבר מנוע למשאבה בהפרש של 1 מ\"מ\". מה תבחר?",
+  "qe": "Interview: \"connect a motor to a pump, 1 mm off\" – choose what?",
+  "ah": "מצמד גמיש (לסתות או דיסקיות), ולשפר יישור כמה שאפשר. לא חיבור קשיח.",
+  "ae": "A flexible coupling (jaw or disc type), and improve alignment as much as you can. Not a rigid one.",
+  "oh": [
+   "מצמד גמיש ושיפור יישור",
+   "חיבור קשיח בריתוך",
+   "קרדן כפול באורך מטר"
+  ],
+  "oe": [
+   "Flexible coupling and better alignment",
+   "A rigid welded joint",
+   "A metre-long double U-joint"
+  ],
+  "id": 200
+ },
+ {
+  "topic": "גל זיזים · צורות זיזים ועוקבים (Cam Profiles & Followers)",
+  "type": "mcq",
+  "qh": "מה זה מעגל בסיס (Base Circle) של זיז?",
+  "qe": "What is the base circle of a cam?",
+  "ah": "החלק העגול של הזיז שבו השסתום סגור ולא זז.",
+  "ae": "The round part of the cam where the valve stays shut and still.",
+  "oh": [
+   "החלק העגול שבו השסתום סגור",
+   "הנקודה הכי גבוהה בזיז",
+   "החור שבו עובר הגל"
+  ],
+  "oe": [
+   "The round part where the valve is shut",
+   "The highest point of the cam",
+   "The hole the shaft goes through"
+  ],
+  "id": 201
+ },
+ {
+  "topic": "גל זיזים · צורות זיזים ועוקבים (Cam Profiles & Followers)",
+  "type": "mcq",
+  "qh": "מה זה עוקב שטוח (Flat Follower) לעומת עוקב גלגלת (Roller Follower)?",
+  "qe": "Flat follower vs roller follower?",
+  "ah": "שטוח – מחליק על הזיז, פשוט וזול. גלגלת – מתגלגלת, פחות חיכוך, אבל יותר חלקים.",
+  "ae": "Flat slides on the cam, simple and cheap. Roller rolls – less friction, more parts.",
+  "oh": [
+   "שטוח מחליק, גלגלת מתגלגלת",
+   "שניהם מחליקים באותו אופן",
+   "גלגלת תמיד זולה יותר"
+  ],
+  "oe": [
+   "Flat slides, roller rolls",
+   "Both slide the same way",
+   "A roller is always cheaper"
+  ],
+  "id": 202
+ },
+ {
+  "topic": "גל זיזים · צורות זיזים ועוקבים (Cam Profiles & Followers)",
+  "type": "mcq",
+  "qh": "למה זיז עם עלייה חדה מדי לא טוב?",
+  "qe": "Why is a cam with too sharp a rise bad?",
+  "ah": "השסתום מקבל \"מכה\" ותאוצה גדולה מדי. הקפיץ לא מספיק לעקוב ויש רעש ושחיקה.",
+  "ae": "The valve gets a jolt and too much acceleration. The spring cannot keep up – noise and wear.",
+  "oh": [
+   "מכה, רעש ושחיקה",
+   "המנוע יהיה שקט יותר",
+   "הזיז יהיה קל יותר"
+  ],
+  "oe": [
+   "Jolts, noise and wear",
+   "The engine gets quieter",
+   "The cam gets lighter"
+  ],
+  "id": 203
+ },
+ {
+  "topic": "גל זיזים · צורות זיזים ועוקבים (Cam Profiles & Followers)",
+  "type": "mcq",
+  "qh": "מה זה רמפה (Ramp) בתחילת הזיז?",
+  "qe": "What is the ramp at the start of the lobe?",
+  "ah": "עלייה עדינה מאוד שסוגרת את הרווח לאט, לפני שהשסתום מתחיל לזוז באמת.",
+  "ae": "A very gentle rise that takes up the gap slowly before the valve really moves.",
+  "oh": [
+   "עלייה עדינה שסוגרת את הרווח",
+   "חור לשמן בזיז",
+   "סימן לתזמון"
+  ],
+  "oe": [
+   "A gentle rise that takes up the gap",
+   "An oil hole in the lobe",
+   "A timing mark"
+  ],
+  "id": 204
+ },
+ {
+  "topic": "גל זיזים · צורות זיזים ועוקבים (Cam Profiles & Followers)",
+  "type": "mcq",
+  "qh": "מה זה משך (Duration) של זיז?",
+  "qe": "What is cam duration?",
+  "ah": "כמה מעלות מתוך סיבוב הגל ארכובה השסתום פתוח. למשל 240 מעלות.",
+  "ae": "How many crank degrees the valve is open, e.g. 240°.",
+  "oh": [
+   "כמה מעלות השסתום פתוח",
+   "כמה גבוה השסתום עולה",
+   "כמה זמן המנוע עובד"
+  ],
+  "oe": [
+   "How many degrees the valve is open",
+   "How high the valve lifts",
+   "How long the engine runs"
+  ],
+  "id": 205
+ },
+ {
+  "topic": "גל זיזים · צורות זיזים ועוקבים (Cam Profiles & Followers)",
+  "type": "mcq",
+  "qh": "זיז עם משך ארוך יותר – מתי זה עוזר?",
+  "qe": "Longer duration – when does it help?",
+  "ah": "בסל\"ד גבוה, כי יש יותר זמן למלא את הצילינדר. בסל\"ד נמוך המנוע יכול להיות פחות חלק.",
+  "ae": "At high rpm, giving more time to fill the cylinder. At low rpm the engine may idle roughly.",
+  "oh": [
+   "בסל\"ד גבוה, על חשבון נמוך",
+   "רק בסל\"ד נמוך מאוד",
+   "אף פעם, זה רק מזיק"
+  ],
+  "oe": [
+   "At high rpm, at the cost of low rpm",
+   "Only at very low rpm",
+   "Never, it only hurts"
+  ],
+  "id": 206
+ },
+ {
+  "topic": "גל זיזים · צורות זיזים ועוקבים (Cam Profiles & Followers)",
+  "type": "mcq",
+  "qh": "מה זה זיז אקסצנטרי (Eccentric) או זיז עגול מוזז?",
+  "qe": "What is an eccentric cam?",
+  "ah": "עיגול שהציר שלו לא במרכז. נותן תנועה חלקה למעלה ולמטה, כמו משאבת דלק מכנית.",
+  "ae": "A circle mounted off-centre. Gives smooth up-down motion, like a mechanical fuel pump.",
+  "oh": [
+   "עיגול שהציר שלו לא במרכז",
+   "זיז בצורת משולש",
+   "זיז מגומי רך"
+  ],
+  "oe": [
+   "A circle with an off-centre axis",
+   "A triangle-shaped cam",
+   "A soft rubber cam"
+  ],
+  "id": 207
+ },
+ {
+  "topic": "גל זיזים · צורות זיזים ועוקבים (Cam Profiles & Followers)",
+  "type": "mcq",
+  "qh": "למה עוקב שטוח מוזז קצת מהמרכז של הזיז?",
+  "qe": "Why is a flat follower offset slightly from the lobe centre?",
+  "ah": "כדי שהעוקב יסתובב לאט סביב עצמו ויישחק באופן שווה.",
+  "ae": "So the follower slowly spins on its own axis and wears evenly.",
+  "oh": [
+   "כדי שיסתובב ויישחק באופן שווה",
+   "כדי שהשסתום ייפתח מוקדם",
+   "כדי לחסוך משקל"
+  ],
+  "oe": [
+   "So it rotates and wears evenly",
+   "So the valve opens earlier",
+   "To save weight"
+  ],
+  "id": 208
+ },
+ {
+  "topic": "גל זיזים · צורות זיזים ועוקבים (Cam Profiles & Followers)",
+  "type": "mcq",
+  "qh": "מה זה זיז תוף (Barrel / Drum Cam)?",
+  "qe": "What is a barrel cam?",
+  "ah": "גליל עם חריץ מסביב. העוקב נע הלוך ושוב לאורך הגליל כשהוא מסתובב.",
+  "ae": "A cylinder with a groove around it. The follower moves back and forth along it as it turns.",
+  "oh": [
+   "גליל עם חריץ שמזיז הצידה",
+   "זיז עגול לגמרי",
+   "גלגל שיניים פשוט"
+  ],
+  "oe": [
+   "A grooved cylinder that moves sideways",
+   "A perfectly round cam",
+   "A plain gear"
+  ],
+  "id": 209
+ },
+ {
+  "topic": "גל זיזים · צורות זיזים ועוקבים (Cam Profiles & Followers)",
+  "type": "mcq",
+  "qh": "מה ההבדל בין זיז שעוקב נלחץ אליו בקפיץ לזיז עם חריץ (Positive Drive)?",
+  "qe": "Spring-loaded follower vs grooved positive-drive cam?",
+  "ah": "בחריץ, הזיז דוחף את העוקב גם למעלה וגם למטה – בלי קפיץ, ולא יכול \"לרחף\".",
+  "ae": "In a groove the cam pushes the follower both ways – no spring, and it cannot float.",
+  "oh": [
+   "חריץ מזיז לשני הכיוונים בלי קפיץ",
+   "אין שום הבדל בתנועה",
+   "עם חריץ צריך שני קפיצים"
+  ],
+  "oe": [
+   "A groove drives both ways without a spring",
+   "No difference in motion",
+   "A groove needs two springs"
+  ],
+  "id": 210
+ },
+ {
+  "topic": "גל זיזים · תזמון משתנה (Variable Valve Timing)",
+  "type": "mcq",
+  "qh": "מה זה תזמון שסתומים משתנה (VVT)?",
+  "qe": "What is variable valve timing?",
+  "ah": "מזיזים קצת את זווית גל הזיזים בזמן נסיעה, כדי שהשסתומים ייפתחו מוקדם או מאוחר לפי המצב.",
+  "ae": "The camshaft angle is shifted while driving so valves open earlier or later as needed.",
+  "oh": [
+   "מזיזים את זווית הגל בנסיעה",
+   "מחליפים את גל הזיזים בכל טיפול",
+   "מוסיפים עוד צילינדר"
+  ],
+  "oe": [
+   "Shifting the cam angle while driving",
+   "Swapping the cam every service",
+   "Adding another cylinder"
+  ],
+  "id": 211
+ },
+ {
+  "topic": "גל זיזים · תזמון משתנה (Variable Valve Timing)",
+  "type": "mcq",
+  "qh": "למה VVT עוזר למנוע?",
+  "qe": "Why does VVT help an engine?",
+  "ah": "מנוע אחד יכול להיות חלק וחסכוני בסל\"ד נמוך וחזק בסל\"ד גבוה.",
+  "ae": "One engine can be smooth and economical at low rpm and strong at high rpm.",
+  "oh": [
+   "חסכוני בנמוך וחזק בגבוה",
+   "המנוע נעשה קל יותר",
+   "אין צורך בשמן"
+  ],
+  "oe": [
+   "Economical low, strong high",
+   "The engine becomes lighter",
+   "No oil is needed"
+  ],
+  "id": 212
+ },
+ {
+  "topic": "גל זיזים · תזמון משתנה (Variable Valve Timing)",
+  "type": "mcq",
+  "qh": "מה מזיז את זווית הגל ב-VVT בדרך כלל?",
+  "qe": "What usually shifts the cam angle in VVT?",
+  "ah": "גלגל מיוחד (Cam Phaser) בקצה הגל, שלחץ שמן מהמנוע מסובב אותו קצת.",
+  "ae": "A special pulley (cam phaser) on the end of the shaft, turned a little by engine oil pressure.",
+  "oh": [
+   "גלגל מיוחד שלחץ שמן מסובב",
+   "מנוע חשמלי גדול בצד",
+   "הנהג עם ידית"
+  ],
+  "oe": [
+   "A phaser turned by oil pressure",
+   "A big side electric motor",
+   "The driver with a lever"
+  ],
+  "id": 213
+ },
+ {
+  "topic": "גל זיזים · תזמון משתנה (Variable Valve Timing)",
+  "type": "mcq",
+  "qh": "למה שמן ישן או מעט שמן גורם לבעיות VVT?",
+  "qe": "Why does old or low oil cause VVT problems?",
+  "ah": "המערכת עובדת בלחץ שמן. שמן מלוכלך סותם שסתומים קטנים והלחץ לא מספיק.",
+  "ae": "The system runs on oil pressure. Dirty oil blocks small valves and pressure falls short.",
+  "oh": [
+   "המערכת עובדת בלחץ שמן",
+   "השמן מקרר את החיישן",
+   "אין קשר בכלל"
+  ],
+  "oe": [
+   "The system runs on oil pressure",
+   "Oil cools the sensor",
+   "No connection at all"
+  ],
+  "id": 214
+ },
+ {
+  "topic": "גל זיזים · תזמון משתנה (Variable Valve Timing)",
+  "type": "mcq",
+  "qh": "מה זה VTEC של הונדה בגדול?",
+  "qe": "What is Honda VTEC, broadly?",
+  "ah": "לכל שסתום יש שני זיזים: רגוע וחזק. בסל\"ד גבוה פין מחבר את הנדנד לזיז החזק.",
+  "ae": "Each valve has two lobes: mild and wild. At high rpm a pin locks the rocker to the wild lobe.",
+  "oh": [
+   "שני זיזים ופין שמחליף ביניהם",
+   "טורבו קטן על הגל",
+   "גל זיזים חשמלי"
+  ],
+  "oe": [
+   "Two lobes and a pin that switches",
+   "A small turbo on the cam",
+   "An electric camshaft"
+  ],
+  "id": 215
+ },
+ {
+  "topic": "גל זיזים · תזמון משתנה (Variable Valve Timing)",
+  "type": "mcq",
+  "qh": "מה זה חפיפה (Overlap) של שסתומים?",
+  "qe": "What is valve overlap?",
+  "ah": "רגע קצר שבו שסתום הפליטה עוד פתוח ושסתום היניקה כבר נפתח.",
+  "ae": "A short moment when exhaust is still open and intake has already opened.",
+  "oh": [
+   "רגע ששני השסתומים פתוחים",
+   "כששני השסתומים סגורים",
+   "כשהבוכנה למטה"
+  ],
+  "oe": [
+   "A moment both valves are open",
+   "When both valves are shut",
+   "When the piston is at the bottom"
+  ],
+  "id": 216
+ },
+ {
+  "topic": "גל זיזים · תזמון משתנה (Variable Valve Timing)",
+  "type": "mcq",
+  "qh": "למה חפיפה גדולה עוזרת בסל\"ד גבוה ומפריעה בסרק?",
+  "qe": "Why does big overlap help at high rpm but hurt at idle?",
+  "ah": "בגבוה הגזים זורמים מהר ו\"מושכים\" אוויר חדש פנימה. בסרק גז שרוף חוזר פנימה והמנוע רועד.",
+  "ae": "At high rpm fast gas flow pulls fresh air in. At idle burnt gas flows back and the engine shakes.",
+  "oh": [
+   "זרימה מהירה עוזרת, בסרק גז חוזר",
+   "בסרק המנוע חם יותר",
+   "אין לזה השפעה בכלל"
+  ],
+  "oe": [
+   "Fast flow helps; at idle gas flows back",
+   "At idle the engine is hotter",
+   "It has no effect"
+  ],
+  "id": 217
+ },
+ {
+  "topic": "גל זיזים · תזמון משתנה (Variable Valve Timing)",
+  "type": "mcq",
+  "qh": "מה זה הרמה משתנה (Variable Lift)?",
+  "qe": "What is variable lift?",
+  "ah": "משנים כמה השסתום עולה, לא רק מתי. יש מנועים שכמעט לא צריכים מצערת בגלל זה.",
+  "ae": "Changing how far the valve opens, not only when. Some engines barely need a throttle because of it.",
+  "oh": [
+   "משנים כמה השסתום עולה",
+   "משנים את צבע השסתום",
+   "משנים את מספר הצילינדרים"
+  ],
+  "oe": [
+   "Change how far the valve opens",
+   "Change the valve colour",
+   "Change the cylinder count"
+  ],
+  "id": 218
+ },
+ {
+  "topic": "גל זיזים · תזמון משתנה (Variable Valve Timing)",
+  "type": "mcq",
+  "qh": "מה זה כיבוי צילינדרים (Cylinder Deactivation)?",
+  "qe": "What is cylinder deactivation?",
+  "ah": "בנסיעה קלה מנתקים את השסתומים של חלק מהצילינדרים כדי שיישארו סגורים – חוסכים דלק.",
+  "ae": "In light driving the valves of some cylinders are kept shut to save fuel.",
+  "oh": [
+   "שסתומים נשארים סגורים לחיסכון",
+   "מוציאים צילינדרים מהמנוע",
+   "מכבים את המנוע ברמזור"
+  ],
+  "oe": [
+   "Valves stay shut to save fuel",
+   "Cylinders are removed",
+   "The engine stops at lights"
+  ],
+  "id": 219
+ },
+ {
+  "topic": "גל זיזים · תזמון משתנה (Variable Valve Timing)",
+  "type": "mcq",
+  "qh": "נורת מנוע עם קוד \"תזמון גל זיזים\". מה לבדוק ראשון?",
+  "qe": "Check-engine light with a cam timing code – check first?",
+  "ah": "מפלס ואיכות השמן, ואז את השסתום החשמלי של ה-VVT.",
+  "ae": "Oil level and condition, then the VVT solenoid valve.",
+  "oh": [
+   "שמן, ואז שסתום ה-VVT",
+   "להחליף מנוע מיד",
+   "לנפח צמיגים"
+  ],
+  "oe": [
+   "Oil, then the VVT solenoid",
+   "Replace the engine at once",
+   "Inflate the tyres"
+  ],
+  "id": 220
+ },
+ {
+  "topic": "גל זיזים · שימון ושחיקה (Lubrication & Wear)",
+  "type": "mcq",
+  "qh": "למה הזיזים והעוקבים צריכים שמן עם תוספי ZDDP במנועים ישנים?",
+  "qe": "Why do old flat-tappet engines need oil with ZDDP?",
+  "ah": "העוקבים השטוחים מחליקים בלחץ גבוה מאוד. התוסף יוצר שכבת הגנה שמונעת שחיקה מהירה.",
+  "ae": "Flat tappets slide under very high pressure. The additive forms a protective layer against fast wear.",
+  "oh": [
+   "שכבת הגנה בלחץ גבוה",
+   "כדי שהשמן יהיה אדום",
+   "כדי שהשמן יתאדה פחות"
+  ],
+  "oe": [
+   "A protective layer at high pressure",
+   "To make the oil red",
+   "So the oil evaporates less"
+  ],
+  "id": 221
+ },
+ {
+  "topic": "גל זיזים · שימון ושחיקה (Lubrication & Wear)",
+  "type": "mcq",
+  "qh": "מה הזמן הכי מסוכן לגל זיזים חדש?",
+  "qe": "When is a new camshaft most at risk?",
+  "ah": "בדקות הראשונות. לכן מורחים משחה מיוחדת ומריצים במהירות בינונית (Break-in).",
+  "ae": "In the first minutes. That is why special paste is applied and it is run at medium rpm (break-in).",
+  "oh": [
+   "בדקות הראשונות להפעלה",
+   "אחרי 100,000 ק\"מ בדיוק",
+   "רק בחורף"
+  ],
+  "oe": [
+   "In the first minutes of running",
+   "At exactly 100,000 km",
+   "Only in winter"
+  ],
+  "id": 222
+ },
+ {
+  "topic": "גל זיזים · שימון ושחיקה (Lubrication & Wear)",
+  "type": "mcq",
+  "qh": "איך נראה זיז שחוק?",
+  "qe": "What does a worn lobe look like?",
+  "ah": "הקצה העליון שטוח ונמוך, אז השסתום נפתח פחות והמנוע מאבד כוח בצילינדר הזה.",
+  "ae": "The tip is flat and low, so that valve opens less and the cylinder loses power.",
+  "oh": [
+   "קצה שטוח ונמוך",
+   "קצה גבוה וחד יותר",
+   "הזיז נעשה אדום"
+  ],
+  "oe": [
+   "A flat, low tip",
+   "A taller, sharper tip",
+   "The lobe turns red"
+  ],
+  "id": 223
+ },
+ {
+  "topic": "גל זיזים · שימון ושחיקה (Lubrication & Wear)",
+  "type": "mcq",
+  "qh": "איך השמן מגיע לגל זיזים בראש המנוע?",
+  "qe": "How does oil reach a camshaft in the cylinder head?",
+  "ah": "משאבת השמן דוחפת אותו בתעלות עד מסבי הגל, ומשם הוא מטפטף ומותז על הזיזים.",
+  "ae": "The oil pump pushes it through passages to the cam bearings; from there it drips and sprays on the lobes.",
+  "oh": [
+   "משאבה דוחפת בתעלות למסבים",
+   "הנהג שופך מלמעלה",
+   "הוא עולה לבד מחום"
+  ],
+  "oe": [
+   "The pump pushes it through passages",
+   "The driver pours it on top",
+   "It rises on its own from heat"
+  ],
+  "id": 224
+ },
+ {
+  "topic": "גל זיזים · שימון ושחיקה (Lubrication & Wear)",
+  "type": "mcq",
+  "qh": "למה רעש תקתוק מהראש בבוקר קר שנעלם אחרי דקה?",
+  "qe": "Why a top-end tick on a cold morning that fades after a minute?",
+  "ah": "לוקח רגע עד שהשמן מגיע ומתמלא במרימים ההידראוליים.",
+  "ae": "It takes a moment for oil to reach and fill the hydraulic lifters.",
+  "oh": [
+   "השמן עוד לא מילא את המרימים",
+   "השסתומים נשברו",
+   "הדלק קר מדי"
+  ],
+  "oe": [
+   "Oil has not yet filled the lifters",
+   "The valves have broken",
+   "The fuel is too cold"
+  ],
+  "id": 225
+ },
+ {
+  "topic": "גל זיזים · שימון ושחיקה (Lubrication & Wear)",
+  "type": "mcq",
+  "qh": "מה זה מרים הידראולי (Hydraulic Lifter)?",
+  "qe": "What is a hydraulic lifter?",
+  "ah": "עוקב עם שמן בפנים שמתאים את עצמו ומבטל את הרווח לבד. אין צורך לכוון.",
+  "ae": "A follower filled with oil that adjusts itself to remove the gap. No adjusting needed.",
+  "oh": [
+   "עוקב שמבטל רווח לבד בעזרת שמן",
+   "משאבה שמרימה את המכונית",
+   "חיישן לחץ שמן"
+  ],
+  "oe": [
+   "A follower that self-adjusts with oil",
+   "A pump that lifts the car",
+   "An oil pressure sensor"
+  ],
+  "id": 226
+ },
+ {
+  "topic": "גל זיזים · שימון ושחיקה (Lubrication & Wear)",
+  "type": "mcq",
+  "qh": "למה בחלק מהמנועים צריך לכוון מרווח שסתומים (Valve Clearance)?",
+  "qe": "Why do some engines need valve clearance adjustment?",
+  "ah": "יש עוקבים מכניים. השסתום נשחק עם הזמן והרווח משתנה – צריך לבדוק ולתקן.",
+  "ae": "They have solid followers. Wear changes the gap over time, so it must be checked and set.",
+  "oh": [
+   "עוקבים מכניים והרווח משתנה",
+   "כדי לשנות את צבע השסתומים",
+   "כי השמן מתאדה"
+  ],
+  "oe": [
+   "Solid followers and the gap changes",
+   "To change valve colour",
+   "Because the oil evaporates"
+  ],
+  "id": 227
+ },
+ {
+  "topic": "גל זיזים · שימון ושחיקה (Lubrication & Wear)",
+  "type": "mcq",
+  "qh": "מה קורה אם מרווח השסתום קטן מדי?",
+  "qe": "What if the valve clearance is too small?",
+  "ah": "השסתום לא נסגר עד הסוף כשהוא חם, גזים חמים בורחים והוא יכול להישרף.",
+  "ae": "The valve does not fully close when hot; hot gas leaks past and can burn it.",
+  "oh": [
+   "השסתום לא נסגר ויכול להישרף",
+   "המנוע שקט יותר",
+   "החיסכון בדלק משתפר"
+  ],
+  "oe": [
+   "The valve does not seal and can burn",
+   "The engine is quieter",
+   "Fuel economy improves"
+  ],
+  "id": 228
+ },
+ {
+  "topic": "גל זיזים · שימון ושחיקה (Lubrication & Wear)",
+  "type": "mcq",
+  "qh": "מה קורה אם מרווח השסתום גדול מדי?",
+  "qe": "What if the valve clearance is too big?",
+  "ah": "רעש תקתוק, והשסתום נפתח פחות ולזמן קצר יותר – פחות כוח.",
+  "ae": "Ticking noise, and the valve opens less and for less time – less power.",
+  "oh": [
+   "תקתוק ופחות כוח",
+   "השסתום נשרף מיד",
+   "המנוע לא יתניע לעולם"
+  ],
+  "oe": [
+   "Ticking and less power",
+   "The valve burns at once",
+   "The engine never starts"
+  ],
+  "id": 229
+ },
+ {
+  "topic": "גל זיזים · שימון ושחיקה (Lubrication & Wear)",
+  "type": "mcq",
+  "qh": "למה החלפת שמן בזמן חשובה במיוחד לגל הזיזים?",
+  "qe": "Why are timely oil changes especially important for the cam?",
+  "ah": "שמן ישן מאבד את התוספים וסותם תעלות קטנות, והמגע בין הזיז לעוקב נשחק.",
+  "ae": "Old oil loses additives and clogs small passages, so the lobe-follower contact wears.",
+  "oh": [
+   "תוספים נגמרים ותעלות נסתמות",
+   "שמן ישן כבד מדי למנוע",
+   "אין לזה קשר לגל"
+  ],
+  "oe": [
+   "Additives wear out, passages clog",
+   "Old oil is too heavy for the engine",
+   "It has nothing to do with the cam"
+  ],
+  "id": 230
+ },
+ {
+  "topic": "גל זיזים · כשלים ומנועי התנגשות (Failures & Interference)",
+  "type": "mcq",
+  "qh": "מה זה מנוע התנגשות (Interference Engine)?",
+  "qe": "What is an interference engine?",
+  "ah": "מנוע שבו השסתום הפתוח והבוכנה יכולים להיות באותו מקום. אם התזמון נשבר – הם נפגשים.",
+  "ae": "An engine where an open valve and the piston can occupy the same space. If timing breaks, they collide.",
+  "oh": [
+   "שסתום ובוכנה יכולים להיפגש",
+   "מנוע שאין בו שסתומים",
+   "מנוע עם שני גלי ארכובה"
+  ],
+  "oe": [
+   "Valve and piston can meet",
+   "An engine with no valves",
+   "An engine with two crankshafts"
+  ],
+  "id": 231
+ },
+ {
+  "topic": "גל זיזים · כשלים ומנועי התנגשות (Failures & Interference)",
+  "type": "mcq",
+  "qh": "מה קורה כשרצועת תזמון נקרעת במנוע התנגשות?",
+  "qe": "What happens when the timing belt snaps in an interference engine?",
+  "ah": "גל הזיזים נעצר, הבוכנות ממשיכות ופוגעות בשסתומים הפתוחים. השסתומים מתעקמים – תיקון יקר.",
+  "ae": "The cam stops while pistons keep moving and hit the open valves. Bent valves – a costly repair.",
+  "oh": [
+   "שסתומים מתעקמים – תיקון יקר",
+   "המנוע רק נכבה, בלי נזק",
+   "המנוע ממשיך לעבוד רגיל"
+  ],
+  "oe": [
+   "Bent valves – costly repair",
+   "It just stops, no damage",
+   "It keeps running normally"
+  ],
+  "id": 232
+ },
+ {
+  "topic": "גל זיזים · כשלים ומנועי התנגשות (Failures & Interference)",
+  "type": "mcq",
+  "qh": "למה מחליפים רצועת תזמון לפי ק\"מ גם אם היא נראית טובה?",
+  "qe": "Why replace a timing belt by mileage even if it looks fine?",
+  "ah": "הגומי מתעייף מבפנים בלי סימנים. קריעה עולה הרבה יותר מהחלפה.",
+  "ae": "The rubber fatigues inside without visible signs. A snap costs far more than a change.",
+  "oh": [
+   "הגומי מתעייף מבפנים בלי סימן",
+   "כי הרצועה משנה צבע",
+   "כי היא מתארכת פי 2"
+  ],
+  "oe": [
+   "Rubber fatigues inside unseen",
+   "Because the belt changes colour",
+   "Because it doubles in length"
+  ],
+  "id": 233
+ },
+ {
+  "topic": "גל זיזים · כשלים ומנועי התנגשות (Failures & Interference)",
+  "type": "mcq",
+  "qh": "מה מחליפים בדרך כלל יחד עם רצועת תזמון?",
+  "qe": "What is usually replaced with a timing belt?",
+  "ah": "גלגל מותח (Tensioner), גלגלי הובלה, ולפעמים משאבת מים שמונעת מאותה רצועה.",
+  "ae": "The tensioner, idler pulleys, and often the water pump driven by the same belt.",
+  "oh": [
+   "מותח, גלגלים ומשאבת מים",
+   "רק את המצבר",
+   "את כל הצמיגים"
+  ],
+  "oe": [
+   "Tensioner, idlers and water pump",
+   "Only the battery",
+   "All the tyres"
+  ],
+  "id": 234
+ },
+ {
+  "topic": "גל זיזים · כשלים ומנועי התנגשות (Failures & Interference)",
+  "type": "mcq",
+  "qh": "שרשרת תזמון רועשת (רעשוש) בהתנעה. מה זה רומז?",
+  "qe": "A rattling timing chain at start-up – what does it hint?",
+  "ah": "השרשרת התארכה או שהמותח ההידראולי לא מחזיק לחץ עד שהשמן מגיע.",
+  "ae": "The chain has stretched or the hydraulic tensioner loses pressure until oil arrives.",
+  "oh": [
+   "שרשרת מתוחה פחות או מותח חלש",
+   "מצבר חלש",
+   "צמיג חסר אוויר"
+  ],
+  "oe": [
+   "A stretched chain or weak tensioner",
+   "A weak battery",
+   "A flat tyre"
+  ],
+  "id": 235
+ },
+ {
+  "topic": "גל זיזים · כשלים ומנועי התנגשות (Failures & Interference)",
+  "type": "mcq",
+  "qh": "מה זה \"קפיצת שן\" (Jumped Tooth) ברצועה?",
+  "qe": "What is a jumped tooth on a belt?",
+  "ah": "הרצועה קפצה שן אחת על הגלגל. התזמון זז, המנוע חלש ונורת מנוע נדלקת.",
+  "ae": "The belt skipped one tooth on a pulley. Timing is off, the engine is weak and the warning light comes on.",
+  "oh": [
+   "התזמון זז בשן אחת",
+   "שן של גלגל שיניים נשברה",
+   "השן של הנהג"
+  ],
+  "oe": [
+   "Timing shifted by one tooth",
+   "A gear tooth broke",
+   "The driver's tooth"
+  ],
+  "id": 236
+ },
+ {
+  "topic": "גל זיזים · כשלים ומנועי התנגשות (Failures & Interference)",
+  "type": "mcq",
+  "qh": "איך יודעים אם שסתום שרוף?",
+  "qe": "How do you know if a valve is burned?",
+  "ah": "בדיקת דחיסה (Compression Test) – צילינדר אחד עם לחץ נמוך בהרבה מהשאר.",
+  "ae": "A compression test – one cylinder far lower than the others.",
+  "oh": [
+   "בדיקת דחיסה – צילינדר נמוך",
+   "מסתכלים על המצבר",
+   "מריחים את הצמיגים"
+  ],
+  "oe": [
+   "Compression test – one low cylinder",
+   "Look at the battery",
+   "Smell the tyres"
+  ],
+  "id": 237
+ },
+ {
+  "topic": "גל זיזים · כשלים ומנועי התנגשות (Failures & Interference)",
+  "type": "mcq",
+  "qh": "מה גורם לקפיץ שסתום להישבר?",
+  "qe": "What causes a valve spring to break?",
+  "ah": "עייפות ממיליוני לחיצות, סל\"ד גבוה מדי, או חלודה.",
+  "ae": "Fatigue from millions of cycles, over-revving, or corrosion.",
+  "oh": [
+   "עייפות, סל\"ד יתר או חלודה",
+   "מעט מדי דלק",
+   "נסיעה איטית בעיר"
+  ],
+  "oe": [
+   "Fatigue, over-revving or corrosion",
+   "Too little fuel",
+   "Slow city driving"
+  ],
+  "id": 238
+ },
+ {
+  "topic": "גל זיזים · כשלים ומנועי התנגשות (Failures & Interference)",
+  "type": "mcq",
+  "qh": "מה הסימן לאטמי שסתום (Valve Stem Seals) שחוקים?",
+  "qe": "Sign of worn valve stem seals?",
+  "ah": "עשן כחול קצר בהתנעה בבוקר – שמן שזלג לצילינדר בלילה.",
+  "ae": "A short puff of blue smoke at morning start – oil that seeped in overnight.",
+  "oh": [
+   "עשן כחול קצר בהתנעה",
+   "עשן לבן מתוק כל הזמן",
+   "אין עשן בכלל לעולם"
+  ],
+  "oe": [
+   "A short blue puff at start-up",
+   "Sweet white smoke all the time",
+   "Never any smoke"
+  ],
+  "id": 239
+ },
+ {
+  "topic": "גל זיזים · כשלים ומנועי התנגשות (Failures & Interference)",
+  "type": "mcq",
+  "qh": "בראיון: \"המנוע מאבד כוח בצילינדר אחד\". מה סדר הבדיקה?",
+  "qe": "Interview: \"one cylinder lacks power\" – check order?",
+  "ah": "מצת וסליל, מזרק, ואז דחיסה ומרווח שסתומים. מתחילים מהזול והפשוט.",
+  "ae": "Spark plug and coil, injector, then compression and valve clearance. Start cheap and simple.",
+  "oh": [
+   "מצת, מזרק, ואז דחיסה ושסתומים",
+   "קודם להחליף את גל הזיזים",
+   "קודם לפרק את כל המנוע"
+  ],
+  "oe": [
+   "Plug, injector, then compression and valves",
+   "Replace the cam first",
+   "Strip the whole engine first"
+  ],
+  "id": 240
+ },
+ {
+  "topic": "גל זיזים · זיזים מחוץ למנוע (Cams Beyond Engines)",
+  "type": "mcq",
+  "qh": "איפה יש זיזים בבית?",
+  "qe": "Where are cams found at home?",
+  "ah": "במכונת תפירה, בשעון מכני, במכונת כביסה ישנה (בורר תוכניות), ובצעצועים.",
+  "ae": "In sewing machines, mechanical clocks, old washing-machine timers, and toys.",
+  "oh": [
+   "מכונת תפירה, שעון ומכונת כביסה",
+   "רק במכוניות",
+   "רק במטוסים"
+  ],
+  "oe": [
+   "Sewing machine, clock and washer",
+   "Only in cars",
+   "Only in aircraft"
+  ],
+  "id": 241
+ },
+ {
+  "topic": "גל זיזים · זיזים מחוץ למנוע (Cams Beyond Engines)",
+  "type": "mcq",
+  "qh": "איך זיז עוזר במכונות אריזה מהירות?",
+  "qe": "How do cams help in fast packaging machines?",
+  "ah": "גל אחד עם הרבה זיזים מתזמן הרבה תנועות בדיוק, אלפי פעמים בדקה.",
+  "ae": "One shaft with many cams times many motions exactly, thousands of times a minute.",
+  "oh": [
+   "מתזמן הרבה תנועות בגל אחד",
+   "מחליף את כל המנועים בחשמל",
+   "מקרר את המוצרים"
+  ],
+  "oe": [
+   "Times many motions on one shaft",
+   "Replaces all motors with electric",
+   "Cools the products"
+  ],
+  "id": 242
+ },
+ {
+  "topic": "גל זיזים · זיזים מחוץ למנוע (Cams Beyond Engines)",
+  "type": "mcq",
+  "qh": "למה במכונות חדשות מחליפים זיזים במנועי סרוו (Servo)?",
+  "qe": "Why are cams replaced by servo motors in new machines?",
+  "ah": "אפשר לשנות את התנועה בתוכנה בלי לייצר זיז חדש. אבל זה יקר ומורכב יותר.",
+  "ae": "Motion can be changed in software without making a new cam – but it is costlier and more complex.",
+  "oh": [
+   "משנים תנועה בתוכנה",
+   "סרוו תמיד זול יותר",
+   "זיזים אסורים בחוק"
+  ],
+  "oe": [
+   "Motion changes in software",
+   "Servos are always cheaper",
+   "Cams are banned"
+  ],
+  "id": 243
+ },
+ {
+  "topic": "גל זיזים · זיזים מחוץ למנוע (Cams Beyond Engines)",
+  "type": "mcq",
+  "qh": "מה זה זיז אצבע (Snail / Drop Cam)?",
+  "qe": "What is a snail (drop) cam?",
+  "ah": "זיז שעולה לאט ואז \"נופל\" בבת אחת. העוקב צונח – כמו פטיש בשעון.",
+  "ae": "A cam that rises slowly then drops suddenly. The follower falls – like a clock hammer.",
+  "oh": [
+   "עולה לאט ונופל בבת אחת",
+   "עגול לגמרי בלי שינוי",
+   "עולה ויורד באותה מהירות"
+  ],
+  "oe": [
+   "Rises slowly and drops suddenly",
+   "Perfectly round with no change",
+   "Rises and falls at the same rate"
+  ],
+  "id": 244
+ },
+ {
+  "topic": "גל זיזים · זיזים מחוץ למנוע (Cams Beyond Engines)",
+  "type": "mcq",
+  "qh": "איך זיז במנעול עובד?",
+  "qe": "How does a cam work in a lock?",
+  "ah": "כשמסובבים מפתח, זיז קטן בגב הצילינדר דוחף את הבריח החוצה או פנימה.",
+  "ae": "Turning the key rotates a small cam at the back of the cylinder that pushes the bolt in or out.",
+  "oh": [
+   "זיז דוחף את הבריח",
+   "קפיץ מושך את הדלת",
+   "מגנט מחזיק את המפתח"
+  ],
+  "oe": [
+   "A cam pushes the bolt",
+   "A spring pulls the door",
+   "A magnet holds the key"
+  ],
+  "id": 245
+ },
+ {
+  "topic": "גל זיזים · זיזים מחוץ למנוע (Cams Beyond Engines)",
+  "type": "mcq",
+  "qh": "מה זה ידית נעילה אקסצנטרית (Cam Lever / Quick Release)?",
+  "qe": "What is a cam lever (quick release)?",
+  "ah": "ידית עם זיז מוזז. כשסוגרים אותה, הזיז לוחץ חזק ומהדק – כמו בגלגל אופניים.",
+  "ae": "A lever with an off-centre cam. Closing it squeezes and clamps hard – like a bike wheel.",
+  "oh": [
+   "ידית עם זיז שמהדק בסגירה",
+   "בורג רגיל עם אום",
+   "קפיץ שנמתח לבד"
+  ],
+  "oe": [
+   "A lever with a cam that clamps",
+   "A normal bolt and nut",
+   "A spring that stretches itself"
+  ],
+  "id": 246
+ },
+ {
+  "topic": "גל זיזים · זיזים מחוץ למנוע (Cams Beyond Engines)",
+  "type": "mcq",
+  "qh": "למה ידית אקסצנטרית לא נפתחת לבד?",
+  "qe": "Why does a cam lever not open by itself?",
+  "ah": "היא נסגרת קצת \"מעבר\" לנקודה הכי גבוהה, אז הכוח דוחף אותה להישאר סגורה.",
+  "ae": "It closes slightly past the highest point, so the clamp force holds it shut.",
+  "oh": [
+   "נסגרת מעבר לנקודה הגבוהה",
+   "יש בה דבק חזק",
+   "יש בה מנעול עם מפתח"
+  ],
+  "oe": [
+   "It closes past the high point",
+   "It has strong glue",
+   "It has a key lock"
+  ],
+  "id": 247
+ },
+ {
+  "topic": "גל זיזים · זיזים מחוץ למנוע (Cams Beyond Engines)",
+  "type": "mcq",
+  "qh": "מה תפקיד זיז במשאבת דלק מכנית ישנה?",
+  "qe": "Cam role in an old mechanical fuel pump?",
+  "ah": "זיז על גל הזיזים מזיז מנוף שמושך ודוחף ממברנה – וכך שואב דלק.",
+  "ae": "A cam on the camshaft moves a lever that pulls and pushes a diaphragm, pumping fuel.",
+  "oh": [
+   "מזיז מנוף שמפעיל ממברנה",
+   "מחמם את הדלק",
+   "מודד כמה דלק יש"
+  ],
+  "oe": [
+   "Moves a lever working a diaphragm",
+   "Heats the fuel",
+   "Measures fuel level"
+  ],
+  "id": 248
+ },
+ {
+  "topic": "גל זיזים · זיזים מחוץ למנוע (Cams Beyond Engines)",
+  "type": "mcq",
+  "qh": "איך משאבת דלק לחץ גבוה במנוע הזרקה ישירה מקבלת כוח?",
+  "qe": "How is a direct-injection high-pressure fuel pump driven?",
+  "ah": "בדרך כלל מזיז נוסף על גל הזיזים שדוחף בוכנה קטנה.",
+  "ae": "Usually by an extra lobe on the camshaft pushing a small plunger.",
+  "oh": [
+   "זיז נוסף על גל הזיזים",
+   "מנוע חשמלי בתוך המיכל",
+   "רוח מהמאוורר"
+  ],
+  "oe": [
+   "An extra lobe on the camshaft",
+   "An electric motor in the tank",
+   "Air from the fan"
+  ],
+  "id": 249
+ },
+ {
+  "topic": "גל זיזים · זיזים מחוץ למנוע (Cams Beyond Engines)",
+  "type": "mcq",
+  "qh": "בראיון: \"מתי תבחר זיז ולא מנוע סרוו?\" – מה תענה?",
+  "qe": "Interview: \"when would you choose a cam over a servo?\"",
+  "ah": "כשהתנועה קבועה, מהירה וחוזרת מיליוני פעמים – זיז זול, אמין ומדויק.",
+  "ae": "When the motion is fixed, fast and repeated millions of times – a cam is cheap, reliable and precise.",
+  "oh": [
+   "תנועה קבועה, מהירה וחוזרת",
+   "כשהתנועה משתנה כל יום",
+   "כשצריך לשנות בתוכנה"
+  ],
+  "oe": [
+   "Fixed, fast, repeated motion",
+   "When motion changes daily",
+   "When it must change in software"
+  ],
+  "id": 250
+ },
+ {
+  "type": "calc",
+  "topic": "גלגלי שיניים ויחסים (Gears & Ratios)",
+  "qh": "מנוע מסתובב 20,000 סל\"ד (rpm) ותיבת ההילוכים מורידה פי 50. כמה מסתובב הצ׳אק?",
+  "qe": "A motor spins at 20,000 rpm through a 50:1 reduction. Chuck speed?",
+  "ah": "400 סל\"ד. מחלקים את מהירות המנוע ב-50: עשרים אלף חלקי חמישים זה ארבע מאות.",
+  "ae": "400 rpm. Divide motor speed by 50: twenty thousand over fifty is four hundred.",
+  "oh": [
+   "400 סל\"ד",
+   "1,000,000 סל\"ד",
+   "2,000 סל\"ד"
+  ],
+  "oe": [
+   "400 rpm",
+   "1,000,000 rpm",
+   "2,000 rpm"
+  ],
+  "id": 251
+ },
+ {
+  "type": "calc",
+  "topic": "גלגלי שיניים ויחסים (Gears & Ratios)",
+  "qh": "גלגל מניע עם 10 שיניים מסובב גלגל עם 40 שיניים. מה היחס ומה קורה למהירות?",
+  "qe": "A 10-tooth gear drives a 40-tooth gear. Ratio and speed effect?",
+  "ah": "יחס 4 ל-1. הגלגל הגדול מסתובב פי 4 לאט יותר – כל סיבוב שלו דורש 4 סיבובים של הקטן.",
+  "ae": "4:1. The big gear turns 4 times slower – each of its turns needs 4 turns of the small one.",
+  "oh": [
+   "4:1, היציאה איטית פי 4",
+   "4:1, היציאה מהירה פי 4",
+   "1:1, אותה מהירות"
+  ],
+  "oe": [
+   "4:1, output 4x slower",
+   "4:1, output 4x faster",
+   "1:1, same speed"
+  ],
+  "id": 252
+ },
+ {
+  "type": "calc",
+  "topic": "מומנט וכוח (Torque & Force)",
+  "qh": "מנוע נותן 0.5 ניוטון-מטר (Nm) ויש הורדה של 20 ל-1, בלי הפסדים. כמה מומנט ביציאה?",
+  "qe": "Motor gives 0.5 Nm through 20:1, no losses. Output torque?",
+  "ah": "10 ניוטון-מטר. מה שמפסידים במהירות מרוויחים בכוח: חצי כפול עשרים זה עשר.",
+  "ae": "10 Nm. What you lose in speed you gain in torque: half times twenty is ten.",
+  "oh": [
+   "10 Nm",
+   "0.025 Nm",
+   "20.5 Nm"
+  ],
+  "oe": [
+   "10 Nm",
+   "0.025 Nm",
+   "20.5 Nm"
+  ],
+  "id": 253
+ },
+ {
+  "type": "calc",
+  "topic": "מומנט וכוח (Torque & Force)",
+  "qh": "אותה מערכת (0.5Nm, יחס 20) אבל הנצילות (Efficiency) היא 80%. כמה מומנט באמת?",
+  "qe": "Same system (0.5 Nm, 20:1) but 80% efficiency. Real torque?",
+  "ah": "8 ניוטון-מטר. בלי הפסדים היו 10, ו-80% מעשר זה שמונה.",
+  "ae": "8 Nm. Lossless would be 10; 80% of ten is eight.",
+  "oh": [
+   "8 Nm",
+   "10 Nm",
+   "12.5 Nm"
+  ],
+  "oe": [
+   "8 Nm",
+   "10 Nm",
+   "12.5 Nm"
+  ],
+  "id": 254
+ },
+ {
+  "type": "calc",
+  "topic": "גלגלי שיניים ויחסים (Gears & Ratios)",
+  "qh": "שני שלבי הורדה אחד אחרי השני: 5 ל-1 ואז 4 ל-1. מה היחס הכולל?",
+  "qe": "Two stages in a row: 5:1 then 4:1. Total ratio?",
+  "ah": "20 ל-1. מכפילים את היחסים, לא מחברים: חמש כפול ארבע זה עשרים.",
+  "ae": "20:1. Multiply ratios, don't add them: five times four is twenty.",
+  "oh": [
+   "20:1",
+   "9:1",
+   "1.25:1"
+  ],
+  "oe": [
+   "20:1",
+   "9:1",
+   "1.25:1"
+  ],
+  "id": 255
+ },
+ {
+  "type": "calc",
+  "topic": "גלגלי שיניים ויחסים (Gears & Ratios)",
+  "qh": "מנוע 3,000 סל\"ד עם גלגלת (Pulley) בקוטר 5 ס\"מ, רצועה לגלגלת של 15 ס\"מ. מהירות היציאה?",
+  "qe": "3,000 rpm motor, 5 cm pulley, belt to a 15 cm pulley. Output speed?",
+  "ah": "1,000 סל\"ד. הגלגלת הגדולה פי 3, אז היא מסתובבת פי 3 לאט יותר.",
+  "ae": "1,000 rpm. The big pulley is 3x larger so it turns 3x slower.",
+  "oh": [
+   "1,000 סל\"ד",
+   "9,000 סל\"ד",
+   "3,000 סל\"ד"
+  ],
+  "oe": [
+   "1,000 rpm",
+   "9,000 rpm",
+   "3,000 rpm"
+  ],
+  "id": 256
+ },
+ {
+  "type": "calc",
+  "topic": "מומנט וכוח (Torque & Force)",
+  "qh": "מושכים 100 ניוטון (N) בקצה מפתח באורך 25 ס\"מ. כמה מומנט על הבורג?",
+  "qe": "You pull 100 N at the end of a 25 cm wrench. Torque on the bolt?",
+  "ah": "25 ניוטון-מטר. כוח כפול המרחק במטרים: מאה כפול רבע מטר.",
+  "ae": "25 Nm. Force times distance in metres: one hundred times a quarter metre.",
+  "oh": [
+   "25 Nm",
+   "2,500 Nm",
+   "4 Nm"
+  ],
+  "oe": [
+   "25 Nm",
+   "2,500 Nm",
+   "4 Nm"
+  ],
+  "id": 257
+ },
+ {
+  "type": "calc",
+  "topic": "מומנט וכוח (Torque & Force)",
+  "qh": "צריך 40 ניוטון-מטר ויש ידית של 40 ס\"מ. באיזה כוח צריך למשוך?",
+  "qe": "You need 40 Nm with a 40 cm handle. How hard must you pull?",
+  "ah": "100 ניוטון (בערך משקל של 10 ק\"ג). מחלקים את המומנט באורך במטרים: ארבעים חלקי 0.4.",
+  "ae": "100 N (about the weight of 10 kg). Divide torque by length in metres: forty over 0.4.",
+  "oh": [
+   "100 N",
+   "16 N",
+   "1,600 N"
+  ],
+  "oe": [
+   "100 N",
+   "16 N",
+   "1,600 N"
+  ],
+  "id": 258
+ },
+ {
+  "type": "calc",
+  "topic": "דיפרנציאל (Differential)",
+  "qh": "בסיבוב, בית הדיפרנציאל מסתובב 100 סל\"ד והגלגל הפנימי 90. כמה הגלגל החיצוני?",
+  "qe": "In a turn the differential case spins 100 rpm and the inner wheel 90. Outer wheel?",
+  "ah": "110 סל\"ד. מה שגלגל אחד מאבד השני מקבל – הממוצע של שניהם תמיד שווה למהירות הבית.",
+  "ae": "110 rpm. What one wheel loses the other gains – their average always equals the case speed.",
+  "oh": [
+   "110 סל\"ד",
+   "100 סל\"ד",
+   "190 סל\"ד"
+  ],
+  "oe": [
+   "110 rpm",
+   "100 rpm",
+   "190 rpm"
+  ],
+  "id": 259
+ },
+ {
+  "type": "calc",
+  "topic": "דיפרנציאל (Differential)",
+  "qh": "גל ההינע (Driveshaft) מסתובב 2,000 סל\"ד וההאטה הסופית (Final Drive) היא 4 ל-1. מהירות הגלגלים בנסיעה ישרה?",
+  "qe": "Driveshaft at 2,000 rpm, final drive 4:1. Wheel speed going straight?",
+  "ah": "500 סל\"ד. אלפיים חלקי ארבע. בנסיעה ישרה שני הגלגלים באותה מהירות.",
+  "ae": "500 rpm. Two thousand over four; going straight both wheels match.",
+  "oh": [
+   "500 סל\"ד",
+   "8,000 סל\"ד",
+   "250 סל\"ד"
+  ],
+  "oe": [
+   "500 rpm",
+   "8,000 rpm",
+   "250 rpm"
+  ],
+  "id": 260
+ },
+ {
+  "type": "calc",
+  "topic": "ראצ׳ט ומצמד (Ratchet & Clutch)",
+  "qh": "לגלגל ראצ׳ט יש 36 שיניים. כמה מעלות זה \"קליק\" אחד?",
+  "qe": "A ratchet wheel has 36 teeth. How many degrees per click?",
+  "ah": "10 מעלות. סיבוב שלם הוא 360 מעלות, מחולק ל-36 שיניים.",
+  "ae": "10 degrees. A full turn is 360 degrees split over 36 teeth.",
+  "oh": [
+   "10 מעלות",
+   "36 מעלות",
+   "1 מעלה"
+  ],
+  "oe": [
+   "10°",
+   "36°",
+   "1°"
+  ],
+  "id": 261
+ },
+ {
+  "type": "calc",
+  "topic": "ראצ׳ט ומצמד (Ratchet & Clutch)",
+  "qh": "ראצ׳ט של 72 שיניים לעומת 36. איזה צריך פחות מקום לסיבוב הידית, ובכמה?",
+  "qe": "72-tooth vs 36-tooth ratchet. Which needs less handle swing, by how much?",
+  "ah": "ה-72: כל קליק 5 מעלות במקום 10 – חצי תנועה. טוב במקומות צפופים, אבל כל שן קטנה וחלשה יותר.",
+  "ae": "The 72: 5° per click instead of 10° – half the swing. Great in tight spots, but each tooth is smaller and weaker.",
+  "oh": [
+   "72 – חצי תנועה (5° במקום 10°)",
+   "36 – כי יש פחות שיניים",
+   "אין הבדל"
+  ],
+  "oe": [
+   "72 – half the swing (5° vs 10°)",
+   "36 – fewer teeth",
+   "No difference"
+  ],
+  "id": 262
+ },
+ {
+  "type": "calc",
+  "topic": "גל זיזים (Camshaft)",
+  "qh": "במנוע ארבע פעימות גל הארכובה (Crankshaft) מסתובב 3,000 סל\"ד. כמה גל הזיזים?",
+  "qe": "In a 4-stroke engine the crankshaft spins 3,000 rpm. Camshaft speed?",
+  "ah": "1,500 סל\"ד. כל שסתום נפתח פעם בשני סיבובי ארכובה, לכן גל הזיזים בחצי מהירות.",
+  "ae": "1,500 rpm. Each valve opens once every two crank turns, so the cam runs at half speed.",
+  "oh": [
+   "1,500 סל\"ד",
+   "3,000 סל\"ד",
+   "6,000 סל\"ד"
+  ],
+  "oe": [
+   "1,500 rpm",
+   "3,000 rpm",
+   "6,000 rpm"
+  ],
+  "id": 263
+ },
+ {
+  "type": "calc",
+  "topic": "גלגלי שיניים ויחסים (Gears & Ratios)",
+  "qh": "בורג חילזון (Worm) עם התחלה אחת מסובב גלגל של 30 שיניים, המנוע 1,500 סל\"ד. מהירות היציאה?",
+  "qe": "Single-start worm drives a 30-tooth wheel, motor at 1,500 rpm. Output speed?",
+  "ah": "50 סל\"ד. כל סיבוב של החילזון מזיז שן אחת, אז היחס 30 ל-1: אלף וחמש מאות חלקי שלושים.",
+  "ae": "50 rpm. Each worm turn moves one tooth, so 30:1: fifteen hundred over thirty.",
+  "oh": [
+   "50 סל\"ד",
+   "45,000 סל\"ד",
+   "1,500 סל\"ד"
+  ],
+  "oe": [
+   "50 rpm",
+   "45,000 rpm",
+   "1,500 rpm"
+  ],
+  "id": 264
+ },
+ {
+  "type": "calc",
+  "topic": "מנועים וסוללות (Motors & Power)",
+  "qh": "מנוע נותן 10 ניוטון-מטר בערך ב-955 סל\"ד. בערך כמה הספק (Power)?",
+  "qe": "A motor gives 10 Nm at about 955 rpm. Roughly what power?",
+  "ah": "בערך 1,000 וואט (1 קילוואט). כלל אצבע: מכפילים מומנט בסל\"ד ומחלקים בערך ב-9.5 – עשר כפול 955 חלקי 9.55 זה אלף.",
+  "ae": "About 1,000 W (1 kW). Rule of thumb: torque times rpm, divided by about 9.5 – ten times 955 over 9.55 is a thousand.",
+  "oh": [
+   "כ-1,000 וואט",
+   "כ-10 וואט",
+   "כ-9,550 וואט"
+  ],
+  "oe": [
+   "About 1,000 W",
+   "About 10 W",
+   "About 9,550 W"
+  ],
+  "id": 265
+ },
+ {
+  "type": "calc",
+  "topic": "גלגלי שיניים ויחסים (Gears & Ratios)",
+  "qh": "גלגל שיניים (Pinion) עם היקף של 10 ס\"מ מסתובב 3 סיבובים על מסילת שיניים (Rack). כמה המסילה זזה?",
+  "qe": "A pinion with a 10 cm circumference turns 3 times on a rack. How far does the rack move?",
+  "ah": "30 ס\"מ. כל סיבוב מזיז את המסילה היקף אחד.",
+  "ae": "30 cm. Each turn moves the rack one circumference.",
+  "oh": [
+   "30 ס\"מ",
+   "3.3 ס\"מ",
+   "10 ס\"מ"
+  ],
+  "oe": [
+   "30 cm",
+   "3.3 cm",
+   "10 cm"
+  ],
+  "id": 266
+ },
+ {
+  "type": "calc",
+  "topic": "מנועים וסוללות (Motors & Power)",
+  "qh": "סוללה של 18 וולט ו-4 אמפר-שעה (Ah). בערך כמה אנרגיה יש בה?",
+  "qe": "An 18 V, 4 Ah battery. Roughly how much energy?",
+  "ah": "72 וואט-שעה. מכפילים וולט באמפר-שעה: שמונה עשרה כפול ארבע.",
+  "ae": "72 Wh. Multiply volts by amp-hours: eighteen times four.",
+  "oh": [
+   "72 Wh",
+   "22 Wh",
+   "4.5 Wh"
+  ],
+  "oe": [
+   "72 Wh",
+   "22 Wh",
+   "4.5 Wh"
+  ],
+  "id": 267
+ },
+ {
+  "type": "mistake",
+  "topic": "גלגלי שיניים ויחסים (Gears & Ratios)",
+  "qh": "האם גלגלי שיניים מגדילים את ההספק (Power)?",
+  "qe": "Do gears increase power?",
+  "wrong_h": "\"כן, הורדה נותנת יותר כוח, אז יותר הספק.\"",
+  "wrong_e": "\"Yes, reduction gives more force so more power.\"",
+  "ah": "לא. גלגלי שיניים מחליפים מהירות במומנט. ההספק נשאר אותו דבר ואפילו קצת יורד בגלל חיכוך.",
+  "ae": "No. Gears trade speed for torque. Power stays the same and even drops a bit to friction.",
+  "id": 268
+ },
+ {
+  "type": "mistake",
+  "topic": "גלגלי שיניים ויחסים (Gears & Ratios)",
+  "qh": "שני שלבים 3:1 ו-4:1 – מה היחס הכולל?",
+  "qe": "Stages 3:1 and 4:1 – total ratio?",
+  "wrong_h": "\"7 ל-1 – מחברים.\"",
+  "wrong_e": "\"7:1 – add them.\"",
+  "ah": "12 ל-1. יחסים בשרשרת מכפילים.",
+  "ae": "12:1. Ratios in series multiply.",
+  "id": 269
+ },
+ {
+  "type": "mistake",
+  "topic": "גלגלי שיניים ויחסים (Gears & Ratios)",
+  "qh": "גלגל ביניים (Idler) בין שני גלגלים – מה הוא משנה?",
+  "qe": "An idler gear between two gears – what does it change?",
+  "wrong_h": "\"הוא משנה את היחס.\"",
+  "wrong_e": "\"It changes the ratio.\"",
+  "ah": "הוא רק הופך את כיוון הסיבוב (ומגשר על מרחק). היחס נקבע רק על ידי הגלגל הראשון והאחרון.",
+  "ae": "It only reverses direction (and bridges distance). The ratio depends only on the first and last gear.",
+  "id": 270
+ },
+ {
+  "type": "mistake",
+  "topic": "מנועים וסוללות (Motors & Power)",
+  "qh": "מתי מנוע DC מושך הכי הרבה זרם?",
+  "qe": "When does a DC motor draw the most current?",
+  "wrong_h": "\"במהירות מקסימלית.\"",
+  "wrong_e": "\"At top speed.\"",
+  "ah": "כשהוא תקוע (Stall) או בהתנעה. אין סיבוב שמייצר \"מתח נגדי\", אז הזרם קופץ.",
+  "ae": "When stalled or starting. No rotation means no back-voltage, so current spikes.",
+  "id": 271
+ },
+ {
+  "type": "mistake",
+  "topic": "דיפרנציאל (Differential)",
+  "qh": "למה צריך דיפרנציאל?",
+  "qe": "Why do you need a differential?",
+  "wrong_h": "\"כדי לחלק את הכוח שווה בין הגלגלים בכל מצב.\"",
+  "wrong_e": "\"To split power equally between wheels at all times.\"",
+  "ah": "כדי לאפשר לגלגלים להסתובב במהירויות שונות בסיבוב. המומנט אמנם מתחלק שווה, אבל בגלל זה גלגל שמחליק \"גונב\" את הכל.",
+  "ae": "To let wheels turn at different speeds in a corner. Torque is split equally, which is exactly why a slipping wheel gets all the motion.",
+  "id": 272
+ },
+ {
+  "type": "mistake",
+  "topic": "דיפרנציאל (Differential)",
+  "qh": "גלגל אחד על קרח והשני על אספלט – מה קורה בדיפרנציאל פתוח?",
+  "qe": "One wheel on ice, one on asphalt – open differential?",
+  "wrong_h": "\"הגלגל על האספלט מקבל את כל הכוח ומושך.\"",
+  "wrong_e": "\"The asphalt wheel gets all the power and pulls.\"",
+  "ah": "הגלגל על הקרח מסתובב בחופשיות והמכונית לא זזה. שני הגלגלים מקבלים מומנט נמוך כמו של הגלגל המחליק.",
+  "ae": "The ice wheel spins and the car stays put. Both wheels get only as much torque as the slipping wheel can hold.",
+  "id": 273
+ },
+ {
+  "type": "mistake",
+  "topic": "מומנט וכוח (Torque & Force)",
+  "qh": "איך מגדילים מומנט על בורג תקוע עם אותו כוח?",
+  "qe": "How to get more torque on a stuck bolt with the same force?",
+  "wrong_h": "\"לדחוף מהר יותר.\"",
+  "wrong_e": "\"Push faster.\"",
+  "ah": "להאריך את הידית. מומנט זה כוח כפול מרחק – ידית כפולה, מומנט כפול.",
+  "ae": "Use a longer handle. Torque is force times distance – double the handle, double the torque.",
+  "id": 274
+ },
+ {
+  "type": "mistake",
+  "topic": "מפרק קרדן (U-joint)",
+  "qh": "מפרק קרדן (U-joint) בזווית – האם מהירות היציאה אחידה?",
+  "qe": "A U-joint at an angle – is output speed uniform?",
+  "wrong_h": "\"כן, כמו ציר ישר.\"",
+  "wrong_e": "\"Yes, like a straight shaft.\"",
+  "ah": "לא. בזווית היציאה מאיצה ומאטה פעמיים בכל סיבוב. מתקנים עם שני מפרקים בפאזה נכונה או מפרק הומוקינטי (CV).",
+  "ae": "No. At an angle the output speeds up and slows down twice per turn. Fix with two joints phased correctly or a CV joint.",
+  "id": 275
+ },
+ {
+  "type": "mistake",
+  "topic": "ראצ׳ט ומצמד (Ratchet & Clutch)",
+  "qh": "מה תפקיד הקפיץ על לשונית הראצ׳ט (Pawl)?",
+  "qe": "What does the pawl spring do?",
+  "wrong_h": "\"נותן את הכוח שמסובב את הבורג.\"",
+  "wrong_e": "\"It provides the force that turns the bolt.\"",
+  "ah": "רק מחזיק את הלשונית צמודה לשיניים. הכוח עובר דרך הלשונית והשן עצמן, לא דרך הקפיץ.",
+  "ae": "It only keeps the pawl against the teeth. The load goes through the pawl and tooth, not the spring.",
+  "id": 276
+ },
+ {
+  "type": "mistake",
+  "topic": "גל זיזים (Camshaft)",
+  "qh": "למה גל הזיזים מסתובב בחצי ממהירות הארכובה?",
+  "qe": "Why does the camshaft turn at half crank speed?",
+  "wrong_h": "\"כדי להפחית שחיקה.\"",
+  "wrong_e": "\"To reduce wear.\"",
+  "ah": "כי במנוע ארבע פעימות כל שסתום נפתח פעם אחת בכל שני סיבובי ארכובה.",
+  "ae": "Because in a 4-stroke each valve opens once every two crank turns.",
+  "id": 277
+ },
+ {
+  "type": "mistake",
+  "topic": "מנועים וסוללות (Motors & Power)",
+  "qh": "למה לא לחבר מנוע ישר לצ׳אק בלי תיבת הילוכים?",
+  "qe": "Why not connect the motor straight to the chuck?",
+  "wrong_h": "\"כי המנוע יסתובב לאט מדי.\"",
+  "wrong_e": "\"Because the motor would be too slow.\"",
+  "ah": "ההפך: המנוע מהיר מדי וחלש מדי. ההורדה מורידה מהירות ומגדילה מומנט לרמה שימושית.",
+  "ae": "The opposite: the motor is too fast and too weak. The reduction lowers speed and raises torque to a useful level.",
+  "id": 278
+ },
+ {
+  "type": "mistake",
+  "topic": "כללי (General)",
+  "qh": "מה ההבדל בין חוזק (Strength) לקשיחות (Stiffness)?",
+  "qe": "Strength vs stiffness?",
+  "wrong_h": "\"זה אותו דבר.\"",
+  "wrong_e": "\"They are the same thing.\"",
+  "ah": "קשיחות – כמה החלק מתכופף תחת עומס. חוזק – באיזה עומס הוא נשבר או מתעוות לתמיד. חלק יכול להיות חזק אבל גמיש.",
+  "ae": "Stiffness is how much it bends under load; strength is the load at which it breaks or bends permanently. A part can be strong yet flexible.",
+  "id": 279
+ },
+ {
+  "type": "mistake",
+  "topic": "כללי (General)",
+  "qh": "מסב (Bearing) מתחמם ורועש – מה הצעד הראשון?",
+  "qe": "A bearing runs hot and noisy – first step?",
+  "wrong_h": "\"להוסיף עוד הרבה גריז.\"",
+  "wrong_e": "\"Add lots more grease.\"",
+  "ah": "לבדוק סיבה: יישור, עומס, זיהום, כמות שימון נכונה. יותר מדי גריז גם הוא מחמם מסב.",
+  "ae": "Find the cause: alignment, load, contamination, correct lube amount. Too much grease also overheats a bearing.",
+  "id": 280
+ },
+ {
+  "type": "mistake",
+  "topic": "גלגלי שיניים ויחסים (Gears & Ratios)",
+  "qh": "למה לבחור בורג חילזון (Worm) במנגנון הרמה?",
+  "qe": "Why use a worm gear in a lift?",
+  "wrong_h": "\"כי הוא הכי יעיל.\"",
+  "wrong_e": "\"Because it is the most efficient.\"",
+  "ah": "כי הוא נותן יחס גדול בשלב אחד ולרוב לא ניתן להנעה לאחור – העומס לא יפיל את עצמו. הנצילות דווקא נמוכה.",
+  "ae": "Big ratio in one stage, and usually it can't be back-driven so the load holds itself. Efficiency is actually low.",
+  "id": 281
+ },
+ {
+  "type": "mistake",
+  "topic": "מומנט וכוח (Torque & Force)",
+  "qh": "מצמד מומנט (Torque Clutch) במברגה \"מקפץ\" – זה תקלה?",
+  "qe": "Drill torque clutch is clicking – is that a fault?",
+  "wrong_h": "\"כן, המצמד שבור.\"",
+  "wrong_e": "\"Yes, the clutch is broken.\"",
+  "ah": "לא, זה התפקיד שלו: הגיע למומנט שנבחר והוא מחליק כדי לא להדק יותר מדי או לשבור את הבורג.",
+  "ae": "No, that's its job: it reached the set torque and slips so the screw isn't overtightened or snapped.",
+  "id": 282
+ },
+ {
+  "type": "interview",
+  "topic": "כללי (General)",
+  "qh": "ספר לי על מנגנון שאתה מכיר היטב.",
+  "qe": "Tell me about a mechanism you know well.",
+  "ah": "בוחרים מנגנון אחד (למשל מברגה), מתארים מה הוא עושה, מה הקלט והפלט, איך הכוח עובר, איזו בעיה הוא פותר ומה הייתי משפר.",
+  "ae": "Pick one mechanism (e.g. a drill), say what it does, input and output, how power flows, what problem it solves, and what you would improve.",
+  "points_h": [
+   "מטרה במשפט אחד",
+   "קלט → חלקים → פלט",
+   "מספר אחד (יחס, סל\"ד, מומנט)",
+   "נקודת כשל אפשרית",
+   "שיפור שהייתי עושה"
+  ],
+  "points_e": [
+   "Purpose in one sentence",
+   "Input → parts → output",
+   "One number (ratio, rpm, torque)",
+   "A likely failure point",
+   "An improvement you would make"
+  ],
+  "id": 283
+ },
+ {
+  "type": "interview",
+  "topic": "כללי (General)",
+  "qh": "ספר על פרויקט שבו משהו לא עבד ואיך פתרת.",
+  "qe": "Tell me about a project where something failed and how you fixed it.",
+  "ah": "מבנה STAR: מצב, משימה, פעולה, תוצאה. להדגיש איך מצאת את שורש הבעיה ומה למדת.",
+  "ae": "STAR: situation, task, action, result. Stress how you found the root cause and what you learned.",
+  "points_h": [
+   "תיאור קצר של הבעיה",
+   "איך בדקת (מדידה, ניסוי)",
+   "שורש הבעיה",
+   "התיקון והתוצאה במספרים",
+   "מה היית עושה אחרת"
+  ],
+  "points_e": [
+   "Short problem description",
+   "How you investigated (measure, test)",
+   "Root cause",
+   "Fix and result in numbers",
+   "What you would do differently"
+  ],
+  "id": 284
+ },
+ {
+  "type": "interview",
+  "topic": "גלגלי שיניים ויחסים (Gears & Ratios)",
+  "qh": "איך תבחר יחס הילוכים למברגה חדשה?",
+  "qe": "How would you choose a gear ratio for a new drill?",
+  "ah": "מתחילים מהדרישה (מומנט וסל\"ד בצ׳אק), בודקים מה המנוע נותן, והיחס הוא מהירות המנוע חלקי המהירות הנדרשת – ואז בודקים שהמומנט מספיק עם הפסדים.",
+  "ae": "Start from requirements (chuck torque and rpm), check what the motor gives; ratio = motor speed over needed speed, then confirm torque is enough after losses.",
+  "points_h": [
+   "דרישות קודם",
+   "נתוני המנוע",
+   "חישוב יחס",
+   "בדיקת מומנט עם נצילות",
+   "מספר שלבים, רעש, מחיר"
+  ],
+  "points_e": [
+   "Requirements first",
+   "Motor data",
+   "Calculate ratio",
+   "Check torque with efficiency",
+   "Stages, noise, cost"
+  ],
+  "id": 285
+ },
+ {
+  "type": "interview",
+  "topic": "דיפרנציאל (Differential)",
+  "qh": "הסבר דיפרנציאל לילד בן 10.",
+  "qe": "Explain a differential to a 10-year-old.",
+  "ah": "בסיבוב הגלגל החיצוני עובר דרך ארוכה יותר, אז הוא צריך להסתובב מהר יותר. הדיפרנציאל נותן לכל גלגל להסתובב בקצב שלו ועדיין לקבל כוח מהמנוע.",
+  "ae": "In a turn the outer wheel travels farther so it must spin faster. The differential lets each wheel spin at its own pace while both still get power.",
+  "points_h": [
+   "שפה פשוטה",
+   "דוגמת סיבוב",
+   "מה היה קורה בלעדיו",
+   "חיסרון: גלגל מחליק"
+  ],
+  "points_e": [
+   "Plain words",
+   "Cornering example",
+   "What happens without it",
+   "Downside: slipping wheel"
+  ],
+  "id": 286
+ },
+ {
+  "type": "interview",
+  "topic": "כללי (General)",
+  "qh": "איך היית בודק שחלק חדש עמיד לפני ייצור?",
+  "qe": "How would you verify a new part is durable before production?",
+  "ah": "חישוב ראשוני, סימולציה (FEA) אם צריך, אב-טיפוס, ובדיקות עומס ומחזורים מעבר לשימוש האמיתי עם מקדם ביטחון.",
+  "ae": "Hand calcs, FEA if needed, prototype, then load and cycle tests beyond real use with a safety factor.",
+  "points_h": [
+   "חישוב ומקדם ביטחון",
+   "סימולציה",
+   "אב-טיפוס",
+   "בדיקת חיים (מחזורים)",
+   "ניתוח כשלים ותיקון"
+  ],
+  "points_e": [
+   "Calcs and safety factor",
+   "Simulation",
+   "Prototype",
+   "Life (cycle) test",
+   "Failure analysis and fix"
+  ],
+  "id": 287
+ },
+ {
+  "type": "interview",
+  "topic": "כללי (General)",
+  "qh": "מתי תבחר מנוע + חיישן ומתי מנגנון מכני טהור?",
+  "qe": "When choose motor + sensor vs a purely mechanical mechanism?",
+  "ah": "מכני כשהתנועה קבועה, זולה ואמינה (זיז, ראצ׳ט). אלקטרוני כשצריך לשנות תנועה, למדוד או לשלוט – במחיר מורכבות.",
+  "ae": "Mechanical when motion is fixed, cheap and reliable (cam, ratchet). Electronic when motion must change, be measured or controlled – at the cost of complexity.",
+  "points_h": [
+   "גמישות מול פשטות",
+   "מחיר ואמינות",
+   "דוגמה לכל צד",
+   "תחזוקה"
+  ],
+  "points_e": [
+   "Flexibility vs simplicity",
+   "Cost and reliability",
+   "Example for each",
+   "Maintenance"
+  ],
+  "id": 288
+ },
+ {
+  "type": "interview",
+  "topic": "ראצ׳ט ומצמד (Ratchet & Clutch)",
+  "qh": "איך עובד ראצ׳ט, ומה החולשה שלו?",
+  "qe": "How does a ratchet work and what is its weak point?",
+  "ah": "לשונית קפיצית נכנסת לשיניים ומאפשרת תנועה רק לכיוון אחד. החולשה: השן והלשונית סופגות את כל העומס – שחיקה או שבירה בעומס יתר.",
+  "ae": "A spring pawl engages teeth allowing motion one way only. Weak point: tooth and pawl carry all the load – wear or breakage on overload.",
+  "points_h": [
+   "חד-כיווניות",
+   "לשונית + קפיץ + שיניים",
+   "מספר שיניים מול חוזק",
+   "כשל אופייני"
+  ],
+  "points_e": [
+   "One-way action",
+   "Pawl + spring + teeth",
+   "Tooth count vs strength",
+   "Typical failure"
+  ],
+  "id": 289
+ },
+ {
+  "type": "interview",
+  "topic": "מפרק קרדן (U-joint)",
+  "qh": "למה ברכבים יש מפרקים הומוקינטיים (CV) בגלגלים הקדמיים?",
+  "qe": "Why do cars use CV joints at the front wheels?",
+  "ah": "כי הגלגלים גם מסתובבים וגם מוגים בזוויות גדולות; מפרק CV מעביר מהירות אחידה גם בזווית, בניגוד לקרדן.",
+  "ae": "Front wheels both drive and steer at large angles; a CV joint keeps speed uniform at angle, unlike a U-joint.",
+  "points_h": [
+   "בעיית הקרדן בזווית",
+   "זוויות היגוי גדולות",
+   "נוחות ורעידות",
+   "גומיית מגן (Boot) – נקודת כשל"
+  ],
+  "points_e": [
+   "U-joint speed issue",
+   "Large steering angles",
+   "Smoothness/vibration",
+   "Boot as failure point"
+  ],
+  "id": 290
+ },
+ {
+  "type": "interview",
+  "topic": "גל זיזים (Camshaft)",
+  "qh": "מה היית משנה בפרופיל זיז כדי לקבל יותר הספק במנוע?",
+  "qe": "What would you change in a cam profile for more engine power?",
+  "ah": "הרמה גבוהה יותר ו/או משך פתיחה ארוך יותר כדי להכניס יותר אוויר בסל\"ד גבוה – על חשבון סרק חלק ומומנט נמוך.",
+  "ae": "More lift and/or longer duration to breathe better at high rpm – at the cost of idle quality and low-end torque.",
+  "points_h": [
+   "הרמה (Lift)",
+   "משך (Duration)",
+   "פשרה בסל\"ד נמוך",
+   "קפיצי שסתום"
+  ],
+  "points_e": [
+   "Lift",
+   "Duration",
+   "Low-rpm trade-off",
+   "Valve springs"
+  ],
+  "id": 291
+ },
+ {
+  "type": "interview",
+  "topic": "כללי (General)",
+  "qh": "למה אתה רוצה לעבוד כמהנדס מכונות אצלנו?",
+  "qe": "Why do you want to work as a mechanical engineer here?",
+  "ah": "לקשר בין מה שהחברה מייצרת לבין מה שאתה אוהב לבנות, עם דוגמה קונקרטית ממה שלמדת או בנית.",
+  "ae": "Connect what the company builds to what you love building, with one concrete example of something you learned or built.",
+  "points_h": [
+   "מחקר על החברה",
+   "דוגמה אישית",
+   "מה תתרום",
+   "מה תרצה ללמוד"
+  ],
+  "points_e": [
+   "Research the company",
+   "Personal example",
+   "What you bring",
+   "What you want to learn"
+  ],
+  "id": 292
+ },
+ {
+  "type": "interview",
+  "topic": "מנועים וסוללות (Motors & Power)",
+  "qh": "מברגה מתחממת מהר בעבודה כבדה. מה תבדוק?",
+  "qe": "A drill overheats under heavy work. What do you check?",
+  "ah": "זרם המנוע ותקיעות, נצילות התמסורת (חיכוך, שימון), אוורור, והאם המשתמש עובד במהירות הלא נכונה.",
+  "ae": "Motor current and stalls, gearbox efficiency (friction, lube), cooling airflow, and whether the user is in the wrong speed setting.",
+  "points_h": [
+   "מדידת זרם וטמפרטורה",
+   "תמסורת ושימון",
+   "קירור",
+   "שימוש לא נכון",
+   "הגנה תרמית"
+  ],
+  "points_e": [
+   "Measure current and temperature",
+   "Gearbox and lube",
+   "Cooling",
+   "Misuse",
+   "Thermal protection"
+  ],
+  "id": 293
+ },
+ {
+  "type": "interview",
+  "topic": "כללי (General)",
+  "qh": "יש לך שתי דקות: תכנן מתקן שמרים 50 ק\"ג לגובה מטר.",
+  "qe": "Two minutes: design a device to lift 50 kg one metre.",
+  "ah": "לשאול שאלות (מהירות, תדירות, בטיחות), להציע פתרון פשוט – מנוע + חילזון + בורג הרמה שלא נופל לבד – ולהעריך מומנט והספק.",
+  "ae": "Ask questions (speed, frequency, safety), propose something simple – motor + worm/lead screw that self-holds – and estimate torque and power.",
+  "points_h": [
+   "שאלות הבהרה",
+   "רעיון פשוט קודם",
+   "חישוב גס",
+   "בטיחות (בלם/ננעל)",
+   "חלופות"
+  ],
+  "points_e": [
+   "Clarifying questions",
+   "Simple idea first",
+   "Rough calc",
+   "Safety (brake/self-lock)",
+   "Alternatives"
+  ],
+  "id": 294
+ }
+]
