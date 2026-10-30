@@ -5500,5 +5500,2854 @@
    "Alternatives"
   ],
   "id": 294
+ },
+ {
+  "type": "mcq",
+  "topic": "רצועות (Belts)",
+  "qh": "מה התפקיד של רצועה (Belt) במכונה?",
+  "qe": "What does a belt do in a machine?",
+  "ah": "מעבירה סיבוב בין שני צירים רחוקים, בשקט ובזול.",
+  "ae": "Transfers rotation between distant shafts, quietly and cheaply.",
+  "oh": [
+   "מעבירה סיבוב בין צירים מרוחקים",
+   "נועלת את הציר כשהמכונה כבויה בתנאי עבודה רגילים",
+   "מגבירה את ההספק שהמנוע מייצר"
+  ],
+  "oe": [
+   "Transfers rotation between distant shafts",
+   "Locks the shaft when the machine is off in normal use",
+   "Raises the power the motor produces"
+  ],
+  "id": 295
+ },
+ {
+  "type": "mcq",
+  "topic": "רצועות (Belts)",
+  "qh": "למה רצועת תזמון (Timing Belt) עם שיניים ולא חלקה?",
+  "qe": "Why does a timing belt have teeth?",
+  "ah": "השיניים מונעות החלקה, כך ששני הצירים נשארים מתואמים בדיוק.",
+  "ae": "Teeth prevent slip so both shafts stay exactly in sync.",
+  "oh": [
+   "כדי שלא תחליק ותשמור על תזמון",
+   "כדי שתהיה גמישה יותר בסיבובים",
+   "כדי לקרר את הגלגלות תוך כדי עבודה"
+  ],
+  "oe": [
+   "So it can't slip and keeps timing",
+   "So it bends more easily round pulleys",
+   "To cool the pulleys while running"
+  ],
+  "id": 296
+ },
+ {
+  "type": "mcq",
+  "topic": "רצועות (Belts)",
+  "qh": "מה היתרון של רצועת V (V-Belt) על רצועה שטוחה?",
+  "qe": "Advantage of a V-belt over a flat belt?",
+  "ah": "הצורה נתקעת בחריץ ונותנת אחיזה חזקה יותר באותו מתח.",
+  "ae": "The wedge shape grips the groove harder at the same tension.",
+  "oh": [
+   "אחיזה טובה יותר בגלל צורת הטריז",
+   "מהירות מקסימלית גבוהה בהרבה",
+   "לא צריכה מתיחה בכלל לעולם לאורך זמן"
+  ],
+  "oe": [
+   "Better grip from the wedge shape",
+   "Much higher top speed",
+   "Never needs any tension over time"
+  ],
+  "id": 297
+ },
+ {
+  "type": "mcq",
+  "topic": "רצועות (Belts)",
+  "qh": "מה קורה אם רצועה רפויה מדי?",
+  "qe": "What happens if a belt is too loose?",
+  "ah": "היא מחליקה, חורקת, מתחממת ונשחקת מהר.",
+  "ae": "It slips, squeals, heats and wears fast.",
+  "oh": [
+   "מחליקה, חורקת ונשחקת",
+   "מסובבת מהר יותר את הגלגלת",
+   "מעמיסה יותר על המסבים"
+  ],
+  "oe": [
+   "Slips, squeals and wears",
+   "Spins the pulley faster",
+   "Loads the bearings more"
+  ],
+  "id": 298
+ },
+ {
+  "type": "mcq",
+  "topic": "רצועות (Belts)",
+  "qh": "מה קורה אם רצועה מתוחה מדי?",
+  "qe": "What happens if a belt is too tight?",
+  "ah": "עומס גדול על המסבים והצירים, והרצועה עצמה נשחקת מהר.",
+  "ae": "High load on bearings and shafts, and the belt wears quickly.",
+  "oh": [
+   "עומס יתר על מסבים וצירים",
+   "היא מתחילה להחליק יותר",
+   "יחס ההעברה משתנה מאוד"
+  ],
+  "oe": [
+   "Overloads bearings and shafts",
+   "It starts slipping more",
+   "The ratio changes a lot"
+  ],
+  "id": 299
+ },
+ {
+  "type": "mcq",
+  "topic": "רצועות (Belts)",
+  "qh": "למה מערכות רצועה רבות כוללות גלגלת מותחת (Tensioner)?",
+  "qe": "Why do many belt drives use a tensioner?",
+  "ah": "רצועה מתארכת עם הזמן; המותח שומר על מתח נכון אוטומטית.",
+  "ae": "Belts stretch over time; the tensioner keeps tension right automatically.",
+  "oh": [
+   "לשמור על מתח נכון כשהרצועה מתארכת",
+   "להגדיל את יחס ההעברה בזמן עבודה",
+   "לשמש בלם כשהמנוע נעצר"
+  ],
+  "oe": [
+   "Keep tension as the belt stretches",
+   "Raise the ratio while running",
+   "Act as a brake when stopping"
+  ],
+  "id": 300
+ },
+ {
+  "type": "mcq",
+  "topic": "רצועות (Belts)",
+  "qh": "יתרון חשוב של רצועה על גלגלי שיניים בעומס פתאומי?",
+  "qe": "Key belt advantage over gears under shock load?",
+  "ah": "הרצועה גמישה ויכולה להחליק מעט, אז היא בולעת מכות ומגינה על המנוע.",
+  "ae": "The belt flexes and can slip a little, absorbing shocks and protecting the motor.",
+  "oh": [
+   "בולעת מכות ומגינה על המערכת",
+   "מעבירה מומנט גבוה יותר מכל גלגל",
+   "לעולם לא צריכה החלפה"
+  ],
+  "oe": [
+   "Absorbs shocks and protects parts",
+   "Carries more torque than any gear",
+   "Never needs replacing"
+  ],
+  "id": 301
+ },
+ {
+  "type": "mcq",
+  "topic": "רצועות (Belts)",
+  "qh": "למה לא כדאי שהגלגלת הקטנה תהיה קטנה מאוד?",
+  "qe": "Why avoid a very small small pulley?",
+  "ah": "הרצועה מתכופפת חזק מדי ומתעייפת, ויש מעט שטח מגע אז היא מחליקה.",
+  "ae": "The belt bends too sharply and fatigues, and the small contact area slips.",
+  "oh": [
+   "כיפוף חד מעייף את הרצועה",
+   "הגלגלת תסתובב לאט מדי",
+   "הרצועה תתחמם פחות מדי לאורך זמן"
+  ],
+  "oe": [
+   "Sharp bending fatigues the belt",
+   "The pulley would turn too slowly",
+   "The belt would run too cool over time"
+  ],
+  "id": 302
+ },
+ {
+  "type": "calc",
+  "topic": "רצועות (Belts)",
+  "qh": "גלגלת מנוע 8 ס\"מ, גלגלת מכונה 24 ס\"מ, המנוע 1,500 סל\"ד (rpm). מהירות המכונה?",
+  "qe": "Motor pulley 8 cm, machine pulley 24 cm, motor 1,500 rpm. Machine speed?",
+  "ah": "500 סל\"ד. הגלגלת הגדולה פי 3, אז היא מסתובבת פי 3 לאט: אלף וחמש מאות חלקי שלוש.",
+  "ae": "500 rpm. The big pulley is 3x larger, so it turns 3x slower.",
+  "oh": [
+   "500 סל\"ד",
+   "4,500 סל\"ד",
+   "1,000 סל\"ד"
+  ],
+  "oe": [
+   "500 rpm",
+   "4,500 rpm",
+   "1,000 rpm"
+  ],
+  "id": 303
+ },
+ {
+  "type": "calc",
+  "topic": "רצועות (Belts)",
+  "qh": "גלגלת בקוטר 10 ס\"מ מסתובבת 600 סל\"ד. בערך באיזו מהירות זזה הרצועה?",
+  "qe": "A 10 cm pulley spins at 600 rpm. Roughly how fast does the belt move?",
+  "ah": "בערך 3 מטר בשנייה. היקף הגלגלת כ-31 ס\"מ, 600 סיבובים בדקה הם 10 בשנייה, אז כ-3.1 מטר בשנייה.",
+  "ae": "About 3 m/s. Circumference is about 31 cm, 600 rpm is 10 turns per second, so about 3.1 m/s.",
+  "oh": [
+   "כ-3 מטר בשנייה",
+   "כ-60 מטר בשנייה",
+   "כ-0.3 מטר בשנייה"
+  ],
+  "oe": [
+   "About 3 m/s",
+   "About 60 m/s",
+   "About 0.3 m/s"
+  ],
+  "id": 304
+ },
+ {
+  "type": "mistake",
+  "topic": "רצועות (Belts)",
+  "qh": "רצועה חלקה מחליקה. מה הפתרון הראשון?",
+  "qe": "A flat belt slips. First fix?",
+  "wrong_h": "\"למרוח שמן כדי שתזוז חלק.\"",
+  "wrong_e": "\"Oil it so it runs smoothly.\"",
+  "ah": "ההפך – שמן מגביר החלקה. בודקים מתח, ניקיון ושחיקה, ומתקנים מתיחה או מחליפים.",
+  "ae": "The opposite – oil increases slip. Check tension, cleanliness and wear, then re-tension or replace.",
+  "id": 305
+ },
+ {
+  "type": "mistake",
+  "topic": "רצועות (Belts)",
+  "qh": "האם יחס ההעברה ברצועת V מדויק בדיוק כמו בגלגלי שיניים?",
+  "qe": "Is a V-belt ratio exactly as precise as gears?",
+  "wrong_h": "\"כן, היחס תמיד מדויק.\"",
+  "wrong_e": "\"Yes, the ratio is always exact.\"",
+  "ah": "לא. יש זחילה קטנה (Creep) של אחוז או שניים, ולכן לא משתמשים בה לתזמון מדויק.",
+  "ae": "No. There is a small creep of 1–2%, so it isn't used for precise timing.",
+  "id": 306
+ },
+ {
+  "type": "interview",
+  "topic": "רצועות (Belts)",
+  "qh": "ספר איך היית בוחר בין רצועה, שרשרת וגלגלי שיניים.",
+  "qe": "How would you choose between belt, chain and gears?",
+  "ah": "לפי מרחק בין צירים, עומס, דיוק נדרש, רעש, סביבה ומחיר. רצועה – שקטה וזולה; שרשרת – חזקה ובלי החלקה; גלגלי שיניים – קומפקטי ומדויק.",
+  "ae": "By shaft distance, load, precision, noise, environment and cost. Belt – quiet and cheap; chain – strong, no slip; gears – compact and precise.",
+  "points_h": [
+   "מרחק בין צירים",
+   "עומס ומכות",
+   "דיוק ותזמון",
+   "רעש ותחזוקה",
+   "מחיר"
+  ],
+  "points_e": [
+   "Shaft distance",
+   "Load and shocks",
+   "Precision and timing",
+   "Noise and maintenance",
+   "Cost"
+  ],
+  "id": 307
+ },
+ {
+  "type": "mcq",
+  "topic": "שרשראות (Chains)",
+  "qh": "למה באופניים משתמשים בשרשרת (Chain) ולא ברצועה רגילה?",
+  "qe": "Why do bikes use a chain, not a plain belt?",
+  "ah": "שרשרת לא מחליקה, חזקה בגודל קטן, וקל להחליף הילוכים.",
+  "ae": "A chain doesn't slip, is strong for its size, and allows gear shifting.",
+  "oh": [
+   "לא מחליקה וחזקה בגודל קטן",
+   "שקטה יותר מכל רצועה",
+   "לא צריכה שימון לעולם"
+  ],
+  "oe": [
+   "No slip and strong for its size",
+   "Quieter than any belt",
+   "Never needs lubrication"
+  ],
+  "id": 308
+ },
+ {
+  "type": "mcq",
+  "topic": "שרשראות (Chains)",
+  "qh": "מה זה גלגל שיניים של שרשרת (Sprocket)?",
+  "qe": "What is a sprocket?",
+  "ah": "גלגל עם שיניים שהחוליות של השרשרת נכנסות ביניהן.",
+  "ae": "A toothed wheel whose teeth fit between the chain links.",
+  "oh": [
+   "גלגל ששיני השרשרת נכנסות בו",
+   "קפיץ שמותח את השרשרת",
+   "מסב שמחזיק את ציר השרשרת בתנאי עבודה רגילים"
+  ],
+  "oe": [
+   "Wheel the chain links mesh with",
+   "A spring that tensions the chain",
+   "A bearing that holds the chain shaft in normal use"
+  ],
+  "id": 309
+ },
+ {
+  "type": "mcq",
+  "topic": "שרשראות (Chains)",
+  "qh": "למה שרשרת צריכה שימון?",
+  "qe": "Why does a chain need lubrication?",
+  "ah": "הפינים והתותבים בתוך כל חוליה מתחככים; בלי שמן הם נשחקים והשרשרת מתארכת.",
+  "ae": "Pins and bushings inside each link rub; without oil they wear and the chain stretches.",
+  "oh": [
+   "למנוע שחיקה בפינים ובתותבים",
+   "כדי שתיראה מבריקה ונקייה ברוב המכונות",
+   "כדי שתחליק על גלגל השיניים"
+  ],
+  "oe": [
+   "Prevent pin and bushing wear",
+   "To keep it shiny and clean in most machines",
+   "So it can slip on the sprocket"
+  ],
+  "id": 310
+ },
+ {
+  "type": "mcq",
+  "topic": "שרשראות (Chains)",
+  "qh": "מה המשמעות של \"שרשרת מתארכת\" (Chain Stretch)?",
+  "qe": "What does \"chain stretch\" mean?",
+  "ah": "המתכת לא נמתחת – הפינים והחורים נשחקים, ולכן המרווח בין החוליות גדל.",
+  "ae": "The metal doesn't stretch – pins and holes wear, so link spacing grows.",
+  "oh": [
+   "שחיקה בפינים מגדילה את המרווח",
+   "הפלדה עצמה נמתחת כמו גומי בתנאי עבודה רגילים",
+   "מוסיפים לה חוליות מעצמה"
+  ],
+  "oe": [
+   "Pin wear grows the link spacing",
+   "The steel stretches like rubber in normal use",
+   "It adds links by itself"
+  ],
+  "id": 311
+ },
+ {
+  "type": "mcq",
+  "topic": "שרשראות (Chains)",
+  "qh": "מה הסכנה בשרשרת שהתארכה הרבה?",
+  "qe": "Danger of a badly stretched chain?",
+  "ah": "היא \"מטפסת\" על השיניים, קופצת ושוחקת את גלגלי השיניים.",
+  "ae": "It rides up the teeth, skips, and wears the sprockets.",
+  "oh": [
+   "קופצת על השיניים ושוחקת אותן",
+   "מסתובבת מהר יותר מהרגיל",
+   "מעבירה יותר מומנט מבעבר"
+  ],
+  "oe": [
+   "Skips teeth and wears sprockets",
+   "Runs faster than normal",
+   "Carries more torque than before"
+  ],
+  "id": 312
+ },
+ {
+  "type": "mcq",
+  "topic": "שרשראות (Chains)",
+  "qh": "למה מחליפים שרשרת וגלגלי שיניים יחד?",
+  "qe": "Why replace chain and sprockets together?",
+  "ah": "הם נשחקו יחד; שרשרת חדשה על שיניים שחוקות תישחק מהר מאוד.",
+  "ae": "They wore together; a new chain on worn teeth wears out very fast.",
+  "oh": [
+   "נשחקו יחד, חדשה תישחק מהר",
+   "כך היצרן מרוויח יותר כסף",
+   "אחרת הצבע לא יתאים"
+  ],
+  "oe": [
+   "They wore together; new would wear fast",
+   "So the maker earns more",
+   "Otherwise the colours won't match"
+  ],
+  "id": 313
+ },
+ {
+  "type": "mcq",
+  "topic": "שרשראות (Chains)",
+  "qh": "חיסרון עיקרי של שרשרת לעומת רצועה?",
+  "qe": "Main chain drawback vs a belt?",
+  "ah": "רועשת יותר, צריכה שימון וכיוון, ולא בולעת מכות טוב.",
+  "ae": "Noisier, needs lubrication and adjustment, and absorbs shocks poorly.",
+  "oh": [
+   "רעש, שימון וספיגת מכות חלשה",
+   "לא יכולה להעביר מומנט גבוה",
+   "מחליקה כל הזמן תחת עומס"
+  ],
+  "oe": [
+   "Noise, lube and poor shock absorption",
+   "Can't carry high torque",
+   "Slips constantly under load"
+  ],
+  "id": 314
+ },
+ {
+  "type": "calc",
+  "topic": "שרשראות (Chains)",
+  "qh": "גלגל קדמי באופניים 48 שיניים, אחורי 16. כמה סיבובים עושה הגלגל האחורי על כל סיבוב דוושה?",
+  "qe": "Bike: 48-tooth front, 16-tooth rear. Rear turns per pedal turn?",
+  "ah": "3 סיבובים. ארבעים ושמונה חלקי שש עשרה.",
+  "ae": "3 turns. Forty-eight divided by sixteen.",
+  "oh": [
+   "3 סיבובים",
+   "0.33 סיבוב",
+   "64 סיבובים"
+  ],
+  "oe": [
+   "3 turns",
+   "0.33 turn",
+   "64 turns"
+  ],
+  "id": 315
+ },
+ {
+  "type": "calc",
+  "topic": "שרשראות (Chains)",
+  "qh": "שרשרת עם פסיעה (Pitch) של 12.7 מ\"מ עוברת על גלגל של 20 שיניים. כמה שרשרת עוברת בסיבוב?",
+  "qe": "Chain with 12.7 mm pitch on a 20-tooth sprocket. Chain length per turn?",
+  "ah": "254 מ\"מ. כל שן מושכת חוליה אחת: עשרים כפול 12.7.",
+  "ae": "254 mm. Each tooth pulls one pitch: twenty times 12.7.",
+  "oh": [
+   "254 מ\"מ",
+   "32.7 מ\"מ",
+   "127 מ\"מ"
+  ],
+  "oe": [
+   "254 mm",
+   "32.7 mm",
+   "127 mm"
+  ],
+  "id": 316
+ },
+ {
+  "type": "mistake",
+  "topic": "שרשראות (Chains)",
+  "qh": "שרשרת רפויה מעט – לכוון אותה מתוחה לגמרי?",
+  "qe": "Chain has slight slack – make it fully tight?",
+  "wrong_h": "\"כן, הכי מתוח שאפשר.\"",
+  "wrong_e": "\"Yes, as tight as possible.\"",
+  "ah": "לא. צריך מעט רפיון (Slack) – שרשרת מתוחה מדי מעמיסה על המסבים ונשחקת מהר.",
+  "ae": "No. It needs a little slack – an over-tight chain loads bearings and wears fast.",
+  "id": 317
+ },
+ {
+  "type": "mistake",
+  "topic": "שרשראות (Chains)",
+  "qh": "למה שרשרת במהירות גבוהה רועשת ורועדת?",
+  "qe": "Why is a fast chain noisy and vibrating?",
+  "wrong_h": "\"כי היא לא משומנת מספיק, זה הכל.\"",
+  "wrong_e": "\"Just not enough oil, that's all.\"",
+  "ah": "בעיקר בגלל אפקט הפוליגון (Polygon Effect): השרשרת עולה ויורדת על השיניים, במיוחד בגלגל עם מעט שיניים. שמן עוזר רק חלקית.",
+  "ae": "Mainly the polygon effect: the chain rises and falls on the teeth, worse with few teeth. Oil only helps partly.",
+  "id": 318
+ },
+ {
+  "type": "interview",
+  "topic": "שרשראות (Chains)",
+  "qh": "איך היית בודק אם שרשרת במכונה צריכה החלפה?",
+  "qe": "How would you check if a machine chain needs replacing?",
+  "ah": "מודדים התארכות על כמה חוליות או בכלי מדידה, בודקים שיניים מחודדות, חוליות תקועות, חלודה ורעש.",
+  "ae": "Measure elongation over several links or with a gauge, check hooked teeth, stiff links, rust and noise.",
+  "points_h": [
+   "מדידת התארכות",
+   "צורת השיניים",
+   "חוליות תקועות",
+   "שימון וחלודה",
+   "החלפה יחד עם הגלגלים"
+  ],
+  "points_e": [
+   "Measure elongation",
+   "Tooth shape",
+   "Stiff links",
+   "Lube and rust",
+   "Replace with sprockets"
+  ],
+  "id": 319
+ },
+ {
+  "type": "mcq",
+  "topic": "מסבים (Bearings)",
+  "qh": "מה התפקיד העיקרי של מסב (Bearing)?",
+  "qe": "Main job of a bearing?",
+  "ah": "לתמוך בציר מסתובב ולהפחית חיכוך.",
+  "ae": "Support a rotating shaft and reduce friction.",
+  "oh": [
+   "לתמוך בציר ולהפחית חיכוך",
+   "להגדיל את מהירות הסיבוב",
+   "להעביר מומנט בין שני צירים"
+  ],
+  "oe": [
+   "Support the shaft, cut friction",
+   "Raise the rotation speed",
+   "Pass torque between two shafts"
+  ],
+  "id": 320
+ },
+ {
+  "type": "mcq",
+  "topic": "מסבים (Bearings)",
+  "qh": "מה ההבדל בין מסב כדורי (Ball Bearing) למסב גלילי (Roller Bearing)?",
+  "qe": "Ball vs roller bearing?",
+  "ah": "בגליל המגע הוא קו ולא נקודה, אז הוא נושא עומס גדול יותר, אבל לרוב איטי יותר.",
+  "ae": "A roller touches along a line not a point, so it carries more load but is usually slower.",
+  "oh": [
+   "גלילי נושא יותר עומס, כדורי מהיר",
+   "כדורי נושא יותר עומס, גלילי מהיר",
+   "אין שום הבדל מעשי ביניהם"
+  ],
+  "oe": [
+   "Roller carries more, ball runs faster",
+   "Ball carries more, roller runs faster",
+   "No practical difference"
+  ],
+  "id": 321
+ },
+ {
+  "type": "mcq",
+  "topic": "מסבים (Bearings)",
+  "qh": "מה זה עומס צירי (Axial Load)?",
+  "qe": "What is an axial load?",
+  "ah": "כוח שדוחף לאורך הציר, לא בניצב אליו.",
+  "ae": "A force pushing along the shaft, not across it.",
+  "oh": [
+   "כוח לאורך הציר",
+   "כוח בניצב לציר",
+   "כוח שמסובב את הציר"
+  ],
+  "oe": [
+   "Force along the shaft",
+   "Force across the shaft",
+   "Force that twists the shaft"
+  ],
+  "id": 322
+ },
+ {
+  "type": "mcq",
+  "topic": "מסבים (Bearings)",
+  "qh": "איזה מסב מתאים לעומס צירי ורדיאלי יחד, כמו בגלגל רכב?",
+  "qe": "Which bearing suits combined axial and radial load, like a car wheel?",
+  "ah": "מסב גלילי חרוטי (Tapered Roller Bearing).",
+  "ae": "A tapered roller bearing.",
+  "oh": [
+   "מסב גלילי חרוטי",
+   "מסב מחטים דק",
+   "תותב פליז פשוט"
+  ],
+  "oe": [
+   "Tapered roller bearing",
+   "Thin needle bearing",
+   "Plain brass bushing"
+  ],
+  "id": 323
+ },
+ {
+  "type": "mcq",
+  "topic": "מסבים (Bearings)",
+  "qh": "מתי נבחר תותב (Bushing / Plain Bearing) ולא מסב כדורי?",
+  "qe": "When pick a bushing over a ball bearing?",
+  "ah": "במהירות נמוכה, עומס מכות, מקום צר או מחיר נמוך.",
+  "ae": "At low speed, shock loads, tight space or low cost.",
+  "oh": [
+   "מהירות נמוכה, מקום צר, מחיר נמוך",
+   "כשצריך מהירות סיבוב גבוהה מאוד",
+   "כשאסור שיהיה שום חיכוך לאורך זמן בתנאי עבודה רגילים"
+  ],
+  "oe": [
+   "Low speed, tight space, low cost",
+   "When very high speed is needed",
+   "When zero friction is required over time in normal use"
+  ],
+  "id": 324
+ },
+ {
+  "type": "mcq",
+  "topic": "מסבים (Bearings)",
+  "qh": "מה מסמן שמסב מתחיל להיכשל?",
+  "qe": "Signs a bearing is starting to fail?",
+  "ah": "רעש, רעידות, חום עולה ומשחק (Play) בציר.",
+  "ae": "Noise, vibration, rising heat and shaft play.",
+  "oh": [
+   "רעש, רעידות, חום ומשחק",
+   "הציר מסתובב חלק מהרגיל",
+   "המנוע צורך פחות זרם"
+  ],
+  "oe": [
+   "Noise, vibration, heat and play",
+   "Shaft spins smoother than usual",
+   "Motor draws less current"
+  ],
+  "id": 325
+ },
+ {
+  "type": "mcq",
+  "topic": "מסבים (Bearings)",
+  "qh": "למה מסבים מגיעים לפעמים עם אטמים (Seals / 2RS)?",
+  "qe": "Why do bearings come with seals (2RS)?",
+  "ah": "לשמור את הגריז בפנים ואת הלכלוך והמים בחוץ.",
+  "ae": "Keep grease in and dirt and water out.",
+  "oh": [
+   "לשמור גריז בפנים ולכלוך בחוץ",
+   "להגדיל את המהירות המקסימלית בתנאי עבודה רגילים",
+   "להוריד את משקל המסב"
+  ],
+  "oe": [
+   "Keep grease in, dirt out",
+   "Raise the top speed in normal use",
+   "Lower the bearing weight"
+  ],
+  "id": 326
+ },
+ {
+  "type": "mcq",
+  "topic": "מסבים (Bearings)",
+  "qh": "למה מסב מחטים (Needle Bearing) פופולרי בתיבות הילוכים קטנות?",
+  "qe": "Why are needle bearings popular in small gearboxes?",
+  "ah": "נושא עומס רדיאלי גבוה בקוטר חיצוני קטן מאוד.",
+  "ae": "High radial load in a very small outside diameter.",
+  "oh": [
+   "עומס גבוה בקוטר קטן מאוד",
+   "עומס צירי גבוה במיוחד",
+   "לא צריך שימון לעולם"
+  ],
+  "oe": [
+   "High load in a tiny diameter",
+   "Very high axial load",
+   "Never needs lubrication"
+  ],
+  "id": 327
+ },
+ {
+  "type": "mcq",
+  "topic": "מסבים (Bearings)",
+  "qh": "מה הסיבה הנפוצה ביותר לכשל מוקדם של מסב?",
+  "qe": "Most common cause of early bearing failure?",
+  "ah": "שימון לא נכון וזיהום (לכלוך או מים), ואחריהם התקנה לא נכונה.",
+  "ae": "Poor lubrication and contamination, then bad installation.",
+  "oh": [
+   "שימון לקוי וזיהום",
+   "צבע לא מתאים על הבית",
+   "מהירות נמוכה מדי לאורך זמן"
+  ],
+  "oe": [
+   "Bad lube and contamination",
+   "Wrong paint on the housing",
+   "Running too slowly for long"
+  ],
+  "id": 328
+ },
+ {
+  "type": "calc",
+  "topic": "מסבים (Bearings)",
+  "qh": "לפי טבלה, מסב מחזיק 1,000 שעות בעומס מסוים. אם מורידים את העומס לחצי, בערך כמה יחזיק מסב כדורי?",
+  "qe": "A ball bearing lasts 1,000 h at some load. Roughly how long at half the load?",
+  "ah": "בערך 8,000 שעות. אצל מסב כדורי חצי עומס נותן פי שמונה חיים (שתיים כפול שתיים כפול שתיים).",
+  "ae": "About 8,000 h. For ball bearings half the load gives about 8x life (two times two times two).",
+  "oh": [
+   "כ-8,000 שעות",
+   "כ-2,000 שעות",
+   "כ-1,500 שעות"
+  ],
+  "oe": [
+   "About 8,000 h",
+   "About 2,000 h",
+   "About 1,500 h"
+  ],
+  "id": 329
+ },
+ {
+  "type": "mistake",
+  "topic": "מסבים (Bearings)",
+  "qh": "מתקינים מסב בלחץ על הציר. איפה לדחוף?",
+  "qe": "Pressing a bearing onto a shaft – where to push?",
+  "wrong_h": "\"על הטבעת החיצונית, הכי נוח.\"",
+  "wrong_e": "\"On the outer ring, easiest.\"",
+  "ah": "על הטבעת שנכנסת בלחץ – כאן הפנימית. דחיפה דרך הכדורים פוגעת במסלולים.",
+  "ae": "On the ring being pressed – here the inner one. Pushing through the balls dents the races.",
+  "id": 330
+ },
+ {
+  "type": "mistake",
+  "topic": "מסבים (Bearings)",
+  "qh": "\"מסב סגור לא צריך לחשוב על שימון בכלל\" – נכון?",
+  "qe": "\"A sealed bearing needs no lubrication thinking\" – right?",
+  "wrong_h": "\"נכון, הוא לנצח.\"",
+  "wrong_e": "\"Right, it lasts forever.\"",
+  "ah": "הוא משומן לכל חייו, אבל חייו מוגבלים – חום ומהירות מקצרים את חיי הגריז, ובסוף מחליפים את המסב.",
+  "ae": "It's greased for life, but life is finite – heat and speed shorten grease life, then you replace it.",
+  "id": 331
+ },
+ {
+  "type": "interview",
+  "topic": "מסבים (Bearings)",
+  "qh": "ספר איך היית בוחר מסב לציר חדש.",
+  "qe": "How would you select a bearing for a new shaft?",
+  "ah": "מתחילים מעומסים (רדיאלי וצירי), מהירות, חיים נדרשים, סביבה ומקום, בוחרים סוג, מחשבים חיים מהקטלוג ומתכננים שימון והתקנה.",
+  "ae": "Start from loads (radial, axial), speed, required life, environment and space; pick a type, check life from the catalogue, plan lube and mounting.",
+  "points_h": [
+   "עומסים וכיוונם",
+   "מהירות",
+   "חיים נדרשים",
+   "סביבה ואיטום",
+   "התקנה ושימון"
+  ],
+  "points_e": [
+   "Loads and directions",
+   "Speed",
+   "Required life",
+   "Environment and sealing",
+   "Mounting and lube"
+  ],
+  "id": 332
+ },
+ {
+  "type": "mcq",
+  "topic": "חיכוך ושימון (Friction & Lubrication)",
+  "qh": "מה זה מקדם חיכוך (Friction Coefficient)?",
+  "qe": "What is a friction coefficient?",
+  "ah": "מספר שאומר כמה קשה להחליק משטח אחד על אחר, ביחס לכוח הלוחץ ביניהם.",
+  "ae": "A number for how hard one surface slides on another, relative to the force pressing them together.",
+  "oh": [
+   "כמה קשה להחליק ביחס ללחץ",
+   "כמה מהר המשטח מתחמם בזמן עבודה",
+   "כמה חלק נראה המשטח מבחוץ"
+  ],
+  "oe": [
+   "How hard to slide relative to pressure",
+   "How fast the surface heats up",
+   "How smooth the surface looks"
+  ],
+  "id": 333
+ },
+ {
+  "type": "mcq",
+  "topic": "חיכוך ושימון (Friction & Lubrication)",
+  "qh": "מה ההבדל בין חיכוך סטטי (Static) לחיכוך דינמי (Kinetic)?",
+  "qe": "Static vs kinetic friction?",
+  "ah": "סטטי – כדי להתחיל לזוז; דינמי – בזמן תנועה. הסטטי בדרך כלל גדול יותר.",
+  "ae": "Static – to start moving; kinetic – while moving. Static is usually larger.",
+  "oh": [
+   "סטטי להתחלה, בדרך כלל גדול יותר",
+   "דינמי להתחלה, תמיד גדול יותר בתנאי עבודה רגילים",
+   "שניהם תמיד שווים בדיוק"
+  ],
+  "oe": [
+   "Static to start, usually larger",
+   "Kinetic to start, always larger in normal use",
+   "Always exactly equal"
+  ],
+  "id": 334
+ },
+ {
+  "type": "mcq",
+  "topic": "חיכוך ושימון (Friction & Lubrication)",
+  "qh": "מה ההבדל העיקרי בין שמן לגריז (Grease)?",
+  "qe": "Main difference between oil and grease?",
+  "ah": "גריז הוא שמן עם מעבה שמחזיק אותו במקום, כך שהוא לא נוזל החוצה.",
+  "ae": "Grease is oil with a thickener that keeps it in place so it doesn't run out.",
+  "oh": [
+   "גריז הוא שמן מעובה שנשאר במקום",
+   "גריז לא מכיל שמן בכלל",
+   "שמן תמיד עמיד לחום יותר לאורך זמן"
+  ],
+  "oe": [
+   "Grease is thickened oil that stays put",
+   "Grease contains no oil at all",
+   "Oil always handles heat better over time"
+  ],
+  "id": 335
+ },
+ {
+  "type": "mcq",
+  "topic": "חיכוך ושימון (Friction & Lubrication)",
+  "qh": "מה המשמעות של צמיגות (Viscosity) של שמן?",
+  "qe": "What does oil viscosity mean?",
+  "ah": "כמה השמן \"סמיך\" – כמה הוא מתנגד לזרימה.",
+  "ae": "How thick the oil is – how much it resists flow.",
+  "oh": [
+   "כמה השמן סמיך ומתנגד לזרימה",
+   "כמה השמן נקי מלכלוך",
+   "באיזו טמפרטורה השמן נדלק"
+  ],
+  "oe": [
+   "How thick it is and resists flow",
+   "How clean the oil is",
+   "At what temperature it ignites"
+  ],
+  "id": 336
+ },
+ {
+  "type": "mcq",
+  "topic": "חיכוך ושימון (Friction & Lubrication)",
+  "qh": "מה קורה לצמיגות שמן כשהוא מתחמם?",
+  "qe": "What happens to oil viscosity when it heats up?",
+  "ah": "יורדת – השמן נעשה דליל יותר.",
+  "ae": "It drops – the oil gets thinner.",
+  "oh": [
+   "יורדת, השמן דליל יותר",
+   "עולה, השמן סמיך יותר",
+   "לא משתנה בכלל"
+  ],
+  "oe": [
+   "Drops, thinner oil",
+   "Rises, thicker oil",
+   "Doesn't change"
+  ],
+  "id": 337
+ },
+ {
+  "type": "mcq",
+  "topic": "חיכוך ושימון (Friction & Lubrication)",
+  "qh": "מה זה שימון הידרודינמי (Hydrodynamic Lubrication)?",
+  "qe": "What is hydrodynamic lubrication?",
+  "ah": "בתנועה מהירה נוצרת שכבת שמן שמרימה את הציר כך שהמתכות לא נוגעות.",
+  "ae": "At speed an oil film lifts the shaft so the metals don't touch.",
+  "oh": [
+   "שכבת שמן מרימה את הציר בתנועה",
+   "משאבה דוחפת שמן בלחץ גבוה מבחוץ",
+   "שמן שנשרף ויוצר שכבה קשה"
+  ],
+  "oe": [
+   "An oil film lifts the shaft in motion",
+   "A pump forces oil from outside",
+   "Burnt oil forming a hard layer"
+  ],
+  "id": 338
+ },
+ {
+  "type": "mcq",
+  "topic": "חיכוך ושימון (Friction & Lubrication)",
+  "qh": "למה השחיקה הכי גבוהה בהתנעה של מנוע?",
+  "qe": "Why is wear highest at engine start?",
+  "ah": "במהירות אפס עוד אין שכבת שמן, אז המתכות נוגעות.",
+  "ae": "At zero speed there's no oil film yet, so metal touches metal.",
+  "oh": [
+   "עוד אין שכבת שמן בין המתכות",
+   "המנוע מסתובב הכי מהר בהתנעה",
+   "השמן חם מדי בהתחלה"
+  ],
+  "oe": [
+   "No oil film yet",
+   "Engine spins fastest at start",
+   "Oil is too hot at start"
+  ],
+  "id": 339
+ },
+ {
+  "type": "mcq",
+  "topic": "חיכוך ושימון (Friction & Lubrication)",
+  "qh": "למה לא לשים יותר מדי גריז במסב מהיר?",
+  "qe": "Why not over-grease a fast bearing?",
+  "ah": "הגריז נטחן, מתחמם ומעלה את החום במסב.",
+  "ae": "Excess grease churns and heats the bearing.",
+  "oh": [
+   "הגריז נטחן ומחמם את המסב",
+   "המסב יסתובב מהר מדי",
+   "הגריז יהפוך לנוזל קר לאורך זמן"
+  ],
+  "oe": [
+   "Excess churns and overheats",
+   "Bearing spins too fast",
+   "Grease turns into cold liquid over time"
+  ],
+  "id": 340
+ },
+ {
+  "type": "mcq",
+  "topic": "חיכוך ושימון (Friction & Lubrication)",
+  "qh": "מה זה שחיקת הדבקות (Adhesive Wear / Galling)?",
+  "qe": "What is galling?",
+  "ah": "שתי מתכות דומות נדבקות בלחץ ותולשות חלקיקים אחת מהשנייה.",
+  "ae": "Two similar metals weld under pressure and tear bits from each other.",
+  "oh": [
+   "מתכות נדבקות ותולשות חלקיקים",
+   "חלודה שנוצרת ממים בשמן",
+   "סדק שמתפתח מכיפוף חוזר"
+  ],
+  "oe": [
+   "Metals stick and tear particles",
+   "Rust from water in the oil",
+   "A crack from repeated bending"
+  ],
+  "id": 341
+ },
+ {
+  "type": "mcq",
+  "topic": "חיכוך ושימון (Friction & Lubrication)",
+  "qh": "למה זוג פלדה על פליז נפוץ בתותבים?",
+  "qe": "Why is steel on bronze common in bushings?",
+  "ah": "מתכות שונות נדבקות פחות, והפליז הרך נשחק במקום הציר היקר.",
+  "ae": "Different metals stick less, and soft bronze wears instead of the costly shaft.",
+  "oh": [
+   "נדבקות פחות והפליז נשחק במקום הציר",
+   "הפליז קשה יותר מהפלדה",
+   "כך החיכוך הופך לאפס"
+  ],
+  "oe": [
+   "Stick less; bronze wears, not the shaft",
+   "Bronze is harder than steel",
+   "Friction becomes zero"
+  ],
+  "id": 342
+ },
+ {
+  "type": "calc",
+  "topic": "חיכוך ושימון (Friction & Lubrication)",
+  "qh": "ארגז של 100 ק\"ג (משקל כ-1,000 ניוטון) על רצפה עם מקדם חיכוך 0.3. כמה כוח צריך לדחוף כדי שיזוז?",
+  "qe": "A 100 kg crate (about 1,000 N) on a floor with friction 0.3. Push needed to move it?",
+  "ah": "בערך 300 ניוטון: שלושים אחוז מהמשקל.",
+  "ae": "About 300 N: thirty percent of the weight.",
+  "oh": [
+   "כ-300 ניוטון",
+   "כ-3,000 ניוטון",
+   "כ-30 ניוטון"
+  ],
+  "oe": [
+   "About 300 N",
+   "About 3,000 N",
+   "About 30 N"
+  ],
+  "id": 343
+ },
+ {
+  "type": "mistake",
+  "topic": "חיכוך ושימון (Friction & Lubrication)",
+  "qh": "\"יותר חיכוך זה תמיד רע\" – נכון?",
+  "qe": "\"More friction is always bad\" – true?",
+  "wrong_h": "\"כן, תמיד רוצים להקטין חיכוך.\"",
+  "wrong_e": "\"Yes, always minimise friction.\"",
+  "ah": "לא. בבלמים, מצמדים, רצועות, ברגים וצמיגים צריך חיכוך כדי שיעבדו.",
+  "ae": "No. Brakes, clutches, belts, bolts and tyres need friction to work.",
+  "id": 344
+ },
+ {
+  "type": "mistake",
+  "topic": "חיכוך ושימון (Friction & Lubrication)",
+  "qh": "\"שמן סמיך יותר תמיד מגן טוב יותר\" – נכון?",
+  "qe": "\"Thicker oil always protects better\" – true?",
+  "wrong_h": "\"כן, ככל שסמיך יותר – יותר הגנה.\"",
+  "wrong_e": "\"Yes, thicker means more protection.\"",
+  "ah": "לא. סמיך מדי לא זורם בקור, מגביר הפסדים וחום. בוחרים לפי טמפרטורה, מהירות ועומס כפי שהיצרן ממליץ.",
+  "ae": "No. Too thick won't flow when cold and raises losses and heat. Choose by temperature, speed and load per the maker.",
+  "id": 345
+ },
+ {
+  "type": "interview",
+  "topic": "חיכוך ושימון (Friction & Lubrication)",
+  "qh": "מכונה התחילה לחרוק אחרי שנה. איך תתחקר?",
+  "qe": "A machine started squeaking after a year. How do you investigate?",
+  "ah": "מאתרים מקור (מסב, רצועה, תותב), בודקים שימון, זיהום, שחיקה ויישור, מתקנים את הסיבה ולא רק מוסיפים שמן, ומעדכנים תחזוקה.",
+  "ae": "Locate the source (bearing, belt, bushing), check lube, contamination, wear and alignment, fix the cause not just add oil, and update maintenance.",
+  "points_h": [
+   "איתור מקור הרעש",
+   "בדיקת שימון וזיהום",
+   "שחיקה ויישור",
+   "תיקון שורש הבעיה",
+   "עדכון תחזוקה"
+  ],
+  "points_e": [
+   "Locate the noise",
+   "Check lube and dirt",
+   "Wear and alignment",
+   "Fix root cause",
+   "Update maintenance"
+  ],
+  "id": 346
+ },
+ {
+  "type": "mcq",
+  "topic": "העברת הספק (Power Transmission)",
+  "qh": "מה זה הספק (Power) במילים פשוטות?",
+  "qe": "What is power in plain words?",
+  "ah": "כמה עבודה נעשית בכל שנייה – כוח סיבובי כפול מהירות.",
+  "ae": "How much work is done each second – twisting force times speed.",
+  "oh": [
+   "כמה עבודה נעשית בכל שנייה",
+   "כמה כוח יש בלי תלות במהירות",
+   "כמה זמן המנוע יכול לעבוד"
+  ],
+  "oe": [
+   "Work done per second",
+   "Force regardless of speed",
+   "How long the motor can run"
+  ],
+  "id": 347
+ },
+ {
+  "type": "mcq",
+  "topic": "העברת הספק (Power Transmission)",
+  "qh": "אם מורידים מהירות בתיבת הילוכים, מה קורה למומנט?",
+  "qe": "Reduce speed in a gearbox – what happens to torque?",
+  "ah": "עולה באותו יחס, פחות קצת הפסדים.",
+  "ae": "It rises by the same ratio, minus some losses.",
+  "oh": [
+   "עולה, פחות קצת הפסדים",
+   "יורד באותו יחס בדיוק",
+   "נשאר בדיוק כמו קודם"
+  ],
+  "oe": [
+   "Rises, minus some losses",
+   "Drops by the same ratio",
+   "Stays exactly the same"
+  ],
+  "id": 348
+ },
+ {
+  "type": "mcq",
+  "topic": "העברת הספק (Power Transmission)",
+  "qh": "למה מעבירים הספק בציר מהיר ולא איטי כשאפשר?",
+  "qe": "Why transmit power on a fast shaft when possible?",
+  "ah": "באותו הספק מהירות גבוהה יותר אומרת מומנט נמוך יותר – ציר וחלקים קטנים וקלים יותר.",
+  "ae": "Same power at higher speed means lower torque – smaller, lighter shafts and parts.",
+  "oh": [
+   "מומנט נמוך – חלקים קטנים יותר",
+   "הספק גבוה יותר מאותו מנוע ברוב המכונות",
+   "פחות רעש בכל מצב"
+  ],
+  "oe": [
+   "Lower torque, smaller parts",
+   "More power from the same motor in most machines",
+   "Less noise in every case"
+  ],
+  "id": 349
+ },
+ {
+  "type": "mcq",
+  "topic": "העברת הספק (Power Transmission)",
+  "qh": "איפה הולך ההספק שאבד בתיבת הילוכים?",
+  "qe": "Where does power lost in a gearbox go?",
+  "ah": "בעיקר לחום, וקצת לרעש ורעידות.",
+  "ae": "Mostly heat, some noise and vibration.",
+  "oh": [
+   "בעיקר לחום",
+   "חוזר למנוע כחשמל",
+   "נשמר בגלגלי השיניים"
+  ],
+  "oe": [
+   "Mostly heat",
+   "Back to the motor as electricity",
+   "Stored in the gears"
+  ],
+  "id": 350
+ },
+ {
+  "type": "mcq",
+  "topic": "העברת הספק (Power Transmission)",
+  "qh": "מה נצילות (Efficiency) של זוג גלגלי שיניים ישרים טובים, בערך?",
+  "qe": "Rough efficiency of one good spur gear pair?",
+  "ah": "בערך 97 עד 99 אחוז.",
+  "ae": "About 97–99%.",
+  "oh": [
+   "כ-98 אחוז",
+   "כ-60 אחוז",
+   "כ-80 אחוז"
+  ],
+  "oe": [
+   "About 98%",
+   "About 60%",
+   "About 80%"
+  ],
+  "id": 351
+ },
+ {
+  "type": "mcq",
+  "topic": "העברת הספק (Power Transmission)",
+  "qh": "למה נצילות של בורג חילזון (Worm Gear) נמוכה יחסית?",
+  "qe": "Why is worm gear efficiency relatively low?",
+  "ah": "השיניים מחליקות זו על זו ולא מתגלגלות, אז יש הרבה חיכוך.",
+  "ae": "The teeth slide rather than roll, causing lots of friction.",
+  "oh": [
+   "השיניים מחליקות במקום להתגלגל",
+   "יש לו יותר מדי שיניים",
+   "הוא עשוי תמיד מפלסטיק"
+  ],
+  "oe": [
+   "Teeth slide instead of roll",
+   "It has too many teeth",
+   "It is always plastic"
+  ],
+  "id": 352
+ },
+ {
+  "type": "calc",
+  "topic": "העברת הספק (Power Transmission)",
+  "qh": "מנוע 2 קילוואט ותיבה עם נצילות 90%. כמה הספק מגיע ליציאה?",
+  "qe": "A 2 kW motor through a 90% efficient gearbox. Output power?",
+  "ah": "1.8 קילוואט. תשעים אחוז מאלפיים וואט זה אלף ושמונה מאות.",
+  "ae": "1.8 kW. Ninety percent of two thousand watts is eighteen hundred.",
+  "oh": [
+   "1.8 קילוואט",
+   "2.2 קילוואט",
+   "0.2 קילוואט"
+  ],
+  "oe": [
+   "1.8 kW",
+   "2.2 kW",
+   "0.2 kW"
+  ],
+  "id": 353
+ },
+ {
+  "type": "calc",
+  "topic": "העברת הספק (Power Transmission)",
+  "qh": "שלושה שלבים בשרשרת, כל אחד 95% נצילות. בערך מה הנצילות הכוללת?",
+  "qe": "Three stages in series, each 95%. Rough total efficiency?",
+  "ah": "בערך 86 אחוז. מכפילים: 0.95 כפול 0.95 כפול 0.95.",
+  "ae": "About 86%. Multiply 0.95 three times.",
+  "oh": [
+   "כ-86 אחוז",
+   "כ-95 אחוז",
+   "כ-285 אחוז"
+  ],
+  "oe": [
+   "About 86%",
+   "About 95%",
+   "About 285%"
+  ],
+  "id": 354
+ },
+ {
+  "type": "calc",
+  "topic": "העברת הספק (Power Transmission)",
+  "qh": "מנוע 1 קילוואט ב-3,000 סל\"ד. אחרי הורדה של 10 ל-1 בלי הפסדים, מה ההספק והמהירות?",
+  "qe": "1 kW motor at 3,000 rpm. After 10:1 reduction, no losses: power and speed?",
+  "ah": "ההספק נשאר 1 קילוואט, המהירות 300 סל\"ד, והמומנט גדל פי 10.",
+  "ae": "Power stays 1 kW, speed 300 rpm, torque 10x higher.",
+  "oh": [
+   "1 קילוואט ב-300 סל\"ד",
+   "10 קילוואט ב-300 סל\"ד",
+   "0.1 קילוואט ב-30,000 סל\"ד"
+  ],
+  "oe": [
+   "1 kW at 300 rpm",
+   "10 kW at 300 rpm",
+   "0.1 kW at 30,000 rpm"
+  ],
+  "id": 355
+ },
+ {
+  "type": "mistake",
+  "topic": "העברת הספק (Power Transmission)",
+  "qh": "תיבת הילוכים עם יחס 10 – כמה מומנט ביציאה?",
+  "qe": "A 10:1 gearbox – output torque?",
+  "wrong_h": "\"בדיוק פי 10, תמיד.\"",
+  "wrong_e": "\"Exactly 10x, always.\"",
+  "ah": "קצת פחות מפי 10 – צריך להכפיל גם בנצילות. ובנוסף לבדוק שהתיבה מדורגת לעמוד במומנט הזה.",
+  "ae": "A bit under 10x – multiply by efficiency too. And check the gearbox is rated for that torque.",
+  "id": 356
+ },
+ {
+  "type": "mistake",
+  "topic": "העברת הספק (Power Transmission)",
+  "qh": "\"מנוע חזק יותר תמיד פותר בעיה של מכונה איטית\" – נכון?",
+  "qe": "\"A bigger motor always fixes a slow machine\" – true?",
+  "wrong_h": "\"כן, פשוט שמים מנוע גדול.\"",
+  "wrong_e": "\"Yes, just fit a bigger motor.\"",
+  "ah": "לא בהכרח. לפעמים הבעיה היא יחס לא נכון, חיכוך, החלקה או עומס – וחזק יותר רק ישבור משהו אחר.",
+  "ae": "Not necessarily. The issue may be wrong ratio, friction, slip or load – more power may just break something else.",
+  "id": 357
+ },
+ {
+  "type": "interview",
+  "topic": "העברת הספק (Power Transmission)",
+  "qh": "תאר את שרשרת העברת ההספק ברכב מהמנוע לגלגל.",
+  "qe": "Describe the power path in a car from engine to wheel.",
+  "ah": "מנוע → מצמד או ממיר → תיבת הילוכים → גל הינע → דיפרנציאל עם האטה סופית → צירים ומפרקים → גלגלים. בכל שלב מה משתנה: מהירות, מומנט, כיוון.",
+  "ae": "Engine → clutch/converter → gearbox → driveshaft → differential with final drive → axles and joints → wheels. Say what changes at each step: speed, torque, direction.",
+  "points_h": [
+   "רשימת השלבים לפי סדר",
+   "מה כל שלב משנה",
+   "איפה ההפסדים",
+   "נקודות כשל"
+  ],
+  "points_e": [
+   "Steps in order",
+   "What each changes",
+   "Where losses are",
+   "Failure points"
+  ],
+  "id": 358
+ },
+ {
+  "type": "mcq",
+  "topic": "מצמדים ובלמים (Clutches & Brakes)",
+  "qh": "מה התפקיד של מצמד (Clutch) ברכב ידני?",
+  "qe": "Job of the clutch in a manual car?",
+  "ah": "לנתק ולחבר בהדרגה את המנוע מהגלגלים, להתנעה והחלפת הילוכים.",
+  "ae": "Disconnect and gently reconnect engine and wheels for starting and shifting.",
+  "oh": [
+   "לנתק ולחבר את המנוע בהדרגה",
+   "להגביר את המומנט של המנוע",
+   "לעצור את הרכב בבלימה"
+  ],
+  "oe": [
+   "Disconnect and reconnect gently",
+   "Boost engine torque",
+   "Stop the car when braking"
+  ],
+  "id": 359
+ },
+ {
+  "type": "mcq",
+  "topic": "מצמדים ובלמים (Clutches & Brakes)",
+  "qh": "איך מצמד חיכוך (Friction Clutch) מעביר מומנט?",
+  "qe": "How does a friction clutch transmit torque?",
+  "ah": "קפיצים לוחצים דיסקית לגלגל התנופה, והחיכוך ביניהם מעביר את הסיבוב.",
+  "ae": "Springs press a disc against the flywheel; friction carries the rotation.",
+  "oh": [
+   "קפיצים לוחצים דיסקית, החיכוך מעביר",
+   "שיניים נכנסות זו בזו בכוח ברוב המכונות",
+   "שמן בלחץ דוחף את הציר"
+  ],
+  "oe": [
+   "Springs clamp a disc; friction drives",
+   "Teeth lock together in most machines",
+   "Pressurised oil pushes the shaft"
+  ],
+  "id": 360
+ },
+ {
+  "type": "mcq",
+  "topic": "מצמדים ובלמים (Clutches & Brakes)",
+  "qh": "למה מצמד \"שורף\" ומריח כשמחזיקים אותו חצי לחוץ?",
+  "qe": "Why does a slipping clutch smell burnt?",
+  "ah": "כשהוא מחליק, החיכוך הופך את כל ההספק לחום והדיסקית נשרפת.",
+  "ae": "While slipping, friction turns power into heat and the lining burns.",
+  "oh": [
+   "ההחלקה הופכת הספק לחום",
+   "השמן במנוע נכנס לדיסקית",
+   "הקפיצים מתחממים מלחץ"
+  ],
+  "oe": [
+   "Slip turns power into heat",
+   "Engine oil leaks into the disc",
+   "The springs heat from pressure"
+  ],
+  "id": 361
+ },
+ {
+  "type": "mcq",
+  "topic": "מצמדים ובלמים (Clutches & Brakes)",
+  "qh": "מה ההבדל בין בלם דיסק (Disc Brake) לבלם תוף (Drum Brake)?",
+  "qe": "Disc vs drum brake?",
+  "ah": "בדיסק הרפידות לוחצות על דיסקית חשופה – מתקרר טוב יותר; בתוף הנעליים לוחצות מבפנים.",
+  "ae": "Disc pads squeeze an open rotor – cools better; drum shoes press inside a drum.",
+  "oh": [
+   "דיסק מתקרר טוב יותר, תוף סגור",
+   "תוף תמיד חזק יותר מדיסק ברוב המכונות",
+   "דיסק לא צריך רפידות כלל"
+  ],
+  "oe": [
+   "Disc cools better; drum is enclosed",
+   "Drum is always stronger in most machines",
+   "Disc needs no pads"
+  ],
+  "id": 362
+ },
+ {
+  "type": "mcq",
+  "topic": "מצמדים ובלמים (Clutches & Brakes)",
+  "qh": "מה זה דעיכת בלמים (Brake Fade)?",
+  "qe": "What is brake fade?",
+  "ah": "בלמים חמים מדי מאבדים חיכוך, והבלימה נחלשת.",
+  "ae": "Overheated brakes lose friction, so braking weakens.",
+  "oh": [
+   "חום גורם לאובדן חיכוך",
+   "הרפידות נשחקות לאפס",
+   "הנוזל קופא בקור"
+  ],
+  "oe": [
+   "Heat makes friction drop",
+   "Pads wear to nothing",
+   "Fluid freezes in cold"
+  ],
+  "id": 363
+ },
+ {
+  "type": "mcq",
+  "topic": "מצמדים ובלמים (Clutches & Brakes)",
+  "qh": "לאן הולכת האנרגיה של רכב שנבלם בבלם חיכוך?",
+  "qe": "Where does a car's energy go in friction braking?",
+  "ah": "לחום ברפידות ובדיסקים.",
+  "ae": "Into heat in pads and discs.",
+  "oh": [
+   "לחום ברפידות ובדיסקים",
+   "חזרה לדלק במיכל",
+   "לקפיצי המתלים לאורך זמן"
+  ],
+  "oe": [
+   "Heat in pads and discs",
+   "Back into the fuel tank",
+   "Into the suspension springs over time"
+  ],
+  "id": 364
+ },
+ {
+  "type": "mcq",
+  "topic": "מצמדים ובלמים (Clutches & Brakes)",
+  "qh": "מה היתרון של מצמד שיניים (Dog Clutch) על מצמד חיכוך?",
+  "qe": "Dog clutch advantage over a friction clutch?",
+  "ah": "לא מחליק ומעביר מומנט גדול בגודל קטן – אבל צריך כמעט אותה מהירות כדי להשתלב.",
+  "ae": "No slip and big torque in a small size – but needs near-matched speeds to engage.",
+  "oh": [
+   "לא מחליק, מומנט גדול בגודל קטן",
+   "משתלב חלק בכל הפרש מהירויות",
+   "לא מתבלה לעולם לאורך זמן בתנאי עבודה רגילים"
+  ],
+  "oe": [
+   "No slip, big torque, small size",
+   "Engages smoothly at any speed difference",
+   "Never wears out over time in normal use"
+  ],
+  "id": 365
+ },
+ {
+  "type": "mcq",
+  "topic": "מצמדים ובלמים (Clutches & Brakes)",
+  "qh": "מה זה בלם כשל-בטוח (Fail-Safe Brake) במעלית או ברובוט?",
+  "qe": "What is a fail-safe brake in a lift or robot?",
+  "ah": "קפיץ סוגר אותו, וחשמל פותח – אם החשמל נופל הוא נבלם.",
+  "ae": "A spring applies it and power releases it – lose power and it brakes.",
+  "oh": [
+   "קפיץ בולם, חשמל משחרר",
+   "חשמל בולם, קפיץ משחרר",
+   "נבלם רק כשהמפעיל לוחץ"
+  ],
+  "oe": [
+   "Spring applies, power releases",
+   "Power applies, spring releases",
+   "Brakes only when the operator presses"
+  ],
+  "id": 366
+ },
+ {
+  "type": "calc",
+  "topic": "מצמדים ובלמים (Clutches & Brakes)",
+  "qh": "מנוע 300 ניוטון-מטר. מצמד מחזיק עד 450. מה מקדם הביטחון (Safety Factor)?",
+  "qe": "Engine 300 Nm, clutch holds up to 450. Safety factor?",
+  "ah": "1.5. ארבע מאות חמישים חלקי שלוש מאות.",
+  "ae": "1.5. Four hundred fifty over three hundred.",
+  "oh": [
+   "1.5",
+   "150",
+   "0.67"
+  ],
+  "oe": [
+   "1.5",
+   "150",
+   "0.67"
+  ],
+  "id": 367
+ },
+ {
+  "type": "calc",
+  "topic": "מצמדים ובלמים (Clutches & Brakes)",
+  "qh": "רכב נבלם מ-100 קמ\"ש לעצירה. אם הוא נוסע 50 קמ\"ש, כמה אנרגיה הבלמים צריכים לפזר ביחס?",
+  "qe": "Braking from 100 km/h vs 50 km/h – how much energy at 50, relatively?",
+  "ah": "רבע. האנרגיה תלויה במהירות בריבוע – חצי מהירות זה חצי כפול חצי.",
+  "ae": "A quarter. Energy goes with speed squared – half the speed is half times half.",
+  "oh": [
+   "רבע",
+   "חצי",
+   "אותו דבר"
+  ],
+  "oe": [
+   "A quarter",
+   "Half",
+   "The same"
+  ],
+  "id": 368
+ },
+ {
+  "type": "mistake",
+  "topic": "מצמדים ובלמים (Clutches & Brakes)",
+  "qh": "\"מצמד מחליק – פשוט להדק את הקפיצים חזק יותר\" – נכון?",
+  "qe": "\"Clutch slips – just stiffen the springs\" – right?",
+  "wrong_h": "\"כן, יותר לחץ ונגמרה הבעיה.\"",
+  "wrong_e": "\"Yes, more pressure, problem solved.\"",
+  "ah": "קודם בודקים שחיקת דיסקית, שמן על הדיסקית או כיוון כבל. קפיצים חזקים מדי מכבידים על הדוושה ושוחקים מסבים.",
+  "ae": "First check disc wear, oil contamination or cable adjustment. Overly stiff springs make the pedal heavy and wear bearings.",
+  "id": 369
+ },
+ {
+  "type": "mistake",
+  "topic": "מצמדים ובלמים (Clutches & Brakes)",
+  "qh": "\"רפידות בלם עדיף כמה שיותר קשות\" – נכון?",
+  "qe": "\"Brake pads should be as hard as possible\" – right?",
+  "wrong_h": "\"כן, הן יחזיקו יותר זמן.\"",
+  "wrong_e": "\"Yes, they'll last longer.\"",
+  "ah": "קשות מדי – חיכוך נמוך יותר בקור ורעש. בוחרים חומר לפי טמפרטורה, חיכוך ושחיקה מאוזנים.",
+  "ae": "Too hard means less friction when cold and noise. Choose compound for balanced temperature, friction and wear.",
+  "id": 370
+ },
+ {
+  "type": "interview",
+  "topic": "מצמדים ובלמים (Clutches & Brakes)",
+  "qh": "תכנן בלם חירום לציר של כננת (Winch).",
+  "qe": "Design an emergency brake for a winch drum.",
+  "ah": "בלם קפיץ שנפתח בחשמל (כשל-בטוח), מחושב עם מקדם ביטחון למומנט המקסימלי, עם פיזור חום, אפשרות שחרור ידני ובדיקה תקופתית.",
+  "ae": "Spring-applied, electrically released (fail-safe), sized with a safety factor on max torque, with heat dissipation, manual release and periodic testing.",
+  "points_h": [
+   "כשל-בטוח",
+   "חישוב מומנט ומקדם ביטחון",
+   "פיזור חום",
+   "שחרור ידני",
+   "בדיקות"
+  ],
+  "points_e": [
+   "Fail-safe",
+   "Torque and safety factor",
+   "Heat",
+   "Manual release",
+   "Testing"
+  ],
+  "id": 371
+ },
+ {
+  "type": "mcq",
+  "topic": "צירים וצימודים (Shafts & Couplings)",
+  "qh": "מה תפקיד הקיל (Key) בין ציר לגלגל?",
+  "qe": "Role of a key between shaft and hub?",
+  "ah": "מונע מהגלגל להסתובב על הציר וכך מעביר מומנט.",
+  "ae": "Stops the hub spinning on the shaft, transmitting torque.",
+  "oh": [
+   "מונע סיבוב הגלגל על הציר",
+   "מחזיק את הגלגל מלזוז לאורך",
+   "מוריד חיכוך בין הגלגל לציר"
+  ],
+  "oe": [
+   "Stops the hub spinning on the shaft",
+   "Holds the hub axially",
+   "Lowers hub friction"
+  ],
+  "id": 372
+ },
+ {
+  "type": "mcq",
+  "topic": "צירים וצימודים (Shafts & Couplings)",
+  "qh": "למה חריץ קיל (Keyway) מחליש את הציר?",
+  "qe": "Why does a keyway weaken a shaft?",
+  "ah": "הוא מוריד חומר ויוצר פינה חדה שמרכזת מאמצים (Stress Concentration).",
+  "ae": "It removes material and creates a sharp corner that concentrates stress.",
+  "oh": [
+   "מוריד חומר ויוצר ריכוז מאמצים",
+   "גורם לציר להתרחב בחום",
+   "מוסיף משקל בצד אחד"
+  ],
+  "oe": [
+   "Removes material, concentrates stress",
+   "Makes the shaft expand in heat",
+   "Adds weight on one side"
+  ],
+  "id": 373
+ },
+ {
+  "type": "mcq",
+  "topic": "צירים וצימודים (Shafts & Couplings)",
+  "qh": "למה מוסיפים רדיוס (Fillet) במדרגה בציר?",
+  "qe": "Why add a fillet at a shaft step?",
+  "ah": "פינה מעוגלת מפזרת מאמץ ומקטינה סיכוי לסדק עייפות.",
+  "ae": "A rounded corner spreads stress and reduces fatigue cracking.",
+  "oh": [
+   "מפזר מאמץ ומונע סדקי עייפות",
+   "כדי שיהיה קל יותר לצבוע",
+   "מגדיל את קוטר הציר"
+  ],
+  "oe": [
+   "Spreads stress, prevents fatigue",
+   "Easier to paint",
+   "Increases shaft diameter"
+  ],
+  "id": 374
+ },
+ {
+  "type": "mcq",
+  "topic": "צירים וצימודים (Shafts & Couplings)",
+  "qh": "למה משתמשים בצימוד גמיש (Flexible Coupling) בין מנוע למשאבה?",
+  "qe": "Why a flexible coupling between motor and pump?",
+  "ah": "הוא מפצה על אי-יישור קטן ובולע רעידות.",
+  "ae": "It absorbs small misalignment and vibration.",
+  "oh": [
+   "מפצה על אי-יישור ובולע רעידות",
+   "מגדיל את מהירות המשאבה",
+   "מחליף את המסבים של המשאבה"
+  ],
+  "oe": [
+   "Absorbs misalignment and vibration",
+   "Raises pump speed",
+   "Replaces the pump bearings"
+  ],
+  "id": 375
+ },
+ {
+  "type": "mcq",
+  "topic": "צירים וצימודים (Shafts & Couplings)",
+  "qh": "מה זה מהירות קריטית (Critical Speed) של ציר?",
+  "qe": "What is a shaft's critical speed?",
+  "ah": "מהירות שבה הציר נכנס לתהודה ורועד חזק.",
+  "ae": "A speed where the shaft resonates and shakes hard.",
+  "oh": [
+   "מהירות שבה הציר רועד בתהודה",
+   "המהירות המקסימלית של המנוע",
+   "מהירות שבה השמן רותח"
+  ],
+  "oe": [
+   "Speed where it resonates",
+   "The motor's top speed",
+   "Speed where oil boils"
+  ],
+  "id": 376
+ },
+ {
+  "type": "mcq",
+  "topic": "צירים וצימודים (Shafts & Couplings)",
+  "qh": "ציר מסתובב עם כיפוף – איזה כשל הכי נפוץ?",
+  "qe": "Rotating shaft under bending – most common failure?",
+  "ah": "עייפות (Fatigue): כל סיבוב מכופף אותו הלוך וחזור עד שנוצר סדק.",
+  "ae": "Fatigue: every turn flexes it back and forth until a crack forms.",
+  "oh": [
+   "עייפות מכיפוף חוזר",
+   "התכה מחום חיכוך ברוב המכונות",
+   "חלודה בלבד"
+  ],
+  "oe": [
+   "Fatigue from repeated bending",
+   "Melting from friction in most machines",
+   "Rust alone"
+  ],
+  "id": 377
+ },
+ {
+  "type": "mcq",
+  "topic": "צירים וצימודים (Shafts & Couplings)",
+  "qh": "מה היתרון של חריצים (Splines) על קיל?",
+  "qe": "Splines vs a key – advantage?",
+  "ah": "מומנט גבוה יותר ומתפזר על הרבה שיניים, ואפשר גם החלקה צירית.",
+  "ae": "More torque spread over many teeth, and allow axial sliding.",
+  "oh": [
+   "מומנט גבוה ומאפשר החלקה צירית",
+   "זול יותר לייצור תמיד",
+   "לא צריך בכלל דיוק"
+  ],
+  "oe": [
+   "Higher torque and axial sliding",
+   "Always cheaper to make",
+   "Needs no precision"
+  ],
+  "id": 378
+ },
+ {
+  "type": "mcq",
+  "topic": "צירים וצימודים (Shafts & Couplings)",
+  "qh": "מה זה פין גזירה (Shear Pin) בצימוד?",
+  "qe": "What is a shear pin in a coupling?",
+  "ah": "פין שנשבר בכוונה בעומס יתר כדי להגן על חלקים יקרים.",
+  "ae": "A pin designed to break on overload to protect costly parts.",
+  "oh": [
+   "נשבר בכוונה כדי להגן",
+   "מחזק את הצימוד בעומס",
+   "מיישר את הצירים אוטומטית"
+  ],
+  "oe": [
+   "Breaks on purpose to protect",
+   "Strengthens the coupling",
+   "Aligns the shafts automatically"
+  ],
+  "id": 379
+ },
+ {
+  "type": "calc",
+  "topic": "צירים וצימודים (Shafts & Couplings)",
+  "qh": "ציר מעביר 50 ניוטון-מטר. אם מכפילים את המומנט ל-100, ורוצים אותו מאמץ, בערך פי כמה הקוטר?",
+  "qe": "Shaft carries 50 Nm. Double to 100 Nm at the same stress – diameter grows by about?",
+  "ah": "בערך פי 1.26. החוזק בפיתול גדל עם הקוטר בשלישית, אז להכפלה צריך שורש שלישי של 2.",
+  "ae": "About 1.26x. Torsional strength grows with diameter cubed, so doubling needs the cube root of 2.",
+  "oh": [
+   "פי 1.26 בערך",
+   "פי 2 בדיוק",
+   "פי 4 בערך"
+  ],
+  "oe": [
+   "About 1.26x",
+   "Exactly 2x",
+   "About 4x"
+  ],
+  "id": 380
+ },
+ {
+  "type": "mistake",
+  "topic": "צירים וצימודים (Shafts & Couplings)",
+  "qh": "\"צימוד גמיש – אז לא צריך ליישר את הצירים\" – נכון?",
+  "qe": "\"Flexible coupling – so no alignment needed\" – right?",
+  "wrong_h": "\"נכון, הוא סופג הכל.\"",
+  "wrong_e": "\"Right, it absorbs everything.\"",
+  "ah": "לא. הוא סופג רק אי-יישור קטן. אי-יישור גדול שוחק את הצימוד ואת המסבים.",
+  "ae": "No. It only absorbs small misalignment; large misalignment wears coupling and bearings.",
+  "id": 381
+ },
+ {
+  "type": "mistake",
+  "topic": "צירים וצימודים (Shafts & Couplings)",
+  "qh": "ציר נשבר בעייפות. \"פשוט נשים פלדה חזקה יותר\" – מספיק?",
+  "qe": "Shaft broke in fatigue. \"Use stronger steel\" – enough?",
+  "wrong_h": "\"כן, חומר חזק פותר.\"",
+  "wrong_e": "\"Yes, stronger material fixes it.\"",
+  "ah": "לא תמיד. קודם מטפלים בריכוזי מאמצים – רדיוסים, חריצים, גימור פני השטח – ובעומס עצמו. פלדה חזקה רגישה לפעמים יותר לחריצים.",
+  "ae": "Not always. First address stress raisers – fillets, keyways, surface finish – and the load. Stronger steel can be more notch-sensitive.",
+  "id": 382
+ },
+ {
+  "type": "interview",
+  "topic": "צירים וצימודים (Shafts & Couplings)",
+  "qh": "ספר על איך תתכנן ציר לתיבת הילוכים.",
+  "qe": "How would you design a gearbox shaft?",
+  "ah": "מגדירים עומסים (מומנט, כוחות מגלגלי השיניים), בוחרים חומר, קובעים קוטר לחוזק ועייפות, בודקים כיפוף והתאמת מסבים, מוסיפים רדיוסים וטולרנסים, ובודקים מהירות קריטית.",
+  "ae": "Define loads (torque, gear forces), choose material, size for strength and fatigue, check deflection and bearing seats, add fillets and tolerances, check critical speed.",
+  "points_h": [
+   "עומסים",
+   "חומר",
+   "קוטר לעייפות",
+   "כיפוף ומושבי מסבים",
+   "ריכוזי מאמצים",
+   "מהירות קריטית"
+  ],
+  "points_e": [
+   "Loads",
+   "Material",
+   "Size for fatigue",
+   "Deflection and seats",
+   "Stress raisers",
+   "Critical speed"
+  ],
+  "id": 383
+ },
+ {
+  "type": "mcq",
+  "topic": "קפיצים (Springs)",
+  "qh": "מה זה קבוע קפיץ (Spring Rate)?",
+  "qe": "What is a spring rate?",
+  "ah": "כמה כוח צריך כדי לכווץ את הקפיץ ביחידת אורך, למשל ניוטון למילימטר.",
+  "ae": "Force needed per unit of compression, e.g. newtons per millimetre.",
+  "oh": [
+   "כוח ליחידת כיווץ",
+   "האורך החופשי של הקפיץ",
+   "כמה פעמים הוא יכול לעבוד"
+  ],
+  "oe": [
+   "Force per unit compression",
+   "The spring's free length",
+   "How many cycles it survives"
+  ],
+  "id": 384
+ },
+ {
+  "type": "mcq",
+  "topic": "קפיצים (Springs)",
+  "qh": "מה קורה לקפיץ כשמכווצים אותו מעבר לגבול?",
+  "qe": "What happens when a spring is compressed past its limit?",
+  "ah": "הוא מתעוות לתמיד ולא חוזר לאורך המקורי.",
+  "ae": "It takes a permanent set and doesn't return to its length.",
+  "oh": [
+   "מתעוות לתמיד ולא חוזר",
+   "נעשה קשיח יותר לתמיד",
+   "מתארך מעבר לאורכו המקורי"
+  ],
+  "oe": [
+   "Takes a permanent set",
+   "Becomes permanently stiffer",
+   "Grows longer than original"
+  ],
+  "id": 385
+ },
+ {
+  "type": "mcq",
+  "topic": "קפיצים (Springs)",
+  "qh": "מה ההבדל בין קפיץ לחיצה (Compression) לקפיץ משיכה (Extension)?",
+  "qe": "Compression vs extension spring?",
+  "ah": "לחיצה מתנגד לכיווץ; משיכה מתנגד למתיחה ויש לו ווים בקצוות.",
+  "ae": "Compression resists squeezing; extension resists pulling and has end hooks.",
+  "oh": [
+   "לחיצה נגד כיווץ, משיכה נגד מתיחה",
+   "אותו דבר בשמות שונים",
+   "משיכה תמיד חזק יותר לאורך זמן בתנאי עבודה רגילים"
+  ],
+  "oe": [
+   "One resists squeeze, other resists pull",
+   "Same thing, different names",
+   "Extension is always stronger over time in normal use"
+  ],
+  "id": 386
+ },
+ {
+  "type": "mcq",
+  "topic": "קפיצים (Springs)",
+  "qh": "איפה משתמשים בקפיץ פיתול (Torsion Spring)?",
+  "qe": "Where is a torsion spring used?",
+  "ah": "במקומות שמסתובבים וחוזרים – אטב כביסה, דלת מוסך, מכסה.",
+  "ae": "Where things rotate and return – clothes peg, garage door, lid.",
+  "oh": [
+   "אטב כביסה ודלת מוסך",
+   "בולם זעזועים של רכב",
+   "בורג הידוק רגיל"
+  ],
+  "oe": [
+   "Clothes peg, garage door",
+   "Car shock absorber",
+   "A normal clamping bolt"
+  ],
+  "id": 387
+ },
+ {
+  "type": "mcq",
+  "topic": "קפיצים (Springs)",
+  "qh": "שני קפיצים זהים מחוברים בטור (אחד אחרי השני). מה קורה לקשיחות?",
+  "qe": "Two identical springs in series – stiffness?",
+  "ah": "יורדת לחצי – כל אחד מתכווץ באותו כוח.",
+  "ae": "Halves – each compresses under the same force.",
+  "oh": [
+   "יורדת לחצי",
+   "מוכפלת",
+   "לא משתנה"
+  ],
+  "oe": [
+   "Halves",
+   "Doubles",
+   "No change"
+  ],
+  "id": 388
+ },
+ {
+  "type": "mcq",
+  "topic": "קפיצים (Springs)",
+  "qh": "שני קפיצים זהים במקביל (זה ליד זה). מה קורה לקשיחות?",
+  "qe": "Two identical springs in parallel – stiffness?",
+  "ah": "מוכפלת – הם חולקים את העומס.",
+  "ae": "Doubles – they share the load.",
+  "oh": [
+   "מוכפלת",
+   "יורדת לחצי",
+   "לא משתנה"
+  ],
+  "oe": [
+   "Doubles",
+   "Halves",
+   "No change"
+  ],
+  "id": 389
+ },
+ {
+  "type": "mcq",
+  "topic": "קפיצים (Springs)",
+  "qh": "מה עושה בולם (Damper) לצד קפיץ במתלה?",
+  "qe": "What does a damper do beside a spring in a suspension?",
+  "ah": "מרסן את התנודות כך שהרכב לא ממשיך לקפוץ.",
+  "ae": "Calms oscillation so the car doesn't keep bouncing.",
+  "oh": [
+   "מרסן תנודות",
+   "מחזיק את משקל הרכב",
+   "מגביר את גובה הרכב"
+  ],
+  "oe": [
+   "Calms oscillation",
+   "Holds the car's weight",
+   "Raises ride height"
+  ],
+  "id": 390
+ },
+ {
+  "type": "mcq",
+  "topic": "קפיצים (Springs)",
+  "qh": "למה קפיצים עשויים מפלדת קפיצים (Spring Steel) מיוחדת?",
+  "qe": "Why special spring steel?",
+  "ah": "גבול כניעה גבוה – יכולה להתכופף הרבה ולחזור בלי להתעוות.",
+  "ae": "High yield strength – bends a lot and returns without deforming.",
+  "oh": [
+   "מתכופפת הרבה וחוזרת",
+   "זולה יותר מכל פלדה",
+   "לא מחלידה לעולם"
+  ],
+  "oe": [
+   "Bends a lot and returns",
+   "Cheapest steel",
+   "Never rusts"
+  ],
+  "id": 391
+ },
+ {
+  "type": "calc",
+  "topic": "קפיצים (Springs)",
+  "qh": "קפיץ של 5 ניוטון למ\"מ (N/mm) מכווץ 20 מ\"מ. כמה כוח?",
+  "qe": "A 5 N/mm spring compressed 20 mm. Force?",
+  "ah": "100 ניוטון. חמש כפול עשרים.",
+  "ae": "100 N. Five times twenty.",
+  "oh": [
+   "100 ניוטון",
+   "4 ניוטון",
+   "25 ניוטון"
+  ],
+  "oe": [
+   "100 N",
+   "4 N",
+   "25 N"
+  ],
+  "id": 392
+ },
+ {
+  "type": "calc",
+  "topic": "קפיצים (Springs)",
+  "qh": "צריך 60 ניוטון מקפיץ של 4 ניוטון למ\"מ. כמה לכווץ?",
+  "qe": "Need 60 N from a 4 N/mm spring. Compression?",
+  "ah": "15 מ\"מ. שישים חלקי ארבע.",
+  "ae": "15 mm. Sixty over four.",
+  "oh": [
+   "15 מ\"מ",
+   "240 מ\"מ",
+   "64 מ\"מ"
+  ],
+  "oe": [
+   "15 mm",
+   "240 mm",
+   "64 mm"
+  ],
+  "id": 393
+ },
+ {
+  "type": "mistake",
+  "topic": "קפיצים (Springs)",
+  "qh": "\"לקצר קפיץ (לחתוך כריכות) יעשה אותו רך יותר\" – נכון?",
+  "qe": "\"Cutting coils makes a spring softer\" – true?",
+  "wrong_h": "\"כן, פחות קפיץ – פחות כוח.\"",
+  "wrong_e": "\"Yes, less spring, less force.\"",
+  "ah": "ההפך – פחות כריכות פעילות עושה אותו קשיח יותר, וגם מקצר את המהלך.",
+  "ae": "The opposite – fewer active coils make it stiffer, and shorten travel.",
+  "id": 394
+ },
+ {
+  "type": "mistake",
+  "topic": "קפיצים (Springs)",
+  "qh": "\"קפיץ שעובד מיליון מחזורים – רק החוזק הסטטי חשוב\" – נכון?",
+  "qe": "\"For a million cycles only static strength matters\" – true?",
+  "wrong_h": "\"כן, אם לא נשבר פעם אחת – לא יישבר.\"",
+  "wrong_e": "\"Yes, if it survives once it always will.\"",
+  "ah": "לא. בעבודה חוזרת קובעת העייפות (Fatigue); צריך מאמץ נמוך יותר, גימור טוב ולפעמים חישול בחול (Shot Peening).",
+  "ae": "No. Cyclic use is ruled by fatigue; lower stress, good finish and sometimes shot peening are needed.",
+  "id": 395
+ },
+ {
+  "type": "interview",
+  "topic": "קפיצים (Springs)",
+  "qh": "כפתור במוצר מרגיש \"רך מדי\". מה תעשה?",
+  "qe": "A product button feels too soft. What do you do?",
+  "ah": "מודדים כוח מול מהלך, משווים לדרישה, ומשנים קפיץ: חוט עבה יותר, פחות כריכות או קוטר קטן יותר – ובודקים עייפות ומקום.",
+  "ae": "Measure force vs travel, compare to target, change the spring: thicker wire, fewer coils or smaller diameter – then check fatigue and space.",
+  "points_h": [
+   "מדידה מול דרישה",
+   "פרמטרים של קפיץ",
+   "מקום ומהלך",
+   "עייפות",
+   "בדיקת משתמש"
+  ],
+  "points_e": [
+   "Measure vs target",
+   "Spring parameters",
+   "Space and travel",
+   "Fatigue",
+   "User test"
+  ],
+  "id": 396
+ },
+ {
+  "type": "mcq",
+  "topic": "מחברים וברגים (Fasteners)",
+  "qh": "מה מחזיק בעצם חיבור בורג ואום?",
+  "qe": "What actually holds a bolted joint together?",
+  "ah": "המתיחה בבורג (Preload) לוחצת את החלקים, והחיכוך ביניהם מחזיק.",
+  "ae": "Bolt tension (preload) clamps the parts and friction between them holds.",
+  "oh": [
+   "מתיחת הבורג והחיכוך בין החלקים",
+   "הברגות שנדבקות זו לזו בתנאי עבודה רגילים",
+   "הראש של הבורג בלבד"
+  ],
+  "oe": [
+   "Bolt preload and joint friction",
+   "Threads gluing together in normal use",
+   "Only the bolt head"
+  ],
+  "id": 397
+ },
+ {
+  "type": "mcq",
+  "topic": "מחברים וברגים (Fasteners)",
+  "qh": "למה מהדקים בורג למומנט מסוים (Torque Spec)?",
+  "qe": "Why tighten to a torque spec?",
+  "ah": "כדי לקבל מתיחה נכונה – מספיק להחזיק בלי למתוח את הבורג מעבר לגבול.",
+  "ae": "To get the right preload – enough to hold without over-stretching the bolt.",
+  "oh": [
+   "לקבל מתיחה נכונה בבורג",
+   "כדי שיהיה קל לפרק אחר כך",
+   "כדי שהבורג יתחמם פחות"
+  ],
+  "oe": [
+   "Get the right preload",
+   "Easier removal later",
+   "Keeps the bolt cooler"
+  ],
+  "id": 398
+ },
+ {
+  "type": "mcq",
+  "topic": "מחברים וברגים (Fasteners)",
+  "qh": "מה המשמעות של 8.8 על ראש בורג?",
+  "qe": "What does 8.8 on a bolt head mean?",
+  "ah": "דרגת חוזק (Grade): חוזק מתיחה כ-800 מגה-פסקל וגבול כניעה כ-80% ממנו.",
+  "ae": "Strength grade: about 800 MPa tensile, yield about 80% of that.",
+  "oh": [
+   "דרגת חוזק של הבורג",
+   "קוטר הבורג במילימטרים",
+   "פסיעת ההברגה"
+  ],
+  "oe": [
+   "Strength grade",
+   "Diameter in mm",
+   "Thread pitch"
+  ],
+  "id": 399
+ },
+ {
+  "type": "mcq",
+  "topic": "מחברים וברגים (Fasteners)",
+  "qh": "מה ההבדל בין הברגה עדינה (Fine Thread) לגסה (Coarse)?",
+  "qe": "Fine vs coarse thread?",
+  "ah": "עדינה – פחות נוטה להשתחרר מרעידות וכיוון עדין; גסה – מהירה להרכבה ופחות נפגעת.",
+  "ae": "Fine resists vibration loosening and adjusts finely; coarse assembles fast and is more damage-tolerant.",
+  "oh": [
+   "עדינה עמידה לרעידות, גסה מהירה",
+   "גסה תמיד חזקה יותר בכל מצב",
+   "עדינה משמשת רק לפלסטיק"
+  ],
+  "oe": [
+   "Fine resists vibration; coarse is quick",
+   "Coarse always stronger",
+   "Fine is only for plastic"
+  ],
+  "id": 400
+ },
+ {
+  "type": "mcq",
+  "topic": "מחברים וברגים (Fasteners)",
+  "qh": "למה בורג משתחרר ברעידות?",
+  "qe": "Why does a bolt loosen under vibration?",
+  "ah": "תנועה זעירה בין ההברגות מורידה את החיכוך ומאפשרת סיבוב קטן בכל רעידה.",
+  "ae": "Tiny slips in the threads let it rotate a bit with each vibration.",
+  "oh": [
+   "תזוזות זעירות בהברגה בכל רעידה",
+   "הבורג מתכווץ מקור",
+   "האום מתרחב מלחץ בתנאי עבודה רגילים"
+  ],
+  "oe": [
+   "Tiny thread slips each cycle",
+   "Bolt shrinks in the cold",
+   "Nut expands under pressure in normal use"
+  ],
+  "id": 401
+ },
+ {
+  "type": "mcq",
+  "topic": "מחברים וברגים (Fasteners)",
+  "qh": "איך מונעים השתחררות בורג?",
+  "qe": "How do you prevent bolt loosening?",
+  "ah": "מתיחה נכונה, דבק הברגות (Threadlocker), אום נעילה או דיסקית נעילה מתאימה.",
+  "ae": "Correct preload, threadlocker, lock nut or a proper locking washer.",
+  "oh": [
+   "מתיחה נכונה ודבק או אום נעילה",
+   "להשאיר אותו מעט רפוי",
+   "לשמן את ההברגה הרבה"
+  ],
+  "oe": [
+   "Right preload plus locker or lock nut",
+   "Leave it slightly loose",
+   "Oil the threads heavily"
+  ],
+  "id": 402
+ },
+ {
+  "type": "mcq",
+  "topic": "מחברים וברגים (Fasteners)",
+  "qh": "למה שמים דיסקית (Washer) מתחת לראש בורג?",
+  "qe": "Why put a washer under a bolt head?",
+  "ah": "מפזרת את הלחץ ומגינה על המשטח, במיוחד בחומר רך.",
+  "ae": "Spreads pressure and protects the surface, especially in soft material.",
+  "oh": [
+   "מפזרת לחץ ומגינה על המשטח",
+   "מחליפה את הצורך באום",
+   "מקצרת את הבורג ברוב המכונות"
+  ],
+  "oe": [
+   "Spreads pressure, protects surface",
+   "Replaces the nut",
+   "Shortens the bolt in most machines"
+  ],
+  "id": 403
+ },
+ {
+  "type": "mcq",
+  "topic": "מחברים וברגים (Fasteners)",
+  "qh": "מתי עדיף ניט (Rivet) על בורג?",
+  "qe": "When is a rivet better than a bolt?",
+  "ah": "חיבור קבוע ופשוט בפחים דקים, כמו במטוסים, שלא צריך לפרק.",
+  "ae": "Permanent, simple joints in thin sheet, like aircraft, never disassembled.",
+  "oh": [
+   "חיבור קבוע בפחים דקים",
+   "כשצריך לפרק לעתים קרובות",
+   "כשנדרש כיוון מדויק"
+  ],
+  "oe": [
+   "Permanent joints in thin sheet",
+   "When frequent disassembly is needed",
+   "When fine adjustment is needed"
+  ],
+  "id": 404
+ },
+ {
+  "type": "mcq",
+  "topic": "מחברים וברגים (Fasteners)",
+  "qh": "הברגה בחומר רך (אלומיניום, פלסטיק) נהרסת. מה הפתרון המקובל?",
+  "qe": "Threads in soft material strip. Usual fix?",
+  "ah": "תותב הברגה (Helicoil / Threaded Insert) מפלדה.",
+  "ae": "A steel thread insert (Helicoil).",
+  "oh": [
+   "תותב הברגה מפלדה",
+   "בורג ארוך פי שניים",
+   "הרבה דבק מגע"
+  ],
+  "oe": [
+   "Steel thread insert",
+   "Bolt twice as long",
+   "Lots of contact glue"
+  ],
+  "id": 405
+ },
+ {
+  "type": "calc",
+  "topic": "מחברים וברגים (Fasteners)",
+  "qh": "בורג עם פסיעה (Pitch) של 1.5 מ\"מ. כמה סיבובים כדי שיתקדם 12 מ\"מ?",
+  "qe": "Bolt pitch 1.5 mm. Turns to advance 12 mm?",
+  "ah": "8 סיבובים. שתים עשרה חלקי אחד וחצי.",
+  "ae": "8 turns. Twelve over one and a half.",
+  "oh": [
+   "8 סיבובים",
+   "18 סיבובים",
+   "13.5 סיבובים"
+  ],
+  "oe": [
+   "8 turns",
+   "18 turns",
+   "13.5 turns"
+  ],
+  "id": 406
+ },
+ {
+  "type": "calc",
+  "topic": "מחברים וברגים (Fasteners)",
+  "qh": "מומנט הידוק 50 ניוטון-מטר עם מפתח של 25 ס\"מ. כמה כוח ביד?",
+  "qe": "50 Nm with a 25 cm wrench. Hand force?",
+  "ah": "200 ניוטון (כמו 20 ק\"ג). חמישים חלקי רבע מטר.",
+  "ae": "200 N (like 20 kg). Fifty over a quarter metre.",
+  "oh": [
+   "200 ניוטון",
+   "12.5 ניוטון",
+   "1,250 ניוטון"
+  ],
+  "oe": [
+   "200 N",
+   "12.5 N",
+   "1,250 N"
+  ],
+  "id": 407
+ },
+ {
+  "type": "mistake",
+  "topic": "מחברים וברגים (Fasteners)",
+  "qh": "\"ככל שמהדקים בורג יותר חזק – החיבור יותר טוב\" – נכון?",
+  "qe": "\"The tighter the bolt the better the joint\" – true?",
+  "wrong_h": "\"כן, תמיד הכי חזק.\"",
+  "wrong_e": "\"Yes, always max tight.\"",
+  "ah": "לא. מעבר לגבול הבורג נמתח לתמיד, ההברגה נהרסת או הבורג נשבר. מהדקים למומנט שהוגדר.",
+  "ae": "No. Past the limit the bolt yields, threads strip or it snaps. Tighten to spec.",
+  "id": 408
+ },
+ {
+  "type": "mistake",
+  "topic": "מחברים וברגים (Fasteners)",
+  "qh": "משמנים הברגה ומהדקים לאותו מומנט כמו יבש. בסדר?",
+  "qe": "Lubricate threads and use the dry torque spec. OK?",
+  "wrong_h": "\"כן, המומנט הוא המומנט.\"",
+  "wrong_e": "\"Yes, torque is torque.\"",
+  "ah": "לא. עם שמן פחות חיכוך – אותו מומנט נותן הרבה יותר מתיחה ועלול למתוח את הבורג יותר מדי. צריך ערך מותאם לשימון.",
+  "ae": "No. Less friction means the same torque gives much more preload and can overstretch it. Use a lubricated-thread value.",
+  "id": 409
+ },
+ {
+  "type": "interview",
+  "topic": "מחברים וברגים (Fasteners)",
+  "qh": "חיבור ברגים במכונה משתחרר כל כמה שבועות. מה תעשה?",
+  "qe": "A bolted joint in a machine loosens every few weeks. What do you do?",
+  "ah": "בודקים מומנט ומתיחה, רעידות, משטחים רכים או צבע שמתכווץ, אורך הבורג, ומוסיפים פתרון נעילה מתאים – ובודקים שוב אחרי שינוי.",
+  "ae": "Check torque and preload, vibration, soft surfaces or paint creeping, bolt length, then add proper locking – and re-check after.",
+  "points_h": [
+   "מדידת מומנט ומתיחה",
+   "מקור הרעידות",
+   "משטחים ושקיעה",
+   "אמצעי נעילה",
+   "מעקב"
+  ],
+  "points_e": [
+   "Measure torque and preload",
+   "Vibration source",
+   "Surfaces and settling",
+   "Locking method",
+   "Follow up"
+  ],
+  "id": 410
+ },
+ {
+  "type": "mcq",
+  "topic": "התאמות וטולרנסים (Fits & Tolerances)",
+  "qh": "מה זה טולרנס (Tolerance)?",
+  "qe": "What is a tolerance?",
+  "ah": "כמה מותר למידה לסטות מהערך הנומינלי ועדיין להיות תקינה.",
+  "ae": "How far a dimension may vary from nominal and still be OK.",
+  "oh": [
+   "סטייה מותרת במידה",
+   "החומר שממנו עשוי החלק",
+   "מספר החלקים בסדרה"
+  ],
+  "oe": [
+   "Allowed variation in a size",
+   "The part's material",
+   "Number of parts in a batch"
+  ],
+  "id": 411
+ },
+ {
+  "type": "mcq",
+  "topic": "התאמות וטולרנסים (Fits & Tolerances)",
+  "qh": "מה זה התאמה עם מרווח (Clearance Fit)?",
+  "qe": "What is a clearance fit?",
+  "ah": "החור תמיד גדול מהציר, אז הם נכנסים בקלות וזזים.",
+  "ae": "The hole is always bigger than the shaft, so they slide freely.",
+  "oh": [
+   "החור תמיד גדול מהציר",
+   "הציר תמיד גדול מהחור",
+   "הם תמיד בדיוק באותו גודל"
+  ],
+  "oe": [
+   "Hole always bigger than shaft",
+   "Shaft always bigger than hole",
+   "Always exactly the same size"
+  ],
+  "id": 412
+ },
+ {
+  "type": "mcq",
+  "topic": "התאמות וטולרנסים (Fits & Tolerances)",
+  "qh": "מה זה התאמה בלחץ (Interference / Press Fit)?",
+  "qe": "What is an interference (press) fit?",
+  "ah": "הציר מעט גדול מהחור, ונכנס בכוח או בחימום – נשאר תקוע.",
+  "ae": "The shaft is slightly bigger than the hole, forced or heated in – it stays put.",
+  "oh": [
+   "הציר מעט גדול מהחור",
+   "החור מעט גדול מהציר",
+   "יש ביניהם דבק"
+  ],
+  "oe": [
+   "Shaft slightly bigger than hole",
+   "Hole slightly bigger than shaft",
+   "Glued together"
+  ],
+  "id": 413
+ },
+ {
+  "type": "mcq",
+  "topic": "התאמות וטולרנסים (Fits & Tolerances)",
+  "qh": "למה לא נותנים טולרנס הדוק מאוד לכל מידה?",
+  "qe": "Why not make every tolerance very tight?",
+  "ah": "זה מייקר מאוד את הייצור והבדיקה בלי תועלת אם המידה לא קריטית.",
+  "ae": "It sharply raises manufacturing and inspection cost with no benefit if non-critical.",
+  "oh": [
+   "מייקר בלי תועלת למידות לא קריטיות",
+   "החלק ייצא חלש יותר",
+   "אי אפשר למדוד טולרנס הדוק"
+  ],
+  "oe": [
+   "Raises cost for no benefit",
+   "Makes the part weaker",
+   "Tight tolerances can't be measured"
+  ],
+  "id": 414
+ },
+ {
+  "type": "mcq",
+  "topic": "התאמות וטולרנסים (Fits & Tolerances)",
+  "qh": "מה אומר H7/g6 בשרטוט?",
+  "qe": "What does H7/g6 mean on a drawing?",
+  "ah": "התאמה סטנדרטית לחור ולציר – כאן מרווח קטן מאוד, ציר מסתובב או מחליק בדיוק.",
+  "ae": "A standard hole/shaft fit – here a small clearance, a precise sliding/running fit.",
+  "oh": [
+   "התאמה עם מרווח קטן ומדויק",
+   "התאמה בלחץ חזקה מאוד בתנאי עבודה רגילים",
+   "סוג של הברגה עדינה"
+  ],
+  "oe": [
+   "Small precise clearance fit",
+   "Heavy press fit in normal use",
+   "A type of fine thread"
+  ],
+  "id": 415
+ },
+ {
+  "type": "mcq",
+  "topic": "התאמות וטולרנסים (Fits & Tolerances)",
+  "qh": "איך מכניסים גלגל בהתאמה בלחץ בלי להרוס אותו?",
+  "qe": "How do you fit a press-fit gear without damage?",
+  "ah": "מחממים את הגלגל או מקררים את הציר, כך שהגדלים משתנים זמנית.",
+  "ae": "Heat the gear or chill the shaft so sizes change temporarily.",
+  "oh": [
+   "מחממים את הגלגל או מקררים ציר",
+   "מכים חזק בפטיש על השיניים ברוב המכונות",
+   "משחיזים את הציר עד שנכנס"
+  ],
+  "oe": [
+   "Heat the hub or chill the shaft",
+   "Hammer hard on the teeth in most machines",
+   "Grind the shaft until it fits"
+  ],
+  "id": 416
+ },
+ {
+  "type": "mcq",
+  "topic": "התאמות וטולרנסים (Fits & Tolerances)",
+  "qh": "מה זה הצטברות טולרנסים (Tolerance Stack-up)?",
+  "qe": "What is tolerance stack-up?",
+  "ah": "כשהרבה חלקים מורכבים בשורה, הסטיות שלהם מצטברות ועלולות ליצור בעיה.",
+  "ae": "When many parts line up, their variations add up and may cause a problem.",
+  "oh": [
+   "סטיות של חלקים מצטברות בהרכבה",
+   "טולרנס שגדל עם הזמן",
+   "כמה שרטוטים של אותו חלק"
+  ],
+  "oe": [
+   "Variations add up in an assembly",
+   "Tolerance growing with time",
+   "Several drawings of one part"
+  ],
+  "id": 417
+ },
+ {
+  "type": "mcq",
+  "topic": "התאמות וטולרנסים (Fits & Tolerances)",
+  "qh": "מה זה טולרנס גאומטרי (GD&T) כמו \"מקביליות\" או \"עגילות\"?",
+  "qe": "What is geometric tolerancing (GD&T)?",
+  "ah": "שליטה בצורה ובמיקום – לא רק במידה – למשל כמה עגול או ישר המשטח.",
+  "ae": "Controlling form and position – not just size – e.g. how round or flat.",
+  "oh": [
+   "שליטה בצורה ובמיקום",
+   "שליטה בצבע ובגימור",
+   "שליטה רק על האורך ברוב המכונות"
+  ],
+  "oe": [
+   "Controls form and position",
+   "Controls colour and finish",
+   "Controls length only in most machines"
+  ],
+  "id": 418
+ },
+ {
+  "type": "calc",
+  "topic": "התאמות וטולרנסים (Fits & Tolerances)",
+  "qh": "חור 20.00 עד 20.02 מ\"מ, ציר 19.97 עד 19.99 מ\"מ. מה המרווח הקטן ביותר והגדול ביותר?",
+  "qe": "Hole 20.00–20.02 mm, shaft 19.97–19.99 mm. Min and max clearance?",
+  "ah": "הקטן 0.01 מ\"מ (חור קטן, ציר גדול), הגדול 0.05 מ\"מ (חור גדול, ציר קטן).",
+  "ae": "Min 0.01 mm (smallest hole, largest shaft), max 0.05 mm (largest hole, smallest shaft).",
+  "oh": [
+   "0.01 עד 0.05 מ\"מ",
+   "0.02 עד 0.03 מ\"מ",
+   "0.03 עד 0.04 מ\"מ"
+  ],
+  "oe": [
+   "0.01 to 0.05 mm",
+   "0.02 to 0.03 mm",
+   "0.03 to 0.04 mm"
+  ],
+  "id": 419
+ },
+ {
+  "type": "calc",
+  "topic": "התאמות וטולרנסים (Fits & Tolerances)",
+  "qh": "חמישה חלקים בשורה, כל אחד ±0.1 מ\"מ. בגרוע ביותר, כמה האורך הכולל יכול לסטות?",
+  "qe": "Five parts in a row, each ±0.1 mm. Worst-case total variation?",
+  "ah": "±0.5 מ\"מ. חמש פעמים עשירית.",
+  "ae": "±0.5 mm. Five times a tenth.",
+  "oh": [
+   "±0.5 מ\"מ",
+   "±0.1 מ\"מ",
+   "±0.02 מ\"מ"
+  ],
+  "oe": [
+   "±0.5 mm",
+   "±0.1 mm",
+   "±0.02 mm"
+  ],
+  "id": 420
+ },
+ {
+  "type": "mistake",
+  "topic": "התאמות וטולרנסים (Fits & Tolerances)",
+  "qh": "\"מידה בשרטוט 20 מ\"מ בלי טולרנס – אז אפשר כל דבר\" – נכון?",
+  "qe": "\"A 20 mm dimension with no tolerance can be anything\" – true?",
+  "wrong_h": "\"כן, אין הגבלה.\"",
+  "wrong_e": "\"Yes, no limit.\"",
+  "ah": "לא. חל עליה טולרנס כללי (General Tolerance) שכתוב בבלוק הכותרת, למשל לפי תקן ISO 2768.",
+  "ae": "No. The general tolerance in the title block applies, e.g. per ISO 2768.",
+  "id": 421
+ },
+ {
+  "type": "mistake",
+  "topic": "התאמות וטולרנסים (Fits & Tolerances)",
+  "qh": "\"מסב צריך להיכנס לציר בהתאמה עם מרווח כדי שיסתובב\" – נכון?",
+  "qe": "\"A bearing needs a clearance fit to turn\" – true?",
+  "wrong_h": "\"כן, אחרת לא יסתובב.\"",
+  "wrong_e": "\"Yes, otherwise it won't turn.\"",
+  "ah": "בדרך כלל הטבעת המסתובבת יושבת בלחץ קל, והסיבוב קורה בתוך המסב. מרווח שם יגרום לזחילה ושחיקה.",
+  "ae": "Usually the rotating ring gets a light press fit; rotation happens inside the bearing. Clearance there causes creep and wear.",
+  "id": 422
+ },
+ {
+  "type": "interview",
+  "topic": "התאמות וטולרנסים (Fits & Tolerances)",
+  "qh": "חלקים מהספק לא נכנסים בהרכבה, למרות שכל אחד \"בטולרנס\". מה תעשה?",
+  "qe": "Supplier parts won't assemble though each is \"in tolerance\". What do you do?",
+  "ah": "בודקים הצטברות טולרנסים, מודדים חלקים אמיתיים, בודקים שהשרטוט מגדיר את הדרישה הנכונה (כולל גאומטריה), ומעדכנים טולרנסים או תכנון.",
+  "ae": "Check stack-up, measure real parts, verify the drawing specifies the right requirement (incl. geometry), then revise tolerances or design.",
+  "points_h": [
+   "ניתוח הצטברות",
+   "מדידת חלקים",
+   "בדיקת השרטוט",
+   "GD&T",
+   "תיקון מול הספק"
+  ],
+  "points_e": [
+   "Stack-up analysis",
+   "Measure parts",
+   "Review drawing",
+   "GD&T",
+   "Fix with supplier"
+  ],
+  "id": 423
+ },
+ {
+  "type": "mcq",
+  "topic": "חומרים (Materials)",
+  "qh": "מה ההבדל בין פלדה (Steel) לברזל יציקה (Cast Iron)?",
+  "qe": "Steel vs cast iron?",
+  "ah": "ביציקה יש הרבה יותר פחמן – קל ליציקה וטוב לבלוקים, אבל שביר יותר.",
+  "ae": "Cast iron has much more carbon – easy to cast, good for blocks, but more brittle.",
+  "oh": [
+   "ביציקה יותר פחמן והיא שבירה יותר",
+   "פלדה תמיד שבירה יותר",
+   "אין ביניהם הבדל כימי בתנאי עבודה רגילים"
+  ],
+  "oe": [
+   "More carbon, more brittle",
+   "Steel is always more brittle",
+   "No chemical difference in normal use"
+  ],
+  "id": 424
+ },
+ {
+  "type": "mcq",
+  "topic": "חומרים (Materials)",
+  "qh": "למה אלומיניום (Aluminium) פופולרי בגופי כלים?",
+  "qe": "Why is aluminium popular for tool housings?",
+  "ah": "קל, קל לעיבוד, מוליך חום ולא מחליד כמו פלדה.",
+  "ae": "Light, easy to machine, conducts heat and doesn't rust like steel.",
+  "oh": [
+   "קל, נוח לעיבוד ומוליך חום",
+   "קשה וחזק יותר מכל פלדה ברוב המכונות",
+   "הזול ביותר מכל המתכות"
+  ],
+  "oe": [
+   "Light, machinable, conducts heat",
+   "Harder than any steel in most machines",
+   "Cheapest metal of all"
+  ],
+  "id": 425
+ },
+ {
+  "type": "mcq",
+  "topic": "חומרים (Materials)",
+  "qh": "מה זה הקשיה (Hardening) של פלדה?",
+  "qe": "What is hardening steel?",
+  "ah": "מחממים לטמפרטורה גבוהה ומקררים מהר (Quench) כדי שתהיה קשה יותר.",
+  "ae": "Heat to high temperature and cool fast (quench) to make it harder.",
+  "oh": [
+   "חימום וקירור מהיר",
+   "קירור איטי מאוד בתנור",
+   "ציפוי בשכבת צבע קשה"
+  ],
+  "oe": [
+   "Heat then rapid cooling",
+   "Very slow furnace cooling",
+   "A hard paint coat"
+  ],
+  "id": 426
+ },
+ {
+  "type": "mcq",
+  "topic": "חומרים (Materials)",
+  "qh": "למה מבצעים הרפיה (Tempering) אחרי הקשיה?",
+  "qe": "Why temper after hardening?",
+  "ah": "פלדה מוקשית שבירה; ההרפיה מורידה מעט קשיות ומחזירה עמידות למכות.",
+  "ae": "Hardened steel is brittle; tempering trades a little hardness for toughness.",
+  "oh": [
+   "מורידה שבירות ומחזירה עמידות",
+   "מגבירה עוד את הקשיות",
+   "מנקה את פני השטח"
+  ],
+  "oe": [
+   "Reduces brittleness",
+   "Increases hardness further",
+   "Cleans the surface"
+  ],
+  "id": 427
+ },
+ {
+  "type": "mcq",
+  "topic": "חומרים (Materials)",
+  "qh": "מה זה הקשיית שטח (Case Hardening) בגלגלי שיניים?",
+  "qe": "What is case hardening for gears?",
+  "ah": "רק השכבה החיצונית קשה נגד שחיקה, והליבה נשארת קשוחה נגד שבירה.",
+  "ae": "Only the outer layer is hard against wear; the core stays tough against breaking.",
+  "oh": [
+   "שכבה קשה וליבה קשוחה",
+   "כל החלק קשה עד הליבה",
+   "ציפוי פלסטיק על השיניים"
+  ],
+  "oe": [
+   "Hard skin, tough core",
+   "Hard all the way through",
+   "Plastic coat on the teeth"
+  ],
+  "id": 428
+ },
+ {
+  "type": "mcq",
+  "topic": "חומרים (Materials)",
+  "qh": "מה ההבדל בין חוזק (Strength) לקשיחות (Stiffness) של חומר?",
+  "qe": "Strength vs stiffness of a material?",
+  "ah": "קשיחות – כמה מתכופף בעומס; חוזק – באיזה עומס נכשל.",
+  "ae": "Stiffness – how much it bends under load; strength – load at which it fails.",
+  "oh": [
+   "קשיחות כיפוף מול עומס כשל",
+   "שני שמות לאותו דבר",
+   "חוזק הוא רק לחומרים מתכתיים"
+  ],
+  "oe": [
+   "Bending vs failure load",
+   "Two names for one thing",
+   "Strength is only for metals"
+  ],
+  "id": 429
+ },
+ {
+  "type": "mcq",
+  "topic": "חומרים (Materials)",
+  "qh": "אלומיניום ופלדה באותה צורה – מי מתכופף יותר באותו עומס?",
+  "qe": "Same shape in aluminium and steel – which bends more?",
+  "ah": "האלומיניום – בערך פי 3, כי הוא פחות קשיח.",
+  "ae": "Aluminium – about 3x, as it is less stiff.",
+  "oh": [
+   "אלומיניום, בערך פי 3",
+   "פלדה, בערך פי 3",
+   "אותו כיפוף בדיוק"
+  ],
+  "oe": [
+   "Aluminium, about 3x",
+   "Steel, about 3x",
+   "Exactly the same"
+  ],
+  "id": 430
+ },
+ {
+  "type": "mcq",
+  "topic": "חומרים (Materials)",
+  "qh": "למה ניילון (Nylon) או POM משמשים לגלגלי שיניים קטנים?",
+  "qe": "Why nylon or POM for small gears?",
+  "ah": "שקטים, קלים, זולים בייצור המוני ומחליקים בלי שמן רב.",
+  "ae": "Quiet, light, cheap in mass production and self-lubricating.",
+  "oh": [
+   "שקטים, קלים וזולים בכמות",
+   "חזקים יותר מפלדה לאורך זמן",
+   "עמידים לכל טמפרטורה"
+  ],
+  "oe": [
+   "Quiet, light, cheap in volume",
+   "Stronger than steel over time",
+   "Withstand any temperature"
+  ],
+  "id": 431
+ },
+ {
+  "type": "mcq",
+  "topic": "חומרים (Materials)",
+  "qh": "מה זה קורוזיה גלוונית (Galvanic Corrosion)?",
+  "qe": "What is galvanic corrosion?",
+  "ah": "שתי מתכות שונות במגע עם לחות – אחת מהן מחלידה מהר יותר.",
+  "ae": "Two different metals touching with moisture – one corrodes faster.",
+  "oh": [
+   "מתכות שונות במגע מול לחות",
+   "חלודה מהשמש בלבד",
+   "שחיקה מחיכוך יבש"
+  ],
+  "oe": [
+   "Dissimilar metals with moisture",
+   "Rust from sunlight only",
+   "Wear from dry rubbing"
+  ],
+  "id": 432
+ },
+ {
+  "type": "mcq",
+  "topic": "חומרים (Materials)",
+  "qh": "למה נירוסטה (Stainless Steel) לא מחלידה בקלות?",
+  "qe": "Why doesn't stainless steel rust easily?",
+  "ah": "הכרום בה יוצר שכבת תחמוצת דקה שמגינה ומתחדשת.",
+  "ae": "Its chromium forms a thin protective oxide layer that self-heals.",
+  "oh": [
+   "כרום יוצר שכבה מגינה",
+   "היא מצופה בצבע שקוף",
+   "אין בה ברזל בכלל בתנאי עבודה רגילים"
+  ],
+  "oe": [
+   "Chromium forms a protective layer",
+   "Coated in clear paint",
+   "Contains no iron in normal use"
+  ],
+  "id": 433
+ },
+ {
+  "type": "calc",
+  "topic": "חומרים (Materials)",
+  "qh": "לפי כלל אצבע, חוזק המתיחה של פלדה בערך פי 3.5 מהקשיות בברינל (Brinell). פלדה בקשיות 200 – בערך מה החוזק?",
+  "qe": "Rule of thumb: tensile strength ≈ 3.5 × Brinell hardness (MPa). Steel at 200 HB – strength?",
+  "ah": "בערך 700 מגה-פסקל. מאתיים כפול שלוש וחצי.",
+  "ae": "About 700 MPa. Two hundred times three and a half.",
+  "oh": [
+   "כ-700 מגה-פסקל",
+   "כ-57 מגה-פסקל",
+   "כ-2,000 מגה-פסקל"
+  ],
+  "oe": [
+   "About 700 MPa",
+   "About 57 MPa",
+   "About 2,000 MPa"
+  ],
+  "id": 434
+ },
+ {
+  "type": "mistake",
+  "topic": "חומרים (Materials)",
+  "qh": "\"חלק נשבר – נחליף לחומר הכי קשה שיש\" – נכון?",
+  "qe": "\"Part broke – switch to the hardest material\" – right?",
+  "wrong_h": "\"כן, קשה יותר זה חזק יותר.\"",
+  "wrong_e": "\"Yes, harder is stronger.\"",
+  "ah": "לא. חומר קשה מאוד הוא לרוב שביר. צריך להבין את סוג הכשל (מכה, עייפות, שחיקה) ולבחור איזון של קשיות וקשיחות.",
+  "ae": "No. Very hard is often brittle. Understand the failure mode (impact, fatigue, wear) and balance hardness and toughness.",
+  "id": 435
+ },
+ {
+  "type": "mistake",
+  "topic": "חומרים (Materials)",
+  "qh": "\"אלומיניום חלש מדי לכל חלק מבני\" – נכון?",
+  "qe": "\"Aluminium is too weak for any structural part\" – true?",
+  "wrong_h": "\"כן, רק פלדה.\"",
+  "wrong_e": "\"Yes, only steel.\"",
+  "ah": "לא. סגסוגות כמו 7075 חזקות מאוד ביחס למשקל ומשמשות במטוסים ובאופניים – רק צריך לתכנן לקשיחות ולעייפות שלהן.",
+  "ae": "No. Alloys like 7075 are very strong for their weight and used in aircraft and bikes – just design for their stiffness and fatigue.",
+  "id": 436
+ },
+ {
+  "type": "interview",
+  "topic": "חומרים (Materials)",
+  "qh": "איך היית בוחר חומר לחלק חדש?",
+  "qe": "How would you choose a material for a new part?",
+  "ah": "לפי עומסים, סביבה (טמפרטורה, קורוזיה), משקל, שיטת ייצור, כמות ומחיר – ומשווים כמה מועמדים בטבלה.",
+  "ae": "By loads, environment (temperature, corrosion), weight, manufacturing method, volume and cost – compare candidates in a table.",
+  "points_h": [
+   "עומסים וסוג כשל",
+   "סביבה",
+   "משקל",
+   "שיטת ייצור וכמות",
+   "מחיר",
+   "טבלת השוואה"
+  ],
+  "points_e": [
+   "Loads and failure mode",
+   "Environment",
+   "Weight",
+   "Process and volume",
+   "Cost",
+   "Comparison table"
+  ],
+  "id": 437
+ },
+ {
+  "type": "mcq",
+  "topic": "גלגלי שיניים (Gears)",
+  "qh": "מה זה מודול (Module) בגלגל שיניים?",
+  "qe": "What is the module of a gear?",
+  "ah": "מדד לגודל השן – קוטר הגלגל במ\"מ חלקי מספר השיניים.",
+  "ae": "A tooth-size measure – pitch diameter in mm divided by tooth count.",
+  "oh": [
+   "מדד לגודל השן",
+   "מספר השיניים בגלגל",
+   "עובי הגלגל במילימטרים"
+  ],
+  "oe": [
+   "Measure of tooth size",
+   "Number of teeth",
+   "Gear thickness in mm"
+  ],
+  "id": 438
+ },
+ {
+  "type": "mcq",
+  "topic": "גלגלי שיניים (Gears)",
+  "qh": "מה התנאי ששני גלגלי שיניים ישתלבו?",
+  "qe": "What must match for two gears to mesh?",
+  "ah": "אותו מודול ואותה זווית לחץ (Pressure Angle).",
+  "ae": "Same module and pressure angle.",
+  "oh": [
+   "אותו מודול וזווית לחץ",
+   "אותו מספר שיניים",
+   "אותו קוטר חיצוני"
+  ],
+  "oe": [
+   "Same module and pressure angle",
+   "Same tooth count",
+   "Same outside diameter"
+  ],
+  "id": 439
+ },
+ {
+  "type": "mcq",
+  "topic": "גלגלי שיניים (Gears)",
+  "qh": "למה גלגלי שיניים משופעים (Helical) שקטים יותר מישרים?",
+  "qe": "Why are helical gears quieter than spur gears?",
+  "ah": "השיניים נכנסות למגע בהדרגה ויותר שיניים במגע בכל רגע.",
+  "ae": "Teeth engage gradually and more teeth share the load at once.",
+  "oh": [
+   "השיניים נכנסות בהדרגה",
+   "הם עשויים תמיד מפלסטיק",
+   "הם מסתובבים לאט יותר"
+  ],
+  "oe": [
+   "Teeth engage gradually",
+   "Always made of plastic",
+   "They turn more slowly"
+  ],
+  "id": 440
+ },
+ {
+  "type": "mcq",
+  "topic": "גלגלי שיניים (Gears)",
+  "qh": "מה החיסרון של גלגלים משופעים?",
+  "qe": "Drawback of helical gears?",
+  "ah": "יוצרים כוח צירי (Axial Thrust) שהמסבים צריכים לשאת.",
+  "ae": "They create axial thrust the bearings must carry.",
+  "oh": [
+   "יוצרים כוח צירי על המסבים",
+   "רועשים יותר מישרים",
+   "לא יכולים להעביר מומנט גבוה"
+  ],
+  "oe": [
+   "Create axial thrust",
+   "Noisier than spur",
+   "Can't carry high torque"
+  ],
+  "id": 441
+ },
+ {
+  "type": "mcq",
+  "topic": "גלגלי שיניים (Gears)",
+  "qh": "למה משתמשים בגלגלי שיניים חרוטיים (Bevel Gears)?",
+  "qe": "Why use bevel gears?",
+  "ah": "להעביר סיבוב בין צירים בזווית, בדרך כלל 90 מעלות.",
+  "ae": "To transfer rotation between shafts at an angle, usually 90°.",
+  "oh": [
+   "להעביר סיבוב בזווית",
+   "להגדיל מהירות פי 100",
+   "לחבר צירים מקבילים בלבד"
+  ],
+  "oe": [
+   "Turn the drive through an angle",
+   "Raise speed 100x",
+   "Only join parallel shafts"
+  ],
+  "id": 442
+ },
+ {
+  "type": "mcq",
+  "topic": "גלגלי שיניים (Gears)",
+  "qh": "מה זה תיבה פלנטרית (Planetary Gearbox)?",
+  "qe": "What is a planetary gearbox?",
+  "ah": "גלגל שמש במרכז, גלגלי לוויין סביבו וטבעת חיצונית – יחס גדול בגודל קומפקטי.",
+  "ae": "A sun gear, planets around it and an outer ring – big ratio in a compact size.",
+  "oh": [
+   "שמש, לוויינים וטבעת – קומפקטית",
+   "שני גלגלים בלבד בזווית",
+   "גלגל ושרשרת יחד"
+  ],
+  "oe": [
+   "Sun, planets, ring – compact",
+   "Just two gears at an angle",
+   "A gear plus a chain"
+  ],
+  "id": 443
+ },
+ {
+  "type": "mcq",
+  "topic": "גלגלי שיניים (Gears)",
+  "qh": "מה זה משחק (Backlash) בגלגלי שיניים?",
+  "qe": "What is gear backlash?",
+  "ah": "מרווח קטן בין השיניים – אפשר לסובב מעט בלי שהשני יזוז.",
+  "ae": "A small gap between teeth – you can turn one a bit before the other moves.",
+  "oh": [
+   "מרווח קטן בין השיניים",
+   "שבירה של שן אחת",
+   "רעש בגלל חוסר שמן"
+  ],
+  "oe": [
+   "Small gap between teeth",
+   "A broken tooth",
+   "Noise from lack of oil"
+  ],
+  "id": 444
+ },
+ {
+  "type": "mcq",
+  "topic": "גלגלי שיניים (Gears)",
+  "qh": "מה גורם לבור (Pitting) על שיני גלגל?",
+  "qe": "What causes pitting on gear teeth?",
+  "ah": "עייפות מגע – לחץ חוזר על פני השטח גורם לחתיכות קטנות להתנתק.",
+  "ae": "Contact fatigue – repeated surface pressure makes small pieces flake off.",
+  "oh": [
+   "עייפות מגע מלחץ חוזר",
+   "חלודה מאוויר יבש",
+   "ייצור שגוי בלבד"
+  ],
+  "oe": [
+   "Contact fatigue",
+   "Rust from dry air",
+   "Only a manufacturing error"
+  ],
+  "id": 445
+ },
+ {
+  "type": "mcq",
+  "topic": "גלגלי שיניים (Gears)",
+  "qh": "למה נמנעים מגלגל עם מעט מאוד שיניים (למשל 8)?",
+  "qe": "Why avoid a gear with very few teeth (e.g. 8)?",
+  "ah": "השיניים נחתכות בבסיס (Undercut) ונחלשות, והמגע פחות חלק.",
+  "ae": "Teeth get undercut at the root and weaken, and meshing is rougher.",
+  "oh": [
+   "השיניים נחלשות בבסיס",
+   "הגלגל מסתובב לאט מדי",
+   "אי אפשר לייצר אותו בכלל"
+  ],
+  "oe": [
+   "Teeth weaken at the root",
+   "It turns too slowly",
+   "Impossible to make"
+  ],
+  "id": 446
+ },
+ {
+  "type": "calc",
+  "topic": "גלגלי שיניים (Gears)",
+  "qh": "גלגל במודול 2 עם 30 שיניים. מה הקוטר (קוטר הפסיעה)?",
+  "qe": "A module 2 gear with 30 teeth. Pitch diameter?",
+  "ah": "60 מ\"מ. מודול כפול מספר שיניים.",
+  "ae": "60 mm. Module times tooth count.",
+  "oh": [
+   "60 מ\"מ",
+   "15 מ\"מ",
+   "32 מ\"מ"
+  ],
+  "oe": [
+   "60 mm",
+   "15 mm",
+   "32 mm"
+  ],
+  "id": 447
+ },
+ {
+  "type": "calc",
+  "topic": "גלגלי שיניים (Gears)",
+  "qh": "שני גלגלים במודול 2: 20 ו-40 שיניים. מה המרחק בין המרכזים?",
+  "qe": "Two module-2 gears, 20 and 40 teeth. Centre distance?",
+  "ah": "60 מ\"מ. הקטרים הם 40 ו-80, והמרחק הוא חצי מהסכום.",
+  "ae": "60 mm. Diameters 40 and 80; distance is half their sum.",
+  "oh": [
+   "60 מ\"מ",
+   "120 מ\"מ",
+   "40 מ\"מ"
+  ],
+  "oe": [
+   "60 mm",
+   "120 mm",
+   "40 mm"
+  ],
+  "id": 448
+ },
+ {
+  "type": "calc",
+  "topic": "גלגלי שיניים (Gears)",
+  "qh": "תיבה פלנטרית עם טבעת קבועה: שמש 20 שיניים, טבעת 80. השמש מניעה והמנשא יוצא. מה היחס?",
+  "qe": "Planetary, ring fixed: sun 20 teeth, ring 80. Sun in, carrier out. Ratio?",
+  "ah": "5 ל-1. מחברים טבעת ושמש (מאה) ומחלקים בשמש (עשרים).",
+  "ae": "5:1. Add ring and sun (100), divide by sun (20).",
+  "oh": [
+   "5:1",
+   "4:1",
+   "0.25:1"
+  ],
+  "oe": [
+   "5:1",
+   "4:1",
+   "0.25:1"
+  ],
+  "id": 449
+ },
+ {
+  "type": "mistake",
+  "topic": "גלגלי שיניים (Gears)",
+  "qh": "\"משחק (Backlash) בגלגלי שיניים זה תמיד פגם\" – נכון?",
+  "qe": "\"Gear backlash is always a defect\" – true?",
+  "wrong_h": "\"כן, צריך אפס משחק.\"",
+  "wrong_e": "\"Yes, it should be zero.\"",
+  "ah": "לא. צריך מעט משחק לשמן ולהתפשטות בחום. רק במערכות מיקום מדויק מצמצמים אותו במיוחד.",
+  "ae": "No. Some is needed for oil and thermal expansion; only precise positioning systems minimise it.",
+  "id": 450
+ },
+ {
+  "type": "interview",
+  "topic": "גלגלי שיניים (Gears)",
+  "qh": "תיבת הילוכים חדשה רועשת בבדיקה. איך תאתר את הסיבה?",
+  "qe": "A new gearbox is noisy on test. How do you find the cause?",
+  "ah": "מודדים רעש ורעידות מול מהירות ועומס, מזהים תדר (שיני גלגל או מסב), בודקים יישור, מרחק מרכזים, משחק, איכות שיניים ושימון.",
+  "ae": "Measure noise and vibration vs speed and load, match the frequency (gear mesh or bearing), check alignment, centre distance, backlash, tooth quality and lube.",
+  "points_h": [
+   "מדידה מול מהירות ועומס",
+   "ניתוח תדרים",
+   "יישור ומרחק מרכזים",
+   "איכות שיניים",
+   "שימון"
+  ],
+  "points_e": [
+   "Measure vs speed and load",
+   "Frequency analysis",
+   "Alignment and centres",
+   "Tooth quality",
+   "Lubrication"
+  ],
+  "id": 451
  }
 ]
