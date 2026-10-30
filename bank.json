@@ -503,12 +503,12 @@
   "oh": [
    "שהמקדח ישר ויושב טוב בצ׳אק",
    "את מספר הוולטים של הסוללה",
-   "את צבע הגוף של המברגה"
+   "שהמנוע מקבל מספיק זרם מהסוללה בעומס"
   ],
   "oe": [
    "That the bit is straight and seated",
    "The battery voltage rating",
-   "The colour of the drill body"
+   "That the motor gets enough battery current under load"
   ],
   "id": 27
  },
@@ -541,12 +541,12 @@
   "oh": [
    "שחיקה איטית מול סדק ופירוק",
    "שתי מילים לאותו דבר בדיוק",
-   "שחיקה קורית רק בפלסטיק"
+   "שחיקה קורית רק בפלסטיק, שבר רק במתכת קשה"
   ],
   "oe": [
    "Slow rub-off vs cracking apart",
    "Two words for exactly the same",
-   "Wear only happens in plastic"
+   "Wear happens only in plastic, fracture only in hard metal"
   ],
   "id": 29
  },
@@ -560,12 +560,12 @@
   "oh": [
    "גריז, סוללה ומנוע משתנים בטמפרטורה",
    "כדי לבדוק אם הצבע משנה צבע",
-   "זה דרישה של חנויות בלבד"
+   "כדי לבדוק שהצבע והמדבקות לא מתקלפים בשינויי מזג אוויר"
   ],
   "oe": [
    "Grease, battery and motor change with temperature",
    "To see if the paint changes colour",
-   "It is only a shop requirement"
+   "To check paint and labels don't peel in weather changes"
   ],
   "id": 30
  },
@@ -750,12 +750,12 @@
   "oh": [
    "מחלקים את המחיר על הרבה חלקים",
    "התבנית מחזירה כסף ממכירה שלה",
-   "כי פלסטיק תמיד חינם לגמרי"
+   "תבנית יקרה מקצרת את זמן ההרכבה של כל מוצר ולכן משתלמת"
   ],
   "oe": [
    "Its price is shared over many parts",
    "The mould pays back by selling it",
-   "Because plastic is always free"
+   "An expensive mould shortens assembly time of every product"
   ],
   "id": 40
  },
@@ -768,12 +768,12 @@
   "ae": "Force pushes in a line. Torque is twisting force: force times distance from the axis.",
   "oh": [
    "מומנט הוא כוח כפול מרחק מהציר",
-   "מומנט הוא כוח כפול מהירות",
+   "מומנט הוא כוח כפול המהירות שבה הציר מסתובב",
    "אין שום הבדל בין השניים"
   ],
   "oe": [
    "Torque is force times distance from axis",
-   "Torque is force times speed",
+   "Torque is force times the speed the shaft turns",
    "There is no difference"
   ],
   "id": 41
@@ -863,12 +863,12 @@
   "ae": "More force than the system is built for. Protect with a slipping clutch, fuse, or a controller that cuts current.",
   "oh": [
    "מצמד מחליק, נתיך או ניתוק זרם",
-   "מגדילים את הסוללה פי שתיים",
+   "מגדילים את הסוללה פי שתיים כדי שיהיה מספיק כוח",
    "מוסיפים עוד גריז לתיבה"
   ],
   "oe": [
    "Slipping clutch, fuse or current cut-off",
-   "Double the battery size",
+   "Double the battery so there's enough power",
    "Add more grease to the gearbox"
   ],
   "id": 46
@@ -901,12 +901,12 @@
   "ae": "A list of everything that can fail, how bad it is, and how to prevent it upfront.",
   "oh": [
    "ניתוח מה יכול להיכשל ואיך מונעים",
-   "שיטה לצייר שרטוטים מהר",
+   "שיטה לתעד את שלבי ההרכבה במפעל לפי סדר",
    "בדיקה של מחיר החלקים בשוק"
   ],
   "oe": [
    "Analysing what can fail and how to prevent it",
-   "A way to draw drawings fast",
+   "A method to document assembly steps in order",
    "A check of parts prices on the market"
   ],
   "id": 48
@@ -940,12 +940,12 @@
   "oh": [
    "כמו הילוכים באופניים",
    "כמו מתג של אור בבית",
-   "כמו ברז של מים חמים"
+   "כמו ווסת מתח שמוריד את הוולטים בבית"
   ],
   "oe": [
    "Like bicycle gears",
    "Like a light switch at home",
-   "Like a hot-water tap"
+   "Like a voltage regulator lowering the voltage at home"
   ],
   "id": 50
  },
@@ -996,12 +996,12 @@
   "ae": "In a turn the wheels need different speeds. Locked, they scrub, wear and steering fights you.",
   "oh": [
    "הגלגלים נגררים וההיגוי קשה",
-   "המנוע יכבה מיד בכל סיבוב",
+   "המנוע נכבה בכל פעם שמסובבים את ההגה חזק",
    "הבלמים מפסיקים לעבוד"
   ],
   "oe": [
    "The tyres scrub and steering fights",
-   "The engine stalls in every turn",
+   "The engine stalls whenever you turn the wheel hard",
    "The brakes stop working"
   ],
   "id": 53
@@ -1053,12 +1053,12 @@
   "ae": "Uses worm-type gears that are hard to back-drive, so it shifts force to the gripping wheel. No discs.",
   "oh": [
    "גלגלי תולעת שמעבירים כוח",
-   "דסקיות גומי שנשחקות מהר",
+   "דסקיות חיכוך עם קפיצים שנשחקות עם הזמן",
    "חיישן ומחשב בלבד"
   ],
   "oe": [
    "Worm gears that shift force",
-   "Rubber discs that wear fast",
+   "Friction plates with springs that wear over time",
    "Only a sensor and computer"
   ],
   "id": 56
@@ -1072,12 +1072,12 @@
   "ae": "It multiplies the weak wheel's force. If the airborne wheel has no resistance, the other gets almost nothing.",
   "oh": [
    "גלגל באוויר – כמעט אין כוח לשני",
-   "הוא נשבר מיד כשגלגל באוויר",
+   "הוא ננעל לגמרי ושולח את כל הכוח לגלגל שבאוויר",
    "הוא נועל ולא נותן לנסוע"
   ],
   "oe": [
    "Wheel in air – little force to the other",
-   "It breaks as soon as a wheel lifts",
+   "It locks fully and sends all power to the airborne wheel",
    "It locks and will not let you drive"
   ],
   "id": 57
@@ -1110,12 +1110,12 @@
   "ae": "Accelerating hard out of a turn, the inner wheel lightens and slips. LSD sends force to the outer wheel.",
   "oh": [
    "שולח כוח לגלגל החיצוני ביציאה",
-   "מקטין את משקל הרכב בהרבה",
+   "מקטין את משקל הרכב ומשפר את צריכת הדלק בעיר",
    "מאפשר להחליף הילוך בלי מצמד"
   ],
   "oe": [
    "Sends force to the outer wheel on exit",
-   "Cuts the car's weight a lot",
+   "Cuts car weight and improves city fuel use",
    "Lets you shift without a clutch"
   ],
   "id": 59
@@ -1130,12 +1130,12 @@
   "oh": [
    "כדי שהדסקיות לא ירעדו ויקרקשו",
    "כדי שהשמן לא יתאדה בקיץ",
-   "כדי שיהיה צבע שונה בבדיקה"
+   "כדי שהשמן לא יתאדה בקיץ ולא יקפא בחורף"
   ],
   "oe": [
    "So the discs do not chatter",
    "So the oil does not evaporate",
-   "So it has a different colour"
+   "So the oil won't evaporate in summer or freeze in winter"
   ],
   "id": 60
  },
@@ -1167,12 +1167,12 @@
   "ae": "Oil with extreme-pressure (EP) additives for hypoid gears, where teeth slide a lot.",
   "oh": [
    "שמן עם תוספי לחץ גבוה",
-   "שמן מנוע רגיל וזול",
+   "שמן מנוע רגיל שמחליפים כל 10,000 ק\"מ",
    "מים עם מעט סבון"
   ],
   "oe": [
    "Oil with extreme-pressure additives",
-   "Plain cheap engine oil",
+   "Ordinary engine oil changed every 10,000 km",
    "Water with a little soap"
   ],
   "id": 62
@@ -1225,12 +1225,12 @@
   "oh": [
    "לחץ מחום ידחוף שמן דרך האטמים",
    "כדי שהנהג ישמע את הגלגלים",
-   "כדי להכניס מים לקירור"
+   "כדי להכניס אוויר קר שמקרר את גלגלי השיניים"
   ],
   "oe": [
    "Heat pressure would push oil past seals",
    "So the driver can hear the gears",
-   "To let water in for cooling"
+   "To let in cool air that cools the gears"
   ],
   "id": 65
  },
@@ -1243,12 +1243,12 @@
   "ae": "So crossing water does not let water in. Water in oil ruins bearings.",
   "oh": [
    "כדי שמים לא ייכנסו בחציית נחל",
-   "כדי שהשמן יתקרר מהר יותר",
+   "כדי שהשמן יתקרר מהר יותר בנסיעה בשטח חם",
    "זה רק קישוט שנראה טוב"
   ],
   "oe": [
    "So water stays out when wading",
-   "So the oil cools faster",
+   "So the oil cools faster in hot off-road driving",
    "It is only for looks"
   ],
   "id": 66
@@ -1281,12 +1281,12 @@
   "ae": "If the fill plug is stuck, at least the car is not left empty with no way to refill.",
   "oh": [
    "כדי לא להישאר ריק בלי דרך למלא",
-   "כי ככה השמן יוצא חם יותר",
+   "כי ככה השמן יוצא חם יותר ומהר יותר מהבית",
    "אין סיבה, זה סתם הרגל"
   ],
   "oe": [
    "So you are not left empty with no way to refill",
-   "Because the oil drains hotter that way",
+   "Because the oil then drains hotter and faster",
    "No reason, it is just habit"
   ],
   "id": 68
@@ -1300,12 +1300,12 @@
   "ae": "It collects tiny iron wear particles so they do not circulate in the oil.",
   "oh": [
    "אוסף שבבי ברזל מהשחיקה",
-   "מסובב את גלגל הכתר",
+   "מחזיק את הפקק נעול כדי שלא ישתחרר ברעידות",
    "מודד את מהירות הגלגל"
   ],
   "oe": [
    "Collects iron wear particles",
-   "Turns the ring gear",
+   "Holds the plug locked so vibration won't loosen it",
    "Measures wheel speed"
   ],
   "id": 69
@@ -1320,12 +1320,12 @@
   "oh": [
    "כנראה שחיקה של גלגלים או מסבים",
    "זה סימן שהשמן חדש ואיכותי",
-   "זה צבע רגיל שאין מה לבדוק"
+   "זה סימן לתוספים טובים שעובדים כמו שצריך"
   ],
   "oe": [
    "Likely gear or bearing wear",
    "A sign the oil is new and good",
-   "Normal colour, nothing to check"
+   "It shows good additives doing their job"
   ],
   "id": 70
  },
@@ -1357,12 +1357,12 @@
   "ae": "Bevel teeth press at a slant, so part of the force pushes the pinion fore or aft.",
   "oh": [
    "השיניים הקוניות לוחצות באלכסון",
-   "כי השמן דוחף אותו קדימה",
+   "כי השמן בלחץ בתוך הבית דוחף אותו קדימה",
    "כי הוא כבד יותר מגלגל הכתר"
   ],
   "oe": [
    "Bevel teeth press at a slant",
-   "Because oil pushes it forward",
+   "Because pressurised oil in the housing pushes it forward",
    "Because it is heavier than the ring"
   ],
   "id": 72
@@ -1395,12 +1395,12 @@
   "ae": "The bearings run hot and wear fast. Too low – noise and tooth wear.",
   "oh": [
    "המסבים מתחממים ונשחקים",
-   "הרכב ייסע מהר יותר",
+   "הגלגלים יסתובבו חלק יותר והרכב ייסע שקט יותר",
    "השמן יהיה נקי יותר"
   ],
   "oe": [
    "Bearings run hot and wear",
-   "The car goes faster",
+   "The wheels turn smoother and the car runs quieter",
    "The oil stays cleaner"
   ],
   "id": 74
@@ -1415,12 +1415,12 @@
   "oh": [
    "מסבים משני צידי השיניים",
    "פיניון בלי מסבים בכלל",
-   "שני פיניונים זה לצד זה"
+   "שני פיניונים זה לצד זה שמחלקים את הכוח"
   ],
   "oe": [
    "Bearings on both sides of the teeth",
    "A pinion with no bearings",
-   "Two pinions side by side"
+   "Two pinions side by side sharing the load"
   ],
   "id": 75
  },
@@ -1434,12 +1434,12 @@
   "oh": [
    "כמעט לא מסתובבים בנסיעה ישרה",
    "הם עשויים מפלסטיק קל מאוד",
-   "הם לא נושאים שום כוח"
+   "הם מקבלים שמן בלחץ ישירות ממשאבת המנוע"
   ],
   "oe": [
    "They barely spin when driving straight",
    "They are made of very light plastic",
-   "They carry no force at all"
+   "They get pressure oil directly from the engine pump"
   ],
   "id": 76
  },
@@ -1471,12 +1471,12 @@
   "ae": "Weight goes through bearings on the housing. The shaft only drives and can be removed without taking off the wheel.",
   "oh": [
    "הציר רק מסובב ולא נושא משקל",
-   "הוא קל יותר בכל מקרה",
+   "הוא קל יותר ולכן מוריד את צריכת הדלק",
    "הוא לא צריך שמן בכלל"
   ],
   "oe": [
    "The shaft only drives, carries no weight",
-   "It is always lighter",
+   "It's lighter, so it cuts fuel use",
    "It needs no oil at all"
   ],
   "id": 78
@@ -1491,12 +1491,12 @@
   "oh": [
    "מגע לא נכון או מסב שחוק",
    "רוח שנכנסת דרך החלון",
-   "צמיג עם לחץ אוויר גבוה"
+   "צמיג עם לחץ אוויר גבוה מדי שמזמזם על הכביש"
   ],
   "oe": [
    "Wrong contact or a worn bearing",
    "Wind coming through the window",
-   "A tyre with high pressure"
+   "An over-inflated tyre humming on the road"
   ],
   "id": 79
  },
@@ -1509,12 +1509,12 @@
   "ae": "It must be very stiff so gears stay exactly aligned under big force.",
   "oh": [
    "קשיח מאוד ושומר על יישור",
-   "הכי קל מכל החומרים",
+   "הוא הכי קל ומפזר חום טוב יותר מאלומיניום",
    "מבודד רעש לגמרי"
   ],
   "oe": [
    "Very stiff and keeps alignment",
-   "Lightest of all materials",
+   "It's lightest and sheds heat better than aluminium",
    "Fully blocks noise"
   ],
   "id": 80
@@ -1528,12 +1528,12 @@
   "ae": "Too much backlash between pinion and ring, or in the spider gears.",
   "oh": [
    "רווח גדול מדי בין השיניים",
-   "שמן חדש מדי בבית",
+   "שמן ישן מדי שאיבד את הצמיגות שלו",
    "צמיגים חדשים מדי"
   ],
   "oe": [
    "Too much gap between teeth",
-   "Oil that is too new",
+   "Old oil that has lost its viscosity",
    "Tyres that are too new"
   ],
   "id": 81
@@ -1548,12 +1548,12 @@
   "oh": [
    "הגלגלים הקטנים בתוך הבית",
    "הפיניון בכניסה לבית",
-   "המנוע של הרכב"
+   "מסבי הגלגלים הקדמיים שמתחממים בנסיעה ארוכה"
   ],
   "oe": [
    "The spider gears inside the case",
    "The pinion at the input",
-   "The car engine"
+   "Front wheel bearings heating on long drives"
   ],
   "id": 82
  },
@@ -1566,12 +1566,12 @@
   "ae": "Paint the ring teeth, turn it, and see where the teeth touch. Contact should be centred.",
   "oh": [
    "צבע שמראה איפה השיניים נוגעות",
-   "מספר שמוטבע על גלגל הכתר",
+   "מספר שמוטבע על גלגל הכתר ומציין את היחס",
    "מדבקה עם תאריך ההחלפה"
   ],
   "oe": [
    "Paint showing where teeth touch",
-   "A number stamped on the ring gear",
+   "A number stamped on the ring gear giving the ratio",
    "A sticker with the change date"
   ],
   "id": 83
@@ -1604,12 +1604,12 @@
   "ae": "The diff works constantly as if turning. The spider gears overheat and wear.",
   "oh": [
    "הדיפרנציאל עובד כל הזמן ומתחמם",
-   "הרכב יהיה חסכוני יותר",
+   "הרכב יהיה חסכוני יותר בדלק בנסיעה בכביש מהיר",
    "שום דבר, זה לא משנה"
   ],
   "oe": [
    "The diff works constantly and overheats",
-   "The car becomes more economical",
+   "The car will be more fuel-efficient on the highway",
    "Nothing, it does not matter"
   ],
   "id": 85
@@ -1623,12 +1623,12 @@
   "ae": "A sudden shock – e.g. a wheel spinning freely then gripping all at once.",
   "oh": [
    "מכה פתאומית כשגלגל תופס",
-   "נסיעה איטית בעיר",
+   "נסיעה איטית בעיר עם הרבה עצירות והתחלות",
    "שטיפת רכב במים"
   ],
   "oe": [
    "A sudden shock when a wheel grips",
-   "Slow city driving",
+   "Slow city driving with lots of stop-and-go",
    "Washing the car with water"
   ],
   "id": 86
@@ -1642,12 +1642,12 @@
   "ae": "Wheel balance, driveshaft and joints, and wheel bearings.",
   "oh": [
    "איזון, גל הינע ומסבי גלגל",
-   "רק את המצבר של הרכב",
+   "רק את המצבר ואת חיבורי החשמל של המנוע",
    "רק את המזגן והמאוורר"
   ],
   "oe": [
    "Balance, driveshaft and wheel bearings",
-   "Only the car battery",
+   "Only the battery and engine electrical connections",
    "Only the AC and fan"
   ],
   "id": 87
@@ -1680,12 +1680,12 @@
   "ae": "The small wheel spins faster, so the diff works constantly and heats up.",
   "oh": [
    "הדיפרנציאל עובד כל הזמן",
-   "הרכב הופך לכבד יותר",
+   "הרכב הופך לכבד יותר בצד אחד ונוטה לפנות",
    "המנוע מסתובב לאט יותר"
   ],
   "oe": [
    "The diff works all the time",
-   "The car becomes heavier",
+   "The car gets heavier on one side and pulls",
    "The engine spins slower"
   ],
   "id": 89
@@ -1699,12 +1699,12 @@
   "ae": "The pinion-to-ring contact on the drive side is off, or the bearing preload is low.",
   "oh": [
    "מגע בצד הנסיעה או Preload חלש",
-   "הצמיגים מנופחים יותר מדי",
+   "הצמיגים מנופחים יותר מדי וזה מעביר רעש",
    "אין קשר לדיפרנציאל בכלל"
   ],
   "oe": [
    "Drive-side contact or low preload",
-   "The tyres are overinflated",
+   "The tyres are over-inflated and transmit noise",
    "It has nothing to do with the diff"
   ],
   "id": 90
@@ -1737,12 +1737,12 @@
   "ae": "In a turn the front wheels travel a bit differently from the rears. Without it, something scrubs.",
   "oh": [
    "קדמי ואחורי עוברים מרחק שונה",
-   "כדי להוסיף כוח למנוע",
+   "כדי להוסיף כוח למנוע בנסיעה בעליות תלולות",
    "כדי לחסוך דלק בנסיעה ישרה"
   ],
   "oe": [
    "Front and rear travel different distances",
-   "To add engine power",
+   "To add engine power on steep climbs",
    "To save fuel when straight"
   ],
   "id": 92
@@ -1756,12 +1756,12 @@
   "ae": "Splits power between front and rear axles, and often has a low range.",
   "oh": [
    "מחלקת כוח קדימה ואחורה",
-   "מחליפה בין דלק לחשמל",
+   "מחליפה בין מנוע דלק למנוע חשמלי ברכב היברידי",
    "מקררת את המנוע בשטח"
   ],
   "oe": [
    "Splits power front and rear",
-   "Switches between fuel and electric",
+   "Switches between fuel and electric motor in a hybrid",
    "Cools the engine off-road"
   ],
   "id": 93
@@ -1775,12 +1775,12 @@
   "ae": "It has no centre diff. In turns the axles fight and the drivetrain winds up and wears.",
   "oh": [
    "אין דיפרנציאל מרכזי והמערכת נמתחת",
-   "הוא יותר מדי מהיר לכביש",
+   "ההילוכים שלו מהירים מדי לנסיעה בכביש",
    "הצמיגים יתנפחו מהחום"
   ],
   "oe": [
    "No centre diff, so it winds up",
-   "It is too fast for the road",
+   "Its gearing is too fast for road driving",
    "The tyres will swell from heat"
   ],
   "id": 94
@@ -1794,12 +1794,12 @@
   "ae": "Slows about 2 to 3 times more. Very slow but very strong – for steep climbs and descents.",
   "oh": [
    "מאט ומחזק פי 2–3 בערך",
-   "מאיץ את הרכב פי 2",
+   "מאיץ את הרכב פי 2 כדי לטפס מהר יותר",
    "מנתק את ההנעה לגמרי"
   ],
   "oe": [
    "Slows and strengthens about 2–3×",
-   "Speeds the car up 2×",
+   "Speeds the car up 2x to climb faster",
    "Disconnects drive completely"
   ],
   "id": 95
@@ -1813,12 +1813,12 @@
   "ae": "Discs in thick fluid. When one shaft spins much faster, the fluid heats, thickens and passes force.",
   "oh": [
    "דסקיות בנוזל שמעביר כוח בהחלקה",
-   "מגנט קבוע שנועל את הצירים",
+   "מגנט קבוע שנועל את הצירים כשגלגל מחליק",
    "רצועה שמחברת את הצירים"
   ],
   "oe": [
    "Discs in fluid that pass force when slipping",
-   "A magnet that locks the shafts",
+   "A permanent magnet locking the shafts when a wheel slips",
    "A belt joining the shafts"
   ],
   "id": 96
@@ -1832,12 +1832,12 @@
   "ae": "AWD suits roads and rain. 4x4 usually has low range and lockers for hard terrain.",
   "oh": [
    "ל-4x4 יש הילוך נמוך ונעילות",
-   "ל-AWD יש תמיד יותר כוח",
+   "ל-AWD יש תמיד יותר כוח ויותר נעילות בשטח",
    "אין שום הבדל בכלל"
   ],
   "oe": [
    "4x4 has low range and lockers",
-   "AWD always has more power",
+   "AWD always has more power and more lockers off-road",
    "There is no difference"
   ],
   "id": 97
@@ -1889,12 +1889,12 @@
   "ae": "Sending more force to the outer wheel in a turn to help the car rotate.",
   "oh": [
    "יותר כוח לגלגל החיצוני בסיבוב",
-   "אותו כוח בדיוק לכל גלגל תמיד",
+   "אותו כוח בדיוק לכל גלגל, בלי קשר לסיבוב",
    "ניתוק המנוע בכל סיבוב"
   ],
   "oe": [
    "More force to the outer wheel in a turn",
-   "Exactly equal force to each wheel always",
+   "Exactly equal power to each wheel regardless of cornering",
    "Cutting the engine in every turn"
   ],
   "id": 100
@@ -1927,12 +1927,12 @@
   "ae": "The pawls clicking over the ratchet teeth in the rear hub.",
   "oh": [
    "לשוניות קופצות על שיניים",
-   "השרשרת משתפשפת במסגרת",
+   "השרשרת משתפשפת במסגרת כשאין עליה מתח",
    "אוויר יוצא מהצמיג"
   ],
   "oe": [
    "Pawls clicking over teeth",
-   "The chain rubbing the frame",
+   "The chain rubs the frame when it has no tension",
    "Air leaking from the tyre"
   ],
   "id": 102
@@ -1984,12 +1984,12 @@
   "ae": "Small shaped pieces (sprags) that tilt and jam between two rings in one direction.",
   "oh": [
    "חלקים שמתהפכים ונתקעים בין טבעות",
-   "סוג של בורג שננעל בדבק",
+   "סוג של בורג שננעל בדבק כשמהדקים אותו",
    "מצמד חשמלי עם סליל נחושת"
   ],
   "oe": [
    "Pieces that tilt and jam between rings",
-   "A screw locked with glue",
+   "A bolt type that locks with adhesive when tightened",
    "An electric clutch with a copper coil"
   ],
   "id": 105
@@ -2003,12 +2003,12 @@
   "ae": "In the starter: it cranks the engine, and once the engine runs faster it lets go so the starter is not spun.",
   "oh": [
    "במתנע, כדי שהמנוע לא יסובב אותו",
-   "בהגה, כדי שלא יסתובב לבד",
+   "בהגה, כדי שלא יסתובב לבד כשהרכב בנסיעה",
    "בדלת, כדי שלא תיפתח"
   ],
   "oe": [
    "In the starter, so the engine does not spin it",
-   "In the steering, so it does not turn alone",
+   "In the steering, so it can't turn by itself while driving",
    "In the door, so it does not open"
   ],
   "id": 106
@@ -2022,12 +2022,12 @@
   "ae": "Ratchet straps, hand winches, cable ties, and seat-belt reels.",
   "oh": [
    "רצועת קשירה, אזיקון, חגורת בטיחות",
-   "רק במפתחות של מכונאים",
+   "רק במפתחות של מכונאים ובכלים מקצועיים",
    "רק במכוניות מירוץ"
   ],
   "oe": [
    "Ratchet straps, cable ties, seat belts",
-   "Only in mechanics' wrenches",
+   "Only in mechanics' wrenches and pro tools",
    "Only in race cars"
   ],
   "id": 107
@@ -2041,12 +2041,12 @@
   "ae": "It has teeth along it and a small pawl in the head that lets it tighten but not loosen.",
   "oh": [
    "שיניים ולשונית שנותנת רק להדק",
-   "דבק שמתייבש אחרי שסוגרים",
+   "דבק שמתייבש כמה שניות אחרי שסוגרים אותו",
    "מגנט קטן שמחזיק את הקצה"
   ],
   "oe": [
    "Teeth and a pawl that only let it tighten",
-   "Glue that dries after closing",
+   "Glue that sets a few seconds after closing it",
    "A small magnet holding the end"
   ],
   "id": 108
@@ -2060,12 +2060,12 @@
   "ae": "The load drops and the handle can spin back violently. So a second brake is added.",
   "oh": [
    "המשקל נופל והידית מסתובבת בכוח",
-   "המנוף פשוט נעצר במקום",
+   "המנוף פשוט נעצר במקום והמשקל נשאר תלוי",
    "שום סכנה, הכבל יחזיק"
   ],
   "oe": [
    "The load drops and the handle spins back",
-   "The winch simply stops in place",
+   "The hoist simply stops and the load stays hanging",
    "No danger, the cable holds"
   ],
   "id": 109
@@ -2098,12 +2098,12 @@
   "ae": "Keeps pushing the pawl into the teeth so it catches at once when turned backward.",
   "oh": [
    "דוחף את הלשונית אל השיניים",
-   "מסובב את הגלגל קדימה לבד",
+   "מסובב את הגלגל קדימה לבד אחרי כל לחיצה",
    "מוריד את הרעש של הראצ׳ט"
   ],
   "oe": [
    "Pushes the pawl into the teeth",
-   "Turns the wheel forward by itself",
+   "Turns the wheel forward by itself after each push",
    "Lowers the ratchet noise"
   ],
   "id": 111
@@ -2155,12 +2155,12 @@
   "ae": "It permanently deforms and does not return to length – it \"takes a set\".",
   "oh": [
    "מתעוות ולא חוזר לאורך",
-   "נעשה קשיח יותר לתמיד",
+   "נעשה קשיח יותר לתמיד ודוחף חזק יותר",
    "שום דבר, תמיד חוזר"
   ],
   "oe": [
    "Deforms and does not return",
-   "Becomes stiffer forever",
+   "Becomes permanently stiffer and pushes harder",
    "Nothing, it always returns"
   ],
   "id": 114
@@ -2212,12 +2212,12 @@
   "ae": "Fatigue: a tiny crack grows with each cycle until it snaps.",
   "oh": [
    "עייפות – סדק שגדל בכל לחיצה",
-   "הוא נמס מהחום של הידיים",
+   "הוא נמס בהדרגה מהחום של הידיים והחיכוך",
    "הוא מתכווץ מקור בלילה"
   ],
   "oe": [
    "Fatigue – a crack grows each cycle",
-   "It melts from hand heat",
+   "It gradually melts from hand heat and friction",
    "It shrinks from cold at night"
   ],
   "id": 117
@@ -2250,12 +2250,12 @@
   "ae": "The pawl would rub hard over the teeth on every forward turn – more wear and more hand effort.",
   "oh": [
    "שחיקה ומאמץ גדולים בסיבוב קדימה",
-   "הראצ׳ט יסתובב בשני הכיוונים",
+   "הראצ׳ט יסתובב בחופשיות בשני הכיוונים",
    "הקפיץ יחליד מהר יותר"
   ],
   "oe": [
    "More wear and effort turning forward",
-   "It would turn both ways",
+   "The ratchet would spin freely both ways",
    "The spring would rust faster"
   ],
   "id": 119
@@ -2269,12 +2269,12 @@
   "ae": "A dished washer that acts as a very short, strong spring. Common in clutches.",
   "oh": [
    "דיסקית בצורת צלחת שהיא קפיץ",
-   "דיסקית שטוחה לגמרי מפלסטיק",
+   "דיסקית שטוחה מפלסטיק שמונעת שריטות במשטח",
    "אטם גומי לשמן"
   ],
   "oe": [
    "A dished washer that is a spring",
-   "A flat plastic washer",
+   "A flat plastic washer preventing surface scratches",
    "A rubber oil seal"
   ],
   "id": 120
@@ -2307,12 +2307,12 @@
   "ae": "It can slip over the tooth under high force – the ratchet \"skips\" back.",
   "oh": [
    "הראצ׳ט עלול לקפוץ אחורה",
-   "הראצ׳ט נהיה שקט יותר",
+   "הראצ׳ט נהיה שקט יותר ומסתובב חלק יותר",
    "הראצ׳ט מסתובב מהר יותר"
   ],
   "oe": [
    "The ratchet may skip back",
-   "The ratchet gets quieter",
+   "The ratchet gets quieter and smoother",
    "The ratchet spins faster"
   ],
   "id": 122
@@ -2326,12 +2326,12 @@
   "ae": "Protects from rust and is easy to clean. Strength comes from the steel below.",
   "oh": [
    "מגן מחלודה וקל לניקוי",
-   "מכפיל את חוזק הפלדה",
+   "מכפיל את חוזק הפלדה ומונע שבירת השיניים",
    "מוריד את משקל המפתח"
   ],
   "oe": [
    "Protects from rust, easy to clean",
-   "Doubles the steel strength",
+   "Doubles steel strength and prevents tooth breakage",
    "Cuts wrench weight"
   ],
   "id": 123
@@ -2383,12 +2383,12 @@
   "ae": "The dimples wear and the spring loses some force. That is why torque wrenches are recalibrated.",
   "oh": [
    "שחיקה וקפיץ שמאבד כוח",
-   "הסוללה מתיישנת",
+   "הסוללה מתיישנת ונותנת פחות מתח למנוע",
    "הצבע מתקלף"
   ],
   "oe": [
    "Wear and a weakening spring",
-   "The battery ages",
+   "The battery ages and gives the motor less voltage",
    "The paint peels"
   ],
   "id": 126
@@ -2402,12 +2402,12 @@
   "ae": "Cuts friction and wear and prevents rust. Not too much – it attracts dirt.",
   "oh": [
    "מוריד חיכוך ומונע חלודה",
-   "נועל את הלשונית במקום",
+   "נועל את הלשונית במקום כדי שלא תקפוץ",
    "מגדיל את כוח הקפיץ"
   ],
   "oe": [
    "Cuts friction and prevents rust",
-   "Locks the pawl in place",
+   "Locks the pawl in place so it can't jump",
    "Increases spring force"
   ],
   "id": 127
@@ -2421,12 +2421,12 @@
   "ae": "The pawl can stick and not snap into the tooth – the ratchet fails to catch.",
   "oh": [
    "הלשונית נדבקת ולא תופסת",
-   "הראצ׳ט מסתובב מהר מדי",
+   "הראצ׳ט מסתובב מהר מדי ומאבד את התפס",
    "אין שום בעיה עם זה"
   ],
   "oe": [
    "The pawl sticks and does not catch",
-   "The ratchet spins too fast",
+   "The ratchet spins too fast and loses grip",
    "There is no problem"
   ],
   "id": 128
@@ -2440,12 +2440,12 @@
   "ae": "The same force spreads over more area, so the pressure at each point is lower.",
   "oh": [
    "אותו כוח על שטח גדול יותר",
-   "שן רחבה עשויה מחומר אחר",
+   "שן רחבה עשויה תמיד מחומר קשה יותר",
    "שן רחבה תמיד קצרה יותר"
   ],
   "oe": [
    "Same force over more area",
-   "A wide tooth is a different material",
+   "A wide tooth is always made of harder material",
    "A wide tooth is always shorter"
   ],
   "id": 129
@@ -2478,12 +2478,12 @@
   "ae": "At the set force a spring mechanism trips and clicks, so you know to stop.",
   "oh": [
    "מקליק כשמגיעים לכוח שנבחר",
-   "מסובב את הבורג לבד",
+   "מסובב את הבורג לבד עד שמגיע למומנט",
    "מונע סיבוב לאחור בלבד"
   ],
   "oe": [
    "Clicks at the set force",
-   "Turns the bolt by itself",
+   "Turns the bolt by itself until reaching torque",
    "Only prevents backward turning"
   ],
   "id": 131
@@ -2535,12 +2535,12 @@
   "ae": "So the spring is not left squeezed for weeks and lose force – otherwise readings drift.",
   "oh": [
    "כדי שהקפיץ לא יאבד כוח",
-   "כדי שלא יסתובב בארגז",
+   "כדי שהמנגנון לא יסתובב בארגז הכלים",
    "כדי לחסוך בסוללה"
   ],
   "oe": [
    "So the spring does not weaken",
-   "So it does not turn in the box",
+   "So the mechanism doesn't turn in the toolbox",
    "To save the battery"
   ],
   "id": 134
@@ -2611,12 +2611,12 @@
   "ae": "Tighten to a small torque, then turn a set extra angle, e.g. 90°. It controls bolt stretch better.",
   "oh": [
    "מומנט קטן ועוד זווית קבועה",
-   "מהדקים עד שהבורג נשבר",
+   "מהדקים עד שהבורג מתחיל להימתח ונשבר",
    "מהדקים ביד בלי כלי"
   ],
   "oe": [
    "Small torque then a set angle",
-   "Tighten until the bolt breaks",
+   "Tighten until the bolt starts to stretch and snap",
    "Hand-tight with no tool"
   ],
   "id": 138
@@ -2630,12 +2630,12 @@
   "ae": "Less friction – the same torque stretches the bolt much more. You can over-stretch it.",
   "oh": [
    "פחות חיכוך – הבורג נמתח יותר",
-   "השמן עושה את הבורג חלש",
+   "השמן מחליש את הפלדה של הבורג עם הזמן",
    "אין לזה שום השפעה"
   ],
   "oe": [
    "Less friction – more bolt stretch",
-   "Oil weakens the bolt",
+   "Oil weakens the bolt steel over time",
    "It has no effect"
   ],
   "id": 139
@@ -2649,12 +2649,12 @@
   "ae": "The bolt stretches a little like a spring and clamps the parts. Torque is just a way to estimate that.",
   "oh": [
    "מתיחת הבורג שלוחצת את החלקים",
-   "רק החיכוך של הראש",
+   "רק החיכוך של הראש על המשטח העליון",
    "דבק שנמצא בתוך התבריג"
   ],
   "oe": [
    "Bolt stretch clamping the parts",
-   "Only the head friction",
+   "Only the head's friction on the top surface",
    "Glue in the threads"
   ],
   "id": 140
@@ -2668,12 +2668,12 @@
   "ae": "A worn pawl, weak spring, or dirt stopping the pawl seating fully.",
   "oh": [
    "לשונית שחוקה, קפיץ חלש או לכלוך",
-   "ידית ארוכה מדי",
+   "ידית ארוכה מדי שמעמיסה יותר מדי על השיניים",
    "בורג קטן מדי"
   ],
   "oe": [
    "Worn pawl, weak spring or dirt",
-   "A handle that is too long",
+   "A handle so long it overloads the teeth",
    "A bolt that is too small"
   ],
   "id": 141
@@ -2687,12 +2687,12 @@
   "ae": "Torque multiplies and the pawl or teeth can break. The handle flies and hurts your hand.",
   "oh": [
    "השיניים עלולות להישבר ולפגוע",
-   "הצינור יעשה את המפתח קל",
+   "הצינור יעשה את המפתח קל מדי לשליטה",
    "זה מותר תמיד בלי בעיה"
   ],
   "oe": [
    "Teeth may break and cause injury",
-   "The pipe makes it lighter",
+   "The pipe makes the wrench too light to control",
    "Always fine, no problem"
   ],
   "id": 142
@@ -2706,12 +2706,12 @@
   "ae": "A breaker bar with no ratchet mechanism – stronger, as there is no pawl to break.",
   "oh": [
    "ידית שבירה בלי לשונית",
-   "מברג קטן מפלסטיק",
+   "מברג קטן עם ידית פלסטיק רחבה",
    "פטיש על הראצ׳ט"
   ],
   "oe": [
    "A breaker bar with no pawl",
-   "A small plastic screwdriver",
+   "A small screwdriver with a wide plastic handle",
    "Hammer on the ratchet"
   ],
   "id": 143
@@ -2725,12 +2725,12 @@
   "ae": "The screw can sink too deep or snap, and the drill can twist your wrist.",
   "oh": [
    "בורג שבור ויד שמסתובבת",
-   "הסוללה תיטען מהר מדי",
+   "הסוללה תתרוקן מהר מדי ותתחמם בטעינה",
    "אין סכנה בכלל"
   ],
   "oe": [
    "Snapped screw and twisted wrist",
-   "The battery charges too fast",
+   "The battery drains too fast and heats when charging",
    "No danger at all"
   ],
   "id": 144
@@ -2744,12 +2744,12 @@
   "ae": "Redundancy: if one fails, the other still holds the load.",
   "oh": [
    "אם אחד נכשל השני מחזיק",
-   "כדי שיהיה מהיר יותר",
+   "כדי שההרמה תהיה מהירה יותר בעומס כבד",
    "כדי שיהיה שקט יותר"
   ],
   "oe": [
    "If one fails the other holds",
-   "To make it faster",
+   "To lift faster under heavy load",
    "To make it quieter"
   ],
   "id": 145
@@ -2782,12 +2782,12 @@
   "ae": "A small weight or wheel flies out on a fast pull and catches the ratchet. A slow pull does not trigger it.",
   "oh": [
    "משיכה מהירה מפעילה תפס",
-   "החגורה תמיד נעולה",
+   "החגורה נעולה תמיד ונפתחת רק בלחיצה",
    "חיישן חשמלי בלבד"
   ],
   "oe": [
    "A fast pull triggers a catch",
-   "The belt is always locked",
+   "The belt is always locked, released only by a button",
    "Only an electric sensor"
   ],
   "id": 147
@@ -2801,12 +2801,12 @@
   "ae": "A weak clutch spring or worn dimples. Also check the setting is not mis-set.",
   "oh": [
    "קפיץ חלש או גומות שחוקות",
-   "ידית ארוכה מדי",
+   "ידית ארוכה מדי או מקדח חדש מדי",
    "מקדח חדש מדי"
   ],
   "oe": [
    "Weak spring or worn dimples",
-   "Handle too long",
+   "Handle too long or drill bit too new",
    "Bit too new"
   ],
   "id": 148
@@ -2820,12 +2820,12 @@
   "ae": "A compressed spring stores energy. If it escapes, it or small parts can fly into the eyes.",
   "oh": [
    "קפיץ אוגר אנרגיה ויכול לעוף",
-   "האור בסדנה חזק מדי",
+   "האור בסדנה חזק מדי ומסנוור את העיניים",
    "זה רק נוהל של חברות"
   ],
   "oe": [
    "Springs store energy and can fly",
-   "The workshop light is too bright",
+   "The workshop light is too bright and dazzling",
    "Just a company rule"
   ],
   "id": 149
@@ -2840,12 +2840,12 @@
   "oh": [
    "מוקשחת, כמה לשוניות ובדיקות",
    "רק לבחור צבע בולט",
-   "להקטין אותו כמה שאפשר"
+   "להקטין אותו כמה שאפשר ולחסוך במשקל"
   ],
   "oe": [
    "Hardened, multiple pawls and testing",
    "Just pick a bright colour",
-   "Make it as small as possible"
+   "Make it as small as possible to save weight"
   ],
   "id": 150
  },
@@ -2858,12 +2858,12 @@
   "ae": "A joint that passes rotation at an angle at perfectly even speed – no speed-up and slow-down like a U-joint.",
   "oh": [
    "מעביר סיבוב בזווית במהירות אחידה",
-   "מפרק קרדן עם צלב גדול יותר",
+   "מפרק קרדן רגיל עם צלב גדול וחזק יותר",
    "מפרק שעובד רק בקו ישר"
   ],
   "oe": [
    "Passes rotation at an angle at even speed",
-   "A U-joint with a bigger cross",
+   "A normal U-joint with a bigger, stronger cross",
    "A joint that only works straight"
   ],
   "id": 151
@@ -2877,12 +2877,12 @@
   "ae": "At both ends of each front driveshaft – by the gearbox and by the wheel.",
   "oh": [
    "בשני קצוות של כל גל קדמי",
-   "רק בהגה של הרכב",
+   "רק בתוך עמוד ההגה מתחת ללוח המחוונים",
    "רק בגל האחורי הארוך"
   ],
   "oe": [
    "At both ends of each front shaft",
-   "Only in the steering column",
+   "Only inside the steering column under the dash",
    "Only on the long rear shaft"
   ],
   "id": 152
@@ -2896,12 +2896,12 @@
   "ae": "The wheel steers at big angles, up to about 45°. A U-joint at that angle shakes badly.",
   "oh": [
    "זווית ההגה גדולה מדי לקרדן",
-   "קרדן כבד מדי לרכב קטן",
+   "קרדן כבד מדי ולא נכנס ברכב קטן",
    "קרדן לא יכול להסתובב מהר"
   ],
   "oe": [
    "Steering angle is too big for a U-joint",
-   "A U-joint is too heavy for small cars",
+   "A U-joint is too heavy to fit a small car",
    "A U-joint cannot spin fast"
   ],
   "id": 153
@@ -2915,12 +2915,12 @@
   "ae": "A CV joint with 6 balls in grooves that keep both halves at matching angles.",
   "oh": [
    "מפרק עם 6 כדורים במסלולים",
-   "מפרק עם צלב ו-4 מסבים",
+   "מפרק עם צלב וארבעה מסבי מחטים",
    "מפרק גומי פשוט"
   ],
   "oe": [
    "A joint with 6 balls in grooves",
-   "A joint with a cross and 4 bearings",
+   "A joint with a cross and four needle bearings",
    "A simple rubber joint"
   ],
   "id": 154
@@ -2991,12 +2991,12 @@
   "ae": "Keeps grease in and dust and water out. A torn boot means the joint will soon fail.",
   "oh": [
    "שומר גריז בפנים ולכלוך בחוץ",
-   "מחזיק את המפרק שלא יזוז",
+   "מחזיק את המפרק שלא יזוז מהמקום בנסיעה",
    "מבודד את הרעש מהמנוע"
   ],
   "oe": [
    "Keeps grease in and dirt out",
-   "Holds the joint from moving",
+   "Holds the joint so it can't move while driving",
    "Blocks engine noise"
   ],
   "id": 158
@@ -3010,12 +3010,12 @@
   "ae": "So it can bend and stretch with the shaft angle and length without tearing.",
   "oh": [
    "להתכופף ולהימתח בלי להיקרע",
-   "כדי להיראות יפה יותר",
+   "כדי להחזיק יותר גריז ולשמן לאורך זמן",
    "כדי להחזיק יותר גריז"
   ],
   "oe": [
    "To bend and stretch without tearing",
-   "To look nicer",
+   "To hold more grease and lubricate longer",
    "To hold more grease"
   ],
   "id": 159
@@ -3049,12 +3049,12 @@
   "oh": [
    "כמעט חזק כמו מלא וקל בהרבה",
    "כי קל יותר לצבוע אותו",
-   "כדי שיעבור שמן בפנים"
+   "כדי שיוכל לעבור שמן בפנים ולשמן את המסבים"
   ],
   "oe": [
    "Nearly as strong and much lighter",
    "Because it is easier to paint",
-   "So oil can flow inside"
+   "So oil can flow inside to lube the bearings"
   ],
   "id": 161
  },
@@ -3067,12 +3067,12 @@
   "ae": "Small weights are added so mass is even around the axis, with no vibration.",
   "oh": [
    "משקולות שמשווים את המשקל",
-   "בדיקה שהגל ישר לגמרי",
+   "בדיקה שהגל ישר לגמרי לכל אורכו",
    "הוספת שמן לגל"
   ],
   "oe": [
    "Weights that even out the mass",
-   "Checking the shaft is straight",
+   "Checking the shaft is perfectly straight",
    "Adding oil to the shaft"
   ],
   "id": 162
@@ -3087,12 +3087,12 @@
   "oh": [
    "מהירות שבה הגל מתכופף ורועד",
    "המהירות המרבית של המנוע",
-   "המהירות שבה השמן רותח"
+   "המהירות שבה השמן בתוך הגל מתחיל לרתוח"
   ],
   "oe": [
    "Speed where the shaft bows and whirls",
    "The engine's top speed",
-   "Speed where the oil boils"
+   "The speed at which oil in the shaft boils"
   ],
   "id": 163
  },
@@ -3105,12 +3105,12 @@
   "ae": "A long, thin shaft hits critical speed early. Two short shafts are safer.",
   "oh": [
    "גל ארוך מגיע למהירות קריטית",
-   "כדי שיהיה קל לייצר צבע",
+   "כדי שיהיה קל יותר לייצר ולצבוע אותו",
    "כדי להוסיף עוד כוח"
   ],
   "oe": [
    "A long shaft hits critical speed",
-   "To make painting easier",
+   "So it's easier to make and paint",
    "To add more power"
   ],
   "id": 164
@@ -3124,12 +3124,12 @@
   "ae": "Very light and stiff, so one long shaft works without a centre bearing.",
   "oh": [
    "קלים וקשיחים – גל אחד ארוך",
-   "זולים יותר מפלדה תמיד",
+   "זולים יותר מפלדה ונוחים יותר לתיקון",
    "מעבירים חשמל טוב"
   ],
   "oe": [
    "Light and stiff – one long shaft",
-   "Always cheaper than steel",
+   "Cheaper than steel and easier to repair",
    "They conduct electricity well"
   ],
   "id": 165
@@ -3162,12 +3162,12 @@
   "ae": "Vibration felt through the floor, mostly at high speed.",
   "oh": [
    "רעידה ברצפה במהירות גבוהה",
-   "הרכב לא יזוז בכלל",
+   "הרכב לא יזוז בכלל עד שמחזירים אותה",
    "רעש רק בסיבובים"
   ],
   "oe": [
    "Floor vibration at high speed",
-   "The car will not move",
+   "The car won't move at all until it's refitted",
    "Noise only in turns"
   ],
   "id": 167
@@ -3219,12 +3219,12 @@
   "ae": "A rubber-mounted bearing bolted to the car floor that holds the middle of a long shaft.",
   "oh": [
    "מסב בגומי שמחזיק את אמצע הגל",
-   "מסב בתוך הגלגל הקדמי",
+   "מסב בתוך הגלגל הקדמי שתומך בגל",
    "מסב בתוך המנוע"
   ],
   "oe": [
    "A rubber-mounted bearing at mid-shaft",
-   "A bearing inside the front wheel",
+   "A bearing inside the front wheel supporting the shaft",
    "A bearing inside the engine"
   ],
   "id": 170
@@ -3257,12 +3257,12 @@
   "ae": "They only rock back and forth, never a full turn, so grease gets squeezed out and dents form (brinelling).",
   "oh": [
    "רק מתנדנדים – הגריז נדחק ונוצרים שקעים",
-   "הם מסתובבים מהר מדי ונשרפים",
+   "הם מסתובבים מהר מדי ונשרפים מחום",
    "הם עשויים מפלסטיק רך"
   ],
   "oe": [
    "They only rock – grease squeezes out, dents form",
-   "They spin too fast and burn",
+   "They spin too fast and burn from heat",
    "They are made of soft plastic"
   ],
   "id": 172
@@ -3295,12 +3295,12 @@
   "ae": "They are sealed and filled for life. Less maintenance, but you cannot add more.",
   "oh": [
    "אטומים עם גריז לכל החיים",
-   "הם לא צריכים גריז בכלל",
+   "הם לא צריכים גריז בכלל כי הם מפלדה קשה",
    "כדי שיהיו זולים לתיקון"
   ],
   "oe": [
    "Sealed with lifetime grease",
-   "They need no grease at all",
+   "They need no grease since they're hard steel",
    "So they are cheap to repair"
   ],
   "id": 174
@@ -3315,12 +3315,12 @@
   "oh": [
    "עד שגריז נקי יוצא מכל הכוסות",
    "כמה שיותר, עד שהוא מתפוצץ",
-   "טיפה אחת בלבד"
+   "טיפה אחת בלבד כדי לא לפגוע באטמים"
   ],
   "oe": [
    "Until clean grease shows at all caps",
    "As much as possible until it bursts",
-   "Just one drop"
+   "Just one drop so the seals aren't harmed"
   ],
   "id": 175
  },
@@ -3333,12 +3333,12 @@
   "ae": "Water causes rust and weakens the grease film, so metal touches metal.",
   "oh": [
    "חלודה ומתכת שנוגעת במתכת",
-   "הגריז נהיה סמיך מדי",
+   "הגריז נהיה סמיך מדי ולא מגיע למחטים",
    "מים מקררים יותר מדי"
   ],
   "oe": [
    "Rust and metal-on-metal",
-   "The grease gets too thick",
+   "The grease thickens too much to reach the needles",
    "Water cools too much"
   ],
   "id": 176
@@ -3352,12 +3352,12 @@
   "ae": "Grease is oil with a thickener, so it stays put instead of running out.",
   "oh": [
    "גריז הוא שמן מעובה שנשאר במקום",
-   "גריז הוא מים עם סבון",
+   "גריז הוא מים עם סבון שמחזיקים את הלכלוך",
    "אין שום הבדל"
   ],
   "oe": [
    "Grease is thickened oil that stays put",
-   "Grease is soapy water",
+   "Grease is soapy water that holds dirt",
    "No difference at all"
   ],
   "id": 177
@@ -3371,12 +3371,12 @@
   "ae": "The thickeners may clash, so the grease turns runny or breaks down and stops protecting.",
   "oh": [
    "המעבים לא מתאימים והגריז מתפרק",
-   "הצבע ייראה מוזר",
+   "הצבע של הגריז ייראה מוזר וקשה לבדיקה",
    "זה עולה יותר כסף"
   ],
   "oe": [
    "Thickeners clash and grease breaks down",
-   "The colour looks odd",
+   "The grease colour looks odd and is hard to inspect",
    "It costs more"
   ],
   "id": 178
@@ -3390,12 +3390,12 @@
   "ae": "A springy ring that snaps into a groove and keeps the caps from coming out.",
   "oh": [
    "טבעת שמחזיקה את הכוסות",
-   "אטם שומר שמן",
+   "אטם שומר שמן בין הצלב לכוסות",
    "משקולת לאיזון"
   ],
   "oe": [
    "A ring that holds the caps in",
-   "An oil seal",
+   "An oil seal between cross and cups",
    "A balance weight"
   ],
   "id": 179
@@ -3409,12 +3409,12 @@
   "ae": "The needle bearings are dry and worn, and the cross has play.",
   "oh": [
    "מסבים יבשים ורווח בצלב",
-   "גל חדש מדי",
+   "גל חדש מדי שעוד לא התרגל לעומס",
    "צמיגים מנופחים מדי"
   ],
   "oe": [
    "Dry bearings and play in the cross",
-   "A shaft that is too new",
+   "A shaft so new it hasn't bedded in",
    "Overinflated tyres"
   ],
   "id": 180
@@ -3428,12 +3428,12 @@
   "ae": "Wrong joint angles or a worn joint – it grows when force is high.",
   "oh": [
    "זוויות מפרקים או מפרק שחוק",
-   "צמיג שחוק בצד אחד",
+   "צמיג שחוק בצד אחד שמרעיד בעיקר בתאוצה",
    "מראה שזזה ברוח"
   ],
   "oe": [
    "Joint angles or a worn joint",
-   "A tyre worn on one side",
+   "A tyre worn on one side, shaking mostly on acceleration",
    "A mirror moving in the wind"
   ],
   "id": 181
@@ -3447,12 +3447,12 @@
   "ae": "Shaft and joint angles changed. They may no longer be equal at both ends, or are too big.",
   "oh": [
    "זוויות המפרקים השתנו",
-   "הרכב קל יותר עכשיו",
+   "הרכב קל יותר עכשיו ולכן קופץ יותר",
    "השמן התקרר"
   ],
   "oe": [
    "The joint angles changed",
-   "The car is lighter now",
+   "The car is lighter now so it bounces more",
    "The oil cooled"
   ],
   "id": 182
@@ -3466,12 +3466,12 @@
   "ae": "Measure vibration with a sensor and find the source by frequency – before something breaks.",
   "oh": [
    "מוצאים מקור לפי תדר הרעידה",
-   "בודקים רק את הצבע",
+   "בודקים את המכונה לפי הצבע והחום שלה",
    "שוקלים את המכונה"
   ],
   "oe": [
    "Find the source by vibration frequency",
-   "Check only the paint",
+   "Inspecting the machine by colour and heat",
    "Weigh the machine"
   ],
   "id": 183
@@ -5510,12 +5510,12 @@
   "ae": "Transfers rotation between distant shafts, quietly and cheaply.",
   "oh": [
    "מעבירה סיבוב בין צירים מרוחקים",
-   "נועלת את הציר כשהמכונה כבויה בתנאי עבודה רגילים",
+   "נועלת את הציר כשהמכונה כבויה",
    "מגבירה את ההספק שהמנוע מייצר"
   ],
   "oe": [
    "Transfers rotation between distant shafts",
-   "Locks the shaft when the machine is off in normal use",
+   "Locks the shaft when the machine is off",
    "Raises the power the motor produces"
   ],
   "id": 295
@@ -5549,12 +5549,12 @@
   "oh": [
    "אחיזה טובה יותר בגלל צורת הטריז",
    "מהירות מקסימלית גבוהה בהרבה",
-   "לא צריכה מתיחה בכלל לעולם לאורך זמן"
+   "לא צריכה מתיחה בכלל לעולם"
   ],
   "oe": [
    "Better grip from the wedge shape",
    "Much higher top speed",
-   "Never needs any tension over time"
+   "Never needs any tension"
   ],
   "id": 297
  },
@@ -5644,12 +5644,12 @@
   "oh": [
    "כיפוף חד מעייף את הרצועה",
    "הגלגלת תסתובב לאט מדי",
-   "הרצועה תתחמם פחות מדי לאורך זמן"
+   "הרצועה תתחמם פחות מדי"
   ],
   "oe": [
    "Sharp bending fatigues the belt",
    "The pulley would turn too slowly",
-   "The belt would run too cool over time"
+   "The belt would run too cool"
   ],
   "id": 302
  },
@@ -5765,12 +5765,12 @@
   "oh": [
    "גלגל ששיני השרשרת נכנסות בו",
    "קפיץ שמותח את השרשרת",
-   "מסב שמחזיק את ציר השרשרת בתנאי עבודה רגילים"
+   "מסב שמחזיק את ציר השרשרת"
   ],
   "oe": [
    "Wheel the chain links mesh with",
    "A spring that tensions the chain",
-   "A bearing that holds the chain shaft in normal use"
+   "A bearing that holds the chain shaft"
   ],
   "id": 309
  },
@@ -5783,12 +5783,12 @@
   "ae": "Pins and bushings inside each link rub; without oil they wear and the chain stretches.",
   "oh": [
    "למנוע שחיקה בפינים ובתותבים",
-   "כדי שתיראה מבריקה ונקייה ברוב המכונות",
+   "כדי שתיראה מבריקה ונקייה",
    "כדי שתחליק על גלגל השיניים"
   ],
   "oe": [
    "Prevent pin and bushing wear",
-   "To keep it shiny and clean in most machines",
+   "To keep it shiny and clean",
    "So it can slip on the sprocket"
   ],
   "id": 310
@@ -5802,12 +5802,12 @@
   "ae": "The metal doesn't stretch – pins and holes wear, so link spacing grows.",
   "oh": [
    "שחיקה בפינים מגדילה את המרווח",
-   "הפלדה עצמה נמתחת כמו גומי בתנאי עבודה רגילים",
+   "הפלדה עצמה נמתחת כמו גומי",
    "מוסיפים לה חוליות מעצמה"
   ],
   "oe": [
    "Pin wear grows the link spacing",
-   "The steel stretches like rubber in normal use",
+   "The steel stretches like rubber",
    "It adds links by itself"
   ],
   "id": 311
@@ -6038,12 +6038,12 @@
   "oh": [
    "מהירות נמוכה, מקום צר, מחיר נמוך",
    "כשצריך מהירות סיבוב גבוהה מאוד",
-   "כשאסור שיהיה שום חיכוך לאורך זמן בתנאי עבודה רגילים"
+   "כשאסור שיהיה שום חיכוך"
   ],
   "oe": [
    "Low speed, tight space, low cost",
    "When very high speed is needed",
-   "When zero friction is required over time in normal use"
+   "When zero friction is required"
   ],
   "id": 324
  },
@@ -6075,12 +6075,12 @@
   "ae": "Keep grease in and dirt and water out.",
   "oh": [
    "לשמור גריז בפנים ולכלוך בחוץ",
-   "להגדיל את המהירות המקסימלית בתנאי עבודה רגילים",
+   "להגדיל את המהירות המקסימלית",
    "להוריד את משקל המסב"
   ],
   "oe": [
    "Keep grease in, dirt out",
-   "Raise the top speed in normal use",
+   "Raise the top speed",
    "Lower the bearing weight"
   ],
   "id": 326
@@ -6114,7 +6114,7 @@
   "oh": [
    "שימון לקוי וזיהום",
    "צבע לא מתאים על הבית",
-   "מהירות נמוכה מדי לאורך זמן"
+   "מהירות נמוכה מדי"
   ],
   "oe": [
    "Bad lube and contamination",
@@ -6215,12 +6215,12 @@
   "ae": "Static – to start moving; kinetic – while moving. Static is usually larger.",
   "oh": [
    "סטטי להתחלה, בדרך כלל גדול יותר",
-   "דינמי להתחלה, תמיד גדול יותר בתנאי עבודה רגילים",
+   "דינמי להתחלה, תמיד גדול יותר",
    "שניהם תמיד שווים בדיוק"
   ],
   "oe": [
    "Static to start, usually larger",
-   "Kinetic to start, always larger in normal use",
+   "Kinetic to start, always larger",
    "Always exactly equal"
   ],
   "id": 334
@@ -6235,12 +6235,12 @@
   "oh": [
    "גריז הוא שמן מעובה שנשאר במקום",
    "גריז לא מכיל שמן בכלל",
-   "שמן תמיד עמיד לחום יותר לאורך זמן"
+   "שמן תמיד עמיד לחום יותר"
   ],
   "oe": [
    "Grease is thickened oil that stays put",
    "Grease contains no oil at all",
-   "Oil always handles heat better over time"
+   "Oil always handles heat better"
   ],
   "id": 335
  },
@@ -6330,12 +6330,12 @@
   "oh": [
    "הגריז נטחן ומחמם את המסב",
    "המסב יסתובב מהר מדי",
-   "הגריז יהפוך לנוזל קר לאורך זמן"
+   "הגריז יהפוך לנוזל קר"
   ],
   "oe": [
    "Excess churns and overheats",
    "Bearing spins too fast",
-   "Grease turns into cold liquid over time"
+   "Grease turns into cold liquid"
   ],
   "id": 340
  },
@@ -6488,12 +6488,12 @@
   "ae": "Same power at higher speed means lower torque – smaller, lighter shafts and parts.",
   "oh": [
    "מומנט נמוך – חלקים קטנים יותר",
-   "הספק גבוה יותר מאותו מנוע ברוב המכונות",
+   "הספק גבוה יותר מאותו מנוע",
    "פחות רעש בכל מצב"
   ],
   "oe": [
    "Lower torque, smaller parts",
-   "More power from the same motor in most machines",
+   "More power from the same motor",
    "Less noise in every case"
   ],
   "id": 349
@@ -6683,12 +6683,12 @@
   "ae": "Springs press a disc against the flywheel; friction carries the rotation.",
   "oh": [
    "קפיצים לוחצים דיסקית, החיכוך מעביר",
-   "שיניים נכנסות זו בזו בכוח ברוב המכונות",
+   "שיניים נכנסות זו בזו בכוח",
    "שמן בלחץ דוחף את הציר"
   ],
   "oe": [
    "Springs clamp a disc; friction drives",
-   "Teeth lock together in most machines",
+   "Teeth lock together",
    "Pressurised oil pushes the shaft"
   ],
   "id": 360
@@ -6721,12 +6721,12 @@
   "ae": "Disc pads squeeze an open rotor – cools better; drum shoes press inside a drum.",
   "oh": [
    "דיסק מתקרר טוב יותר, תוף סגור",
-   "תוף תמיד חזק יותר מדיסק ברוב המכונות",
+   "תוף תמיד חזק יותר מדיסק",
    "דיסק לא צריך רפידות כלל"
   ],
   "oe": [
    "Disc cools better; drum is enclosed",
-   "Drum is always stronger in most machines",
+   "Drum is always stronger",
    "Disc needs no pads"
   ],
   "id": 362
@@ -6760,12 +6760,12 @@
   "oh": [
    "לחום ברפידות ובדיסקים",
    "חזרה לדלק במיכל",
-   "לקפיצי המתלים לאורך זמן"
+   "לקפיצי המתלים"
   ],
   "oe": [
    "Heat in pads and discs",
    "Back into the fuel tank",
-   "Into the suspension springs over time"
+   "Into the suspension springs"
   ],
   "id": 364
  },
@@ -6779,12 +6779,12 @@
   "oh": [
    "לא מחליק, מומנט גדול בגודל קטן",
    "משתלב חלק בכל הפרש מהירויות",
-   "לא מתבלה לעולם לאורך זמן בתנאי עבודה רגילים"
+   "לא מתבלה לעולם"
   ],
   "oe": [
    "No slip, big torque, small size",
    "Engages smoothly at any speed difference",
-   "Never wears out over time in normal use"
+   "Never wears out"
   ],
   "id": 365
  },
@@ -6994,12 +6994,12 @@
   "ae": "Fatigue: every turn flexes it back and forth until a crack forms.",
   "oh": [
    "עייפות מכיפוף חוזר",
-   "התכה מחום חיכוך ברוב המכונות",
+   "התכה מחום חיכוך",
    "חלודה בלבד"
   ],
   "oe": [
    "Fatigue from repeated bending",
-   "Melting from friction in most machines",
+   "Melting from friction",
    "Rust alone"
   ],
   "id": 377
@@ -7156,12 +7156,12 @@
   "oh": [
    "לחיצה נגד כיווץ, משיכה נגד מתיחה",
    "אותו דבר בשמות שונים",
-   "משיכה תמיד חזק יותר לאורך זמן בתנאי עבודה רגילים"
+   "משיכה תמיד חזק יותר"
   ],
   "oe": [
    "One resists squeeze, other resists pull",
    "Same thing, different names",
-   "Extension is always stronger over time in normal use"
+   "Extension is always stronger"
   ],
   "id": 386
  },
@@ -7352,12 +7352,12 @@
   "ae": "Bolt tension (preload) clamps the parts and friction between them holds.",
   "oh": [
    "מתיחת הבורג והחיכוך בין החלקים",
-   "הברגות שנדבקות זו לזו בתנאי עבודה רגילים",
+   "הברגות שנדבקות זו לזו",
    "הראש של הבורג בלבד"
   ],
   "oe": [
    "Bolt preload and joint friction",
-   "Threads gluing together in normal use",
+   "Threads gluing together",
    "Only the bolt head"
   ],
   "id": 397
@@ -7429,12 +7429,12 @@
   "oh": [
    "תזוזות זעירות בהברגה בכל רעידה",
    "הבורג מתכווץ מקור",
-   "האום מתרחב מלחץ בתנאי עבודה רגילים"
+   "האום מתרחב מלחץ"
   ],
   "oe": [
    "Tiny thread slips each cycle",
    "Bolt shrinks in the cold",
-   "Nut expands under pressure in normal use"
+   "Nut expands under pressure"
   ],
   "id": 401
  },
@@ -7467,12 +7467,12 @@
   "oh": [
    "מפזרת לחץ ומגינה על המשטח",
    "מחליפה את הצורך באום",
-   "מקצרת את הבורג ברוב המכונות"
+   "מקצרת את הבורג"
   ],
   "oe": [
    "Spreads pressure, protects surface",
    "Replaces the nut",
-   "Shortens the bolt in most machines"
+   "Shortens the bolt"
   ],
   "id": 403
  },
@@ -7682,12 +7682,12 @@
   "ae": "A standard hole/shaft fit – here a small clearance, a precise sliding/running fit.",
   "oh": [
    "התאמה עם מרווח קטן ומדויק",
-   "התאמה בלחץ חזקה מאוד בתנאי עבודה רגילים",
+   "התאמה בלחץ חזקה מאוד",
    "סוג של הברגה עדינה"
   ],
   "oe": [
    "Small precise clearance fit",
-   "Heavy press fit in normal use",
+   "Heavy press fit",
    "A type of fine thread"
   ],
   "id": 415
@@ -7701,12 +7701,12 @@
   "ae": "Heat the gear or chill the shaft so sizes change temporarily.",
   "oh": [
    "מחממים את הגלגל או מקררים ציר",
-   "מכים חזק בפטיש על השיניים ברוב המכונות",
+   "מכים חזק בפטיש על השיניים",
    "משחיזים את הציר עד שנכנס"
   ],
   "oe": [
    "Heat the hub or chill the shaft",
-   "Hammer hard on the teeth in most machines",
+   "Hammer hard on the teeth",
    "Grind the shaft until it fits"
   ],
   "id": 416
@@ -7740,12 +7740,12 @@
   "oh": [
    "שליטה בצורה ובמיקום",
    "שליטה בצבע ובגימור",
-   "שליטה רק על האורך ברוב המכונות"
+   "שליטה רק על האורך"
   ],
   "oe": [
    "Controls form and position",
    "Controls colour and finish",
-   "Controls length only in most machines"
+   "Controls length only"
   ],
   "id": 418
  },
@@ -7842,12 +7842,12 @@
   "oh": [
    "ביציקה יותר פחמן והיא שבירה יותר",
    "פלדה תמיד שבירה יותר",
-   "אין ביניהם הבדל כימי בתנאי עבודה רגילים"
+   "אין ביניהם הבדל כימי"
   ],
   "oe": [
    "More carbon, more brittle",
    "Steel is always more brittle",
-   "No chemical difference in normal use"
+   "No chemical difference"
   ],
   "id": 424
  },
@@ -7860,12 +7860,12 @@
   "ae": "Light, easy to machine, conducts heat and doesn't rust like steel.",
   "oh": [
    "קל, נוח לעיבוד ומוליך חום",
-   "קשה וחזק יותר מכל פלדה ברוב המכונות",
+   "קשה וחזק יותר מכל פלדה",
    "הזול ביותר מכל המתכות"
   ],
   "oe": [
    "Light, machinable, conducts heat",
-   "Harder than any steel in most machines",
+   "Harder than any steel",
    "Cheapest metal of all"
   ],
   "id": 425
@@ -7974,12 +7974,12 @@
   "ae": "Quiet, light, cheap in mass production and self-lubricating.",
   "oh": [
    "שקטים, קלים וזולים בכמות",
-   "חזקים יותר מפלדה לאורך זמן",
+   "חזקים יותר מפלדה",
    "עמידים לכל טמפרטורה"
   ],
   "oe": [
    "Quiet, light, cheap in volume",
-   "Stronger than steel over time",
+   "Stronger than steel",
    "Withstand any temperature"
   ],
   "id": 431
@@ -8013,12 +8013,12 @@
   "oh": [
    "כרום יוצר שכבה מגינה",
    "היא מצופה בצבע שקוף",
-   "אין בה ברזל בכלל בתנאי עבודה רגילים"
+   "אין בה ברזל בכלל"
   ],
   "oe": [
    "Chromium forms a protective layer",
    "Coated in clear paint",
-   "Contains no iron in normal use"
+   "Contains no iron"
   ],
   "id": 433
  },

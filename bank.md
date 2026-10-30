@@ -219,7 +219,7 @@ _Why do brushes wear in a brushed motor?_
 _The drill wobbles as the bit turns. What to check first?_
 - ✅ שהמקדח ישר ויושב טוב בצ׳אק
 - את מספר הוולטים של הסוללה
-- את צבע הגוף של המברגה
+- שהמנוע מקבל מספיק זרם מהסוללה בעומס
 - תשובה: שהמקדח ישר ויושב עמוק ומרכזי בצ׳אק. מקדח עקום הוא הסיבה הכי נפוצה.  
   _That the bit is straight and seated deep and centred in the chuck. A bent bit is the most common cause._
 
@@ -235,7 +235,7 @@ _What happens to a tooth hit hard once?_
 _Wear vs fracture?_
 - ✅ שחיקה איטית מול סדק ופירוק
 - שתי מילים לאותו דבר בדיוק
-- שחיקה קורית רק בפלסטיק
+- שחיקה קורית רק בפלסטיק, שבר רק במתכת קשה
 - תשובה: שחיקה: חומר יורד לאט מהשטח. שבר: החלק נסדק ונפרד.  
   _Wear: material slowly rubs off the surface. Fracture: the part cracks apart._
 
@@ -243,7 +243,7 @@ _Wear vs fracture?_
 _Why test a drill in both cold and heat?_
 - ✅ גריז, סוללה ומנוע משתנים בטמפרטורה
 - כדי לבדוק אם הצבע משנה צבע
-- זה דרישה של חנויות בלבד
+- כדי לבדוק שהצבע והמדבקות לא מתקלפים בשינויי מזג אוויר
 - תשובה: בקור הגריז סמיך והסוללה חלשה. בחום המנוע והסוללה מתחממים מהר.  
   _In cold the grease thickens and the battery weakens; in heat the motor and battery overheat fast._
 
@@ -325,7 +325,7 @@ _What is poka-yoke?_
 _What is unit cost, and why can an expensive mould still pay off?_
 - ✅ מחלקים את המחיר על הרבה חלקים
 - התבנית מחזירה כסף ממכירה שלה
-- כי פלסטיק תמיד חינם לגמרי
+- תבנית יקרה מקצרת את זמן ההרכבה של כל מוצר ולכן משתלמת
 - תשובה: תבנית יכולה לעלות 50,000 ש״ח, אבל אם מייצרים 500,000 חלקים, זה 10 אגורות לחלק.  
   _A mould may cost 50,000, but over 500,000 parts that is 0.1 per part._
 
@@ -334,7 +334,7 @@ _What is unit cost, and why can an expensive mould still pay off?_
 **#41 [רב-ברירה]** מה ההבדל בין כוח (Force) למומנט (Torque)?  
 _Force vs torque?_
 - ✅ מומנט הוא כוח כפול מרחק מהציר
-- מומנט הוא כוח כפול מהירות
+- מומנט הוא כוח כפול המהירות שבה הציר מסתובב
 - אין שום הבדל בין השניים
 - תשובה: כוח דוחף בקו ישר. מומנט הוא כוח סיבוב: כוח כפול המרחק מהציר.  
   _Force pushes in a line. Torque is twisting force: force times distance from the axis._
@@ -374,7 +374,7 @@ _Brushed or brushless for a cheap product?_
 **#46 [רב-ברירה]** מה זה עומס יתר (Overload) ואיך מגנים מפניו?  
 _What is overload and how to protect against it?_
 - ✅ מצמד מחליק, נתיך או ניתוק זרם
-- מגדילים את הסוללה פי שתיים
+- מגדילים את הסוללה פי שתיים כדי שיהיה מספיק כוח
 - מוסיפים עוד גריז לתיבה
 - תשובה: יותר כוח ממה שהמערכת בנויה לו. מגנים עם מצמד מחליק, נתיך, או בקר שמנתק זרם.  
   _More force than the system is built for. Protect with a slipping clutch, fuse, or a controller that cuts current._
@@ -390,7 +390,7 @@ _Why should the clutch slip before teeth break?_
 **#48 [רב-ברירה]** מה זה FMEA?  
 _What is FMEA?_
 - ✅ ניתוח מה יכול להיכשל ואיך מונעים
-- שיטה לצייר שרטוטים מהר
+- שיטה לתעד את שלבי ההרכבה במפעל לפי סדר
 - בדיקה של מחיר החלקים בשוק
 - תשובה: רשימה של כל מה שיכול להישבר, כמה זה חמור, ואיך מונעים את זה מראש.  
   _A list of everything that can fail, how bad it is, and how to prevent it upfront._
@@ -407,7 +407,7 @@ _Motor 20,000 rpm, ratio 50:1. Chuck rpm?_
 _How would you explain a gearbox to a non-technical person?_
 - ✅ כמו הילוכים באופניים
 - כמו מתג של אור בבית
-- כמו ברז של מים חמים
+- כמו ווסת מתח שמוריד את הוולטים בבית
 - תשובה: כמו הילוכים באופניים: הילוך קל – מסובבים הרבה ולאט מתקדמים, אבל קל לדווש.  
   _Like bike gears: a low gear – pedal a lot and move slowly, but it is easy to push._
 
@@ -432,7 +432,7 @@ _What does a diff lock do?_
 **#53 [רב-ברירה]** למה לא נוסעים עם נעילה על כביש יבש בסיבובים?  
 _Why not drive locked on dry road in turns?_
 - ✅ הגלגלים נגררים וההיגוי קשה
-- המנוע יכבה מיד בכל סיבוב
+- המנוע נכבה בכל פעם שמסובבים את ההגה חזק
 - הבלמים מפסיקים לעבוד
 - תשובה: בסיבוב הגלגלים צריכים מהירות שונה. נעול – הם נגררים, נשחקים, וההיגוי קשה.  
   _In a turn the wheels need different speeds. Locked, they scrub, wear and steering fights you._
@@ -456,7 +456,7 @@ _How does a clutch-type LSD work?_
 **#56 [רב-ברירה]** מה זה דיפרנציאל טורסן (Torsen)?  
 _What is a Torsen differential?_
 - ✅ גלגלי תולעת שמעבירים כוח
-- דסקיות גומי שנשחקות מהר
+- דסקיות חיכוך עם קפיצים שנשחקות עם הזמן
 - חיישן ומחשב בלבד
 - תשובה: משתמש בגלגלי שיניים מסוג תולעת שקשה לסובב מהצד, ולכן מעביר כוח לגלגל שאוחז. בלי דסקיות.  
   _Uses worm-type gears that are hard to back-drive, so it shifts force to the gripping wheel. No discs._
@@ -464,7 +464,7 @@ _What is a Torsen differential?_
 **#57 [רב-ברירה]** איזה חיסרון יש לטורסן כשגלגל אחד ממש באוויר?  
 _Torsen weakness when one wheel is in the air?_
 - ✅ גלגל באוויר – כמעט אין כוח לשני
-- הוא נשבר מיד כשגלגל באוויר
+- הוא ננעל לגמרי ושולח את כל הכוח לגלגל שבאוויר
 - הוא נועל ולא נותן לנסוע
 - תשובה: הוא מכפיל את הכוח של הגלגל החלש. אם לגלגל באוויר אין התנגדות, כמעט אין כוח לשני.  
   _It multiplies the weak wheel's force. If the airborne wheel has no resistance, the other gets almost nothing._
@@ -480,7 +480,7 @@ _How do modern cars mimic a locker without extra parts?_
 **#59 [רב-ברירה]** למה LSD פופולרי במכוניות ספורט?  
 _Why is LSD popular in sports cars?_
 - ✅ שולח כוח לגלגל החיצוני ביציאה
-- מקטין את משקל הרכב בהרבה
+- מקטין את משקל הרכב ומשפר את צריכת הדלק בעיר
 - מאפשר להחליף הילוך בלי מצמד
 - תשובה: ביציאה חזקה מסיבוב הגלגל הפנימי מתרומם קצת ומחליק. LSD שולח כוח לגלגל החיצוני.  
   _Accelerating hard out of a turn, the inner wheel lightens and slips. LSD sends force to the outer wheel._
@@ -489,7 +489,7 @@ _Why is LSD popular in sports cars?_
 _Why does a clutch-type LSD need special oil?_
 - ✅ כדי שהדסקיות לא ירעדו ויקרקשו
 - כדי שהשמן לא יתאדה בקיץ
-- כדי שיהיה צבע שונה בבדיקה
+- כדי שהשמן לא יתאדה בקיץ ולא יקפא בחורף
 - תשובה: צריך תוסף חיכוך (Friction Modifier) כדי שהדסקיות יחליקו חלק ולא ירעדו ויקרקשו.  
   _It needs a friction modifier so the discs slip smoothly instead of chattering._
 
@@ -506,7 +506,7 @@ _Why is diff oil thicker than engine oil?_
 **#62 [רב-ברירה]** מה זה שמן היפואיד (Hypoid Oil / GL-5)?  
 _What is hypoid (GL-5) oil?_
 - ✅ שמן עם תוספי לחץ גבוה
-- שמן מנוע רגיל וזול
+- שמן מנוע רגיל שמחליפים כל 10,000 ק"מ
 - מים עם מעט סבון
 - תשובה: שמן עם תוספי לחץ גבוה (EP) לגלגלי היפואיד, שבהם השיניים מחליקות הרבה.  
   _Oil with extreme-pressure (EP) additives for hypoid gears, where teeth slide a lot._
@@ -531,14 +531,14 @@ _What does the oil seal at input and axles do?_
 _Why does the diff case have a breather?_
 - ✅ לחץ מחום ידחוף שמן דרך האטמים
 - כדי שהנהג ישמע את הגלגלים
-- כדי להכניס מים לקירור
+- כדי להכניס אוויר קר שמקרר את גלגלי השיניים
 - תשובה: השמן והאוויר מתחממים ומתרחבים. בלי פתח, הלחץ דוחף שמן החוצה דרך האטמים.  
   _Oil and air heat up and expand. Without a vent, pressure pushes oil out past the seals._
 
 **#66 [רב-ברירה]** למה פתח הנשימה בג׳יפים מוארך עד גבוה?  
 _Why is the breather on off-roaders extended up high?_
 - ✅ כדי שמים לא ייכנסו בחציית נחל
-- כדי שהשמן יתקרר מהר יותר
+- כדי שהשמן יתקרר מהר יותר בנסיעה בשטח חם
 - זה רק קישוט שנראה טוב
 - תשובה: כדי שבחציית מים לא ייכנסו מים לבית. מים בשמן הורסים את המסבים.  
   _So crossing water does not let water in. Water in oil ruins bearings._
@@ -554,7 +554,7 @@ _How do you know the diff has enough oil?_
 **#68 [רב-ברירה]** למה פותחים קודם את פקק המילוי ורק אחר כך את פקק הריקון?  
 _Why open the fill plug before the drain plug?_
 - ✅ כדי לא להישאר ריק בלי דרך למלא
-- כי ככה השמן יוצא חם יותר
+- כי ככה השמן יוצא חם יותר ומהר יותר מהבית
 - אין סיבה, זה סתם הרגל
 - תשובה: אם פקק המילוי תקוע, לפחות הרכב לא נשאר בלי שמן ובלי דרך למלא.  
   _If the fill plug is stuck, at least the car is not left empty with no way to refill._
@@ -562,7 +562,7 @@ _Why open the fill plug before the drain plug?_
 **#69 [רב-ברירה]** למה יש מגנט על פקק הריקון?  
 _Why is there a magnet on the drain plug?_
 - ✅ אוסף שבבי ברזל מהשחיקה
-- מסובב את גלגל הכתר
+- מחזיק את הפקק נעול כדי שלא ישתחרר ברעידות
 - מודד את מהירות הגלגל
 - תשובה: הוא אוסף שבבי ברזל קטנים מהשחיקה, כדי שלא יסתובבו בשמן.  
   _It collects tiny iron wear particles so they do not circulate in the oil._
@@ -571,7 +571,7 @@ _Why is there a magnet on the drain plug?_
 _Dark oil with heavy metallic glitter at change. Meaning?_
 - ✅ כנראה שחיקה של גלגלים או מסבים
 - זה סימן שהשמן חדש ואיכותי
-- זה צבע רגיל שאין מה לבדוק
+- זה סימן לתוספים טובים שעובדים כמו שצריך
 - תשובה: כנראה שחיקה חזקה של גלגלים או מסבים. כדאי לבדוק לפני שמשהו נשבר.  
   _Probably heavy gear or bearing wear. Check before something fails._
 
@@ -588,7 +588,7 @@ _Which bearing usually supports the pinion?_
 **#72 [רב-ברירה]** למה הפיניון נדחף לאורך הציר כשמעביר כוח?  
 _Why is the pinion pushed along its axis under load?_
 - ✅ השיניים הקוניות לוחצות באלכסון
-- כי השמן דוחף אותו קדימה
+- כי השמן בלחץ בתוך הבית דוחף אותו קדימה
 - כי הוא כבד יותר מגלגל הכתר
 - תשובה: השיניים הקוניות לוחצות באלכסון, אז חלק מהכוח דוחף את הפיניון קדימה או אחורה.  
   _Bevel teeth press at a slant, so part of the force pushes the pinion fore or aft._
@@ -604,7 +604,7 @@ _What is bearing preload?_
 **#74 [רב-ברירה]** מה קורה אם ה-Preload חזק מדי?  
 _What if the preload is too high?_
 - ✅ המסבים מתחממים ונשחקים
-- הרכב ייסע מהר יותר
+- הגלגלים יסתובבו חלק יותר והרכב ייסע שקט יותר
 - השמן יהיה נקי יותר
 - תשובה: המסבים מתחממים ונשחקים מהר. אם חלש מדי – רעש ושחיקה של השיניים.  
   _The bearings run hot and wear fast. Too low – noise and tooth wear._
@@ -613,7 +613,7 @@ _What if the preload is too high?_
 _What is a straddle-mounted pinion?_
 - ✅ מסבים משני צידי השיניים
 - פיניון בלי מסבים בכלל
-- שני פיניונים זה לצד זה
+- שני פיניונים זה לצד זה שמחלקים את הכוח
 - תשובה: יש מסב גם לפני השיניים וגם אחריהן. הפיניון מתכופף פחות בעומס כבד.  
   _A bearing both before and after the teeth. The pinion bends less under heavy load._
 
@@ -621,7 +621,7 @@ _What is a straddle-mounted pinion?_
 _Why do spider gears need no special bearings?_
 - ✅ כמעט לא מסתובבים בנסיעה ישרה
 - הם עשויים מפלסטיק קל מאוד
-- הם לא נושאים שום כוח
+- הם מקבלים שמן בלחץ ישירות ממשאבת המנוע
 - תשובה: בנסיעה ישרה הם כמעט לא מסתובבים על הציר שלהם, רק בסיבובים ובמהירות נמוכה יחסית.  
   _Driving straight they barely turn on their pin – only in turns, and fairly slowly._
 
@@ -636,7 +636,7 @@ _In a semi-floating axle, what carries the car weight?_
 **#78 [רב-ברירה]** מה היתרון של ציר צף מלא (Full-floating) במשאיות?  
 _Advantage of a full-floating axle in trucks?_
 - ✅ הציר רק מסובב ולא נושא משקל
-- הוא קל יותר בכל מקרה
+- הוא קל יותר ולכן מוריד את צריכת הדלק
 - הוא לא צריך שמן בכלל
 - תשובה: המשקל עובר דרך מסבים על הבית. הציר רק מסובב, ואפשר להוציא אותו בלי להוריד את הגלגל.  
   _Weight goes through bearings on the housing. The shaft only drives and can be removed without taking off the wheel._
@@ -645,14 +645,14 @@ _Advantage of a full-floating axle in trucks?_
 _What is a whine that changes with speed?_
 - ✅ מגע לא נכון או מסב שחוק
 - רוח שנכנסת דרך החלון
-- צמיג עם לחץ אוויר גבוה
+- צמיג עם לחץ אוויר גבוה מדי שמזמזם על הכביש
 - תשובה: בדרך כלל מגע לא נכון בין הפיניון לכתר, או מסב פיניון שחוק.  
   _Usually wrong pinion-to-ring contact, or a worn pinion bearing._
 
 **#80 [רב-ברירה]** למה הבית של הדיפרנציאל עשוי ברזל יצוק או פלדה?  
 _Why is the diff housing cast iron or steel?_
 - ✅ קשיח מאוד ושומר על יישור
-- הכי קל מכל החומרים
+- הוא הכי קל ומפזר חום טוב יותר מאלומיניום
 - מבודד רעש לגמרי
 - תשובה: צריך להיות קשיח מאוד, כדי שהגלגלים יישארו במקום המדויק תחת כוח גדול.  
   _It must be very stiff so gears stay exactly aligned under big force._
@@ -662,7 +662,7 @@ _Why is the diff housing cast iron or steel?_
 **#81 [רב-ברירה]** נקישה (Clunk) כשעוברים מנסיעה לבלימה. מה הסיבה הנפוצה?  
 _Clunk when switching from gas to brake – common cause?_
 - ✅ רווח גדול מדי בין השיניים
-- שמן חדש מדי בבית
+- שמן ישן מדי שאיבד את הצמיגות שלו
 - צמיגים חדשים מדי
 - תשובה: רווח גדול מדי (Backlash) בין הפיניון לכתר, או בגלגלים הקטנים בבית.  
   _Too much backlash between pinion and ring, or in the spider gears._
@@ -671,14 +671,14 @@ _Clunk when switching from gas to brake – common cause?_
 _Noise only in turns, not straight – suspect?_
 - ✅ הגלגלים הקטנים בתוך הבית
 - הפיניון בכניסה לבית
-- המנוע של הרכב
+- מסבי הגלגלים הקדמיים שמתחממים בנסיעה ארוכה
 - תשובה: הגלגלים הקטנים בתוך הבית, כי הם עובדים רק כשיש הבדל מהירות.  
   _The spider gears, since they only work when wheel speeds differ._
 
 **#83 [רב-ברירה]** מה זה "סימון מגע" (Contact Pattern) בבדיקה?  
 _What is a contact-pattern check?_
 - ✅ צבע שמראה איפה השיניים נוגעות
-- מספר שמוטבע על גלגל הכתר
+- מספר שמוטבע על גלגל הכתר ומציין את היחס
 - מדבקה עם תאריך ההחלפה
 - תשובה: מורחים צבע על שיני הכתר, מסובבים, ורואים איפה השיניים נוגעות. המגע צריך להיות במרכז.  
   _Paint the ring teeth, turn it, and see where the teeth touch. Contact should be centred._
@@ -694,7 +694,7 @@ _Why are pinion and ring always replaced as a pair?_
 **#85 [רב-ברירה]** צמיגים בגדלים שונים מאוד על אותו ציר – מה הסכנה?  
 _Very different tyre sizes on one axle – danger?_
 - ✅ הדיפרנציאל עובד כל הזמן ומתחמם
-- הרכב יהיה חסכוני יותר
+- הרכב יהיה חסכוני יותר בדלק בנסיעה בכביש מהיר
 - שום דבר, זה לא משנה
 - תשובה: הדיפרנציאל עובד כל הזמן כאילו בסיבוב. הגלגלים הקטנים בבית מתחממים ונשחקים.  
   _The diff works constantly as if turning. The spider gears overheat and wear._
@@ -702,7 +702,7 @@ _Very different tyre sizes on one axle – danger?_
 **#86 [רב-ברירה]** מה גורם לשבירת שן בגלגל הכתר בדרך כלל?  
 _What usually breaks a ring gear tooth?_
 - ✅ מכה פתאומית כשגלגל תופס
-- נסיעה איטית בעיר
+- נסיעה איטית בעיר עם הרבה עצירות והתחלות
 - שטיפת רכב במים
 - תשובה: מכה חזקה פתאומית – למשל גלגל מסתובב בלי אחיזה ואז תופס בבת אחת.  
   _A sudden shock – e.g. a wheel spinning freely then gripping all at once._
@@ -710,7 +710,7 @@ _What usually breaks a ring gear tooth?_
 **#87 [רב-ברירה]** רעידה שעולה עם מהירות הרכב (לא המנוע). מה לבדוק?  
 _Vibration rising with road speed (not engine) – check what?_
 - ✅ איזון, גל הינע ומסבי גלגל
-- רק את המצבר של הרכב
+- רק את המצבר ואת חיבורי החשמל של המנוע
 - רק את המזגן והמאוורר
 - תשובה: איזון גלגלים, גל ההינע ומפרקים, ומסבי הגלגלים.  
   _Wheel balance, driveshaft and joints, and wheel bearings._
@@ -726,7 +726,7 @@ _Oil leak near a rear wheel – likely cause?_
 **#89 [רב-ברירה]** למה נהיגה ארוכה עם גלגל רזרבי קטן (Space Saver) מזיקה?  
 _Why is long driving on a small spare harmful?_
 - ✅ הדיפרנציאל עובד כל הזמן
-- הרכב הופך לכבד יותר
+- הרכב הופך לכבד יותר בצד אחד ונוטה לפנות
 - המנוע מסתובב לאט יותר
 - תשובה: הגלגל קטן ומסתובב מהר יותר, אז הדיפרנציאל עובד כל הזמן ומתחמם.  
   _The small wheel spins faster, so the diff works constantly and heats up._
@@ -734,7 +734,7 @@ _Why is long driving on a small spare harmful?_
 **#90 [רב-ברירה]** בראיון: "הרכב משמיע זמזום רק בתאוצה". מה תענה?  
 _Interview: "whine only under acceleration" – answer?_
 - ✅ מגע בצד הנסיעה או Preload חלש
-- הצמיגים מנופחים יותר מדי
+- הצמיגים מנופחים יותר מדי וזה מעביר רעש
 - אין קשר לדיפרנציאל בכלל
 - תשובה: המגע בין הפיניון לכתר בצד ה"נסיעה" לא תקין, או Preload של המסב חלש.  
   _The pinion-to-ring contact on the drive side is off, or the bearing preload is low._
@@ -752,7 +752,7 @@ _How many differentials in a full-time AWD car?_
 **#92 [רב-ברירה]** למה צריך דיפרנציאל מרכזי (Center Diff)?  
 _Why is a centre differential needed?_
 - ✅ קדמי ואחורי עוברים מרחק שונה
-- כדי להוסיף כוח למנוע
+- כדי להוסיף כוח למנוע בנסיעה בעליות תלולות
 - כדי לחסוך דלק בנסיעה ישרה
 - תשובה: בסיבוב הגלגלים הקדמיים עוברים מרחק קצת שונה מהאחוריים. בלי דיפרנציאל מרכזי משהו נגרר.  
   _In a turn the front wheels travel a bit differently from the rears. Without it, something scrubs._
@@ -760,7 +760,7 @@ _Why is a centre differential needed?_
 **#93 [רב-ברירה]** מה זה תיבת העברה (Transfer Case) בג׳יפ?  
 _What is a transfer case in a 4x4?_
 - ✅ מחלקת כוח קדימה ואחורה
-- מחליפה בין דלק לחשמל
+- מחליפה בין מנוע דלק למנוע חשמלי ברכב היברידי
 - מקררת את המנוע בשטח
 - תשובה: מחלקת כוח בין הציר הקדמי לאחורי, ולרוב יש בה גם הילוך נמוך (Low Range).  
   _Splits power between front and rear axles, and often has a low range._
@@ -768,7 +768,7 @@ _What is a transfer case in a 4x4?_
 **#94 [רב-ברירה]** למה לא נוסעים ב-4x4 "חלקי" (Part-time) על אספלט יבש?  
 _Why not use part-time 4x4 on dry asphalt?_
 - ✅ אין דיפרנציאל מרכזי והמערכת נמתחת
-- הוא יותר מדי מהיר לכביש
+- ההילוכים שלו מהירים מדי לנסיעה בכביש
 - הצמיגים יתנפחו מהחום
 - תשובה: אין בו דיפרנציאל מרכזי. בסיבובים הצירים "נלחמים" והמערכת נמתחת ונשחקת (Wind-up).  
   _It has no centre diff. In turns the axles fight and the drivetrain winds up and wears._
@@ -776,7 +776,7 @@ _Why not use part-time 4x4 on dry asphalt?_
 **#95 [רב-ברירה]** מה עושה הילוך נמוך (Low Range)?  
 _What does low range do?_
 - ✅ מאט ומחזק פי 2–3 בערך
-- מאיץ את הרכב פי 2
+- מאיץ את הרכב פי 2 כדי לטפס מהר יותר
 - מנתק את ההנעה לגמרי
 - תשובה: מאט עוד פי 2 עד 3 בערך. הרכב איטי מאוד אבל חזק מאוד – לטיפוס ולירידה תלולה.  
   _Slows about 2 to 3 times more. Very slow but very strong – for steep climbs and descents._
@@ -784,7 +784,7 @@ _What does low range do?_
 **#96 [רב-ברירה]** מה זה מצמד ויסקוזי (Viscous Coupling)?  
 _What is a viscous coupling?_
 - ✅ דסקיות בנוזל שמעביר כוח בהחלקה
-- מגנט קבוע שנועל את הצירים
+- מגנט קבוע שנועל את הצירים כשגלגל מחליק
 - רצועה שמחברת את הצירים
 - תשובה: דסקיות בתוך נוזל סמיך. כשציר אחד מסתובב הרבה יותר מהר, הנוזל מתחמם, מתעבה ומעביר כוח.  
   _Discs in thick fluid. When one shaft spins much faster, the fluid heats, thickens and passes force._
@@ -792,7 +792,7 @@ _What is a viscous coupling?_
 **#97 [רב-ברירה]** מה ההבדל בין AWD ל-4x4 "אמיתי" בשטח?  
 _AWD vs "real" 4x4 off-road?_
 - ✅ ל-4x4 יש הילוך נמוך ונעילות
-- ל-AWD יש תמיד יותר כוח
+- ל-AWD יש תמיד יותר כוח ויותר נעילות בשטח
 - אין שום הבדל בכלל
 - תשובה: AWD נוח לכביש וגשם. 4x4 יש לו בדרך כלל הילוך נמוך ונעילות לשטח קשה.  
   _AWD suits roads and rain. 4x4 usually has low range and lockers for hard terrain._
@@ -816,7 +816,7 @@ _Why do some EVs have no centre diff?_
 **#100 [רב-ברירה]** מה זה וקטור מומנט (Torque Vectoring)?  
 _What is torque vectoring?_
 - ✅ יותר כוח לגלגל החיצוני בסיבוב
-- אותו כוח בדיוק לכל גלגל תמיד
+- אותו כוח בדיוק לכל גלגל, בלי קשר לסיבוב
 - ניתוק המנוע בכל סיבוב
 - תשובה: שולחים יותר כוח לגלגל החיצוני בסיבוב כדי לעזור לרכב להסתובב.  
   _Sending more force to the outer wheel in a turn to help the car rotate._
@@ -834,7 +834,7 @@ _Why can you stop pedalling while the bike wheel keeps turning?_
 **#102 [רב-ברירה]** מה הרעש "טיק-טיק-טיק" כשאופניים נוסעים בלי דיווש?  
 _What is the tick-tick sound when coasting a bike?_
 - ✅ לשוניות קופצות על שיניים
-- השרשרת משתפשפת במסגרת
+- השרשרת משתפשפת במסגרת כשאין עליה מתח
 - אוויר יוצא מהצמיג
 - תשובה: הלשוניות קופצות מעל השיניים של הראצ׳ט בגלגל האחורי.  
   _The pawls clicking over the ratchet teeth in the rear hub._
@@ -858,7 +858,7 @@ _Advantage of a roller clutch over a pawl ratchet?_
 **#105 [רב-ברירה]** מה זה מצמד ספראג (Sprag Clutch)?  
 _What is a sprag clutch?_
 - ✅ חלקים שמתהפכים ונתקעים בין טבעות
-- סוג של בורג שננעל בדבק
+- סוג של בורג שננעל בדבק כשמהדקים אותו
 - מצמד חשמלי עם סליל נחושת
 - תשובה: חלקים קטנים מעוצבים (Sprags) שמתהפכים ונתקעים בין שתי טבעות בכיוון אחד.  
   _Small shaped pieces (sprags) that tilt and jam between two rings in one direction._
@@ -866,7 +866,7 @@ _What is a sprag clutch?_
 **#106 [רב-ברירה]** איפה יש מצמד חד-כיווני במנוע רכב?  
 _Where is a one-way clutch in a car engine?_
 - ✅ במתנע, כדי שהמנוע לא יסובב אותו
-- בהגה, כדי שלא יסתובב לבד
+- בהגה, כדי שלא יסתובב לבד כשהרכב בנסיעה
 - בדלת, כדי שלא תיפתח
 - תשובה: במתנע (Starter): הוא מסובב את המנוע, וכשהמנוע מתניע ומסתובב מהר – המצמד משתחרר כדי לא לסובב את המתנע.  
   _In the starter: it cranks the engine, and once the engine runs faster it lets go so the starter is not spun._
@@ -874,7 +874,7 @@ _Where is a one-way clutch in a car engine?_
 **#107 [רב-ברירה]** איפה עוד משתמשים בראצ׳ט בחיים?  
 _Where else are ratchets used?_
 - ✅ רצועת קשירה, אזיקון, חגורת בטיחות
-- רק במפתחות של מכונאים
+- רק במפתחות של מכונאים ובכלים מקצועיים
 - רק במכוניות מירוץ
 - תשובה: רצועת קשירה (Ratchet Strap), מנוף ידני, אזיקון, וגלגל של חגורת בטיחות.  
   _Ratchet straps, hand winches, cable ties, and seat-belt reels._
@@ -882,7 +882,7 @@ _Where else are ratchets used?_
 **#108 [רב-ברירה]** איך אזיקון (Cable Tie) הוא ראצ׳ט?  
 _How is a cable tie a ratchet?_
 - ✅ שיניים ולשונית שנותנת רק להדק
-- דבק שמתייבש אחרי שסוגרים
+- דבק שמתייבש כמה שניות אחרי שסוגרים אותו
 - מגנט קטן שמחזיק את הקצה
 - תשובה: יש לו שיניים לאורך, ולשונית קטנה בראש שנותנת להדק אבל לא לשחרר.  
   _It has teeth along it and a small pawl in the head that lets it tighten but not loosen._
@@ -890,7 +890,7 @@ _How is a cable tie a ratchet?_
 **#109 [רב-ברירה]** מה הסכנה אם ראצ׳ט של מנוף נשבר תחת משקל?  
 _Danger if a winch ratchet fails under load?_
 - ✅ המשקל נופל והידית מסתובבת בכוח
-- המנוף פשוט נעצר במקום
+- המנוף פשוט נעצר במקום והמשקל נשאר תלוי
 - שום סכנה, הכבל יחזיק
 - תשובה: המשקל נופל והידית יכולה להסתובב אחורה בכוח. לכן יש גם בלם נוסף.  
   _The load drops and the handle can spin back violently. So a second brake is added._
@@ -908,7 +908,7 @@ _How many pawls in a quality bike hub, and why?_
 **#111 [רב-ברירה]** מה תפקיד הקפיץ שלוחץ על הלשונית?  
 _What does the spring on the pawl do?_
 - ✅ דוחף את הלשונית אל השיניים
-- מסובב את הגלגל קדימה לבד
+- מסובב את הגלגל קדימה לבד אחרי כל לחיצה
 - מוריד את הרעש של הראצ׳ט
 - תשובה: דוחף את הלשונית תמיד אל השיניים, כדי שתתפוס מיד כשמסובבים אחורה.  
   _Keeps pushing the pawl into the teeth so it catches at once when turned backward._
@@ -932,7 +932,7 @@ _What is spring rate?_
 **#114 [רב-ברירה]** מה קורה לקפיץ שנלחץ יותר מדי (מעבר לגבול)?  
 _What happens to a spring squeezed past its limit?_
 - ✅ מתעוות ולא חוזר לאורך
-- נעשה קשיח יותר לתמיד
+- נעשה קשיח יותר לתמיד ודוחף חזק יותר
 - שום דבר, תמיד חוזר
 - תשובה: הוא מתעוות לצמיתות ולא חוזר לאורך שלו. אומרים שהוא "התיישב" (Set).  
   _It permanently deforms and does not return to length – it "takes a set"._
@@ -956,7 +956,7 @@ _What are strong springs usually made of?_
 **#117 [רב-ברירה]** למה קפיץ יכול להישבר אחרי מיליון לחיצות?  
 _Why can a spring break after a million cycles?_
 - ✅ עייפות – סדק שגדל בכל לחיצה
-- הוא נמס מהחום של הידיים
+- הוא נמס בהדרגה מהחום של הידיים והחיכוך
 - הוא מתכווץ מקור בלילה
 - תשובה: עייפות (Fatigue): סדק זעיר גדל בכל לחיצה עד שהקפיץ נשבר.  
   _Fatigue: a tiny crack grows with each cycle until it snaps._
@@ -972,7 +972,7 @@ _What is a torsion spring?_
 **#119 [רב-ברירה]** למה לא שמים קפיץ חזק מאוד על הלשונית?  
 _Why not use a very strong pawl spring?_
 - ✅ שחיקה ומאמץ גדולים בסיבוב קדימה
-- הראצ׳ט יסתובב בשני הכיוונים
+- הראצ׳ט יסתובב בחופשיות בשני הכיוונים
 - הקפיץ יחליד מהר יותר
 - תשובה: הלשונית תשתפשף חזק על השיניים בכל סיבוב קדימה – יותר שחיקה ויותר כוח מהיד.  
   _The pawl would rub hard over the teeth on every forward turn – more wear and more hand effort._
@@ -980,7 +980,7 @@ _Why not use a very strong pawl spring?_
 **#120 [רב-ברירה]** מה זה דיסקית קפיץ (Belleville Washer)?  
 _What is a Belleville washer?_
 - ✅ דיסקית בצורת צלחת שהיא קפיץ
-- דיסקית שטוחה לגמרי מפלסטיק
+- דיסקית שטוחה מפלסטיק שמונעת שריטות במשטח
 - אטם גומי לשמן
 - תשובה: דיסקית בצורת צלחת הפוכה שעובדת כקפיץ חזק וקצר מאוד. נפוצה במצמדים.  
   _A dished washer that acts as a very short, strong spring. Common in clutches._
@@ -998,7 +998,7 @@ _Why are the pawl and teeth hardened steel?_
 **#122 [רב-ברירה]** מה קורה כשקצה הלשונית מתעגל משחיקה?  
 _What if the pawl tip rounds off from wear?_
 - ✅ הראצ׳ט עלול לקפוץ אחורה
-- הראצ׳ט נהיה שקט יותר
+- הראצ׳ט נהיה שקט יותר ומסתובב חלק יותר
 - הראצ׳ט מסתובב מהר יותר
 - תשובה: היא יכולה להחליק מעל השן בכוח גבוה – הראצ׳ט "קופץ" אחורה.  
   _It can slip over the tooth under high force – the ratchet "skips" back._
@@ -1006,7 +1006,7 @@ _What if the pawl tip rounds off from wear?_
 **#123 [רב-ברירה]** למה מפתחות טובים מצופים כרום (Chrome)?  
 _Why are good wrenches chrome-plated?_
 - ✅ מגן מחלודה וקל לניקוי
-- מכפיל את חוזק הפלדה
+- מכפיל את חוזק הפלדה ומונע שבירת השיניים
 - מוריד את משקל המפתח
 - תשובה: מגן מחלודה וקל לנקות. החוזק בא מהפלדה שמתחת, לא מהכרום.  
   _Protects from rust and is easy to clean. Strength comes from the steel below._
@@ -1030,7 +1030,7 @@ _Why are clutch balls steel, not plastic?_
 **#126 [רב-ברירה]** למה הכוח שבו המצמד מחליק משתנה אחרי שנים?  
 _Why does the clutch slip force change over years?_
 - ✅ שחיקה וקפיץ שמאבד כוח
-- הסוללה מתיישנת
+- הסוללה מתיישנת ונותנת פחות מתח למנוע
 - הצבע מתקלף
 - תשובה: הגומות נשחקות והקפיץ מאבד קצת כוח. לכן מכיילים מפתחות מומנט מחדש.  
   _The dimples wear and the spring loses some force. That is why torque wrenches are recalibrated._
@@ -1038,7 +1038,7 @@ _Why does the clutch slip force change over years?_
 **#127 [רב-ברירה]** איך שמן קל עוזר לראצ׳ט?  
 _How does light oil help a ratchet?_
 - ✅ מוריד חיכוך ומונע חלודה
-- נועל את הלשונית במקום
+- נועל את הלשונית במקום כדי שלא תקפוץ
 - מגדיל את כוח הקפיץ
 - תשובה: מוריד חיכוך ושחיקה ושומר מחלודה. לא שמים יותר מדי – זה מושך לכלוך.  
   _Cuts friction and wear and prevents rust. Not too much – it attracts dirt._
@@ -1046,7 +1046,7 @@ _How does light oil help a ratchet?_
 **#128 [רב-ברירה]** מה הבעיה עם גריז סמיך מאוד בראצ׳ט קר?  
 _Problem with very thick grease in a cold ratchet?_
 - ✅ הלשונית נדבקת ולא תופסת
-- הראצ׳ט מסתובב מהר מדי
+- הראצ׳ט מסתובב מהר מדי ומאבד את התפס
 - אין שום בעיה עם זה
 - תשובה: הלשונית יכולה להידבק ולא לקפוץ מהר לשן – הראצ׳ט לא תופס.  
   _The pawl can stick and not snap into the tooth – the ratchet fails to catch._
@@ -1054,7 +1054,7 @@ _Problem with very thick grease in a cold ratchet?_
 **#129 [רב-ברירה]** למה שן רחבה יותר עמידה יותר?  
 _Why is a wider tooth more durable?_
 - ✅ אותו כוח על שטח גדול יותר
-- שן רחבה עשויה מחומר אחר
+- שן רחבה עשויה תמיד מחומר קשה יותר
 - שן רחבה תמיד קצרה יותר
 - תשובה: אותו כוח מתחלק על שטח גדול יותר, אז הלחץ בכל נקודה קטן יותר.  
   _The same force spreads over more area, so the pressure at each point is lower._
@@ -1072,7 +1072,7 @@ _Strength vs hardness?_
 **#131 [רב-ברירה]** מה עושה מפתח מומנט (Torque Wrench) עם קליק?  
 _What does a click torque wrench do?_
 - ✅ מקליק כשמגיעים לכוח שנבחר
-- מסובב את הבורג לבד
+- מסובב את הבורג לבד עד שמגיע למומנט
 - מונע סיבוב לאחור בלבד
 - תשובה: כשמגיעים לכוח שנבחר, מנגנון קפיץ "קופץ" ומשמיע קליק. ככה יודעים לעצור.  
   _At the set force a spring mechanism trips and clicks, so you know to stop._
@@ -1096,7 +1096,7 @@ _100 Nm on a 0.5 m handle – how much hand force?_
 **#134 [רב-ברירה]** למה מחזירים מפתח מומנט עם קליק ל"אפס" אחרי שימוש?  
 _Why set a click torque wrench back to zero after use?_
 - ✅ כדי שהקפיץ לא יאבד כוח
-- כדי שלא יסתובב בארגז
+- כדי שהמנגנון לא יסתובב בארגז הכלים
 - כדי לחסוך בסוללה
 - תשובה: כדי שהקפיץ לא יישאר לחוץ שבועות ויאבד כוח – אחרת המדידה תהיה שגויה.  
   _So the spring is not left squeezed for weeks and lose force – otherwise readings drift._
@@ -1128,7 +1128,7 @@ _Click vs digital torque wrench?_
 **#138 [רב-ברירה]** מה זה הידוק בזווית (Torque-to-Angle)?  
 _What is torque-to-angle tightening?_
 - ✅ מומנט קטן ועוד זווית קבועה
-- מהדקים עד שהבורג נשבר
+- מהדקים עד שהבורג מתחיל להימתח ונשבר
 - מהדקים ביד בלי כלי
 - תשובה: מהדקים למומנט קטן, ואז מסובבים עוד זווית קבועה, למשל 90 מעלות. מדויק יותר במתיחת הבורג.  
   _Tighten to a small torque, then turn a set extra angle, e.g. 90°. It controls bolt stretch better._
@@ -1136,7 +1136,7 @@ _What is torque-to-angle tightening?_
 **#139 [רב-ברירה]** למה שמן על התבריג משנה את המומנט הנכון?  
 _Why does oil on the threads change the right torque?_
 - ✅ פחות חיכוך – הבורג נמתח יותר
-- השמן עושה את הבורג חלש
+- השמן מחליש את הפלדה של הבורג עם הזמן
 - אין לזה שום השפעה
 - תשובה: פחות חיכוך – אותו מומנט מותח את הבורג הרבה יותר. אפשר למתוח יותר מדי.  
   _Less friction – the same torque stretches the bolt much more. You can over-stretch it._
@@ -1144,7 +1144,7 @@ _Why does oil on the threads change the right torque?_
 **#140 [רב-ברירה]** מה בעצם "מחזיק" חיבור בורג?  
 _What actually holds a bolted joint?_
 - ✅ מתיחת הבורג שלוחצת את החלקים
-- רק החיכוך של הראש
+- רק החיכוך של הראש על המשטח העליון
 - דבק שנמצא בתוך התבריג
 - תשובה: הבורג נמתח קצת כמו קפיץ ולוחץ את החלקים יחד. המומנט הוא רק דרך למדוד את זה.  
   _The bolt stretches a little like a spring and clamps the parts. Torque is just a way to estimate that._
@@ -1154,7 +1154,7 @@ _What actually holds a bolted joint?_
 **#141 [רב-ברירה]** ראצ׳ט שמחליק אחורה מדי פעם. מה כנראה הבעיה?  
 _A ratchet that occasionally slips back – likely problem?_
 - ✅ לשונית שחוקה, קפיץ חלש או לכלוך
-- ידית ארוכה מדי
+- ידית ארוכה מדי שמעמיסה יותר מדי על השיניים
 - בורג קטן מדי
 - תשובה: לשונית שחוקה, קפיץ חלש, או לכלוך שמונע מהלשונית להיכנס עד הסוף.  
   _A worn pawl, weak spring, or dirt stopping the pawl seating fully._
@@ -1162,7 +1162,7 @@ _A ratchet that occasionally slips back – likely problem?_
 **#142 [רב-ברירה]** למה אסור להאריך ידית ראצ׳ט עם צינור?  
 _Why not extend a ratchet handle with a pipe?_
 - ✅ השיניים עלולות להישבר ולפגוע
-- הצינור יעשה את המפתח קל
+- הצינור יעשה את המפתח קל מדי לשליטה
 - זה מותר תמיד בלי בעיה
 - תשובה: המומנט גדל פי כמה והלשונית או השיניים יכולים להישבר. הידית תטוס והיד תיפגע.  
   _Torque multiplies and the pawl or teeth can break. The handle flies and hurts your hand._
@@ -1170,7 +1170,7 @@ _Why not extend a ratchet handle with a pipe?_
 **#143 [רב-ברירה]** מה כדאי להשתמש בו לברגים תקועים במקום ראצ׳ט?  
 _What to use on stuck bolts instead of a ratchet?_
 - ✅ ידית שבירה בלי לשונית
-- מברג קטן מפלסטיק
+- מברג קטן עם ידית פלסטיק רחבה
 - פטיש על הראצ׳ט
 - תשובה: ידית שבירה (Breaker Bar) בלי מנגנון ראצ׳ט – חזקה יותר כי אין לשונית שיכולה להישבר.  
   _A breaker bar with no ratchet mechanism – stronger, as there is no pawl to break._
@@ -1178,7 +1178,7 @@ _What to use on stuck bolts instead of a ratchet?_
 **#144 [רב-ברירה]** מצמד של מברגה שלא מחליק בכלל, גם במספר נמוך. מה הסכנה?  
 _Drill clutch never slips, even on low. Danger?_
 - ✅ בורג שבור ויד שמסתובבת
-- הסוללה תיטען מהר מדי
+- הסוללה תתרוקן מהר מדי ותתחמם בטעינה
 - אין סכנה בכלל
 - תשובה: הבורג יכול להיכנס עמוק מדי או להישבר, והמברגה יכולה לסובב את היד.  
   _The screw can sink too deep or snap, and the drill can twist your wrist._
@@ -1186,7 +1186,7 @@ _Drill clutch never slips, even on low. Danger?_
 **#145 [רב-ברירה]** למה במנופים יש גם ראצ׳ט וגם בלם?  
 _Why do winches have both a ratchet and a brake?_
 - ✅ אם אחד נכשל השני מחזיק
-- כדי שיהיה מהיר יותר
+- כדי שההרמה תהיה מהירה יותר בעומס כבד
 - כדי שיהיה שקט יותר
 - תשובה: כפילות (Redundancy): אם חלק אחד נכשל, השני מחזיק את המשקל.  
   _Redundancy: if one fails, the other still holds the load._
@@ -1202,7 +1202,7 @@ _What is fail-safe design?_
 **#147 [רב-ברירה]** למה חגורת בטיחות ננעלת רק במשיכה חזקה ולא איטית?  
 _Why does a seat belt lock only on a sharp pull?_
 - ✅ משיכה מהירה מפעילה תפס
-- החגורה תמיד נעולה
+- החגורה נעולה תמיד ונפתחת רק בלחיצה
 - חיישן חשמלי בלבד
 - תשובה: משקולת או גלגל קטן "נזרק" החוצה במשיכה מהירה ותופס את הראצ׳ט. משיכה איטית לא מפעילה אותו.  
   _A small weight or wheel flies out on a fast pull and catches the ratchet. A slow pull does not trigger it._
@@ -1210,7 +1210,7 @@ _Why does a seat belt lock only on a sharp pull?_
 **#148 [רב-ברירה]** המברגה מחליקה מוקדם מדי גם במספר גבוה. מה לבדוק?  
 _Drill slips too early even on a high setting. Check what?_
 - ✅ קפיץ חלש או גומות שחוקות
-- ידית ארוכה מדי
+- ידית ארוכה מדי או מקדח חדש מדי
 - מקדח חדש מדי
 - תשובה: קפיץ המצמד חלש או גומות שחוקות. אפשר גם שהמצב הוא "מקדחה" לא מוגדר נכון.  
   _A weak clutch spring or worn dimples. Also check the setting is not mis-set._
@@ -1218,7 +1218,7 @@ _Drill slips too early even on a high setting. Check what?_
 **#149 [רב-ברירה]** למה משקפי מגן כשמשחררים קפיץ חזק?  
 _Why safety glasses when releasing a strong spring?_
 - ✅ קפיץ אוגר אנרגיה ויכול לעוף
-- האור בסדנה חזק מדי
+- האור בסדנה חזק מדי ומסנוור את העיניים
 - זה רק נוהל של חברות
 - תשובה: קפיץ לחוץ אוגר אנרגיה. אם הוא בורח, הוא או חלקים קטנים יכולים לעוף לעיניים.  
   _A compressed spring stores energy. If it escapes, it or small parts can fly into the eyes._
@@ -1227,7 +1227,7 @@ _Why safety glasses when releasing a strong spring?_
 _Interview: "How would you design a ratchet not to fail?"_
 - ✅ מוקשחת, כמה לשוניות ובדיקות
 - רק לבחור צבע בולט
-- להקטין אותו כמה שאפשר
+- להקטין אותו כמה שאפשר ולחסוך במשקל
 - תשובה: פלדה מוקשחת, כמה לשוניות שחולקות כוח, מקדם ביטחון, ובדיקות חיים עם עומס יתר.  
   _Hardened steel, several pawls sharing load, a safety factor, and life tests with overload._
 
@@ -1236,7 +1236,7 @@ _Interview: "How would you design a ratchet not to fail?"_
 **#151 [רב-ברירה]** מה זה מפרק הומוקינטי (CV Joint – Constant Velocity)?  
 _What is a CV joint?_
 - ✅ מעביר סיבוב בזווית במהירות אחידה
-- מפרק קרדן עם צלב גדול יותר
+- מפרק קרדן רגיל עם צלב גדול וחזק יותר
 - מפרק שעובד רק בקו ישר
 - תשובה: מפרק שמעביר סיבוב בזווית במהירות אחידה לגמרי – בלי ההאצה וההאטה של קרדן.  
   _A joint that passes rotation at an angle at perfectly even speed – no speed-up and slow-down like a U-joint._
@@ -1244,7 +1244,7 @@ _What is a CV joint?_
 **#152 [רב-ברירה]** איפה יש מפרקים הומוקינטיים ברכב עם הנעה קדמית?  
 _Where are CV joints in a front-wheel-drive car?_
 - ✅ בשני קצוות של כל גל קדמי
-- רק בהגה של הרכב
+- רק בתוך עמוד ההגה מתחת ללוח המחוונים
 - רק בגל האחורי הארוך
 - תשובה: בשני הקצוות של כל גל הנעה קדמי – ליד תיבת ההילוכים וליד הגלגל.  
   _At both ends of each front driveshaft – by the gearbox and by the wheel._
@@ -1252,7 +1252,7 @@ _Where are CV joints in a front-wheel-drive car?_
 **#153 [רב-ברירה]** למה בגלגל קדמי מניע לא מספיק קרדן רגיל?  
 _Why is a plain U-joint not enough at a driven front wheel?_
 - ✅ זווית ההגה גדולה מדי לקרדן
-- קרדן כבד מדי לרכב קטן
+- קרדן כבד מדי ולא נכנס ברכב קטן
 - קרדן לא יכול להסתובב מהר
 - תשובה: הגלגל מסתובב בהגה בזווית גדולה, עד 45 מעלות. קרדן בזווית כזאת רועד מאוד.  
   _The wheel steers at big angles, up to about 45°. A U-joint at that angle shakes badly._
@@ -1260,7 +1260,7 @@ _Why is a plain U-joint not enough at a driven front wheel?_
 **#154 [רב-ברירה]** מה זה מפרק רצפה (Rzeppa)?  
 _What is a Rzeppa joint?_
 - ✅ מפרק עם 6 כדורים במסלולים
-- מפרק עם צלב ו-4 מסבים
+- מפרק עם צלב וארבעה מסבי מחטים
 - מפרק גומי פשוט
 - תשובה: מפרק הומוקינטי עם 6 כדורים בתוך מסלולים, שמחזיקים את שני הצדדים באותה זווית.  
   _A CV joint with 6 balls in grooves that keep both halves at matching angles._
@@ -1292,7 +1292,7 @@ _Classic sign of a worn outer CV joint?_
 **#158 [רב-ברירה]** מה תפקיד כיסוי הגומי (CV Boot)?  
 _What does the rubber CV boot do?_
 - ✅ שומר גריז בפנים ולכלוך בחוץ
-- מחזיק את המפרק שלא יזוז
+- מחזיק את המפרק שלא יזוז מהמקום בנסיעה
 - מבודד את הרעש מהמנוע
 - תשובה: שומר את הגריז בפנים ואבק ומים בחוץ. כיסוי קרוע = המפרק נהרס בקרוב.  
   _Keeps grease in and dust and water out. A torn boot means the joint will soon fail._
@@ -1300,7 +1300,7 @@ _What does the rubber CV boot do?_
 **#159 [רב-ברירה]** למה הכיסוי בצורת אקורדיון?  
 _Why is the boot shaped like an accordion?_
 - ✅ להתכופף ולהימתח בלי להיקרע
-- כדי להיראות יפה יותר
+- כדי להחזיק יותר גריז ולשמן לאורך זמן
 - כדי להחזיק יותר גריז
 - תשובה: כדי להתכופף ולהימתח עם הזווית והאורך של הגל בלי להיקרע.  
   _So it can bend and stretch with the shaft angle and length without tearing._
@@ -1319,14 +1319,14 @@ _Why do many rear-drive cars still use U-joints?_
 _Why is a driveshaft a hollow tube, not a solid bar?_
 - ✅ כמעט חזק כמו מלא וקל בהרבה
 - כי קל יותר לצבוע אותו
-- כדי שיעבור שמן בפנים
+- כדי שיוכל לעבור שמן בפנים ולשמן את המסבים
 - תשובה: צינור חלול כמעט חזק כמו מוט מלא בפיתול, אבל קל בהרבה.  
   _A hollow tube is nearly as strong in twisting as a solid bar, but much lighter._
 
 **#162 [רב-ברירה]** מה זה איזון (Balancing) של גל הינע?  
 _What is driveshaft balancing?_
 - ✅ משקולות שמשווים את המשקל
-- בדיקה שהגל ישר לגמרי
+- בדיקה שהגל ישר לגמרי לכל אורכו
 - הוספת שמן לגל
 - תשובה: מוסיפים משקולות קטנות כדי שהמשקל יהיה שווה סביב הציר, ולא תהיה רעידה.  
   _Small weights are added so mass is even around the axis, with no vibration._
@@ -1335,14 +1335,14 @@ _What is driveshaft balancing?_
 _What is the critical speed of a shaft?_
 - ✅ מהירות שבה הגל מתכופף ורועד
 - המהירות המרבית של המנוע
-- המהירות שבה השמן רותח
+- המהירות שבה השמן בתוך הגל מתחיל לרתוח
 - תשובה: מהירות שבה הגל מתחיל "לקפוץ" ולהתכופף כמו חבל קפיצה. חייבים להישאר רחוק ממנה.  
   _A speed where the shaft starts to whirl and bow like a skipping rope. You must stay well away from it._
 
 **#164 [רב-ברירה]** למה גל ארוך מאוד מחולק לשניים עם מסב באמצע?  
 _Why split a very long shaft in two with a centre bearing?_
 - ✅ גל ארוך מגיע למהירות קריטית
-- כדי שיהיה קל לייצר צבע
+- כדי שיהיה קל יותר לייצר ולצבוע אותו
 - כדי להוסיף עוד כוח
 - תשובה: גל ארוך ודק מגיע למהירות קריטית מוקדם. שני גלים קצרים בטוחים יותר.  
   _A long, thin shaft hits critical speed early. Two short shafts are safer._
@@ -1350,7 +1350,7 @@ _Why split a very long shaft in two with a centre bearing?_
 **#165 [רב-ברירה]** למה יש גלי הינע מסיבי פחמן (Carbon Fibre)?  
 _Why are there carbon-fibre driveshafts?_
 - ✅ קלים וקשיחים – גל אחד ארוך
-- זולים יותר מפלדה תמיד
+- זולים יותר מפלדה ונוחים יותר לתיקון
 - מעבירים חשמל טוב
 - תשובה: קלים וקשיחים מאוד, אז אפשר גל אחד ארוך בלי מסב אמצעי.  
   _Very light and stiff, so one long shaft works without a centre bearing._
@@ -1366,7 +1366,7 @@ _What does the splined slip yoke do?_
 **#167 [רב-ברירה]** מה קורה אם משקולת איזון נופלת מהגל?  
 _What if a balance weight falls off the shaft?_
 - ✅ רעידה ברצפה במהירות גבוהה
-- הרכב לא יזוז בכלל
+- הרכב לא יזוז בכלל עד שמחזירים אותה
 - רעש רק בסיבובים
 - תשובה: רעידה שמורגשת ברצפה, ובעיקר במהירות גבוהה.  
   _Vibration felt through the floor, mostly at high speed._
@@ -1390,7 +1390,7 @@ _A shaft at 3,000 rpm – turns per second?_
 **#170 [רב-ברירה]** מה זה מסב תלוי (Center Support Bearing)?  
 _What is a centre support bearing?_
 - ✅ מסב בגומי שמחזיק את אמצע הגל
-- מסב בתוך הגלגל הקדמי
+- מסב בתוך הגלגל הקדמי שתומך בגל
 - מסב בתוך המנוע
 - תשובה: מסב בגומי שמחובר לרצפת הרכב ומחזיק את אמצע גל ארוך.  
   _A rubber-mounted bearing bolted to the car floor that holds the middle of a long shaft._
@@ -1408,7 +1408,7 @@ _What bearings are inside the U-joint caps?_
 **#172 [רב-ברירה]** למה מסבי המחטים בקרדן נשחקים בצורה מיוחדת?  
 _Why do U-joint needle bearings wear in a special way?_
 - ✅ רק מתנדנדים – הגריז נדחק ונוצרים שקעים
-- הם מסתובבים מהר מדי ונשרפים
+- הם מסתובבים מהר מדי ונשרפים מחום
 - הם עשויים מפלסטיק רך
 - תשובה: הם רק מתנדנדים הלוך ושוב ולא מסתובבים סיבוב שלם, אז הגריז נדחק החוצה ונוצרים שקעים (Brinelling).  
   _They only rock back and forth, never a full turn, so grease gets squeezed out and dents form (brinelling)._
@@ -1424,7 +1424,7 @@ _What is a grease nipple?_
 **#174 [רב-ברירה]** למה במכוניות חדשות אין פטמת גריז בקרדן?  
 _Why do new cars have no grease nipple on U-joints?_
 - ✅ אטומים עם גריז לכל החיים
-- הם לא צריכים גריז בכלל
+- הם לא צריכים גריז בכלל כי הם מפלדה קשה
 - כדי שיהיו זולים לתיקון
 - תשובה: המפרקים אטומים וממולאים בגריז לכל החיים. פחות תחזוקה, אבל אי אפשר להוסיף.  
   _They are sealed and filled for life. Less maintenance, but you cannot add more._
@@ -1433,14 +1433,14 @@ _Why do new cars have no grease nipple on U-joints?_
 _How much grease into a U-joint with a nipple?_
 - ✅ עד שגריז נקי יוצא מכל הכוסות
 - כמה שיותר, עד שהוא מתפוצץ
-- טיפה אחת בלבד
+- טיפה אחת בלבד כדי לא לפגוע באטמים
 - תשובה: עד שרואים גריז נקי יוצא מכל ארבע הכוסות.  
   _Until clean grease appears from all four caps._
 
 **#176 [רב-ברירה]** למה מים בגריז הורסים מסבים?  
 _Why does water in grease ruin bearings?_
 - ✅ חלודה ומתכת שנוגעת במתכת
-- הגריז נהיה סמיך מדי
+- הגריז נהיה סמיך מדי ולא מגיע למחטים
 - מים מקררים יותר מדי
 - תשובה: מים גורמים לחלודה ומחלישים את שכבת הגריז, אז המתכת נוגעת במתכת.  
   _Water causes rust and weakens the grease film, so metal touches metal._
@@ -1448,7 +1448,7 @@ _Why does water in grease ruin bearings?_
 **#177 [רב-ברירה]** מה ההבדל בין גריז לשמן?  
 _Grease vs oil?_
 - ✅ גריז הוא שמן מעובה שנשאר במקום
-- גריז הוא מים עם סבון
+- גריז הוא מים עם סבון שמחזיקים את הלכלוך
 - אין שום הבדל
 - תשובה: גריז הוא שמן עם חומר מעבה, אז הוא נשאר במקום ולא זורם החוצה.  
   _Grease is oil with a thickener, so it stays put instead of running out._
@@ -1456,7 +1456,7 @@ _Grease vs oil?_
 **#178 [רב-ברירה]** למה אסור לערבב סוגי גריז שונים?  
 _Why not mix different grease types?_
 - ✅ המעבים לא מתאימים והגריז מתפרק
-- הצבע ייראה מוזר
+- הצבע של הגריז ייראה מוזר וקשה לבדיקה
 - זה עולה יותר כסף
 - תשובה: המעבים יכולים לא להתאים, והגריז נעשה נוזלי או מתפרק ומפסיק להגן.  
   _The thickeners may clash, so the grease turns runny or breaks down and stops protecting._
@@ -1464,7 +1464,7 @@ _Why not mix different grease types?_
 **#179 [רב-ברירה]** מה זה טבעת נעילה (Circlip) בקרדן?  
 _What is a circlip on a U-joint?_
 - ✅ טבעת שמחזיקה את הכוסות
-- אטם שומר שמן
+- אטם שומר שמן בין הצלב לכוסות
 - משקולת לאיזון
 - תשובה: טבעת קפיצית שנכנסת לחריץ ומחזיקה את הכוסות שלא ייצאו החוצה.  
   _A springy ring that snaps into a groove and keeps the caps from coming out._
@@ -1472,7 +1472,7 @@ _What is a circlip on a U-joint?_
 **#180 [רב-ברירה]** קרדן חורק ומקיש בהתחלת נסיעה. מה הסיבה הסבירה?  
 _U-joint squeaks and clunks when pulling away – likely cause?_
 - ✅ מסבים יבשים ורווח בצלב
-- גל חדש מדי
+- גל חדש מדי שעוד לא התרגל לעומס
 - צמיגים מנופחים מדי
 - תשובה: מסבי המחטים יבשים ושחוקים, ויש רווח בצלב.  
   _The needle bearings are dry and worn, and the cross has play._
@@ -1482,7 +1482,7 @@ _U-joint squeaks and clunks when pulling away – likely cause?_
 **#181 [רב-ברירה]** רעידה שמופיעה בתאוצה ונעלמת בשיוט. מה חשוד?  
 _Vibration on acceleration that goes away when cruising – suspect?_
 - ✅ זוויות מפרקים או מפרק שחוק
-- צמיג שחוק בצד אחד
+- צמיג שחוק בצד אחד שמרעיד בעיקר בתאוצה
 - מראה שזזה ברוח
 - תשובה: זווית מפרקים שגויה או מפרק שחוק – הבעיה גדלה כשיש כוח גדול.  
   _Wrong joint angles or a worn joint – it grows when force is high._
@@ -1490,7 +1490,7 @@ _Vibration on acceleration that goes away when cruising – suspect?_
 **#182 [רב-ברירה]** הורידו את הרכב (Lowering) ועכשיו יש רעידה. למה?  
 _Car was lowered, now it vibrates. Why?_
 - ✅ זוויות המפרקים השתנו
-- הרכב קל יותר עכשיו
+- הרכב קל יותר עכשיו ולכן קופץ יותר
 - השמן התקרר
 - תשובה: זוויות הגל והמפרקים השתנו. אולי כבר לא שוות בשני הצדדים, או גדולות מדי.  
   _Shaft and joint angles changed. They may no longer be equal at both ends, or are too big._
@@ -1498,7 +1498,7 @@ _Car was lowered, now it vibrates. Why?_
 **#183 [רב-ברירה]** מה זה ספקטרום רעידות (Vibration Analysis) בתעשייה?  
 _What is vibration analysis in industry?_
 - ✅ מוצאים מקור לפי תדר הרעידה
-- בודקים רק את הצבע
+- בודקים את המכונה לפי הצבע והחום שלה
 - שוקלים את המכונה
 - תשובה: מודדים רעידות בחיישן ומוצאים מאיזה חלק הן באות לפי התדר – לפני שמשהו נשבר.  
   _Measure vibration with a sensor and find the source by frequency – before something breaks._
@@ -2370,7 +2370,7 @@ _Two minutes: design a device to lift 50 kg one metre._
 **#295 [רב-ברירה]** מה התפקיד של רצועה (Belt) במכונה?  
 _What does a belt do in a machine?_
 - ✅ מעבירה סיבוב בין צירים מרוחקים
-- נועלת את הציר כשהמכונה כבויה בתנאי עבודה רגילים
+- נועלת את הציר כשהמכונה כבויה
 - מגבירה את ההספק שהמנוע מייצר
 - תשובה: מעבירה סיבוב בין שני צירים רחוקים, בשקט ובזול.  
   _Transfers rotation between distant shafts, quietly and cheaply._
@@ -2387,7 +2387,7 @@ _Why does a timing belt have teeth?_
 _Advantage of a V-belt over a flat belt?_
 - ✅ אחיזה טובה יותר בגלל צורת הטריז
 - מהירות מקסימלית גבוהה בהרבה
-- לא צריכה מתיחה בכלל לעולם לאורך זמן
+- לא צריכה מתיחה בכלל לעולם
 - תשובה: הצורה נתקעת בחריץ ונותנת אחיזה חזקה יותר באותו מתח.  
   _The wedge shape grips the groove harder at the same tension._
 
@@ -2427,7 +2427,7 @@ _Key belt advantage over gears under shock load?_
 _Why avoid a very small small pulley?_
 - ✅ כיפוף חד מעייף את הרצועה
 - הגלגלת תסתובב לאט מדי
-- הרצועה תתחמם פחות מדי לאורך זמן
+- הרצועה תתחמם פחות מדי
 - תשובה: הרצועה מתכופפת חזק מדי ומתעייפת, ויש מעט שטח מגע אז היא מחליקה.  
   _The belt bends too sharply and fatigues, and the small contact area slips._
 
@@ -2479,14 +2479,14 @@ _Why do bikes use a chain, not a plain belt?_
 _What is a sprocket?_
 - ✅ גלגל ששיני השרשרת נכנסות בו
 - קפיץ שמותח את השרשרת
-- מסב שמחזיק את ציר השרשרת בתנאי עבודה רגילים
+- מסב שמחזיק את ציר השרשרת
 - תשובה: גלגל עם שיניים שהחוליות של השרשרת נכנסות ביניהן.  
   _A toothed wheel whose teeth fit between the chain links._
 
 **#310 [רב-ברירה]** למה שרשרת צריכה שימון?  
 _Why does a chain need lubrication?_
 - ✅ למנוע שחיקה בפינים ובתותבים
-- כדי שתיראה מבריקה ונקייה ברוב המכונות
+- כדי שתיראה מבריקה ונקייה
 - כדי שתחליק על גלגל השיניים
 - תשובה: הפינים והתותבים בתוך כל חוליה מתחככים; בלי שמן הם נשחקים והשרשרת מתארכת.  
   _Pins and bushings inside each link rub; without oil they wear and the chain stretches._
@@ -2494,7 +2494,7 @@ _Why does a chain need lubrication?_
 **#311 [רב-ברירה]** מה המשמעות של "שרשרת מתארכת" (Chain Stretch)?  
 _What does "chain stretch" mean?_
 - ✅ שחיקה בפינים מגדילה את המרווח
-- הפלדה עצמה נמתחת כמו גומי בתנאי עבודה רגילים
+- הפלדה עצמה נמתחת כמו גומי
 - מוסיפים לה חוליות מעצמה
 - תשובה: המתכת לא נמתחת – הפינים והחורים נשחקים, ולכן המרווח בין החוליות גדל.  
   _The metal doesn't stretch – pins and holes wear, so link spacing grows._
@@ -2595,7 +2595,7 @@ _Which bearing suits combined axial and radial load, like a car wheel?_
 _When pick a bushing over a ball bearing?_
 - ✅ מהירות נמוכה, מקום צר, מחיר נמוך
 - כשצריך מהירות סיבוב גבוהה מאוד
-- כשאסור שיהיה שום חיכוך לאורך זמן בתנאי עבודה רגילים
+- כשאסור שיהיה שום חיכוך
 - תשובה: במהירות נמוכה, עומס מכות, מקום צר או מחיר נמוך.  
   _At low speed, shock loads, tight space or low cost._
 
@@ -2610,7 +2610,7 @@ _Signs a bearing is starting to fail?_
 **#326 [רב-ברירה]** למה מסבים מגיעים לפעמים עם אטמים (Seals / 2RS)?  
 _Why do bearings come with seals (2RS)?_
 - ✅ לשמור גריז בפנים ולכלוך בחוץ
-- להגדיל את המהירות המקסימלית בתנאי עבודה רגילים
+- להגדיל את המהירות המקסימלית
 - להוריד את משקל המסב
 - תשובה: לשמור את הגריז בפנים ואת הלכלוך והמים בחוץ.  
   _Keep grease in and dirt and water out._
@@ -2627,7 +2627,7 @@ _Why are needle bearings popular in small gearboxes?_
 _Most common cause of early bearing failure?_
 - ✅ שימון לקוי וזיהום
 - צבע לא מתאים על הבית
-- מהירות נמוכה מדי לאורך זמן
+- מהירות נמוכה מדי
 - תשובה: שימון לא נכון וזיהום (לכלוך או מים), ואחריהם התקנה לא נכונה.  
   _Poor lubrication and contamination, then bad installation._
 
@@ -2670,7 +2670,7 @@ _What is a friction coefficient?_
 **#334 [רב-ברירה]** מה ההבדל בין חיכוך סטטי (Static) לחיכוך דינמי (Kinetic)?  
 _Static vs kinetic friction?_
 - ✅ סטטי להתחלה, בדרך כלל גדול יותר
-- דינמי להתחלה, תמיד גדול יותר בתנאי עבודה רגילים
+- דינמי להתחלה, תמיד גדול יותר
 - שניהם תמיד שווים בדיוק
 - תשובה: סטטי – כדי להתחיל לזוז; דינמי – בזמן תנועה. הסטטי בדרך כלל גדול יותר.  
   _Static – to start moving; kinetic – while moving. Static is usually larger._
@@ -2679,7 +2679,7 @@ _Static vs kinetic friction?_
 _Main difference between oil and grease?_
 - ✅ גריז הוא שמן מעובה שנשאר במקום
 - גריז לא מכיל שמן בכלל
-- שמן תמיד עמיד לחום יותר לאורך זמן
+- שמן תמיד עמיד לחום יותר
 - תשובה: גריז הוא שמן עם מעבה שמחזיק אותו במקום, כך שהוא לא נוזל החוצה.  
   _Grease is oil with a thickener that keeps it in place so it doesn't run out._
 
@@ -2719,7 +2719,7 @@ _Why is wear highest at engine start?_
 _Why not over-grease a fast bearing?_
 - ✅ הגריז נטחן ומחמם את המסב
 - המסב יסתובב מהר מדי
-- הגריז יהפוך לנוזל קר לאורך זמן
+- הגריז יהפוך לנוזל קר
 - תשובה: הגריז נטחן, מתחמם ומעלה את החום במסב.  
   _Excess grease churns and heats the bearing._
 
@@ -2786,7 +2786,7 @@ _Reduce speed in a gearbox – what happens to torque?_
 **#349 [רב-ברירה]** למה מעבירים הספק בציר מהיר ולא איטי כשאפשר?  
 _Why transmit power on a fast shaft when possible?_
 - ✅ מומנט נמוך – חלקים קטנים יותר
-- הספק גבוה יותר מאותו מנוע ברוב המכונות
+- הספק גבוה יותר מאותו מנוע
 - פחות רעש בכל מצב
 - תשובה: באותו הספק מהירות גבוהה יותר אומרת מומנט נמוך יותר – ציר וחלקים קטנים וקלים יותר.  
   _Same power at higher speed means lower torque – smaller, lighter shafts and parts._
@@ -2870,7 +2870,7 @@ _Job of the clutch in a manual car?_
 **#360 [רב-ברירה]** איך מצמד חיכוך (Friction Clutch) מעביר מומנט?  
 _How does a friction clutch transmit torque?_
 - ✅ קפיצים לוחצים דיסקית, החיכוך מעביר
-- שיניים נכנסות זו בזו בכוח ברוב המכונות
+- שיניים נכנסות זו בזו בכוח
 - שמן בלחץ דוחף את הציר
 - תשובה: קפיצים לוחצים דיסקית לגלגל התנופה, והחיכוך ביניהם מעביר את הסיבוב.  
   _Springs press a disc against the flywheel; friction carries the rotation._
@@ -2886,7 +2886,7 @@ _Why does a slipping clutch smell burnt?_
 **#362 [רב-ברירה]** מה ההבדל בין בלם דיסק (Disc Brake) לבלם תוף (Drum Brake)?  
 _Disc vs drum brake?_
 - ✅ דיסק מתקרר טוב יותר, תוף סגור
-- תוף תמיד חזק יותר מדיסק ברוב המכונות
+- תוף תמיד חזק יותר מדיסק
 - דיסק לא צריך רפידות כלל
 - תשובה: בדיסק הרפידות לוחצות על דיסקית חשופה – מתקרר טוב יותר; בתוף הנעליים לוחצות מבפנים.  
   _Disc pads squeeze an open rotor – cools better; drum shoes press inside a drum._
@@ -2903,7 +2903,7 @@ _What is brake fade?_
 _Where does a car's energy go in friction braking?_
 - ✅ לחום ברפידות ובדיסקים
 - חזרה לדלק במיכל
-- לקפיצי המתלים לאורך זמן
+- לקפיצי המתלים
 - תשובה: לחום ברפידות ובדיסקים.  
   _Into heat in pads and discs._
 
@@ -2911,7 +2911,7 @@ _Where does a car's energy go in friction braking?_
 _Dog clutch advantage over a friction clutch?_
 - ✅ לא מחליק, מומנט גדול בגודל קטן
 - משתלב חלק בכל הפרש מהירויות
-- לא מתבלה לעולם לאורך זמן בתנאי עבודה רגילים
+- לא מתבלה לעולם
 - תשובה: לא מחליק ומעביר מומנט גדול בגודל קטן – אבל צריך כמעט אותה מהירות כדי להשתלב.  
   _No slip and big torque in a small size – but needs near-matched speeds to engage._
 
@@ -3002,7 +3002,7 @@ _What is a shaft's critical speed?_
 **#377 [רב-ברירה]** ציר מסתובב עם כיפוף – איזה כשל הכי נפוץ?  
 _Rotating shaft under bending – most common failure?_
 - ✅ עייפות מכיפוף חוזר
-- התכה מחום חיכוך ברוב המכונות
+- התכה מחום חיכוך
 - חלודה בלבד
 - תשובה: עייפות (Fatigue): כל סיבוב מכופף אותו הלוך וחזור עד שנוצר סדק.  
   _Fatigue: every turn flexes it back and forth until a crack forms._
@@ -3071,7 +3071,7 @@ _What happens when a spring is compressed past its limit?_
 _Compression vs extension spring?_
 - ✅ לחיצה נגד כיווץ, משיכה נגד מתיחה
 - אותו דבר בשמות שונים
-- משיכה תמיד חזק יותר לאורך זמן בתנאי עבודה רגילים
+- משיכה תמיד חזק יותר
 - תשובה: לחיצה מתנגד לכיווץ; משיכה מתנגד למתיחה ויש לו ווים בקצוות.  
   _Compression resists squeezing; extension resists pulling and has end hooks._
 
@@ -3154,7 +3154,7 @@ _A product button feels too soft. What do you do?_
 **#397 [רב-ברירה]** מה מחזיק בעצם חיבור בורג ואום?  
 _What actually holds a bolted joint together?_
 - ✅ מתיחת הבורג והחיכוך בין החלקים
-- הברגות שנדבקות זו לזו בתנאי עבודה רגילים
+- הברגות שנדבקות זו לזו
 - הראש של הבורג בלבד
 - תשובה: המתיחה בבורג (Preload) לוחצת את החלקים, והחיכוך ביניהם מחזיק.  
   _Bolt tension (preload) clamps the parts and friction between them holds._
@@ -3187,7 +3187,7 @@ _Fine vs coarse thread?_
 _Why does a bolt loosen under vibration?_
 - ✅ תזוזות זעירות בהברגה בכל רעידה
 - הבורג מתכווץ מקור
-- האום מתרחב מלחץ בתנאי עבודה רגילים
+- האום מתרחב מלחץ
 - תשובה: תנועה זעירה בין ההברגות מורידה את החיכוך ומאפשרת סיבוב קטן בכל רעידה.  
   _Tiny slips in the threads let it rotate a bit with each vibration._
 
@@ -3203,7 +3203,7 @@ _How do you prevent bolt loosening?_
 _Why put a washer under a bolt head?_
 - ✅ מפזרת לחץ ומגינה על המשטח
 - מחליפה את הצורך באום
-- מקצרת את הבורג ברוב המכונות
+- מקצרת את הבורג
 - תשובה: מפזרת את הלחץ ומגינה על המשטח, במיוחד בחומר רך.  
   _Spreads pressure and protects the surface, especially in soft material._
 
@@ -3294,7 +3294,7 @@ _Why not make every tolerance very tight?_
 **#415 [רב-ברירה]** מה אומר H7/g6 בשרטוט?  
 _What does H7/g6 mean on a drawing?_
 - ✅ התאמה עם מרווח קטן ומדויק
-- התאמה בלחץ חזקה מאוד בתנאי עבודה רגילים
+- התאמה בלחץ חזקה מאוד
 - סוג של הברגה עדינה
 - תשובה: התאמה סטנדרטית לחור ולציר – כאן מרווח קטן מאוד, ציר מסתובב או מחליק בדיוק.  
   _A standard hole/shaft fit – here a small clearance, a precise sliding/running fit._
@@ -3302,7 +3302,7 @@ _What does H7/g6 mean on a drawing?_
 **#416 [רב-ברירה]** איך מכניסים גלגל בהתאמה בלחץ בלי להרוס אותו?  
 _How do you fit a press-fit gear without damage?_
 - ✅ מחממים את הגלגל או מקררים ציר
-- מכים חזק בפטיש על השיניים ברוב המכונות
+- מכים חזק בפטיש על השיניים
 - משחיזים את הציר עד שנכנס
 - תשובה: מחממים את הגלגל או מקררים את הציר, כך שהגדלים משתנים זמנית.  
   _Heat the gear or chill the shaft so sizes change temporarily._
@@ -3319,7 +3319,7 @@ _What is tolerance stack-up?_
 _What is geometric tolerancing (GD&T)?_
 - ✅ שליטה בצורה ובמיקום
 - שליטה בצבע ובגימור
-- שליטה רק על האורך ברוב המכונות
+- שליטה רק על האורך
 - תשובה: שליטה בצורה ובמיקום – לא רק במידה – למשל כמה עגול או ישר המשטח.  
   _Controlling form and position – not just size – e.g. how round or flat._
 
@@ -3363,14 +3363,14 @@ _Supplier parts won't assemble though each is "in tolerance". What do you do?_
 _Steel vs cast iron?_
 - ✅ ביציקה יותר פחמן והיא שבירה יותר
 - פלדה תמיד שבירה יותר
-- אין ביניהם הבדל כימי בתנאי עבודה רגילים
+- אין ביניהם הבדל כימי
 - תשובה: ביציקה יש הרבה יותר פחמן – קל ליציקה וטוב לבלוקים, אבל שביר יותר.  
   _Cast iron has much more carbon – easy to cast, good for blocks, but more brittle._
 
 **#425 [רב-ברירה]** למה אלומיניום (Aluminium) פופולרי בגופי כלים?  
 _Why is aluminium popular for tool housings?_
 - ✅ קל, נוח לעיבוד ומוליך חום
-- קשה וחזק יותר מכל פלדה ברוב המכונות
+- קשה וחזק יותר מכל פלדה
 - הזול ביותר מכל המתכות
 - תשובה: קל, קל לעיבוד, מוליך חום ולא מחליד כמו פלדה.  
   _Light, easy to machine, conducts heat and doesn't rust like steel._
@@ -3418,7 +3418,7 @@ _Same shape in aluminium and steel – which bends more?_
 **#431 [רב-ברירה]** למה ניילון (Nylon) או POM משמשים לגלגלי שיניים קטנים?  
 _Why nylon or POM for small gears?_
 - ✅ שקטים, קלים וזולים בכמות
-- חזקים יותר מפלדה לאורך זמן
+- חזקים יותר מפלדה
 - עמידים לכל טמפרטורה
 - תשובה: שקטים, קלים, זולים בייצור המוני ומחליקים בלי שמן רב.  
   _Quiet, light, cheap in mass production and self-lubricating._
@@ -3435,7 +3435,7 @@ _What is galvanic corrosion?_
 _Why doesn't stainless steel rust easily?_
 - ✅ כרום יוצר שכבה מגינה
 - היא מצופה בצבע שקוף
-- אין בה ברזל בכלל בתנאי עבודה רגילים
+- אין בה ברזל בכלל
 - תשובה: הכרום בה יוצר שכבת תחמוצת דקה שמגינה ומתחדשת.  
   _Its chromium forms a thin protective oxide layer that self-heals._
 
